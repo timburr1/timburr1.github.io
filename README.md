@@ -12,3 +12,7 @@ TODO:
 -add blogroll: ssc, popehat, xkcd, smbc
 
 -add link to github profile
+
+-podcast links
+
+-about: jekyll on ubuntu 14, etc.
