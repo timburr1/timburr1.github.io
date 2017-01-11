@@ -11,8 +11,6 @@ TODO:
 
 -add blogroll: ssc, popehat, nc, schnier on sec, hackerNews, xkcd, smbc, dino comics...
 
--add link to github profile, duolinguo
-
 -podcast links
 
 -about: markdown w/ jekyll on ubuntu 14, etc.
