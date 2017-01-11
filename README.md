@@ -5,8 +5,10 @@ TODO:
 
 -import from blogger http://import.jekyllrb.com/docs/blogger/
 
--re-organize: eurotrip, fiction, etc.
+-re-organize: eurotrip, fiction, OU talk...
 
 -deckbox links
 
 -add blogroll: ssc, popehat, xkcd, smbc
+
+-add link to github profile
