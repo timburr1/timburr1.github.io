@@ -10,3 +10,5 @@ TODO:
 -yourmorals.org
 
 -about: markdown w/ jekyll on ubuntu 16, etc.
+
+-rss feed?
