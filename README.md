@@ -7,10 +7,6 @@ TODO:
 
 -re-organize: eurotrip, fiction, OU talk...
 
--deckbox links
+-yourmorals.org
 
--add blogroll: ssc, popehat, nc, schnier on sec, hackerNews, xkcd, smbc, dino comics...
-
--podcast links
-
--about: markdown w/ jekyll on ubuntu 14, etc.
+-about: markdown w/ jekyll on ubuntu 16, etc.
