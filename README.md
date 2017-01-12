@@ -3,12 +3,12 @@ This is a toy web site and blog
 
 TODO:
 
--import from blogger http://import.jekyllrb.com/docs/blogger/ (http://www.aaronsw.com/2002/html2text/?)
+-import blogger posts http://import.jekyllrb.com/docs/blogger/ (http://www.aaronsw.com/2002/html2text/?)
 
--re-organize: eurotrip, fiction, OU talk...
+-organize euroblog/fiction/setlists/misc.
+
+-add: About (markdown w/ jekyll, ubuntu etc.), CV
 
 -yourmorals.org
-
--about: markdown w/ jekyll on ubuntu 16, etc.
 
 -rss feed?
