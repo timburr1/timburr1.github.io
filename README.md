@@ -3,13 +3,13 @@ This is a toy web site and blog
 
 <br>TODO:
 
--import blogger posts http://import.jekyllrb.com/docs/blogger/ (http://www.aaronsw.com/2002/html2text/?)
-
 -organize euroblog/fiction/setlists/misc.
 
--images?
+-fix images?
 
--add: About (markdown w/ jekyll, ubuntu etc.), CV
+-about the site page: github pages, markdown w/ jekyll, ubuntu, etc.
+
+-format cv
 
 <br>Stretch:
 
