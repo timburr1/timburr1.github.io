@@ -11,7 +11,7 @@ This is a toy web site and blog
 
 -format cv
 
-<br>Stretch:
+-storyParser
 
 -yourmorals.org
 
