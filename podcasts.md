@@ -24,3 +24,5 @@ Pop Culture:
 
 Magic:
 <br><a href="http://lrcast.com/">Limited Resources</a>
+
+This page is dedicated to Jake Losinski, b/c he just loves podcasts so much
