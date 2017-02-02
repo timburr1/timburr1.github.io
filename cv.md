@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 <b>Education</b>
 <br>University of Oklahoma, Norman, OK, 2007 - 2012 
- * B.S. in Computer Science with Math Minor   
+<br> * B.S. in Computer Science with Math Minor   
  * M.S. in Computer Science
 <br>Semester abroad at the University of Hertfordshire, Hatfield, UK, Fall 2009
 <br>Dual Enrollment at the University of Michigan- Flint, Flint, MI, 2006-2007  
