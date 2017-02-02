@@ -2,7 +2,6 @@
 layout: default
 title: Stuff I Read
 ---
-
 <h3>Blogs:</h3>
 <br><a href="http://slatestarcodex.com/">Slate Star Codex</a>
 <a href="https://www.popehat.com/">PopeHat</a>
