@@ -1,4 +1,9 @@
-I really like podcasts. I normally listen to them on my Android phone, using the <a href="https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict">Podcast Addict</a> app.
+---
+layout: default
+title: Stuff I Listen To
+---
+
+I like podcasts. I normally listen to them on my Android phone, using the <a href="https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict">Podcast Addict</a> app.
 
 Fiction:
 <br><a href="https://gimletmedia.com/homecoming/">Homecoming</a>
@@ -25,4 +30,4 @@ Pop Culture:
 Magic:
 <br><a href="http://lrcast.com/">Limited Resources</a>
 
-This page is dedicated to Jake Losinski, b/c he just loves podcasts so much
+This page is dedicated to Jake Losinski, because he just loves podcasts so much.

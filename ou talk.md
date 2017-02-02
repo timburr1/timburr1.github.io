@@ -1,3 +1,7 @@
+---
+layout: default
+title: OU Talk
+---
 [Greeting] 
 My name is Tim Burr. I graduated from OU with a Bachelor’s in CS/math in 2011, and finished a CS Master’s in 2012. After that I moved to Boise, ID where I live and work as a software developer for a medium-sized company called Clearwater Analytics. More on that later.
 Some of you may be trying to decide what you should study here at OU, and so Dr. Ray asked me to come down and tell you why you might find Computer Science to be a good choice. Maybe some of you are already studying CS; I want to talk to you about how to find internships and jobs, and what it’s like to be a professional software developer.
@@ -26,11 +30,3 @@ Pt. 3: Life as a professional dev
 Imagine that you are a large company, like Apple. You’ve been selling a bunch of iPhones lately, and now you find yourself with a lot of cash on hand. Someday you may want to spend that money on a giant mecha-Steve Jobs, or on R&D for iBlunts by Dre or something. But what do you do with it in the meantime? You can’t just walk down the street and open a savings account, so in practice you end up with what’s called a Corporate Treasury Dept. This operates like a hedge fund, buying bonds and stocks or authorizing various asset managers to buy them on your behalf. The result is a portfolio of many thousands of securities, held in maybe a few dozen accounts. It turns out to be a pretty difficult job to just figure out what you own on a given day, much less figure out the risk profile or how much you should expect in coupon payments next month.
 Clearwater (the company I work for) exists to give our clients insight into this stuff. We are a Software as a Service company, which just means that we operate a web site and charge people to use it (as opposed to charging them for software which must be installed on their computers). This makes us more agile, for a variety of reasons that we can talk about in the Q&A if there is any interest. If we decide it’s a priority, we can turn around most client requests in a week or two, rather than the six months it can take to get code written and deployed off-site.
 So that’s who I work for. My job is to either build new software for our clients, or to fix problems in the existing code. Some cases are super-interesting, some are really tedious, and most fall in between. We are mostly a Java shop, but I’ve recently switched to a new team that does a lot of web development in JavaScript (which confusingly has nothing to do with Java). We work on teams of 6-12, mostly in open plan offices. There is a lot to like about this style of work, but it requires good headphones and a taste for electronic or classical music whenever you are trying to get things done while the people behind you are having like three different conversations about SQL query optimization or modelling derivatives or whatever. My bosses are very flexible about my hours. I typically work a 9-5, but as long as I put in 40 hours a week and my work gets done, nobody cares. It’s not a big deal to work a little late on a Thursday and then dip out early for Friday happy hour, or a dentist appointment or whatever else. With the exception of a few team leads, we are not allowed to work from home for security reasons, which is kind of a drag.
-
-Any questions?
-Git/SVN
-Day in the life (incl. Awesomenauts)
-Typical interview questions
-Premature optimizations 
-Frameworks
-Ronald Reagan guys in OKC
