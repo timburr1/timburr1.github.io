@@ -3,14 +3,14 @@ layout: default
 title: Curriculum Vitae
 ---
 <div class="blurb">
-###Education
+### Education
 University of Oklahoma, Norman, OK, 2007 - 2012 
    B.S. in Computer Science with Math Minor   
    M.S. in Computer Science
 Semester abroad at the University of Hertfordshire, Hatfield, UK, Fall 2009
 Dual Enrollment at the University of Michigan- Flint, Flint, MI, 2006-2007  
 
-###Work Experience
+### Work Experience
 2012-present	Software Developer, Clearwater Analytics, Boise, ID
 2010 - 2011	Operations Intern, MSCI Inc., Norman, OK
 2008 - 2010	Work/Study, Chick-Fil-A, Norman, OK
