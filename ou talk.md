@@ -3,6 +3,7 @@ layout: default
 title: OU Talk
 ---
 [Greeting] 
+
 My name is Tim Burr. I graduated from OU with a Bachelor’s in CS/math in 2011, and finished a CS Master’s in 2012. After that I moved to Boise, ID where I live and work as a software developer for a medium-sized company called Clearwater Analytics. More on that later.
 Some of you may be trying to decide what you should study here at OU, and so Dr. Ray asked me to come down and tell you why you might find Computer Science to be a good choice. Maybe some of you are already studying CS; I want to talk to you about how to find internships and jobs, and what it’s like to be a professional software developer.
 Before we get started, I’d like to share a couple of things I’ve noticed:
