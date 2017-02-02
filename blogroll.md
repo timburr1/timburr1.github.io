@@ -1,10 +1,14 @@
+---
+layout: default
+title: Stuff I Read
+---
 Blogroll:
-<br><a href="http://slatestarcodex.com/">Slate Star Codex</a>
-<a href="https://www.popehat.com/">PopeHat</a>
-<br><a href="http://www.nakedcapitalism.com/">Naked Capitalism</a>
-<br><a href="https://www.schneier.com/">Schneier on Security</a>
-<br><a href="https://news.ycombinator.com/">Hacker News</a>
+[Slate Star Codex](http://slatestarcodex.com/)
+[PopeHat](https://www.popehat.com/)
+[Naked Capitalism](http://www.nakedcapitalism.com/)
+[Schneier on Security](https://www.schneier.com/)
+[Hacker News](https://news.ycombinator.com/)
 
 Web Comics:
-<br><a href="https://xkcd.com/">xkcd</a>
-<br><a href="http://smbc-comics.com/">Saturday Morning Breakfast Cereal</a>
+[xkcd](https://xkcd.com/)
+[Saturday Morning Breakfast Cereal](http://smbc-comics.com/)
