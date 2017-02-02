@@ -8,5 +8,3 @@ This is a toy web site and blog
 -storyParser
 
 -yourmorals.org
-
--rss feed?
