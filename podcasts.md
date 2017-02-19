@@ -15,6 +15,8 @@ Long-Form History:
 
 [Hardcore History](http://www.dancarlin.com/hardcore-history-series/)
 
+[The History of Rome](http://www.thehistoryofrome.typepad.com/)
+
 [MartyrMade](http://www.martyrmade.com/)
 
 [More Perfect](http://www.wnyc.org/shows/radiolabmoreperfect/)
