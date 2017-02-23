@@ -2,8 +2,11 @@
 layout: default
 title: Weblog of the Right Villainous Tim Burr
 ---
-<div class="blurb">
-	<p>Hello, my name is Tim! I'm a software developer in the US Pacific Northwest, and this is a test page for my web site. (Actual content to come, I promise.) 
-	<br><br>In the meantime, feel free to add me on <a href="https://www.facebook.com/timburr1">Facebook</a>, <a href="https://github.com/timburr1">GitHub</a>, or <a href="https://www.linkedin.com/in/timothy-burr-a39a8866">LinkedIn</a>. You can also email me at the reverse of moc.liamg@rrub.r.mit.
-	<br><br>You can look at my Magic: the Gathering decks <a href="https://deckbox.org/users/timburr">here</a>, if you are into that sort of thing...</p>
-</div><!-- /.blurb -->
+	<h2>{{ page.title }}</h2>
+	<ul class="posts">
+
+	  {% for post in site.posts %}
+	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% endfor %}
+	</ul>
+
