@@ -8,8 +8,10 @@ tags: programming
 
 *Some notes on ['The Elements of Scrum'](http://www.agilelearninglabs.com/resources/the-elements-of-scrum/) by Chris Sims and Hillary Louise Johnson*
 
+
 ### Roles
 Product Owner
+---
 * holds the vision for the product
 * represents the business
 * represents the customers
@@ -19,11 +21,13 @@ Product Owner
 * is available to answer the team's questions
 
 Scrum Master
+---
 * knows/advises about scrum
 * coaches teammates
 * facilitates and removes impedements to the team
 
 Team Member
+---
 * delivers user stories
 * does all the development work
 * self-oragnizes
@@ -31,10 +35,34 @@ Team Member
 * makes technical decisions ("how to do the work")
 * avoids saying "not my job"
 
+
+
 ### The Sprint
 [alt text](/images/sprint-schedule.jpg "Sprint Calendar")
+Sprint Planning (~2 hr)
+---
+
+Stand-up (daily, 15 min) 
+---
+
+Backlog Grooming (~1 hr)
+---
+
+Sprint Demo (30 min - 1 hr)
+---
+
+Retro
+---
+
+
  
 ### Scrum Artifacts
+* product backlog
+* sprint backlog
+* "information radiators": burn charts, task board...
+* definition of done
+
+
 
 ### Estimation
 
