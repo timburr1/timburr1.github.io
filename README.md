@@ -1,7 +1,7 @@
 # timburr1.github.io
 This is a toy web site and blog
 
-<br>TODO:
+## TODO:
 
 -fix image links; paris pics? spain? katie's london visit
 
