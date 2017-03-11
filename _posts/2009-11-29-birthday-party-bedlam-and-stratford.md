@@ -13,11 +13,14 @@ What a great weekend! Friday was (my housemate) Rachel's birthday, and we went o
 
 I got some work done on Saturday, and spent the evening watching Bedlam on <a href="http://www.p2p4u.net/">p2p4u.net</a>. All I have to say about that is: 27-0. 
 
-<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="/images/eurotrip/shakespeare.jpg"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;width: 226px; height: 302px;" src="/images/eurotrip/shakespeare.jpg" border="0" alt="" /></a>
+<a href="/images/eurotrip/shakespeare.jpg"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;width: 226px; height: 302px;" src="/images/eurotrip/shakespeare.jpg" border="0" alt="" /></a>
 
 Sunday, there was a trip for international students to Stratford-Upon-Avon. It was pretty incredible, walking around the same streets and standing in the same rooms where William Shakespeare grew up. You can't see the house he bought after making a fortune with the Lord Chamberlain's Men, since it was demolished in 1759. However, we did get to see John Shakespeare's house (where Will was probably born), his grammar school, and the church where he was baptized and buried. His epigraph:
 
 "Good frend for Iesvs sake forbeare,
+
 To digg the dvst encloased heare.
+
 Blese be ye man yt spares thes stones,
+
 And cvrst be he yt moves my bones."
