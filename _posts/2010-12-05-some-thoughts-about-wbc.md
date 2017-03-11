@@ -16,4 +16,4 @@ Suppose for a minute that you've bought into the Bill Maher, anti-theist idea th
 
 Basically, if you wanted to convince people that religion is a bad thing, you'd found the Westboro Baptist Church.
 
-![alt text](/images/troll sign.jpg "trollololololol")
+<a href="/images/troll_sign.jpg"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 200px; height: 150px;" src="/images/troll_sign.jpg" border="0"  /></a>
