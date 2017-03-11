@@ -22,7 +22,7 @@ Won't Want for Love
 The Crane Wife (all three parts!)  
 All Arise!  
 Rox in the Box  
-("We're glad to be in Boise; you've all been so accommodating... that this next song is about imagined Latino gangland warfare in California:)   
+*"We're glad to be in Boise; you've all been so accommodating... that this next song is about imagined Latino gangland warfare in California:"*   
 Oh, Valencia   
 This Is Why We Fight  
 **The encore:**  
