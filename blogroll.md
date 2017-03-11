@@ -5,23 +5,16 @@ title: Stuff I Read
 
 Blogs:
 ------
-[Naked Capitalism](http://www.nakedcapitalism.com/)
-
-[Lawfare](https://lawfareblog.com/)
-
-[PopeHat](https://www.popehat.com/)
-
-[Hacker News](https://news.ycombinator.com/")
-
-[Schneier on Security](https://www.schneier.com/")
-
-[Slate Star Codex](http://slatestarcodex.com/)
-
-[Paul Graham's Essays](http://paulgraham.com/articles.html)
+[Naked Capitalism](http://www.nakedcapitalism.com/)  
+[Lawfare](https://lawfareblog.com/)  
+[PopeHat](https://www.popehat.com/)  
+[Hacker News](https://news.ycombinator.com/")  
+[Schneier on Security](https://www.schneier.com/")  
+[Slate Star Codex](http://slatestarcodex.com/)  
+[Paul Graham's Essays](http://paulgraham.com/articles.html)  
 
 
 Web Comics:
 -----------
-[xkcd](https://xkcd.com/)
-
+[xkcd](https://xkcd.com/)  
 [Saturday Morning Breakfast Cereal](http://smbc-comics.com/)

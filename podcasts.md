@@ -11,37 +11,25 @@ Fiction:
 
 Long-Form History:
 ------------------
-[Crimetown](https://gimletmedia.com/show/crimetown/)
-
-[Hardcore History](http://www.dancarlin.com/hardcore-history-series/)
-
-[The History of Rome](http://www.thehistoryofrome.typepad.com/)
-
-[MartyrMade](http://www.martyrmade.com/)
-
-[More Perfect](http://www.wnyc.org/shows/radiolabmoreperfect/)
-
-[Revolutions](http://www.revolutionspodcast.com/)
+[Crimetown](https://gimletmedia.com/show/crimetown/)  
+[Hardcore History](http://www.dancarlin.com/hardcore-history-series/)  
+[The History of Rome](http://www.thehistoryofrome.typepad.com/)  
+[MartyrMade](http://www.martyrmade.com/)  
+[More Perfect](http://www.wnyc.org/shows/radiolabmoreperfect/)  
+[Revolutions](http://www.revolutionspodcast.com/)  
 
 Misc./NPR Stuff:
 ----------------
-[Invisibilia](http://www.npr.org/podcasts/510307/invisibilia)
-
-[Planet Money](http://www.npr.org/podcasts/510289/planet-money/)
-
-[Radiolab](http://www.radiolab.org/)
-
-[Reveal](https://www.revealnews.org/)
-
-[Serial](https://serialpodcast.org/)
-
-[This American Life](https://www.thisamericanlife.org/podcast)
+[Invisibilia](http://www.npr.org/podcasts/510307/invisibilia)  
+[Planet Money](http://www.npr.org/podcasts/510289/planet-money/)  
+[Radiolab](http://www.radiolab.org/)  
+[Reveal](https://www.revealnews.org/)  
+[Serial](https://serialpodcast.org/)  
+[This American Life](https://www.thisamericanlife.org/podcast)  
 
 Pop Culture:
 ------------
-[Guys We Fucked](https://itunes.apple.com/us/podcast/guys-we-f****d/id885960517?mt=2)
-
-[Reply All](https://gimletmedia.com/reply-all/)
+[Reply All](https://gimletmedia.com/reply-all/)  
 
 Magic:
 ------
