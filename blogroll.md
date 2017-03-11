@@ -5,15 +5,19 @@ title: Stuff I Read
 
 Blogs:
 ------
-[Slate Star Codex](http://slatestarcodex.com/)
+[Naked Capitalism](http://www.nakedcapitalism.com/)
+
+[Lawfare](https://lawfareblog.com/)
 
 [PopeHat](https://www.popehat.com/)
 
-[Naked Capitalism](http://www.nakedcapitalism.com/)
+[Hacker News](https://news.ycombinator.com/")
 
 [Schneier on Security](https://www.schneier.com/")
 
-[Hacker News](https://news.ycombinator.com/")
+[Slate Star Codex](http://slatestarcodex.com/)
+
+[Paul Graham's Essays](http://paulgraham.com/articles.html)
 
 
 Web Comics:
