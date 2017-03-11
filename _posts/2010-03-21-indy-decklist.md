@@ -29,15 +29,15 @@ This is basically the deck that I took to Indy two weekends ago. I think it has 
 2 chandra nalaar  
 2 cruel ultimatum  
 4 lightning bolt  
-2 terminate
-2 earthquake
-2 countersquall
+2 terminate  
+2 earthquake  
+2 countersquall  
 
-SB:
-1 earthquake
-2 terminate
-3 flashfreeze
-4 goblin ruinblaster
-2 countersquall
-2 magma spray
-1 chandra nalaar
+SB:  
+1 earthquake  
+2 terminate  
+3 flashfreeze  
+4 goblin ruinblaster  
+2 countersquall  
+2 magma spray  
+1 chandra nalaar  
