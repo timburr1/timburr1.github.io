@@ -7,10 +7,9 @@ Education
 ---------
 University of Oklahoma, Norman, OK, 2007 - 2012  
  * B.S. in Computer Science with Math Minor   
- * M.S. in Computer Science
+ * M.S. in Computer Science  
 Semester abroad at the University of Hertfordshire, Hatfield, UK, Fall 2009  
 Dual Enrollment at the University of Michigan- Flint, Flint, MI, 2006-2007  
-
 
 Work Experience
 ---------------
