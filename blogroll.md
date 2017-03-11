@@ -16,5 +16,5 @@ title: Stuff I Read
 [xkcd](https://xkcd.com/)  
 [Saturday Morning Breakfast Cereal](http://smbc-comics.com/)
 
-**Dead Paper**
-I also subscribe to [Boise Weekly](http://www.boiseweekly.com/) and [the Idaho Statesman](http://www.idahostatesman.com/) for local news, as well as [the Economist](http://www.economist.com/) for global political/financial news, and jokes about the French.
+**Dead Paper**  
+I subscribe to [Boise Weekly](http://www.boiseweekly.com/) and [the Idaho Statesman](http://www.idahostatesman.com/) for local news and entertainment, as well as [the Economist](http://www.economist.com/) for global political/financial news, and jokes about the French.

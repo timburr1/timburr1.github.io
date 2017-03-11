@@ -30,4 +30,4 @@ I like podcasts. I normally listen to them on my Android phone, using the [Podca
 **Magic:**  
 [Limited Resources](http://lrcast.com/)
 
-**This page is dedicated to Jake Losinski, because he just loves podcasts so much.**
+This page is dedicated to Jake Losinski, because he just loves podcasts so much.
