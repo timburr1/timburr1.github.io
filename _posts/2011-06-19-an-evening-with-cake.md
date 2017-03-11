@@ -4,7 +4,8 @@ title: An Evening With Cake
 author: tim
 tags: setlist
 ---
-I went to see Cake on Friday night at the Idaho Botanical Garden, along with Katie and Jason Keffer. It was a really good show. John McCrea does most of the heavy lifting, but the rest of the band seems to have really improved since they started putting out albums in the mid-90s. **The set list:**  
+I went to see Cake on Friday night at the Idaho Botanical Garden, along with Katie and Jason Keffer. It was a really good show. John McCrea does most of the heavy lifting, but the rest of the band seems to have really improved since they started putting out albums in the mid-90s. 
+**The set list:**  
 Sad Songs and Waltzes  
 Opera Singer  
 Frank Sinatra  
