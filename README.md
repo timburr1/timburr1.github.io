@@ -3,7 +3,9 @@ This is a toy web site and blog
 
 ## TODO:
 
--fix image links; paris pics? spain? katie's london visit
+-update/links posts
+
+-fix image links in Pairs/Spain/London posts
 
 -storyParser
 

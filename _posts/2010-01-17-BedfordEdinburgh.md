@@ -14,7 +14,7 @@ I made it to Katie's yesterday. The money is all the same size again, and everyo
 
 But back to the story. I flew from Dublin to Edinburgh, my single favorite city on the trip. Edinburgh Castle is really cool; it costs like 10E to get in, but there is so much to see! From the Scottish crown jewels to the National War Memorial to the spectacular view out over the city.
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/eurotrip/edinburgh_castle.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/eurotrip/edinburgh_castle.JPG" height="240" width="320" /></a></div>
+<a href="/images/eurotrip/edinburgh_castle.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/eurotrip/edinburgh_castle.JPG" height="240" width="320" /></a>
 
 On my second day in town, I caught the bus to Rosslyn Chapel (that's the one from The Da Vinci Code). You know how Tom Hanks walks into the crypt down that stairway w/ the Star of David? You can still see where the movie crew cleaned the wall to stick it on there. That's just about the only carving the chapel doesn't have, though. The place is full of weird, asymmetrical carvings of plants and people. The walls tell stories from the Bible and the Apocrypha, stories about the St. Clair family and Robert the Bruce, and there is a weird little murder story behind the three pillars in front of the alter. The strangest thing might be the Green Men, though. The chapel has about 100 carvings of faces w/ vines coming out of their mouths, and old Pagan symbol for nature and fertility.
 
