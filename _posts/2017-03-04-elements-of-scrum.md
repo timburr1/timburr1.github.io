@@ -50,6 +50,9 @@ Backlog Grooming (~1 hr)
 Sprint Demo (30 min - 1 hr)
 
 Retro
+* What went well
+* What didn't go well
+* Things to do ("action items")
 
  
 Scrum Artifacts
