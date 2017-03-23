@@ -13,7 +13,7 @@ title: Stuff I Read
 [Slate Star Codex](http://slatestarcodex.com/)  
 
 **Web Comics:**  
-[Saturday Morning Breakfast Cereal](http://smbc-comics.com/)
+[Saturday Morning Breakfast Cereal](http://smbc-comics.com/)  
 [xkcd](https://xkcd.com/)  
 
 **Dead Paper:**  
