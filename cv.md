@@ -17,6 +17,7 @@ Work Experience
 2012-present	Software Developer and Team Lead, Clearwater Analytics, Boise, ID  
 2010 - 2011	Operations Intern, MSCI Inc., Norman, OK  
 2008 - 2010	Work/Study, Chick-Fil-A, Norman, OK  
-2006 - 2012	Lifeguard and Merit Badge Counselor, BSA Camp Tapico, Kalkaska, MI
+2006 - 2012	Lifeguard, Merit Badge Counselor, and Assistant Shooting Sports Director, BSA Camp Tapico, Kalkaska, MI
+
 
 Find me on [GitHub](https://github.com/timburr1) or [LinkedIn](http://www.linkedin.com/pub/timothy-burr/66/a88/a39).
