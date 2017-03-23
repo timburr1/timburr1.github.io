@@ -4,17 +4,17 @@ title: Stuff I Read
 ---
 
 **Blogs:**  
-[Naked Capitalism](http://www.nakedcapitalism.com/)  
-[Lawfare](https://lawfareblog.com/)  
-[PopeHat](https://www.popehat.com/)  
 [Hacker News](https://news.ycombinator.com/")  
+[Lawfare](https://lawfareblog.com/)  
+[Naked Capitalism](http://www.nakedcapitalism.com/)  
+[Paul Graham's Essays](http://paulgraham.com/articles.html) 
+[PopeHat](https://www.popehat.com/)  
 [Schneier on Security](https://www.schneier.com/")  
 [Slate Star Codex](http://slatestarcodex.com/)  
-[Paul Graham's Essays](http://paulgraham.com/articles.html)  
 
 **Web Comics:**  
-[xkcd](https://xkcd.com/)  
 [Saturday Morning Breakfast Cereal](http://smbc-comics.com/)
+[xkcd](https://xkcd.com/)  
 
-**Dead Paper**  
-I subscribe to [Boise Weekly](http://www.boiseweekly.com/) and [the Idaho Statesman](http://www.idahostatesman.com/) for local news and entertainment, as well as [the Economist](http://www.economist.com/) for global political/financial news, and jokes about the French.
+**Dead Paper:**  
+I subscribe to [Boise Weekly](http://www.boiseweekly.com/) and [the Idaho Statesman](http://www.idahostatesman.com/) for local and entertainment news, as well as [the Economist](http://www.economist.com/) for international, political, and financial news, and jokes about the French.
