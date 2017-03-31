@@ -20,8 +20,13 @@ Work Experience
 2012-present  
 Software Developer and Team Lead | Clearwater Analytics | Boise, ID  
 * Maintain and improve existing code  
+* Provide 24-hour, on-call support for critical projects
 * Create additional webservices, databases, and testing frameworks  
 * Lead an Agile team of four developers and one quality assurance engineer  
+
+2011 - 20112
+Teaching Assistant | University of Oklahoma | Norman, OK
+* Graded homework and taught students at office hours
 
 2010 - 2011	 
 Operations Intern | MSCI Inc. | Norman, OK
