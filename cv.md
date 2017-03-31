@@ -24,7 +24,7 @@ Software Developer and Team Lead | Clearwater Analytics | Boise, ID
 * Create additional webservices, databases, and testing frameworks  
 * Lead an Agile team of four developers and one quality assurance engineer  
 
-2011 - 20112
+2011 - 20112  
 Teaching Assistant | University of Oklahoma | Norman, OK
 * Graded homework and taught students at office hours
 
