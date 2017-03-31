@@ -28,16 +28,16 @@ Software Developer and Team Lead | Clearwater Analytics | Boise, ID
 Teaching Assistant | University of Oklahoma | Norman, OK
 * Graded homework and taught students at office hours
 
-2010 - 2011	 
+2010 - 2011  
 Operations Intern | MSCI Inc. | Norman, OK
 * Monitored production environment for problems
 * Automated menial tasks such as resetting user passwords
 
-2008 - 2010	 
+2008 - 2010  
 Work/Study | Chick-Fil-A | Norman, OK
 * Cooked, cleaned, and interacted with customers in a fast-paced setting
 
-2006 - 2012	 
+2006 - 2012  
 Lifeguard, Counselor, and Shooting Sports Co-Director | BSA Camp Tapico | Kalkaska, MI
 * Managed other counselors and scouts
 * Maintained a safe and fun environment, even at the beach and on gun ranges
