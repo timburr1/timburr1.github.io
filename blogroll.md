@@ -7,9 +7,11 @@ title: Stuff I Read
 [Hacker News](https://news.ycombinator.com/")  
 [Lawfare](https://lawfareblog.com/)  
 [Naked Capitalism](http://www.nakedcapitalism.com/)  
-[Paul Graham's Essays](http://paulgraham.com/articles.html) 
+[Matt Levine at Bloomberg View](https://www.bloomberg.com/view/contributors/ARbTQlRLRjE/matthew-s-levine)  
+[Paul Graham's Essays](http://paulgraham.com/articles.html)  
 [PopeHat](https://www.popehat.com/)  
 [Schneier on Security](https://www.schneier.com/")  
+[Sic Semper Tyrannis](http://turcopolier.typepad.com/sic_semper_tyrannis/)  
 [Slate Star Codex](http://slatestarcodex.com/)  
 
 **Web Comics:**  
