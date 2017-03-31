@@ -17,7 +17,7 @@ University of Michigan- Flint, Flint, MI
 
 Work Experience
 ---------------
-2012-present  
+2012 - present  
 Software Developer and Team Lead | Clearwater Analytics | Boise, ID  
 * Maintain and improve existing code  
 * Provide 24-hour, on-call support for critical projects
@@ -47,6 +47,6 @@ Awards and Acknowledgements
 Eagle Scout  
 National Merit Finalist  
 Presented at OU Honors College on 'Majors and Careers in a Volatile Economy' in September 2015  
-
+  
 
 Find me on [GitHub](https://github.com/timburr1) or [LinkedIn](http://www.linkedin.com/pub/timothy-burr/66/a88/a39).
