@@ -24,7 +24,7 @@ Software Developer and Team Lead | Clearwater Analytics | Boise, ID
 * Create additional webservices, databases, and testing frameworks  
 * Lead an Agile team of four developers and one quality assurance engineer  
 
-2011 - 20112  
+2011 - 2012  
 Teaching Assistant | University of Oklahoma | Norman, OK
 * Graded homework and taught students at office hours
 
@@ -37,7 +37,7 @@ Operations Intern | MSCI Inc. | Norman, OK
 Work/Study | Chick-Fil-A | Norman, OK
 * Cooked, cleaned, and interacted with customers in a fast-paced setting
 
-2006 - 2012	
+2006 - 2012	 
 Lifeguard, Counselor, and Shooting Sports Co-Director | BSA Camp Tapico | Kalkaska, MI
 * Managed other counselors and scouts
 * Maintained a safe and fun environment, even at the beach and on gun ranges
@@ -47,6 +47,6 @@ Awards and Acknowledgements
 Eagle Scout  
 National Merit Finalist  
 Presented at OU Honors College on 'Majors and Careers in a Volatile Economy' in September 2015  
-  
+
 
 Find me on [GitHub](https://github.com/timburr1) or [LinkedIn](http://www.linkedin.com/pub/timothy-burr/66/a88/a39).
