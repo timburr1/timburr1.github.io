@@ -17,18 +17,18 @@ University of Michigan- Flint, Flint, MI
 
 Work Experience
 ---------------
-2012 - present  
+Aug 2012 - present  
 Software Developer and Team Lead | Clearwater Analytics | Boise, ID  
 * Maintain and improve existing code  
 * Provide 24-hour, on-call support for critical projects
 * Create additional webservices, databases, and testing frameworks  
 * Lead an Agile team of four developers and one quality assurance engineer  
 
-2011 - 2012  
+Sep 2011 - May 2012  
 Teaching Assistant | University of Oklahoma | Norman, OK
 * Graded homework and taught students at office hours
 
-2010 - 2011  
+Jun 2010 - Jun 2011  
 Operations Intern | MSCI Inc. | Norman, OK
 * Monitored production environment for problems
 * Automated menial tasks such as resetting user passwords
@@ -37,7 +37,7 @@ Operations Intern | MSCI Inc. | Norman, OK
 Work/Study | Chick-Fil-A | Norman, OK
 * Cooked, cleaned, and interacted with customers in a fast-paced setting
 
-2006 - 2012  
+May 2006 - Jul 2012  
 Lifeguard, Counselor, and Shooting Sports Co-Director | BSA Camp Tapico | Kalkaska, MI
 * Managed other counselors and scouts
 * Maintained a safe and fun environment, even at the beach and on gun ranges
