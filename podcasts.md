@@ -5,6 +5,10 @@ title: Stuff I Listen To
 
 I like podcasts. I normally listen to them on my Android phone, using the [Podcast Addict](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict) app.
 
+**College Football**  
+[Podcast Ain't Played Nobody](https://soundcloud.com/aintplayednobody)  
+[The Solid Verbal](http://www.solidverbal.com/)  
+
 **Fiction:**  
 [Homecoming](https://gimletmedia.com/homecoming/)  
 [Lif-e.af/ter](http://lif-e.af/ter/)  
@@ -14,8 +18,12 @@ I like podcasts. I normally listen to them on my Android phone, using the [Podca
 [Hardcore History](http://www.dancarlin.com/hardcore-history-series/)  
 [The History of Rome](http://www.thehistoryofrome.typepad.com/)  
 [MartyrMade](http://www.martyrmade.com/)  
+[Mogul](https://gimletmedia.com/mogul/)  
 [More Perfect](http://www.wnyc.org/shows/radiolabmoreperfect/)  
 [Revolutions](http://www.revolutionspodcast.com/)  
+
+**Magic:**  
+[Limited Resources](http://lrcast.com/)
 
 **Misc./NPR Stuff:**  
 [Invisibilia](http://www.npr.org/podcasts/510307/invisibilia)  
@@ -29,7 +37,6 @@ I like podcasts. I normally listen to them on my Android phone, using the [Podca
 **Pop Culture:**  
 [Reply All](https://gimletmedia.com/reply-all/)  
 
-**Magic:**  
-[Limited Resources](http://lrcast.com/)
+
 
 This page is dedicated to Jake Losinski, because he just loves podcasts so much.
