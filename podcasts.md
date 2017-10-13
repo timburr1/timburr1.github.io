@@ -14,12 +14,13 @@ I like podcasts. I normally listen to them on my Android phone, using the [Podca
 [Lif-e.af/ter](http://lif-e.af/ter/)  
 
 **Long-Form History:**  
+[12 Byzantine Rulers](https://12byzantinerulers.com/)  
 [Crimetown](https://gimletmedia.com/show/crimetown/)  
 [Hardcore History](http://www.dancarlin.com/hardcore-history-series/)  
 [The History of Rome](http://www.thehistoryofrome.typepad.com/)  
 [MartyrMade](http://www.martyrmade.com/)  
-[Mogul](https://gimletmedia.com/mogul/)  
 [More Perfect](http://www.wnyc.org/shows/radiolabmoreperfect/)  
+[Norman Centuries](https://normancenturies.com/)  
 [Revolutions](http://www.revolutionspodcast.com/)  
 
 **Magic:**  
@@ -35,8 +36,5 @@ I like podcasts. I normally listen to them on my Android phone, using the [Podca
 [This American Life](https://www.thisamericanlife.org/podcast)  
 
 **Pop Culture:**  
+[Mogul](https://gimletmedia.com/mogul/)  
 [Reply All](https://gimletmedia.com/reply-all/)  
-
-
-
-This page is dedicated to Jake Losinski, because he just loves podcasts so much.
