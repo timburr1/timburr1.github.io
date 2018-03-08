@@ -15,13 +15,16 @@ I like podcasts. I normally listen to them on my Android phone, using the [Podca
 
 **Long-Form History:**  
 [12 Byzantine Rulers](https://12byzantinerulers.com/)  
+[The British History Podcast](https://www.thebritishhistorypodcast.com/)  
 [Crimetown](https://gimletmedia.com/show/crimetown/)  
 [Hardcore History](http://www.dancarlin.com/hardcore-history-series/)  
+[The History of Byzantium](https://thehistoryofbyzantium.com/)  
 [The History of Rome](http://www.thehistoryofrome.typepad.com/)  
 [MartyrMade](http://www.martyrmade.com/)  
 [More Perfect](http://www.wnyc.org/shows/radiolabmoreperfect/)  
 [Norman Centuries](https://normancenturies.com/)  
 [Revolutions](http://www.revolutionspodcast.com/)  
+[Stuff You Missed in History Class](https://www.missedinhistory.com/)  
 
 **Magic:**  
 [Limited Resources](http://lrcast.com/)
