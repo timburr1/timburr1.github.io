@@ -3,6 +3,9 @@ layout: default
 title: Slingin' Cardboard
 ---
 
-You can look at my Magic: the Gathering decks [here](https://deckbox.org/users/timburr), if you are into that sort of thing...
+[Dungeon](http://www.dungeon-world.com/) [World](https://www.dungeonworldsrd.com/)  
+[Pathfinder](https://www.d20pfsrd.com/)
 
-I'm getting into Warhammer 40k a little bit; my current army list is [here](tyranids.html).
+You can look at my Magic: the Gathering decks [here](https://deckbox.org/users/timburr), if you are into that sort of thing.
+
+I'm also getting into Warhammer 40k a little bit; my current army lists are here: [500 points](tyranids_500.html), [1000 points](tyranids_1000.html).
