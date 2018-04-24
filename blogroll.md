@@ -8,7 +8,7 @@ title: Stuff I Read
 [Hotel Concierge](https://hotelconcierge.tumblr.com)  
 [The Last Psychiatrist](https://thelastpsychiatrist.com)  
 [Lawfare](https://lawfareblog.com/)  
-[Matt Levine at Bloomberg View](https://www.bloomberg.com/view/contributors/ARbTQlRLRjE/matthew-s-levine)  
+[Money Stuff](https://www.bloomberg.com/view/topics/money-stuff)  
 [Otium](https://srconstantin.wordpress.com/)  
 [Overcoming Bias](https://www.overcomingbias.com/)  
 [Paul Graham's Essays](http://paulgraham.com/articles.html)  
