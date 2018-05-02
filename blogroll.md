@@ -22,6 +22,3 @@ title: Stuff I Read
 **Web Comics**  
 [Saturday Morning Breakfast Cereal](http://smbc-comics.com/)  
 [xkcd](https://xkcd.com/)  
-
-**Dead Trees**  
-I subscribe to [Boise Weekly](http://www.boiseweekly.com/) and [the Idaho Statesman](http://www.idahostatesman.com/) for local and entertainment news. 
