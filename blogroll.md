@@ -20,5 +20,6 @@ title: Stuff I Read
 [Wait But Why](https://waitbutwhy.com)  
 
 **Web Comics**  
+[Laws and Sausages](http://lawsandsausagescomic.com/comic)  
 [Saturday Morning Breakfast Cereal](http://smbc-comics.com/)  
 [xkcd](https://xkcd.com/)  
