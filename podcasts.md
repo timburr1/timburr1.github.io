@@ -5,6 +5,10 @@ title: Stuff I Listen To
 
 I like podcasts. I normally listen to them on my Android phone, using the [Podcast Addict](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict) app.
 
+**Burning Man**  
+[Accuracy Third](https://accuracythird.com/)  
+[Burner Podcast](http://www.burnerpodcast.com/)    
+
 **College Football**  
 [Podcast Ain't Played Nobody](https://soundcloud.com/aintplayednobody)  
 [The Solid Verbal](http://www.solidverbal.com/)  
@@ -23,7 +27,9 @@ I like podcasts. I normally listen to them on my Android phone, using the [Podca
 [MartyrMade](http://www.martyrmade.com/)  
 [More Perfect](http://www.wnyc.org/shows/radiolabmoreperfect/)  
 [Norman Centuries](https://normancenturies.com/)  
+[Radio War Nerd](https://www.patreon.com/radiowarnerd)  
 [Revolutions](http://www.revolutionspodcast.com/)  
+[Slow Burn](https://slate.com/slow-burn)  
 [Stuff You Missed in History Class](https://www.missedinhistory.com/)  
 
 **Magic: the Gathering**  
@@ -39,5 +45,6 @@ I like podcasts. I normally listen to them on my Android phone, using the [Podca
 [This American Life](https://www.thisamericanlife.org/podcast)  
 
 **Pop Culture**  
+[Joe Rogan Experience](https://www.joerogan.com/)  
 [Mogul](https://gimletmedia.com/mogul/)  
 [Reply All](https://gimletmedia.com/reply-all/)  
