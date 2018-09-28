@@ -3,10 +3,12 @@ This is a toy web site and blog
 
 ## TODO:
 
--update/links posts
+-wedding, Chile posts
 
 -fix image links in Pairs/Spain/London posts
 
 -storyParser
 
 -yourmorals.org
+
+-add tools/languages section to cv 
