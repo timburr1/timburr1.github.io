@@ -15,14 +15,16 @@ Rainbow Bridge
 
 <img align="center" src="/images/burningman2018/Ha Ha.jpg" width="450"/>   
 
-<img align="center" src="/images/burningman2018/Man.jpg" width="300"/>  
-The Man  
+<img align="center" src="/images/burningman2018/The Man.jpg" width="300"/>  
+)'(  
 
-<img align="center" src="/images/burningman2018/RoboFam1.jpg" width="450"/>  
+<img align="center" src="/images/burningman2018/RoboFam 1.jpg" width="450"/>  
 
-<img align="center" src="/images/burningman2018/RoboFam2.jpg" width="300"/>
+<img align="center" src="/images/burningman2018/RoboFam 2.jpg" width="300"/>
 
 <img align="center" src="/images/burningman2018/Robot.jpg" width="300"/>  
+
+<img align="center" src="/images/burningman2018/Tim.jpg" width="300"/>
 
 <img align="center" src="/images/burningman2018/Swing.jpg" width="300"/>  
 
