@@ -4,8 +4,10 @@ title: Stuff I Read
 ---
 
 **Blogs**  
+[Coding Horror](https://blog.codinghorror.com/)  
 [Hacker News](https://news.ycombinator.com/)  
 [Hotel Concierge](https://hotelconcierge.tumblr.com)  
+[Joel on Software](https://www.joelonsoftware.com/)  
 [The Last Psychiatrist](https://thelastpsychiatrist.com)  
 [Lawfare](https://lawfareblog.com/)  
 [Melting Asphalt](https://meltingasphalt.com)  
