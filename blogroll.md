@@ -8,7 +8,7 @@ title: Stuff I Read
 [Hotel Concierge](https://hotelconcierge.tumblr.com)  
 [The Last Psychiatrist](https://thelastpsychiatrist.com)  
 [Lawfare](https://lawfareblog.com/)  
-[MeltingAsphalt](https://meltingasphalt.com)  
+[Melting Asphalt](https://meltingasphalt.com)  
 [Money Stuff](https://www.bloomberg.com/view/topics/money-stuff)  
 [Naked Capitalism](https://www.nakedcapitalism.com/)  
 [Otium](https://srconstantin.wordpress.com/)  
