@@ -30,6 +30,7 @@ I like podcasts. I normally listen to them on my Android phone, using the [Podca
 [Radio War Nerd](https://www.patreon.com/radiowarnerd)  
 [Revolutions](http://www.revolutionspodcast.com/)  
 [Slow Burn](https://slate.com/slow-burn)  
+[Standoff: What happened at Ruby Ridge?](http://feeds.megaphone.fm/slate-presents)  
 [Stuff You Missed in History Class](https://www.missedinhistory.com/)  
 
 **Magic: the Gathering**  
