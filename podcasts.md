@@ -37,6 +37,7 @@ I like podcasts. I normally listen to them on my Android phone, using the [Podca
 [Limited Resources](http://lrcast.com/)
 
 **Misc./NPR Stuff**  
+[All the President's Lawyers](https://www.kcrw.com/news-culture/shows/lrc-presents-all-the-presidents-lawyers)  
 [Invisibilia](http://www.npr.org/podcasts/510307/invisibilia)  
 [Planet Money](http://www.npr.org/podcasts/510289/planet-money/)  
 [Radiolab](http://www.radiolab.org/)  
