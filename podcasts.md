@@ -9,6 +9,10 @@ I like podcasts. I normally listen to them on my Android phone, using the [Podca
 [Accuracy Third](https://accuracythird.com/)  
 [Burner Podcast](http://www.burnerpodcast.com/)    
 
+**Business/Finance**  
+[Odd Lots](https://www.bloomberg.com/podcasts/odd_lots)  
+[Planet Money](http://www.npr.org/podcasts/510289/planet-money/)  
+
 **College Football**  
 [Podcast Ain't Played Nobody](https://soundcloud.com/aintplayednobody)  
 [The Solid Verbal](http://www.solidverbal.com/)  
@@ -39,7 +43,6 @@ I like podcasts. I normally listen to them on my Android phone, using the [Podca
 **Misc./NPR Stuff**  
 [All the President's Lawyers](https://www.kcrw.com/news-culture/shows/lrc-presents-all-the-presidents-lawyers)  
 [Invisibilia](http://www.npr.org/podcasts/510307/invisibilia)  
-[Planet Money](http://www.npr.org/podcasts/510289/planet-money/)  
 [Radiolab](http://www.radiolab.org/)  
 [Reveal](https://www.revealnews.org/)  
 [Serial](https://serialpodcast.org/)  
