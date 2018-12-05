@@ -75,8 +75,8 @@
     if (char >= 'a' && char <= 'z') {
      return true;
     }
-    else if (char == 'ñ' || char == 'á' || char == 'é' 
-      || char == 'í' || char == 'ó' || char == 'ú') {
+    else if (char == 'Ã±' || char == 'Ã¡' || char == 'Ã©' 
+      || char == 'Ã­' || char == 'Ã³' || char == 'Ãº') {
      return true
     }
 
