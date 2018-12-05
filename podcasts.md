@@ -8,6 +8,7 @@ I like podcasts. I normally listen to them on my Android phone, using the [Podca
 **Burning Man**  
 [Accuracy Third](https://accuracythird.com/)  
 [Burner Podcast](http://www.burnerpodcast.com/)    
+[Psychedelic Salon](https://psychedelicsalon.com/)  
 
 **Business/Finance**  
 [Odd Lots](https://www.bloomberg.com/podcasts/odd_lots)  
@@ -50,6 +51,6 @@ I like podcasts. I normally listen to them on my Android phone, using the [Podca
 [This American Life](https://www.thisamericanlife.org/podcast)  
 
 **Pop Culture**  
-[Joe Rogan Experience](https://www.joerogan.com/)  
+[The Joe Rogan Experience](https://www.joerogan.com/)  
 [Mogul](https://gimletmedia.com/mogul/)  
 [Reply All](https://gimletmedia.com/reply-all/)  

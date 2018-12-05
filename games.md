@@ -9,7 +9,13 @@ title: Slingin' Cardboard
 You can look at my Magic: the Gathering decks [here](https://deckbox.org/users/timburr), if you are into that sort of thing.
 
 I'm also getting into Warhammer 40k a little bit. Current army lists:  
-*[Tyranids 40K, 1251pts](40kArmies/Tyranids_1250.html)  
-*[Tyranids Kill Team, 102pts](40kArmies/KillTeam.html)  
+*[Tyranids, 1251pts](40kArmies/Tyranids_1250.html)  
+
+__Kill Team:__
+*[Space Marines vs. Melee Hordes, 100pts](40kArmies/SpaceMarinesKT_MeleeHorde.html)  
+*[Space Marines vs. Power Armor, 100pts](40kArmies/SpaceMarinesKT_PowerArmor.html)  
+*[Space Marines vs. Shooty Hordes, 100pts](40kArmies/SpaceMarinesKT_ShootyHorde.html)  
+*[Tyranids, 100pts](40kArmies/TyranidsKT.html)  
+
 Serve the Hive, feel the groove... I control the way you move...
 

@@ -24,5 +24,6 @@ title: Stuff I Read
 
 **Web Comics**  
 [Laws and Sausages](http://lawsandsausagescomic.com/comic)  
+[The Perry Bible Fellowship](http://pbfcomics.com/)  
 [Saturday Morning Breakfast Cereal](http://smbc-comics.com/)  
 [xkcd](https://xkcd.com/)  
