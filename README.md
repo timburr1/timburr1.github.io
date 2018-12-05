@@ -5,9 +5,7 @@ This is a toy web site and blog
 
 -wedding, Chile posts
 
--fix image links in Pairs/Spain/London posts
-
--storyParser
+-fix image links in Paris/Spain/London posts
 
 -yourmorals.org
 
