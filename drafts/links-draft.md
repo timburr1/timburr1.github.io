@@ -6,8 +6,8 @@ tags: links
 ---
 
 **Business/Finance**  
-[Nobel Prizes in Economics, Awarded and Withheld (Climate Change Politics Edition)](https://www.nakedcapitalism.com/2018/10/nobel-prizes-economics-awarded-withheld-climate-change-edition.html) NakedCapitalism  
 
 **Computing**  
+[I Gave a Bounty Hunter $300. Then He Located Our Phone](https://motherboard.vice.com/en_us/article/nepxbz/i-gave-a-bounty-hunter-300-dollars-located-phone-microbilt-zumigo-tmobile) Motherboard  
 
 **Psychedelia**  
