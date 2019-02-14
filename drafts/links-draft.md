@@ -11,6 +11,7 @@ effective altruism
 the jackpot
 psychedelia
 sportsball
+wtf
 
 **Business/Finance**  
 [Mysterious Turkish Firm Helped Maduro Move $900 Million in Gold](https://www.bloomberg.com/news/articles/2019-02-08/mysterious-turkish-firm-helped-maduro-move-900-million-in-gold) Bloomberg    
@@ -22,3 +23,6 @@ sportsball
 [Learning Git in Reverse](https://zdatainc.com/2016/01/learning-git-in-reverse/)   
 [Stevey's Google Platforms Rant](https://gist.github.com/chitchcock/1281611) Steve Yegge  
 [Your Apps Know Where You Were Last Night, and They’re Not Keeping It Secret](https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-apps.html) NYT  
+
+**WTF**  
+[Massive And Terrifying ‘God Emperor Trump’ Presides Over Parade In Italy](https://www.huffingtonpost.com/entry/trump-parade-float-italy_us_5c611a4ae4b0eec79b254486) HuffPost  
