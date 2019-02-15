@@ -26,3 +26,4 @@ wtf
 
 **WTF**  
 [Massive And Terrifying ‘God Emperor Trump’ Presides Over Parade In Italy](https://www.huffingtonpost.com/entry/trump-parade-float-italy_us_5c611a4ae4b0eec79b254486) HuffPost  
+*Lullz for the lul throne!*  
