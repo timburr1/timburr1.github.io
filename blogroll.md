@@ -21,6 +21,7 @@ title: Stuff I Read
 [Schneier on Security](https://www.schneier.com/)  
 [Slate Star Codex](http://slatestarcodex.com/)  
 [Wait But Why](https://waitbutwhy.com)  
+[Yuh Dead](https://lorav.github.io/)  
 
 **Web Comics**  
 [Laws and Sausages](http://lawsandsausagescomic.com/comic)  
