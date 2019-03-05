@@ -20,6 +20,9 @@ wtf
 **Computing**  
 [Disputed N.S.A. Phone Program Is Shut Down, Aide Says](https://www.nytimes.com/2019/03/04/us/politics/nsa-phone-records-program-shut-down.html) NYT  
 
+**Politics**  
+[Livestream: Cohen Testimony Before House Oversight Committee](https://www.lawfareblog.com/livestream-cohen-testimony-house-oversight-committee) LawFare  
+
 **Psychedelia**  
 [Julian Jaynes and the Ancient Tablets](https://guzey.com/personal/writing/jaynes/) Alexey Guzey  
 
@@ -27,10 +30,7 @@ wtf
 [Not Another Boring Creatine Guide: Answers to FAQs and Lesser-Known Benefits](https://www.strongerbyscience.com/creatine/) StrongerByScience   
 
 
-https://www.mintmobile.com/product/03-month-small-sim-card-plan/
-yang2020
-https://www.lawfareblog.com/livestream-cohen-testimony-house-oversight-committee
-https://www.impute.me/
-foundmyfitness
-https://www.creditwritedowns.com/p/mmt-for-dummies
-
+https://www.mintmobile.com/product/03-month-small-sim-card-plan/  
+yang2020    
+https://www.impute.me/  
+foundmyfitness  
