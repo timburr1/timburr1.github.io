@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Links Post 2/13/2019
+title: Links Post 3/5/2019
 author: tim
 tags: links
 ---
@@ -14,14 +14,23 @@ sportsball
 wtf
 
 **Business/Finance**  
-[Mysterious Turkish Firm Helped Maduro Move $900 Million in Gold](https://www.bloomberg.com/news/articles/2019-02-08/mysterious-turkish-firm-helped-maduro-move-900-million-in-gold) Bloomberg    
-[No thank you, Mr. Pecker](https://medium.com/@jeffreypbezos/no-thank-you-mr-pecker-146e3922310f) Jeff Bezos, Medium. Bezos Exposes Pecker! the jokes write themselves...   
-[With Cocaine Flowing, the Push to Pry Generals From Maduro Hits a Snag](https://www.bloomberg.com/news/articles/2019-02-13/with-cocaine-flowing-push-to-pry-generals-from-maduro-hits-snag) Bloomberg. "In a country with more than 2,000 generals and admirals, only one top officer -- who commands no troops -- has pledged allegiance to Guaido. So have two colonels (a physician and a military attache in Washington)."  
+[Berkshire Hathaway Annual Shareholders Letter](http://www.berkshirehathaway.com/letters/2018ltr.pdf) Warren Buffett, PDF WARNING  
+[Mithril Capital promised to be the “capstone” to Peter Thiel’s investment empire. It ended up as a major distraction.](https://www.recode.net/2019/2/18/18217681/peter-thiel-venture-fund-ajay-royan-mithril-capital-drama-disarray) Recode  
 
 **Computing**  
-[Learning Git in Reverse](https://zdatainc.com/2016/01/learning-git-in-reverse/)   
-[Stevey's Google Platforms Rant](https://gist.github.com/chitchcock/1281611) Steve Yegge  
-[Your Apps Know Where You Were Last Night, and They’re Not Keeping It Secret](https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-apps.html) NYT  
+[Disputed N.S.A. Phone Program Is Shut Down, Aide Says](https://www.nytimes.com/2019/03/04/us/politics/nsa-phone-records-program-shut-down.html) NYT  
 
-**WTF**  
-[Massive And Terrifying ‘God Emperor Trump’ Presides Over Parade In Italy](https://www.huffingtonpost.com/entry/trump-parade-float-italy_us_5c611a4ae4b0eec79b254486) HuffPost. Lullz for the lul throne!  
+**Psychedelia**  
+[Julian Jaynes and the Ancient Tablets](https://guzey.com/personal/writing/jaynes/) Alexey Guzey  
+
+**Sportsball**  
+[Not Another Boring Creatine Guide: Answers to FAQs and Lesser-Known Benefits](https://www.strongerbyscience.com/creatine/) StrongerByScience   
+
+
+https://www.mintmobile.com/product/03-month-small-sim-card-plan/
+yang2020
+https://www.lawfareblog.com/livestream-cohen-testimony-house-oversight-committee
+https://www.impute.me/
+foundmyfitness
+https://www.creditwritedowns.com/p/mmt-for-dummies
+
