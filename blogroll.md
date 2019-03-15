@@ -5,8 +5,8 @@ title: Stuff I Read
 
 **Blogs**  
 [Coding Horror](https://blog.codinghorror.com/)  
+[Gwern](https://www.gwern.net/)  
 [Hacker News](https://news.ycombinator.com/)  
-[Hotel Concierge](https://hotelconcierge.tumblr.com)  
 [Joel on Software](https://www.joelonsoftware.com/)  
 [The Last Psychiatrist](https://thelastpsychiatrist.com)  
 [Lawfare](https://lawfareblog.com/)  
