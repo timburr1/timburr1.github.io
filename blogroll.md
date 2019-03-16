@@ -3,6 +3,9 @@ layout: default
 title: Stuff I Read
 ---
 
+[LibGen](http://libgen.io/)  
+[Sci-Hub](https://sci-hub.tw/)  
+
 **Blogs**  
 [Coding Horror](https://blog.codinghorror.com/)  
 [Gwern](https://www.gwern.net/)  
@@ -19,12 +22,12 @@ title: Stuff I Read
 [PopeHat](https://www.popehat.com/)  
 [Sam\[\]zdat](https://samzdat.com/)  
 [Schneier on Security](https://www.schneier.com/)  
-[Slate Star Codex](http://slatestarcodex.com/)  
+[Slate Star Codex](https://slatestarcodex.com/)  
 [Wait But Why](https://waitbutwhy.com)  
 [Yuh Dead](https://lorav.github.io/)  
 
 **Web Comics**  
-[Laws and Sausages](http://lawsandsausagescomic.com/comic)  
-[The Perry Bible Fellowship](http://pbfcomics.com/)  
-[Saturday Morning Breakfast Cereal](http://smbc-comics.com/)  
+[Laws and Sausages](https://lawsandsausagescomic.com/comic)  
+[The Perry Bible Fellowship](https://pbfcomics.com/)  
+[Saturday Morning Breakfast Cereal](https://smbc-comics.com/)  
 [xkcd](https://xkcd.com/)  
