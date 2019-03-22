@@ -2,7 +2,7 @@
 layout: post
 title: Yield Curve Inversion
 author: tim
-tags: exercise
+tags: finance
 ---
 
 The 10yr-3mo yield spread on treasury bonds inverted this morning:
