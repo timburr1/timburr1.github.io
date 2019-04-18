@@ -20,6 +20,7 @@ title: Stuff I Read
 [Overcoming Bias](https://www.overcomingbias.com/)  
 [Paul Graham's Essays](http://paulgraham.com/articles.html)  
 [PopeHat](https://www.popehat.com/)  
+[Sam Altman](https://blog.samaltman.com/)  
 [Sam\[\]zdat](https://samzdat.com/)  
 [Schneier on Security](https://www.schneier.com/)  
 [Slate Star Codex](https://slatestarcodex.com/)  
