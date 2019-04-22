@@ -7,6 +7,7 @@ title: Stuff I Read
 [Sci-Hub](https://sci-hub.tw/)  
 
 **Blogs**  
+[The Alexandrian](https://thealexandrian.net/)  
 [Coding Horror](https://blog.codinghorror.com/)  
 [Gwern](https://www.gwern.net/)  
 [Hacker News](https://news.ycombinator.com/)  
