@@ -3,7 +3,7 @@ This is a toy web site and blog
 
 ## TODO:
 
--wedding, Chile, China posts
+-eclipse, wedding, Chile, China posts
 
 -fix image links in Paris/Spain/London posts
 
