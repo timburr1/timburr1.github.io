@@ -13,6 +13,7 @@ I like podcasts. I normally listen to them on my Android phone, using the [Podca
 **Business/Finance**  
 [Odd Lots](https://www.bloomberg.com/podcasts/odd_lots)  
 [Planet Money](http://www.npr.org/podcasts/510289/planet-money/)  
+[Slate Money](https://slate.com/podcasts/slate-money)  
 
 **College Football**  
 [Podcast Ain't Played Nobody](https://soundcloud.com/aintplayednobody)  
@@ -34,6 +35,7 @@ I like podcasts. I normally listen to them on my Android phone, using the [Podca
 [Norman Centuries](https://normancenturies.com/)  
 [Radio War Nerd](https://www.patreon.com/radiowarnerd)  
 [Revolutions](http://www.revolutionspodcast.com/)  
+[Silk and Steel](https://www.patreon.com/silknsteel)  
 [Slow Burn](https://slate.com/slow-burn)  
 [Standoff: What happened at Ruby Ridge?](http://feeds.megaphone.fm/slate-presents)  
 [Stuff You Missed in History Class](https://www.missedinhistory.com/)  
