@@ -17,6 +17,7 @@ title: Stuff I Read
 [The Last Psychiatrist](https://thelastpsychiatrist.com)  
 [Lawfare](https://lawfareblog.com/)  
 [Melting Asphalt](https://meltingasphalt.com)  
+[Minding our way (to the heavens)](http://mindingourway.com/)  
 [Money Stuff](https://www.bloomberg.com/view/topics/money-stuff)  
 [Naked Capitalism](https://www.nakedcapitalism.com/)  
 [Otium](https://srconstantin.wordpress.com/)  
