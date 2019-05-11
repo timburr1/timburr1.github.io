@@ -44,8 +44,10 @@ I like podcasts. I normally listen to them on my Android phone, using the [Podca
 [Limited Resources](http://lrcast.com/)
 
 **Misc./NPR Stuff**  
+[Against the Rules with Michael Lewis](https://atrpodcast.com/)  
 [All the President's Lawyers](https://www.kcrw.com/news-culture/shows/lrc-presents-all-the-presidents-lawyers)  
 [Invisibilia](http://www.npr.org/podcasts/510307/invisibilia)  
+[People Who Read People](https://open.spotify.com/episode/6PQP6fOKog6DFXuPPJrnpi?si=xkXQfAaxQ8-dsezD4cfskw)  
 [Radiolab](http://www.radiolab.org/)  
 [Reveal](https://www.revealnews.org/)  
 [Serial](https://serialpodcast.org/)  
