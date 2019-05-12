@@ -6,7 +6,7 @@ title: Slingin' Cardboard
 [Dungeon](http://www.dungeon-world.com/) [World](https://www.dungeonworldsrd.com/)  
 [Pathfinder](https://www.d20pfsrd.com/)
 
-You can look at my Magic: the Gathering decks [here](https://deckbox.org/users/timburr), if you are into that sort of thing.
+You can look at my Magic: the Gathering decks [here](https://deckbox.org/users/timburr), if you are into that sort of thing. I'm TimothyTimburr#39320 on Arena and timburr1 on Magic Online.
 
 I'm also getting into Warhammer 40k a little bit. Current army lists:  
 [Tyranids, 1250pts](40kArmies/Tyranids_1250.html)  
