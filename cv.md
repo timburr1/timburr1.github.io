@@ -5,6 +5,7 @@ title: Curriculum Vitae
 
 Tools and Languages
 -------------------
+
 <table style="width:100%">
   <tr>
     <td>Java 6 - 11</td>
