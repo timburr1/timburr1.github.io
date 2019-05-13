@@ -3,12 +3,12 @@ This is a toy web site and blog
 
 ## TODO:
 
--eclipse, wedding, Chile, China posts
+- eclipse, wedding, Chile, China posts
 
--book reports: The Pragmatic Programmer, The Mythical Man-Month
+- book reports: The Pragmatic Programmer, The Mythical Man-Month
 
--fix image links in Paris/Spain/London posts
+- fix image links in Paris/Spain/London posts
 
--yourmorals.org
+- yourmorals.org
 
--add tools/languages section to cv
+- http://www.personal.psu.edu/%7Ej5j/IPIP/
