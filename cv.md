@@ -5,28 +5,13 @@ title: Curriculum Vitae
 
 Tools and Languages
 -------------------
-
-<table style="width:100%">
-  <tr>
-    <td>Java 6 - 11</td>
-    <td>Netbeans</td>
-  </tr>
-  <tr>
-    <td>Python</td>
-    <td>PyCharm</td>
-  </tr>
-  <tr>
-    <td>Javascript/Typescript/Angular2</td>
-    <td>IntelliJ</td>
-  </tr>
-  <tr>
-    <td>Microsoft SQL Server</td>
-    <td>MSSQL Studio</td>
-  </tr>
-  <tr>
-    <td>Mongo DB</td>
-    <td></td>
-</table> 
+| | |
+|-|-|  
+| Java 6 - 11 | Netbeans |  
+| Python | PyCharm |  
+| TypeScript / Angular 2 | IntelliJ |  
+| Microsoft SQL Server | MSSQL Studio |  
+| Mongo DB | | 
 
 Education
 ---------
