@@ -12,8 +12,9 @@ Microsoft SQL Server
 Mongo DB  
 Netbeans  
 PyCharm  
-IntelliJ  
+IntelliJ IDEA  
 MSSQL Studio  
+
 
 Education
 ---------
@@ -26,6 +27,7 @@ University of Hertfordshire, Hatfield, UK
 
 University of Michigan- Flint, Flint, MI  
 *Dual Enrollment, 2006-07*  
+
 
 Work Experience
 ---------------
@@ -57,6 +59,7 @@ May 2006 - Jul 2012
 Lifeguard, Counselor, and Shooting Sports Co-Director | BSA Camp Tapico | Kalkaska, MI
 * Managed other counselors and scouts
 * Maintained a safe and fun environment, even at the beach and on gun ranges
+
 
 Awards and Acknowledgements
 ---------------------------
