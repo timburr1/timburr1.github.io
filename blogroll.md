@@ -8,6 +8,7 @@ title: Stuff I Read
 
 **Blogs**  
 [The Alexandrian](https://thealexandrian.net/)  
+[BoiseDev](https://boisedev.com/)  
 [Coding Horror](https://blog.codinghorror.com/)  
 [Gwern](https://www.gwern.net/)  
 [Hacker News](https://news.ycombinator.com/)  
