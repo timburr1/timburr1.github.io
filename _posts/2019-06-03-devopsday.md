@@ -21,7 +21,11 @@ Keynote: **The Data Behind DevOps: Becoming a High Performer**
   * [Turn the Ship Around](https://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404)
   * [The Tangled Web: A Guide to Securing Modern Web Applications](https://www.amazon.com/Tangled-Web-Securing-Modern-Applications/dp/1593273886)  
   * [Christian Haschek's Blog](https://blog.haschek.at/2018/the-curious-case-of-the-RasPi-in-our-network.html)
-* Security Champions (stakeholders attached to software teams)
+* Podcasts and Videos:
+  * [Darknet Diaries](https://darknetdiaries.com/)
+  * [Security as Nurturance](https://blog.newrelic.com/technology/security-as-nurturance-modern-software-podcast/)
+  * [YouTube: OWASP Conferences, Bsides, RSA](https://www.youtube.com/user/OWASPGLOBAL)  
+* [Security Champions](https://www.youtube.com/watch?v=-gzMmdHOF3U&t=1s) (stakeholders attached to software teams)
 * [Mozilla Observatory](https://observatory.mozilla.org/faq/)
 * [SheHacksPurple](https://code.likeagirl.io/@shehackspurple)
 
