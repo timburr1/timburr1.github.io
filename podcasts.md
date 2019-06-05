@@ -39,6 +39,7 @@ I like podcasts. I normally listen to them on my Android phone, using the [Podca
 [Slow Burn](https://slate.com/slow-burn)  
 [Standoff: What happened at Ruby Ridge?](http://feeds.megaphone.fm/slate-presents)  
 [Stuff You Missed in History Class](https://www.missedinhistory.com/)  
+[White Lies](https://www.npr.org/podcasts/510343/white-lies)  
 
 **Magic: the Gathering**  
 [Limited Resources](http://lrcast.com/)
@@ -46,11 +47,13 @@ I like podcasts. I normally listen to them on my Android phone, using the [Podca
 **Misc./NPR Stuff**  
 [Against the Rules with Michael Lewis](https://atrpodcast.com/)  
 [All the President's Lawyers](https://www.kcrw.com/news-culture/shows/lrc-presents-all-the-presidents-lawyers)  
+[Dark Net Diaries](https://darknetdiaries.com/)  
 [Invisibilia](http://www.npr.org/podcasts/510307/invisibilia)  
 [People Who Read People](https://open.spotify.com/episode/6PQP6fOKog6DFXuPPJrnpi?si=xkXQfAaxQ8-dsezD4cfskw)  
 [Radiolab](http://www.radiolab.org/)  
 [Reveal](https://www.revealnews.org/)  
 [Serial](https://serialpodcast.org/)  
+[The Shrink Next Door](https://www.bloomberg.com/features/the-shrink-next-door/)  
 [S-Town](https://stownpodcast.org/)  
 [This American Life](https://www.thisamericanlife.org/podcast)  
 
