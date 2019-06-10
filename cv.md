@@ -3,19 +3,6 @@ layout: default
 title: Curriculum Vitae
 ---
 
-Tools and Languages
--------------------
-Java  
-Python  
-TypeScript / Angular 2  
-Microsoft SQL Server  
-Mongo DB  
-Netbeans  
-PyCharm  
-IntelliJ IDEA  
-MSSQL Studio  
-
-
 Education
 ---------
 University of Oklahoma, Norman, OK  
@@ -36,6 +23,7 @@ Software Developer | Clearwater Analytics | Boise, ID
 * Maintain and improve existing code  
 * Provide 24-hour, on-call support for critical projects
 * Create additional webservices, databases, and testing frameworks  
+* Collaborate with a diverse, ever-changing team of developers and analysts
 
 Nov 2015 - Nov 2017  
 Compliance Team Lead | Clearwater Analytics | Boise, ID  
@@ -44,7 +32,8 @@ Compliance Team Lead | Clearwater Analytics | Boise, ID
 
 Sep 2011 - May 2012  
 Teaching Assistant | University of Oklahoma | Norman, OK
-* Graded homework and taught students at office hours
+* Taught students basic programming concepts at office hours
+* Provided student feedback through grading homework and projects
 
 Jun 2010 - Jun 2011  
 Operations Intern | MSCI Inc. | Norman, OK
@@ -53,12 +42,26 @@ Operations Intern | MSCI Inc. | Norman, OK
 
 2008 - 2010  
 Work/Study | Chick-Fil-A | Norman, OK
-* Cooked, cleaned, and interacted with customers in a fast-paced setting
+* Worked with a team to cook, clean, and maintain customer satisfaction in a fast-paced setting
 
 May 2006 - Jul 2012  
 Lifeguard, Counselor, and Shooting Sports Co-Director | BSA Camp Tapico | Kalkaska, MI
+* Developed personal leadership skills in a non-profit environment
 * Managed other counselors and scouts
-* Maintained a safe and fun environment, even at the beach and on gun ranges
+* Led groups of scouts and counselors from many diverse backgrounds
+
+
+Tools and Languages
+-------------------
+Java  
+Python  
+TypeScript / Angular 2  
+Microsoft SQL Server  
+Mongo DB  
+Netbeans  
+PyCharm  
+IntelliJ IDEA  
+MSSQL Studio  
 
 
 Awards and Acknowledgements
