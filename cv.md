@@ -3,6 +3,19 @@ layout: default
 title: Curriculum Vitae
 ---
 
+Tools and Languages
+-------------------
+Java  
+Python  
+TypeScript / Angular 2  
+Microsoft SQL Server  
+Mongo DB  
+Netbeans  
+PyCharm  
+IntelliJ IDEA  
+MSSQL Studio  
+
+
 Education
 ---------
 University of Oklahoma, Norman, OK  
@@ -49,19 +62,6 @@ Lifeguard, Counselor, and Shooting Sports Co-Director | BSA Camp Tapico | Kalkas
 * Developed personal leadership skills in a non-profit environment
 * Managed other counselors and scouts
 * Led groups of scouts and counselors from many diverse backgrounds
-
-
-Tools and Languages
--------------------
-Java  
-Python  
-TypeScript / Angular 2  
-Microsoft SQL Server  
-Mongo DB  
-Netbeans  
-PyCharm  
-IntelliJ IDEA  
-MSSQL Studio  
 
 
 Awards and Acknowledgements
