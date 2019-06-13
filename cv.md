@@ -45,7 +45,7 @@ Compliance Team Lead | Clearwater Analytics | Boise, ID
 
 Sep 2011 - May 2012  
 Teaching Assistant | University of Oklahoma | Norman, OK
-* Taught students basic programming concepts at office hours
+* Taught basic programming concepts at office hours
 * Provided student feedback through grading homework and projects
 
 Jun 2010 - Jun 2011  
@@ -60,7 +60,6 @@ Work/Study | Chick-Fil-A | Norman, OK
 May 2006 - Jul 2012  
 Lifeguard, Counselor, and Shooting Sports Co-Director | BSA Camp Tapico | Kalkaska, MI
 * Developed personal leadership skills in a non-profit environment
-* Managed other counselors and scouts
 * Led groups of scouts and counselors from many diverse backgrounds
 
 
