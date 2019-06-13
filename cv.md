@@ -36,7 +36,7 @@ Software Developer | Clearwater Analytics | Boise, ID
 * Maintain and improve existing code  
 * Provide 24-hour, on-call support for critical projects
 * Create additional webservices, databases, and testing frameworks  
-* Collaborate with a diverse, ever-changing team of developers and analysts
+* Collaborate with other developers and analysts
 
 Nov 2015 - Nov 2017  
 Compliance Team Lead | Clearwater Analytics | Boise, ID  
