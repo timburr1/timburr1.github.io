@@ -26,10 +26,12 @@ I like podcasts. I normally listen to them on my Android phone, using the [Podca
 **Long-Form History**  
 [12 Byzantine Rulers](https://12byzantinerulers.com/)  
 [The British History Podcast](https://www.thebritishhistorypodcast.com/)  
+[The China History Podcast](https://recordedhistory.net/china-history/)  
 [Crimetown](https://gimletmedia.com/show/crimetown/)  
 [Hardcore History](http://www.dancarlin.com/hardcore-history-series/)  
 [The History of Byzantium](https://thehistoryofbyzantium.com/)  
 [The History of Rome](http://www.thehistoryofrome.typepad.com/)  
+[The Industrial Revolutions Podcast](https://podcasts.apple.com/us/podcast/the-industrial-revolutions/id1448814454)  
 [MartyrMade](http://www.martyrmade.com/)  
 [More Perfect](http://www.wnyc.org/shows/radiolabmoreperfect/)  
 [Norman Centuries](https://normancenturies.com/)  
