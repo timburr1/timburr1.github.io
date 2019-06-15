@@ -31,7 +31,7 @@ I like podcasts. I normally listen to them on my Android phone, using the [Podca
 [Hardcore History](http://www.dancarlin.com/hardcore-history-series/)  
 [The History of Byzantium](https://thehistoryofbyzantium.com/)  
 [The History of Rome](http://www.thehistoryofrome.typepad.com/)  
-[The Industrial Revolutions Podcast](https://podcasts.apple.com/us/podcast/the-industrial-revolutions/id1448814454)  
+[The Industrial Revolutions Podcast](https://industrialrevolutionspod.com/)  
 [MartyrMade](http://www.martyrmade.com/)  
 [More Perfect](http://www.wnyc.org/shows/radiolabmoreperfect/)  
 [Norman Centuries](https://normancenturies.com/)  
