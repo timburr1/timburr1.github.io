@@ -60,7 +60,7 @@ Work/Study | Chick-Fil-A | Norman, OK
 May 2006 - Jul 2012  
 Lifeguard, Counselor, and Shooting Sports Co-Director | BSA Camp Tapico | Kalkaska, MI
 * Developed personal leadership skills in a non-profit environment
-* Led groups of scouts and counselors from many diverse backgrounds
+* Managed groups of scouts and counselors from many diverse backgrounds
 
 
 Awards and Acknowledgements
