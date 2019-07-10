@@ -3,7 +3,7 @@ This is a toy web site and blog
 
 ## TODO:
 
-- eclipse, wedding, Chile, China posts
+- eclipse, wedding, Chile, China, Juplaya posts
 
 - book reports: The Pragmatic Programmer, The Mythical Man-Month
 
