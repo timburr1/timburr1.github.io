@@ -31,17 +31,33 @@ University of Michigan- Flint, Flint, MI
 
 Work Experience
 ---------------
-Aug 2012 - present  
+Aug 2019 - present
+Senior Software Engineer | Healthwise | Boise, ID
+* Interacts with other departments and internal users as part of development of the
+Healthwise software and systems
+* Provides leadership and direction to engineers developing tools and processes to
+improve continuous integration and automated testing at Healthwise
+* Envisions innovative designs for complex software systems; Contributes to
+developing effective processes and best practices
+* Works with other developers to facilitate knowledge transfer and conduct code
+reviews
+* Participates in pair programming, technical design reviews, and code reviews
+* Works with users to resolve technical issues and to provide implementation support  
+* Contributes to development of company objectives and principles, and achieves
+goals in creative and effective ways  
+
+Aug 2012 - Aug 2019  
 Software Developer | Clearwater Analytics | Boise, ID  
-* Maintain and improve existing code  
-* Provide 24-hour, on-call support for critical projects
-* Create additional webservices, databases, and testing frameworks  
-* Collaborate with other developers and analysts
+* Maintained and improved existing code  
+* Provided 24-hour, on-call support for critical projects
+* Created additional webservices, databases, and testing frameworks  
+* Collaborated with other developers and analysts
 
 Nov 2015 - Nov 2017  
 Compliance Team Lead | Clearwater Analytics | Boise, ID  
 * Led an Agile team of four developers and one quality assurance engineer  
 * Worked with users and stakeholders to prioritize and implement new features  
+* Mentored and taught junior developers
 
 Sep 2011 - May 2012  
 Teaching Assistant | University of Oklahoma | Norman, OK
