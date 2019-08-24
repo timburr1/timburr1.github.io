@@ -31,7 +31,7 @@ University of Michigan- Flint, Flint, MI
 
 Work Experience
 ---------------
-Aug 2019 - present
+Aug 2019 - present  
 Senior Software Engineer | Healthwise | Boise, ID
 * Interacts with other departments and internal users as part of development of the
 Healthwise software and systems
