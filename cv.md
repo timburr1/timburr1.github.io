@@ -5,11 +5,14 @@ title: Curriculum Vitae
 
 Tools and Languages
 -------------------
+C#  
+Microsoft Azure  
 Java  
 Python  
 TypeScript / Angular 2  
 Microsoft SQL Server  
 Mongo DB  
+Microsoft Visual Studio  
 Netbeans  
 PyCharm  
 IntelliJ IDEA  
@@ -83,7 +86,7 @@ Awards and Acknowledgements
 ---------------------------
 Eagle Scout  
 National Merit Finalist  
-Presented at OU Honors College on 'Majors and Careers in a Volatile Economy' in September 2015  
+Presented at OU Honors College on ['Majors and Careers in a Volatile Economy'](https://timburr1.github.io/2017/02/04/ou-talk.html) in September 2015  
 
 
 Find me on [GitHub](https://github.com/timburr1) or [LinkedIn](http://www.linkedin.com/pub/timothy-burr/66/a88/a39).
