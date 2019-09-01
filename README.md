@@ -3,14 +3,12 @@ This is a toy web site and blog
 
 ## TODO:
 
-- eclipse, wedding, Chile, China, Juplaya posts
+- China, Juplaya posts
 
 - book reports: The Pragmatic Programmer, The Mythical Man-Month
 
-- fix image links in Paris/Spain/London posts
+- fix image links in Paris + Madrid posts
 
 - yourmorals.org
 
 - http://www.personal.psu.edu/%7Ej5j/IPIP/
-
-- resize images?
