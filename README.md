@@ -3,7 +3,7 @@ This is a toy web site and blog
 
 ## TODO:
 
-- China, Juplaya posts
+- China post
 
 - book reports: The Pragmatic Programmer, The Mythical Man-Month
 
