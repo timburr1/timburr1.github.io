@@ -38,6 +38,7 @@ title: Stuff I Read
 
 **Software Development**  
 [Coding Horror](https://blog.codinghorror.com/)  
+[Google Developers Blog](https://developers.googleblog.com/)  
 [Hacker News](https://news.ycombinator.com/)  
 [Henrik Warne's blog](https://henrikwarne.com/)  
 [Joel on Software](https://www.joelonsoftware.com/)  
