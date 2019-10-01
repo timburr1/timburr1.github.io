@@ -1,107 +1,135 @@
 <!DOCTYPE html>
 <!-- Tim Burr -->
 <html>
- <head>
-			<title>StoryParser Page</title>
-  <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width">
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
+	<head>
+		<title>Story Parser</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<!-- link to main stylesheet -->
+	<link rel="stylesheet" type="text/css" href="/css/main.css">
 </head>
- <body>
-  <nav>
-	    		<ul>
-				<li><a href="/">Home</a></li>
-				<li><a href="/about">About</a></li>
-				<li><a href="/cv">CV</a></li>
-				<li><a href="/fiction/index">Fiction</a></li>
-				<li><a href="/games">Games</a></li>
-				<li><a href="/blogroll">Blogroll</a></li>				
-				<li><a href="/podcasts">Podcasts</a></li>
-				<li><a href="/StoryParser.html">Story Parser</a></li>				
-	    		</ul>
-</nav>
-  <p>Please input the text you would like analyzed:</p>
+<body>
+	<nav>
+	    <ul>
+		<li><a href="/">Home</a></li>
+		<li><a href="/about">About</a></li>
+		<li><a href="/cv">CV</a></li>
+		<li><a href="/fiction/index">Fiction</a></li>
+		<li><a href="/games">Games</a></li>
+		<li><a href="/blogroll">Blogroll</a></li>				
+		<li><a href="/podcasts">Podcasts</a></li>
+		<li><a href="/StoryParser.html">Story Parser</a></li>				
+	    </ul>
+	</nav>
+	
+	<p>Please input the text you would like analyzed. 
+	<p>*The StoryParser may not work if you are not using the Latin, Greek, or Cyrillic alphabets. If you'd like another language added (or if you find a bug!) please let me know.</p>
 
-  <input id="input" type="text">
-  <button type="button" onclick="run()">Submit</button>
+	<input id="input" type="text" accept-charset="UTF-8">
+	<button type="button" onclick="run()">Submit</button>
 
-  <p id="output"></p>
+	<p id="output"></p>
 
-  <script> 
-   function run() {
-    //convert the input string to lowercase and break it into constituent words 
-    var wordList = splitString(document.getElementById("input").value.toLowerCase());
+	<script> 
+	function run() 
+	{
+		//convert text to lower-case, then break it into its constituent words 
+		var wordList = splitString(document.getElementById("input").value.toLowerCase());
     
-    //sort words alphabetically, then store them in a map of word -> number of occurrences 
-    var wordMap = createMap(wordList.sort());  
+		//sort words alphabetically, then store them in a map of word -> number of occurrences 
+		var wordMap = createMap(wordList.sort());  
 
-    var str = "";
-    for(var key in wordMap) {
-     if(wordMap.hasOwnProperty(key)) {
-      str += key + ": " + wordMap[key] + "<br>";
-     }
-    }
+		var str = "";
+		for(var key in wordMap) 
+		{
+			if(wordMap.hasOwnProperty(key)) 
+			{
+				str += key + ": " + wordMap[key] + "<br>";
+			}
+		}
 
-    document.getElementById("output").innerHTML = str;
-   }
+		document.getElementById("output").innerHTML = str;
+	}
 
-   function createMap(words) {
-    var wordMap = {};
+	function createMap(words) 
+	{		
+		var wordMap = {};
     
-    for(n = 0; n < words.length; n++) {
-     var w = words[n];
-     if(!wordMap.hasOwnProperty(w)) {
-      wordMap[w] = 1;
-     }
-     else {
-      wordMap[w] = wordMap[w] + 1;
-     }
-    }
-    
-    return wordMap;
+		for(n = 0; n < words.length; n++) 
+		{
+			var w = words[n];
+			if(!wordMap.hasOwnProperty(w)) 
+			{
+			wordMap[w] = 1;
+			}
+			else 
+			{
+			wordMap[w] = wordMap[w] + 1;
+			}
+		}
+		
+		return wordMap;
    }
 
-   function splitString(string) {
-    var words = [];
+   function splitString(string) 
+   {
+		var words = [];
 
-    var w = "";
-    for (n = 0; n < string.length; n++) {
-     if (isCharacter(string.charAt(n))) {
-      w += string.charAt(n);
-     }
-     else {
-      if (w.length > 0) {
-       words[words.length] = w;
-      }
-      w = "";
-     }
-    }
+		var w = "";
+		for (n = 0; n < string.length; n++) 
+		{
+			var c = string.charAt(n);
+			if (isCharacter(c)) 
+			{
+				w += c;
+			}
+			else 
+			{
+				if (w.length > 0) 
+				{
+					words[words.length] = w;
+				}
+				
+				w = "";
+			}
+		}
 
-    if (w.length > 0) {
-     words[words.length] = w;
-    }
+		if (w.length > 0) 
+		{
+			words[words.length] = w;
+		}
 
-    return words;
-   }
+		return words;
+	}
 
-   function isCharacter(char) {
-    if (char >= 'a' && char <= 'z') {
-     return true;
-    }
-    else if (char == 'ñ' || char == 'á' || char == 'é' 
-      || char == 'í' || char == 'ó' || char == 'ú') {
-     return true
-    }
-
-    return false;
-   }
-  </script>
+	//UTF-8; input should always be lower-case
+	function isCharacter(char) 
+	{
+		if ('a' <= char && char <= 'z') 
+		{	//standard American English alphabet
+			return true;
+		}	
+		else if ('ß' <= char && char <= 'ʯ' && char != '÷') 
+		{	//expanded Latin character set (so many accent marks)		
+			return true;
+		}	
+		else if('ά' <= char && char <= 'ώ')
+		{	//Greek
+			return true;
+		}
+		else if ('а' <= char && char <= 'ԯ')
+		{	//Cyrillic
+			return true;
+		}
+				
+		return false;
+	}
+	</script>
   
-  <footer>
-	    			<ul>
-					Subscribe to the blog with <li><a href="http://timburr1.github.io/blog/atom.xml">RSS</a></li> 
-				</ul>
-</footer>
- </body>
+	<footer>
+	    <ul>
+			Subscribe to the blog with <li><a href="http://timburr1.github.io/blog/atom.xml">RSS</a></li> 
+		</ul>
+	</footer>
+</body>
 </html>
