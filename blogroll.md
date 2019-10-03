@@ -25,7 +25,7 @@ title: Stuff I Read
 [BoiseDev](https://boisedev.com/)  
 [The Idaho Statesman](https://www.idahostatesman.com/)  
 
-**Misc./Rationalism**  
+**Rationalism/Psychology**  
 [Gwern](https://www.gwern.net/)  
 [The Last Psychiatrist](https://thelastpsychiatrist.com)  
 [Melting Asphalt](https://meltingasphalt.com)  
@@ -47,7 +47,7 @@ title: Stuff I Read
 [Sam Altman](https://blog.samaltman.com/)  
 [Schneier on Security](https://www.schneier.com/)  
 
-**WebComics**  
+**Web Comics**  
 [Laws and Sausages](https://lawsandsausagescomic.com/comic)  
 [The Perry Bible Fellowship](https://pbfcomics.com/)  
 [Saturday Morning Breakfast Cereal](https://smbc-comics.com/)  
