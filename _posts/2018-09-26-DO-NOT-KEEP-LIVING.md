@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DO NOT KEEP LIVING LIKE THIS- BURNING MAN 2018
+title: DO NOT KEEP LIVING LIKE THIS- Burning Man 2018
 author: tim
 tags: travel
 ---
