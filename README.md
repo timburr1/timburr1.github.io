@@ -12,3 +12,5 @@ This is a toy web site and blog
 - yourmorals.org
 
 - http://www.personal.psu.edu/%7Ej5j/IPIP/
+
+- To serve locally (from Ubuntu), cd into the source dir, run "bundle exec jekyll serve", and navigate to http://localhost:4000 

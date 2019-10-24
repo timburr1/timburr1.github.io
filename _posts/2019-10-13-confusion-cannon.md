@@ -7,11 +7,11 @@ tags:
 
 This is a list of books and things that have had a strong influence on the way I think about the world. It's very much a work in progress.
 
-[The Enchiridion](http://people.tamu.edu/~sdaniel/Notes/enchiridion.pdf) of Epictetus  
+[The Enchiridion](../../../papers/enchiridion.pdf) of Epictetus  
 
 [Gödel, Escher, Bach](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) by Douglas Hofstadter  
 
-[Infinite Jest](http://www.aaronsw.com/weblog/ijend) by David Foster Wallace (For a shorter introduction to DFW, check out [Good Old Neon](http://sdavidmiller.com/octo/files/no_google2/GoodOldNeon.pdf), or his kinda-famous graduaction speech at Kenyon College: [This is Water](https://www.youtube.com/watch?v=8CrOL-ydFMI).)
+[Infinite Jest](http://www.aaronsw.com/weblog/ijend) by David Foster Wallace (For a shorter introduction to DFW, check out [Good Old Neon](../../../papers/GoodOldNeon.pdf), or his kinda-famous graduaction speech at Kenyon College: [This is Water](https://www.youtube.com/watch?v=8CrOL-ydFMI).)
 
 [The Righteous Mind](https://en.wikipedia.org/wiki/The_Righteous_Mind) by Jonathan Haidt  
 
