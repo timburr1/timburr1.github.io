@@ -56,6 +56,7 @@ I like podcasts. I normally listen to them on my Android phone, using the [Podca
 [Serial](https://serialpodcast.org/)  
 [S-Town](https://stownpodcast.org/)  
 [This American Life](https://www.thisamericanlife.org/podcast)  
+[Trump, Inc.](https://www.npr.org/podcasts/583340964/trump-inc)  
 
 **Pop Culture**  
 [The Joe Rogan Experience](https://www.joerogan.com/)  
