@@ -19,6 +19,10 @@ I like podcasts. I normally listen to them on my Android phone, using the [Podca
 [Podcast Ain't Played Nobody](https://soundcloud.com/aintplayednobody)  
 [The Solid Verbal](https://www.solidverbal.com/)  
 
+**Exercise/Health/Nutrition**  
+[The Drive with Peter Attia](https://peterattiamd.com/podcast/)  
+[Stronger By Science](https://www.strongerbyscience.com/podcast/)  
+
 **Internet Stuff**  
 [Dark Net Diaries](https://darknetdiaries.com/)  
 [Reply All](https://gimletmedia.com/reply-all/)  

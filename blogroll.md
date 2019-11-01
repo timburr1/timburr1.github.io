@@ -3,7 +3,6 @@ layout: default
 title: Stuff I Read
 ---
 
-[LibGen](http://libgen.io/)  
 [Sci-Hub](https://sci-hub.tw/)  
 
 **Fiction**  
@@ -26,8 +25,11 @@ title: Stuff I Read
 [The Idaho Statesman](https://www.idahostatesman.com/)  
 
 **Rationalism/Psychology**  
+[80,000 Hours](https://80000hours.org/)  
+[The GiveWell Blog](https://blog.givewell.org/)  
 [Gwern](https://www.gwern.net/)  
 [The Last Psychiatrist](https://thelastpsychiatrist.com)  
+[Meaningness](https://meaningness.com/)  
 [Melting Asphalt](https://meltingasphalt.com)  
 [Minding our way (to the heavens)](http://mindingourway.com/)  
 [Otium](https://srconstantin.wordpress.com/)  

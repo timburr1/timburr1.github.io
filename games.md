@@ -1,4 +1,4 @@
----
+ ---
 layout: default
 title: Slingin' Cardboard
 ---
@@ -18,5 +18,7 @@ Kill Teams:
 [Space Marines vs. Power Armor, 100pts](40kArmies/SpaceMarinesKT_PowerArmor.html)  
 [Space Marines vs. Shooty Hordes, 100pts](40kArmies/SpaceMarinesKT_ShootyHorde.html)  
 [Tyranids, 100pts](40kArmies/TyranidsKT.html)   
+
+[Tyranid Tactics](40kArmies/tyranids_tactics.html)  
 
 
