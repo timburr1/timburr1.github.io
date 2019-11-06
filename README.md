@@ -9,9 +9,7 @@ To serve locally (from Ubuntu), cd into the source dir, run "bundle exec jekyll 
 
 - book reports: The Pragmatic Programmer, The Mythical Man-Month, Head First Design Patterns
 
-- software/extensions lists: Android + Windows
-
-- fix image links in posts:
+- fix image links in posts:  
 2009-10-26-paris-day-one.md  
 2009-10-26-paris-day-two.md  
 2009-10-27-paris-day-three.md  
