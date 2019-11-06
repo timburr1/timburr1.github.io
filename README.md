@@ -9,7 +9,16 @@ To serve locally (from Ubuntu), cd into the source dir, run "bundle exec jekyll 
 
 - book reports: The Pragmatic Programmer, The Mythical Man-Month
 
-- fix image links in Paris + Madrid posts
+- fix image links in posts:
+2009-10-26-paris-day-one.md
+2009-10-26-paris-day-two.md
+2009-10-27-paris-day-three.md
+2009-11-16-spain-day-one.md
+2009-11-16-spain-day-two.md
+2009-11-16-spain-day-three.md
+2009-12-06-katies-visit-st-albans-hatfield-and.md
+2009-12-06-london-day-one.md
+2009-12-06-london-day-two.md
 
 - yourmorals.org
 
