@@ -2,7 +2,7 @@
 layout: post
 title: Some strange and rambling thoughts on Thoreau and the UFC
 date: '2011-09-04T18:57:00.004+01:00'
-author: tim
+author: Tim
 tags: 
 modified_time: '2011-09-04T19:57:09.573+01:00'
 blogger_id: tag:blogger.com,1999:blog-8654393464763154.post-5759392275403266746

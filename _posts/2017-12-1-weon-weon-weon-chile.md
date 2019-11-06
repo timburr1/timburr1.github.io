@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Weon Weon Weon
-author: tim
+author: Tim
 tags: travel
 ---
 

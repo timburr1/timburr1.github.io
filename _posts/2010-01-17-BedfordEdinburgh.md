@@ -2,7 +2,7 @@
 layout: post
 title: Bedford/Edinburgh
 date: '2010-01-17T04:05:00.004Z'
-author: tim
+author: Tim
 tags: 
 modified_time: '2014-04-12T18:49:29.137+01:00'
 thumbnail: http://2.bp.blogspot.com/-VopR1J_YCRs/U0l8mjeYTdI/AAAAAAAAAKk/OMHsiNUynAo/s72-c/129.JPG

@@ -2,7 +2,7 @@
 layout: post
 title: More updates!
 date: '2010-02-24T17:09:00.003Z'
-author: tim
+author: Tim
 tags: 
 modified_time: '2010-02-24T17:29:06.422Z'
 blogger_id: tag:blogger.com,1999:blog-8654393464763154.post-4213456758558466086

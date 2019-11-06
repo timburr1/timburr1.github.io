@@ -2,7 +2,7 @@
 layout: post
 title: Quick update
 date: '2009-10-19T12:34:00.000+01:00'
-author: tim
+author: Tim
 tags: 
 modified_time: '2009-10-19T12:54:15.035+01:00'
 blogger_id: tag:blogger.com,1999:blog-8654393464763154.post-2663995550369031200

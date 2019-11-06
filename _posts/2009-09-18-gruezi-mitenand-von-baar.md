@@ -2,7 +2,7 @@
 layout: post
 title: Gruezi mitenand von Baar
 date: '2009-09-18T16:42:00.000+01:00'
-author: tim
+author: Tim
 tags: 
 modified_time: '2009-09-18T17:44:42.458+01:00'
 blogger_id: tag:blogger.com,1999:blog-8654393464763154.post-8709324145949452446

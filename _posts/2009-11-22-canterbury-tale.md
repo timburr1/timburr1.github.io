@@ -2,7 +2,7 @@
 layout: post
 title: Canterbury Tale
 date: '2009-11-22T10:22:00.001Z'
-author: tim
+author: Tim
 tags: 
 modified_time: '2009-11-22T10:24:10.905Z'
 blogger_id: tag:blogger.com,1999:blog-8654393464763154.post-1437977098848529920

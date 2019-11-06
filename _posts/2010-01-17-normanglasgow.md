@@ -2,7 +2,7 @@
 layout: post
 title: Norman/Glasgow
 date: '2010-01-17T04:18:00.003Z'
-author: tim
+author: Tim
 tags: 
 modified_time: '2014-04-12T18:41:06.370+01:00'
 blogger_id: tag:blogger.com,1999:blog-8654393464763154.post-5833702863082225104

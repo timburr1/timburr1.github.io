@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Notes from 'Accelerate'
-author: tim
+author: Tim
 tags: tech
 ---
 

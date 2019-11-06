@@ -2,7 +2,7 @@
 layout: post
 title: Look 'em straight in the eye and say...
 date: '2009-12-20T14:43:00.012Z'
-author: tim
+author: Tim
 tags: 
 modified_time: '2009-12-20T14:50:18.661Z'
 blogger_id: tag:blogger.com,1999:blog-8654393464763154.post-5040565385390196234

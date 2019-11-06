@@ -2,7 +2,7 @@
 layout: post
 title: Heathrow/Ireland
 date: '2010-01-17T03:44:00.004Z'
-author: tim
+author: Tim
 tags: 
 modified_time: '2014-04-12T18:51:25.033+01:00'
 thumbnail: http://1.bp.blogspot.com/-ciUoPLFpzK0/U0l85y7DyWI/AAAAAAAAAKs/mn3LPrhlqD0/s72-c/047.JPG

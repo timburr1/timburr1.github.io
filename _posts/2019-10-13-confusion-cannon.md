@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Confusion Cannon
-author: tim
+author: Tim
 tags: 
 ---
 

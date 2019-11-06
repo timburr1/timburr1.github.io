@@ -2,7 +2,7 @@
 layout: post
 title: Some advice for students going abroad, or considering it.
 date: '2009-12-13T11:55:00.004Z'
-author: tim
+author: Tim
 tags: 
 modified_time: '2009-12-13T15:58:30.450Z'
 blogger_id: tag:blogger.com,1999:blog-8654393464763154.post-4519971991585630469

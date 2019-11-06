@@ -2,7 +2,7 @@
 layout: post
 title: 
 date: '2010-03-21T17:53:00.004Z'
-author: tim
+author: Tim
 tags: 
 modified_time: '2010-03-26T22:58:21.568Z'
 blogger_id: tag:blogger.com,1999:blog-8654393464763154.post-899138396621808323

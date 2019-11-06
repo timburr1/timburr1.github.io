@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We'll remember this when we are old and ancient, though the specifics might be vague...
-author: tim
+author: Tim
 tags: setlist
 ---
 I went to see the Decemberists today at the Botanical Garden. It was a great show. The opening act was a local band called Typhoon, and they were really good. Kind of like BSS, but with discernible lyrics. They had 13 people on stage, singing and playing horns and guitars and violins. I think the word is "soundscape." Then the Decemberists came on:  

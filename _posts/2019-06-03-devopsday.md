@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dev Ops Days Boise
-author: tim
+author: Tim
 tags: tech
 ---
 

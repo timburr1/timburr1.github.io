@@ -2,7 +2,7 @@
 layout: post
 title: Some thoughts about the WBC
 date: '2010-12-05T20:19:00.004Z'
-author: tim
+author: Tim
 tags: 
 modified_time: '2010-12-11T18:22:39.060Z'
 thumbnail: http://4.bp.blogspot.com/_hiNbF4SwSJU/TPv9InEEHZI/AAAAAAAAADQ/QYRRO5CnLHI/s72-c/SSPX0134.jpg

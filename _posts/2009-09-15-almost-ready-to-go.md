@@ -2,7 +2,7 @@
 layout: post
 title: Almost ready to go!
 date: '2009-09-15T18:09:00.000+01:00'
-author: tim
+author: Tim
 tags: 
 modified_time: '2009-09-15T18:46:11.097+01:00'
 blogger_id: tag:blogger.com,1999:blog-8654393464763154.post-2791069822685161734

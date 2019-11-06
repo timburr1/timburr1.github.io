@@ -2,7 +2,7 @@
 layout: post
 title: Setlist for Brother Ali at Treefort, 3/24/13
 date: '2013-05-27T06:10:00.000+01:00'
-author: tim
+author: Tim
 tags: 
 modified_time: '2013-05-27T06:10:00.131+01:00'
 blogger_id: tag:blogger.com,1999:blog-8654393464763154.post-8199182066825288801

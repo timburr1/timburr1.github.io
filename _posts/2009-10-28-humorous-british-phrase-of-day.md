@@ -2,7 +2,7 @@
 layout: post
 title: 'Humorous British phrase of the day:'
 date: '2009-10-28T03:42:00.000Z'
-author: tim
+author: Tim
 tags: 
 modified_time: '2009-10-27T20:42:13.433Z'
 blogger_id: tag:blogger.com,1999:blog-8654393464763154.post-3135112005091135848

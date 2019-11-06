@@ -2,7 +2,7 @@
 layout: post
 title: Spain, day two
 date: '2009-11-16T21:49:00.005Z'
-author: tim
+author: Tim
 tags: 
 modified_time: '2009-12-29T19:37:14.780Z'
 blogger_id: tag:blogger.com,1999:blog-8654393464763154.post-2429141188400224522

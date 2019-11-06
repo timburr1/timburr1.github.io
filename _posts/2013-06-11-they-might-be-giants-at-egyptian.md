@@ -2,7 +2,7 @@
 layout: post
 title: They Might Be Giants at the Egyptian Theater, 6/9/13
 date: '2013-06-11T17:42:00.002+01:00'
-author: tim
+author: Tim
 tags: 
 modified_time: '2013-06-11T17:42:50.606+01:00'
 blogger_id: tag:blogger.com,1999:blog-8654393464763154.post-3167160046947031682

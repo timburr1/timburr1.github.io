@@ -2,7 +2,7 @@
 layout: post
 title: 'Katie''s Visit: St. Albans, Hatfield, and Oxford'
 date: '2009-12-06T20:09:00.003Z'
-author: tim
+author: Tim
 tags: 
 modified_time: '2009-12-07T19:31:52.124Z'
 blogger_id: tag:blogger.com,1999:blog-8654393464763154.post-7617889361257938428

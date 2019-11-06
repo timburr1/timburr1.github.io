@@ -2,7 +2,7 @@
 layout: post
 title: Halfway Through Fresher's Fortnight
 date: '2009-09-26T16:43:00.001+01:00'
-author: tim
+author: Tim
 tags: 
 modified_time: '2009-11-17T00:01:08.023Z'
 blogger_id: tag:blogger.com,1999:blog-8654393464763154.post-5591651674419615893

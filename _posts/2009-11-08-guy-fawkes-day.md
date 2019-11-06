@@ -2,7 +2,7 @@
 layout: post
 title: Guy Fawkes Day
 date: '2009-11-08T02:33:00.000Z'
-author: tim
+author: Tim
 tags: 
 modified_time: '2014-04-12T18:55:11.532+01:00'
 thumbnail: http://1.bp.blogspot.com/-YO7_0_Dx9Wk/U0l90x5vtEI/AAAAAAAAAK0/THJX15BQMB0/s72-c/HPIM1427.JPG

@@ -2,7 +2,7 @@
 layout: post
 title: Paris, day two
 date: '2009-10-26T10:45:00.000Z'
-author: tim
+author: Tim
 tags: 
 modified_time: '2009-10-30T10:03:14.676Z'
 blogger_id: tag:blogger.com,1999:blog-8654393464763154.post-9125087130108561335

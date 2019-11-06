@@ -2,7 +2,7 @@
 layout: post
 title: London, day two
 date: '2009-12-06T20:50:00.002Z'
-author: tim
+author: Tim
 tags: 
 modified_time: '2009-12-10T12:54:50.342Z'
 blogger_id: tag:blogger.com,1999:blog-8654393464763154.post-7640566421401155341
