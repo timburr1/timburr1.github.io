@@ -10,8 +10,6 @@ You can look at my Magic: the Gathering decks [here](https://deckbox.org/users/t
 
 I'm also getting into Warhammer 40k a little bit. Current army lists:  
 [Tyranids, 1200pts](40kArmies/Tyranids_1200.html)   
-&#127925;Serve the Hive, I control the groove...  
-Serve the Hive, I control the way you move...&#127925;  
 
 Kill Teams:  
 [Space Marines vs. Melee Hordes, 100pts](40kArmies/SpaceMarinesKT_MeleeHorde.html)  
@@ -21,4 +19,5 @@ Kill Teams:
 
 [Tyranid Tactics](40kArmies/tyranids_tactics.html)  
 
-
+&#127925;Serve the Hive, I control the groove...  
+Serve the Hive, I control the way you move...&#127925;  

@@ -64,4 +64,5 @@ I like podcasts. I normally listen to them on my Android phone, using the [Podca
 
 **Pop Culture**  
 [The Joe Rogan Experience](https://www.joerogan.com/)  
+[Juan Ep](https://www.endeavoraudio.com/podcasts/culture-podcasts/juanep)  
 [Mogul](https://gimletmedia.com/mogul/)  
