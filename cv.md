@@ -3,37 +3,8 @@ layout: default
 title: Curriculum Vitae
 ---
 
-Tools and Languages
--------------------
-C#  
-Microsoft Azure  
-Java  
-Python  
-TypeScript / Angular 2  
-Microsoft SQL Server  
-Mongo DB  
-Microsoft Visual Studio  
-Netbeans  
-PyCharm  
-IntelliJ IDEA  
-MSSQL Studio  
-
-
-Education
----------
-University of Oklahoma, Norman, OK  
-*B.S. in Computer Science with Math Minor, May 13, 2011*  
-*M.S. in Computer Science, May 11, 2012*  
-
-University of Hertfordshire, Hatfield, UK  
-*Semester Abroad, Fall 2009*
-
-University of Michigan- Flint, Flint, MI  
-*Dual Enrollment, 2006-07*  
-
-
 Work Experience
----------------
+----
 Aug 2019 - present  
 Senior Software Engineer | Healthwise | Boise, ID
 * Interacts with other departments and internal users as part of development of the
@@ -82,8 +53,43 @@ Lifeguard, Counselor, and Shooting Sports Co-Director | BSA Camp Tapico | Kalkas
 * Managed groups of scouts and counselors from many diverse backgrounds
 
 
+Education
+----
+University of Oklahoma, Norman, OK  
+* B.S. in Computer Science with Math Minor, May 13, 2011*  
+* M.S. in Computer Science, May 11, 2012*  
+
+University of Hertfordshire, Hatfield, UK  
+* Semester Abroad, Fall 2009*
+
+University of Michigan- Flint, Flint, MI  
+* Dual Enrollment, 2006-07*  
+
+
+Tools and Languages
+----
+C#  
+Java  
+Python  
+React
+TypeScript / Angular 2  
+Microsoft SQL Server  
+Mongo DB  
+Microsoft Visual Studio  
+Netbeans  
+PyCharm  
+IntelliJ IDEA  
+Microsoft Azure  
+
+
+Projects
+----
+[Illumicone](https://illumicone.com/) test system  
+[Story Parser](https://timburr1.github.io/StoryParser.html)  
+
+
 Awards and Acknowledgements
----------------------------
+----
 Eagle Scout  
 National Merit Finalist  
 Presented at OU Honors College on ['Majors and Careers in a Volatile Economy'](https://timburr1.github.io/2017/02/04/ou-talk.html) in September 2015  
