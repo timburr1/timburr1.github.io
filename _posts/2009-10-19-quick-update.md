@@ -3,7 +3,7 @@ layout: post
 title: Quick update
 date: '2009-10-19T12:34:00.000+01:00'
 author: Tim
-tags: 
+tags: school, travel
 modified_time: '2009-10-19T12:54:15.035+01:00'
 blogger_id: tag:blogger.com,1999:blog-8654393464763154.post-2663995550369031200
 blogger_orig_url: http://tburr.blogspot.com/2009/10/quick-update.html

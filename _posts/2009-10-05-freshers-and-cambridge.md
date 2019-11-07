@@ -3,7 +3,7 @@ layout: post
 title: Fresher's and Cambridge
 date: '2009-10-05T23:04:00.000+01:00'
 author: Tim
-tags: 
+tags: school, travel
 modified_time: '2009-11-08T03:04:10.205Z'
 thumbnail: http://4.bp.blogspot.com/_hiNbF4SwSJU/SsopUVvyIzI/AAAAAAAAACo/66LFx8F1LaI/s72-c/HPIM1413.JPG
 blogger_id: tag:blogger.com,1999:blog-8654393464763154.post-757675552769368757

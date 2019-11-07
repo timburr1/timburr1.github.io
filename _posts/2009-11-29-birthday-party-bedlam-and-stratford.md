@@ -3,7 +3,7 @@ layout: post
 title: Birthday Party, Bedlam, and Stratford
 date: '2009-11-29T21:53:00.000Z'
 author: Tim
-tags: 
+tags: travel
 modified_time: '2009-11-29T21:53:52.730Z'
 blogger_id: tag:blogger.com,1999:blog-8654393464763154.post-4954953623370254065
 blogger_orig_url: http://tburr.blogspot.com/2009/11/birthday-party-bedlam-and-stratford.html

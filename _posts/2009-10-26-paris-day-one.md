@@ -3,7 +3,7 @@ layout: post
 title: Paris, day one
 date: '2009-10-26T10:25:00.000Z'
 author: Tim
-tags: 
+tags: travel
 modified_time: '2009-10-26T18:11:57.367Z'
 blogger_id: tag:blogger.com,1999:blog-8654393464763154.post-1240294590448207585
 blogger_orig_url: http://tburr.blogspot.com/2009/10/paris-day-one.html

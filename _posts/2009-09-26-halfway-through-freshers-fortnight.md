@@ -3,7 +3,7 @@ layout: post
 title: Halfway Through Fresher's Fortnight
 date: '2009-09-26T16:43:00.001+01:00'
 author: Tim
-tags: 
+tags: school, travel
 modified_time: '2009-11-17T00:01:08.023Z'
 blogger_id: tag:blogger.com,1999:blog-8654393464763154.post-5591651674419615893
 blogger_orig_url: http://tburr.blogspot.com/2009/09/halfway-through-freshers-fortnight.html

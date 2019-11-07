@@ -3,7 +3,7 @@ layout: post
 title: London, day one
 date: '2009-12-06T20:27:00.001Z'
 author: Tim
-tags: 
+tags: travel
 modified_time: '2009-12-10T12:45:11.288Z'
 blogger_id: tag:blogger.com,1999:blog-8654393464763154.post-1777215318947137154
 blogger_orig_url: http://tburr.blogspot.com/2009/12/london-day-one.html

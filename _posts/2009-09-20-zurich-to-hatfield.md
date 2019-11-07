@@ -3,7 +3,7 @@ layout: post
 title: Zurich to Hatfield
 date: '2009-09-20T17:24:00.001+01:00'
 author: Tim
-tags: 
+tags: travel
 modified_time: '2009-11-16T23:59:24.823Z'
 blogger_id: tag:blogger.com,1999:blog-8654393464763154.post-1868166142880876336
 blogger_orig_url: http://tburr.blogspot.com/2009/09/zurich-to-hatfield.html

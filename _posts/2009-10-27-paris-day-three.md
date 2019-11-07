@@ -3,7 +3,7 @@ layout: post
 title: Paris, day three
 date: '2009-10-27T18:35:00.002Z'
 author: Tim
-tags: 
+tags: travel
 modified_time: '2009-12-29T19:32:39.232Z'
 blogger_id: tag:blogger.com,1999:blog-8654393464763154.post-3331911739585574308
 blogger_orig_url: http://tburr.blogspot.com/2009/10/paris-day-three.html
