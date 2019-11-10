@@ -9,7 +9,7 @@ blogger_id: tag:blogger.com,1999:blog-8654393464763154.post-5970126943875955439
 blogger_orig_url: http://tburr.blogspot.com/2009/11/blues-castle.html
 ---
 
-I wrote this for my literature class, 'Reading the Short Story' and thought it turned out well. If you aren't familiar with it, you should check out Charles Perrault's Bluebeard before you read this.
+*I wrote this for my literature class, 'Reading the Short Story' and thought it turned out well. If you aren't familiar with it, you should check out Charles Perrault's Bluebeard before you read this.*
 
 Once upon a time, in a faraway land called New Jersey, there lived a woman and her three lovely daughters. They were reasonably happy, although it must be said that raising three teenage girls is quite a task for anyone, especially a single mother. The youngest daughter, who had been rather unfortunately named Blue, went through a rebellious phase about the time she turned 18. She decided that she no longer wished to live with her family, and began chasing boys in clubs and bars, in the hope that one of them might be able and willing to sweep her off into a life of comfort. This seemed easier than finding a job and roommates, especially since she really was quite attractive.
 
