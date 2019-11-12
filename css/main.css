@@ -2,35 +2,54 @@ body {
     margin: 60px auto;
     width: 70%;
 }
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+	margin-top: 5px;
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
+
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+
+footer {
+    border-top: 2px solid #d5d5d5;
+    font-size: 1em;
+}
+
 a {
     text-decoration: none;
     color: #006272;
 }
+
 a:hover {
     text-decoration: underline;
 }
+
 h1 {
     font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+
+h2 {
+	margin-bottom: 2px;
+}
+
 p {
+	margin: 5px;
     font-size: 1.2em;
     line-height: 1.4em;
     color: #333;
 }
-footer {
-    border-top: 1px solid #d5d5d5;
-    font-size: 1em;
+
+ul {
+	list-style-type: none;
+	margin-top: 0px;
+	padding-left: 20px;
 }
 
 ul.posts { 

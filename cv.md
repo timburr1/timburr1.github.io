@@ -56,15 +56,14 @@ Lifeguard, Counselor, and Shooting Sports Co-Director | BSA Camp Tapico | Kalkas
 Education
 ----
 University of Oklahoma, Norman, OK  
-* B.S. in Computer Science with Math Minor, May 13, 2011*  
-* M.S. in Computer Science, May 11, 2012*  
+* *B.S. in Computer Science with Math Minor, May 13, 2011*  
+* *M.S. in Computer Science, May 11, 2012*  
 
 University of Hertfordshire, Hatfield, UK  
-* Semester Abroad, Fall 2009*
+* *Semester Abroad, Fall 2009*  
 
 University of Michigan- Flint, Flint, MI  
-* Dual Enrollment, 2006-07*  
-
+* *Dual Enrollment, 2006-07*  
 
 Tools and Languages
 ----
@@ -96,3 +95,4 @@ Presented at OU Honors College on ['Majors and Careers in a Volatile Economy'](h
 
 
 Find me on [GitHub](https://github.com/timburr1) or [LinkedIn](http://www.linkedin.com/pub/timothy-burr/66/a88/a39).
+ 
