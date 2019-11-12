@@ -24,6 +24,7 @@ footer {
 a {
     text-decoration: none;
     color: #006272;
+	font-weight: bold;
 }
 
 a:hover {
@@ -40,7 +41,7 @@ h2 {
 }
 
 p {
-	margin: 5px;
+	margin: 10px;
     font-size: 1.2em;
     line-height: 1.4em;
     color: #333;

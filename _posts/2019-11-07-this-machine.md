@@ -5,7 +5,7 @@ author: Tim
 tags: tech
 ---
 
-# Hardware
+## Hardware
 Desktop computer specs, from 2012 but still running strong:  
 <table class="pcpp-part-list">
   <thead>
@@ -47,7 +47,7 @@ Desktop computer specs, from 2012 but still running strong:
 </table>
 [PC Part Picker full list](https://pcpartpicker.com/list/xGBqsY)
 
-# Software
+## Software
 I mostly use Windows 10 these days, or sometimes Ubuntu via [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/about). 
 
 **Security**  
@@ -58,7 +58,7 @@ I mostly use Windows 10 these days, or sometimes Ubuntu via [Windows Subsystem f
 **Software Development**  
 [Microsoft SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/)  
 [Notepad++](https://notepad-plus-plus.org/) for general text editing   
-[PyCharm](https://www.jetbrains.com/pycharm/) + [JuPyter](https://jupyter.org/) notebooks for Python  
+[PyCharm](https://www.jetbrains.com/pycharm/) + [Jupyter](https://jupyter.org/) notebooks for Python  
 [TortoiseGit](https://tortoisegit.org/) for version control  
 [Visual Studio 2019](https://visualstudio.microsoft.com/vs/) with [IntelliCode](https://visualstudio.microsoft.com/services/intellicode/) for C#  
 

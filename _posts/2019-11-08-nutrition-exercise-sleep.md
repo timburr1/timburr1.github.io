@@ -4,7 +4,7 @@ title: Nutrition, Exercise, and Sleep
 author: Tim
 ---
 
-# Nutrition
+## Nutrition
 *"Eat food. Not too much. Mostly plants." -Michael Pollan*  
 
 As long as your total calories and protein are reasonable, and your diet doesn't contain too much processed junk, you are probably fine. 
@@ -15,7 +15,7 @@ As long as your total calories and protein are reasonable, and your diet doesn't
 
 [Not Another Boring Creatine Guide: Answers to FAQs and Lesser-Known Benefits](https://www.strongerbyscience.com/creatine/) StrongerByScience. Creatine Monohydrate is safe and well-studied, although its effect is kind of subtle. 
 
-# Exercise
+## Exercise
 **Lifting**  
 Pick a program that you like, and that works for your goals. I am currently using a modified version of [5/3/1 for Beginners](https://thefitness.wiki/routines/5-3-1-for-beginners/).  
 
@@ -274,5 +274,5 @@ Pick a program that you like, and that works for your goals. I am currently usin
                 </tbody>
               </table> 
                             
-# Sleep
+## Sleep
 It's really important to get enough sleep; most adults need 8-9 hours per night. Pick a regular bedtime based on when you need to get up, and stick to it. Exercise regularly and use a program like [f.lux](https://justgetflux.com/) to block blue light for an hour or so before bed, or even better, get off of your phone/computer altogether.
