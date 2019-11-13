@@ -3,7 +3,7 @@ layout: default
 title: Stuff I Listen To
 ---
 
-I like podcasts. I normally listen to them on my Android phone, using the [Podcast Addict app](https://timburr1.github.io/2019/11/12/apps.html).
+I like podcasts. I normally listen to them on my Android phone, using the Podcast Addict [app](https://timburr1.github.io/2019/11/12/apps.html).
 
 **Burning Man**  
 * [Accuracy Third](https://accuracythird.com/)  

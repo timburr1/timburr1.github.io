@@ -36,7 +36,7 @@ title: Stuff I Read
 * [Otium](https://srconstantin.wordpress.com/)  
 * [Overcoming Bias](https://www.overcomingbias.com/)  
 * [Ryan Holiday's Blog](https://ryanholiday.net/blog/)  
-* [Sam\* [\]zdat](https://samzdat.com/)  
+* [Sam\[\]zdat](https://samzdat.com/)  
 * [Slate Star Codex](https://slatestarcodex.com/)  
 * [Wait But Why](https://waitbutwhy.com)  
 
