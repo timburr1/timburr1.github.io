@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Notes, The Elements of Scrum
+title: Notes from 'The Elements of Scrum'
 tags: tech
 ---
 
 *Some notes on ['The Elements of Scrum'](http://www.agilelearninglabs.com/resources/the-elements-of-scrum/) by Chris Sims and Hillary Louise Johnson*
-
 
 Roles
 ---

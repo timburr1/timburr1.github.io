@@ -1,11 +1,8 @@
 ---
 layout: post
-title: Weon Weon Weon
+title: 'Weon Weon Weon: Nuestra Viaje a Chile'
 author: Tim
 tags: travel
----
-
-Weon Weon Weon: Travels in Chile 2017
 ---
 
 Sat. 11/11 - Sun. 11/12: BOI -> LAX -> Lima -> STG  
