@@ -4,6 +4,8 @@ title: Mental Health, Productivity, and Procrastination
 author: Tim
 ---
 
+[8,760 hours: how to get the most out of next year](/papers/8760-hours-v2.pdf) (PDF), Alex Vermeer  
+
 [The Complete Guide to Self-Control](https://www.scotthyoung.com/blog/2019/09/30/self-control/), Scott Young  
 
 [Every productivity thought I've ever had, as concisely as possible](https://guzey.com/productivity/), Alexey Guzey

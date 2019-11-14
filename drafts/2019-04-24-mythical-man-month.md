@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book Report: The Mythical Man-Month
+title: 'Book Report: The Mythical Man-Month'
 author: tim
 tags: book report
 ---

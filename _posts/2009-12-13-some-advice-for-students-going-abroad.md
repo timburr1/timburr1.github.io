@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some advice for students going abroad, or considering it.
+title: Some advice for students going abroad, or considering it
 date: '2009-12-13T11:55:00.004Z'
 author: Tim
 tags: travel
