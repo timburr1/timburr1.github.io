@@ -9,7 +9,13 @@ gaming, links, setlist, school, tech, travel
 ## TODO:
 - China post
 
-- book reports: The Pragmatic Programmer, The Mythical Man-Month, Head First Design Patterns
+- expand Chile post
+
+- book reports:  
+The Pragmatic Programmer  
+The Mythical Man-Month  
+Head First Design Patterns  
+Becoming a Technical Leader  
 
 - fix image links in posts:  
 2009-10-26-paris-day-one.md  
