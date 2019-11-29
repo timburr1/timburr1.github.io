@@ -63,7 +63,9 @@ I mostly use Windows 10 these days, or sometimes Ubuntu via [Windows Subsystem f
 [Visual Studio 2019](https://visualstudio.microsoft.com/vs/) with [IntelliCode](https://visualstudio.microsoft.com/services/intellicode/) for C#  
 
 **Utilities**  
+[7-Zip](https://www.7-zip.org/) for file compression/decompression  
 [f.lux](https://justgetflux.com/) for night mode  
+[qBittorrent](https://www.qbittorrent.org/)  
 
 **Web Browsing**  
 [Mozilla Firefox](https://www.mozilla.org/firefox/) with the following Add-ons:

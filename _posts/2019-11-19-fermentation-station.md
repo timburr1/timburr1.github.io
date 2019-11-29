@@ -6,9 +6,9 @@ author: Tim
 
 ## Cider
 **Ingredients**  
-* apple juice/cider - 3 gallons  
+* apple juice/cider - 4 gallons  
 * yeast - about a teaspoon (I use Fleischman's Active Dry baking yeast, but brewer's yeast might work better)  
-* sugar - 9 cups  
+* sugar - 12 cups  
 * honey, optional  
 * cloves, optional  
 * a can or two of frozen apple juice concentrate, optional
