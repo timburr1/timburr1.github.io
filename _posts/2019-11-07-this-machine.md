@@ -66,6 +66,7 @@ I mostly use Windows 10 these days, or sometimes Ubuntu via [Windows Subsystem f
 [7-Zip](https://www.7-zip.org/) for file compression/decompression  
 [f.lux](https://justgetflux.com/) for night mode  
 [qBittorrent](https://www.qbittorrent.org/)  
+[Steam](https://store.steampowered.com/) for gaming  
 
 **Web Browsing**  
 [Mozilla Firefox](https://www.mozilla.org/firefox/) with the following Add-ons:
@@ -78,7 +79,6 @@ I mostly use Windows 10 these days, or sometimes Ubuntu via [Windows Subsystem f
 * [Reddit Enhancement Suite](https://addons.mozilla.org/en-US/firefox/addon/reddit-enhancement-suite/)
 * [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) ad-blocker
 
-
-Related:  
+## Related:  
 [Alexey Guzey: Tools / Gear](https://guzey.com/tools-gear/)  
 [Gwern Uses This](https://www.gwern.net/Links#uses-this)  

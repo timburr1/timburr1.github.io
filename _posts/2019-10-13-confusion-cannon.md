@@ -12,7 +12,11 @@ Behavioral Economics, especially [Thinking, Fast and Slow](https://en.wikipedia.
 
 [Gödel, Escher, Bach](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) by Douglas Hofstadter  
 
+[How to Change Your Mind](https://en.wikipedia.org/wiki/How_to_Change_Your_Mind) by Michael Pollan  
+
 [Infinite Jest](http://www.aaronsw.com/weblog/ijend) by David Foster Wallace (For a shorter introduction to DFW, check out [Good Old Neon](../../../papers/GoodOldNeon.pdf), or his kinda-famous graduaction speech at Kenyon College: [This is Water](https://www.youtube.com/watch?v=8CrOL-ydFMI).)
+
+LessWrong and the [Sequences](https://wiki.lesswrong.com/wiki/Sequences)  
 
 [The Righteous Mind](https://en.wikipedia.org/wiki/The_Righteous_Mind) by Jonathan Haidt  
 
@@ -27,4 +31,4 @@ Behavioral Economics, especially [Thinking, Fast and Slow](https://en.wikipedia.
 
 [Small Gods](https://en.wikipedia.org/wiki/Small_Gods) by Terry Pratchett   
 
-[The Wisdom of James Mickens](https://mickens.seas.harvard.edu/wisdom-james-mickens), who is basically right about everything: modernity is terrible and computers were a mistake.
+[The Wisdom of James Mickens](https://mickens.seas.harvard.edu/wisdom-james-mickens), who is basically right about everything: modernity is terrible and computers were a mistake.  
