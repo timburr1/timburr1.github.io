@@ -16,7 +16,8 @@ author: Tim
 
 Sterilizing your equipment is the first, hardest, and most important step. I scrub everything out and rinse it w/ StarSan.  
 Once your carboy or bucket is clean, combine sugar, juice, and yeast, as well as honey and cloves to taste.  
-*I don't know the details, but yeast don't seem to break down honey in the same way as sugar. Adding more sugar at this point will make the final product dryer and more alcoholic; adding honey will sweeten it, without affecting the alcohol content too much. You can also add apple juice conentrate at any point in the fermentation process; adding it earlier will tend to increase alcohol content, while adding it later--especially after the yeast have mostly died--will tend to add sweetness to the final product.*  
+* *I don't know the details, but yeast don't seem to break down honey in the same way as regular, white sugar. Adding more sugar at this point will make the final product dryer and more alcoholic; adding honey will sweeten it, without affecting the alcohol content too much. You can also add apple juice conentrate at any point in the fermentation process; adding it earlier will tend to increase alcohol content, while adding it later--especially after the yeast have mostly died--will tend to add sweetness to the final product.*  
+
 Throw on the airlock, and wait for it to quit bubbling. This should take a about two or three weeks.  
 
 ## Kombucha

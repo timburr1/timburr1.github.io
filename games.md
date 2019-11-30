@@ -6,11 +6,11 @@ title: Slingin' Cardboard
 [Dungeon](http://www.dungeon-world.com/) [World](https://www.dungeonworldsrd.com/)  
 [Pathfinder](https://www.d20pfsrd.com/)  
 
+Add me on [Steam](https://steamcommunity.com/id/timburr2/).  
+
 You can look at my Magic: the Gathering decks [here](https://deckbox.org/users/timburr), if you are into that sort of thing.  
 
-I'm also getting into Warhammer 40k a little bit.  
-
-Current army: [Tyranids, 1200pts](40kArmies/Tyranids_1200.html)   
+I'm also getting into Warhammer 40k a little bit. Current army: [Tyranids, 1200pts](40kArmies/Tyranids_1200.html)   
 
 Kill Teams:  
 * [Space Marines vs. Melee Hordes, 100pts](40kArmies/SpaceMarinesKT_MeleeHorde.html)  

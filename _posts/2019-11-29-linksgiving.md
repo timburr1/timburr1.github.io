@@ -18,3 +18,6 @@ tags: links
 
 **Psychedelia**  
 [Problems with theories that equate consciousness with information or information processing](/papers/Problems with theories that equate consciousness with information or information processing.pdf) (PDF)  
+
+**Science**  
+[Fungi Perfecti](https://fungi.com/pages/bees), *Let’s Give Bees a Chance with innovative mushroom mycelium solutions.*  

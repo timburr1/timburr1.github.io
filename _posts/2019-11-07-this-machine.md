@@ -25,7 +25,7 @@ Desktop computer specs, from 2012 but still running strong:
     </tr>
     <tr>
       <td class="pcpp-part-list-type">Memory</td>
-      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/nBCwrH/patriot-memory-pv38g160c9k">Patriot Viper 3 8 GB (2 x 4 GB) DDR3-1600 Memory</a></td>
+      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/zsTmP6/patriot-memory-pv316g186c0k">Patriot Viper 3 16 GB (2 x 8 GB) DDR3-1866 Memory</a></td>
     </tr>
     <tr>
       <td class="pcpp-part-list-type">Storage</td>
@@ -45,7 +45,7 @@ Desktop computer specs, from 2012 but still running strong:
     </tr>
   </tbody>
 </table>
-[PC Part Picker full list](https://pcpartpicker.com/list/xGBqsY)
+[PC Part Picker full list](https://pcpartpicker.com/list/Dc8cb8)
 
 ## Software
 I mostly use Windows 10 these days, or sometimes Ubuntu via [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/about). 
