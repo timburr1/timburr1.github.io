@@ -36,5 +36,5 @@ Remove tea bags, pour into mason jar, add starter kombucha or scoby.
 Cover w/ cheese cloth, and wait a couple of weeks until it starts to smell just a little bit tart or vinegary.  
 
 <br><br>
-<img align="center" src="/images/kombucha.jpg" width="350" alt-text="kombucha"/>
+<img align="center" src="/images/kombucha.jpg" width="350" alt-text=""/>
 <br>
