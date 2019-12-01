@@ -4,7 +4,7 @@ This is a toy web site and blog. To serve locally (from Ubuntu), install Jekyll 
 Cd into the blog root directory, run "bundle exec jekyll serve", and navigate to http://localhost:4000 
 
 ## Post Tags:
-gaming, links, setlist, school, tech, travel
+gaming, links, school, tech, travel
 
 ## TODO:
 China post  
