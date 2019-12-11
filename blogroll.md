@@ -18,6 +18,7 @@ title: Stuff I Read
 * [Money Stuff](https://www.bloomberg.com/view/topics/money-stuff)  
 * [Naked Capitalism](https://www.nakedcapitalism.com/)  
 * [PopeHat](https://www.popehat.com/)  
+* [Planet Money Newsletter](https://www.npr.org/sections/money/)  
 * [/r/bestoflegaladvice](https://www.reddit.com/r/bestoflegaladvice/)  
 
 **Local/Regional News**  

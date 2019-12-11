@@ -65,6 +65,7 @@ I mostly use Windows 10 these days, or sometimes Ubuntu via [Windows Subsystem f
 **Utilities**  
 [7-Zip](https://www.7-zip.org/) for file compression/decompression  
 [f.lux](https://justgetflux.com/) for night mode  
+[Greenshot](https://getgreenshot.org/downloads/)  
 [qBittorrent](https://www.qbittorrent.org/)  
 [Steam](https://store.steampowered.com/) for gaming  
 
