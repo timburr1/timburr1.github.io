@@ -7,6 +7,8 @@ Cd into the blog root directory, run "bundle exec jekyll serve", and navigate to
 gaming, links, school, tech, travel
 
 ## TODO:
+EA/philanthropy post
+
 China post  
 
 expand Chile post  
@@ -16,6 +18,8 @@ book reports:
 * The Mythical Man-Month  
 * Head First Design Patterns  
 * Becoming a Technical Leader  
+
+compress image files?  
 
 fix image links in posts:  
 * 2009-10-26-paris-day-one.md  
