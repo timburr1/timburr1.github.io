@@ -19,8 +19,6 @@ book reports:
 * Head First Design Patterns  
 * Becoming a Technical Leader  
 
-compress image files?  
-
 fix image links in posts:  
 * 2009-10-26-paris-day-one.md  
 * 2009-10-26-paris-day-two.md  
