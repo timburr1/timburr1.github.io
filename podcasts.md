@@ -40,7 +40,6 @@ title: Stuff I Listen To
 * [Norman Centuries](https://normancenturies.com/)  
 * [Radio War Nerd](https://www.patreon.com/radiowarnerd)  
 * [Revolutions](https://www.revolutionspodcast.com/)  
-* [Silk and Steel](https://www.patreon.com/silknsteel)  
 * [Slow Burn](https://slate.com/slow-burn)  
 * [Standoff: What happened at Ruby Ridge?](https://feeds.megaphone.fm/slate-presents)  
 * [Stuff You Missed in History Class](https://www.missedinhistory.com/)  

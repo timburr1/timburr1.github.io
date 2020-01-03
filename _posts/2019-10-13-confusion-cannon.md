@@ -4,7 +4,7 @@ title: The Confusion Cannon
 author: Tim
 ---
 
-This is a list of books and things that have had a strong influence on the way I think about the world. It's very much a work in progress.
+[The Art of War](../../..papers/Art of War.html) by Sun Tzu  
 
 Behavioral Economics, especially [Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) by Daniel Kahneman and [Predictably Irrational](https://en.wikipedia.org/wiki/Predictably_Irrational) by Dan Ariely
 
@@ -29,6 +29,6 @@ LessWrong and the [Sequences](https://wiki.lesswrong.com/wiki/Sequences)
 * [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
 * [The Control Group Is Out of Control](https://slatestarcodex.com/2014/04/28/the-control-group-is-out-of-control/)
 
-[Small Gods](https://en.wikipedia.org/wiki/Small_Gods) by Terry Pratchett   
+[Small Gods](https://en.wikipedia.org/wiki/Small_Gods) by Terry Pratchett *"We are here, and this is now. After that, everything tends toward guesswork."*  
 
 [The Wisdom of James Mickens](https://mickens.seas.harvard.edu/wisdom-james-mickens), who is basically right about everything: modernity is terrible and computers were a mistake.  
