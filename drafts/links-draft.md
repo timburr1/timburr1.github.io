@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Links
-author: tim
+author: Tim
 tags: links
 ---
 
 **Art/Culture**  
+[This is a fake link](http://www.fake.com) Sample comment  
 
 **Business/Finance/Economics**  
-[This is a fake link](http://www.fake.com) Sample comment  
 
 **Computing**  
 
