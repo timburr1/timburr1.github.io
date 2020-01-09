@@ -9,6 +9,7 @@ https://github.com/timburr1/panam
 
 VSCode addons: ESLint, npm Intellisense, Prettier, vscode:extension/ms-azuretools.vscode-azureappservice
 
+css: https://developer.mozilla.org/en-US/docs/Web/CSS
 azure fundamentals: https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/setup 
 account: https://portal.azure.com/node.js 
 quickstart: https://docs.microsoft.com/en-us/azure/app-service/app-service-web-get-started-nodejscontinuous 
