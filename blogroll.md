@@ -36,7 +36,6 @@ title: Stuff I Read
 * [Nate Soares](http://mindingourway.com/)  
 * [Otium](https://srconstantin.wordpress.com/)  
 * [Overcoming Bias](https://www.overcomingbias.com/)  
-* [Ryan Holiday](https://ryanholiday.net/blog/)  
 * [Sam\[\]zdat](https://samzdat.com/)  
 * [Slate Star Codex](https://slatestarcodex.com/)  
 * [Wait But Why](https://waitbutwhy.com)  
