@@ -26,9 +26,6 @@ fix image links in posts:
 * 2009-11-16-spain-day-one.md  
 * 2009-11-16-spain-day-two.md  
 * 2009-11-16-spain-day-three.md  
-* 2009-12-06-katies-visit-st-albans-hatfield-and.md  
-* 2009-12-06-london-day-one.md  
-* 2009-12-06-london-day-two.md  
 
 Personality/morality:  
 * yourmorals.org
