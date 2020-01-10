@@ -11,6 +11,16 @@ As long as your total calories and protein are reasonable, and your diet doesn't
 
 [Perfecting Protein Intake for Athletes: How Much, What, and When? (and Beyond)](https://www.strongerbyscience.com/athlete-protein-intake/), StrongerByScience. Athletes should shoot for about 1.5g of high-quality protein per kg of bodyweight per day. Equivalently, take your weight in pounds and multiply it by 2/3 to get your daily protein target, in grams.
 
+If that sounds high, take a look at these studies:  
+>The indicator amino acid oxidation-based requirement values of 0.93 and 1.2gprotein/ kg/day and the reanalysis of existing nitrogen balance studies are signiﬁcantly higher than current recommendations. Therefore, there is an urgent need to reassess recommendations for protein intake in adult humans.  
+-[Elango, et al 2010](../../../papers/elango2010.pdf) (PDF)  
+
+>Dietary Protein Requirement of Female Adults >65 Years Determined by the Indicator Amino Acid Oxidation Technique Is Higher Than Current Recommendations  
+-[Rafii et al 2014](../../../papers/rafii2014.pdf) (PDF)  
+
+>Dietary Protein Requirement of Men >65 Years Old Determined by the Indicator Amino Acid Oxidation Technique Is Higher than the Current Estimated Average Requirement  
+-[Rafii, et al 2016](../../../papers/rafii2014.pdf) (PDF)  
+
 <!-- calculator script? -->
 
 [Not Another Boring Creatine Guide: Answers to FAQs and Lesser-Known Benefits](https://www.strongerbyscience.com/creatine/) StrongerByScience. Creatine Monohydrate is safe and well-studied, although its effect is kind of subtle. 

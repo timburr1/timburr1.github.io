@@ -70,7 +70,7 @@ Tools and Languages
 C#  
 Java  
 Python  
-React
+React  
 TypeScript / Angular 2  
 Microsoft SQL Server  
 Mongo DB  
@@ -83,9 +83,9 @@ Microsoft Azure
 
 Projects
 ----
-[Illumicone](https://illumicone.com/) test system  
+[Illumicone](https://illumicone.com/) - test system  
 [Story Parser](https://timburr1.github.io/StoryParser.html)  
-
+[Aerolínea PanAmerica](https://github.com/timburr1/panam)  
 
 Awards and Acknowledgements
 ----
