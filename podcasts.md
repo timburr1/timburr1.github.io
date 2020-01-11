@@ -44,9 +44,10 @@ title: Stuff I Listen To
 **Magic: the Gathering**  
 * [Limited Resources](http://lrcast.com/)
 
-**Misc./NPR Stuff**   
+**Misc./News/NPR Stuff**   
 * [All the President's Lawyers](https://www.kcrw.com/news-culture/shows/lrc-presents-all-the-presidents-lawyers)  
 * [Invisibilia](https://www.npr.org/podcasts/510307/invisibilia)  
+* [The Joe Rogan Experience](https://www.joerogan.com/)  
 * [People Who Read People](https://open.spotify.com/episode/6PQP6fOKog6DFXuPPJrnpi?si=xkXQfAaxQ8-dsezD4cfskw)  
 * [Radiolab](http://www.radiolab.org/)  
 * [Reveal](https://www.revealnews.org/)  
@@ -54,8 +55,3 @@ title: Stuff I Listen To
 * [S-Town](https://stownpodcast.org/)  
 * [This American Life](https://www.thisamericanlife.org/podcast)  
 * [Trump, Inc.](https://www.npr.org/podcasts/583340964/trump-inc)  
-
-**Pop Culture**  
-* [The Joe Rogan Experience](https://www.joerogan.com/)  
-* [Juan Ep](https://www.endeavoraudio.com/podcasts/culture-podcasts/juanep)  
-* [Mogul](https://gimletmedia.com/mogul/)  

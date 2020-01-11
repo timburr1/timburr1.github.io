@@ -17,7 +17,7 @@ Some helpful VSCode extensions:
 * ESLint  
 * npm Intellisense  
 * Azure App Service  
-* Prettier *(File -> Preferences -> Settings, enable 'Format on Save' and 'Prettier: Require Config')*  
+* Prettier (File -> Preferences -> Settings, enable 'Format on Save' and 'Prettier: Require Config')  
 
 Other useful resources:  
 [CI](https://github.com/actions/starter-workflows/blob/master/ci/azure.yml)/[CD](https://docs.microsoft.com/en-us/azure/app-service/deploy-continuous-deployment) with Github    

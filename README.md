@@ -7,7 +7,7 @@ Cd into the blog root directory, run "bundle exec jekyll serve", and navigate to
 gaming, links, school, tech, travel
 
 ## TODO:
-EA/philanthropy post
+EA/philanthropy post  
 
 China post  
 
@@ -18,14 +18,6 @@ book reports:
 * The Mythical Man-Month  
 * Head First Design Patterns  
 * Becoming a Technical Leader  
-
-fix image links in posts:  
-* 2009-10-26-paris-day-one.md  
-* 2009-10-26-paris-day-two.md  
-* 2009-10-27-paris-day-three.md  
-* 2009-11-16-spain-day-one.md  
-* 2009-11-16-spain-day-two.md  
-* 2009-11-16-spain-day-three.md  
 
 Personality/morality:  
 * yourmorals.org

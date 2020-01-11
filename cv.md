@@ -85,7 +85,7 @@ Projects
 ----
 [Illumicone](https://illumicone.com/) - test system  
 [Story Parser](https://timburr1.github.io/StoryParser.html)  
-[Aerolínea PanAmerica](https://github.com/timburr1/panam)  
+[Aerolínea PanAmerica](https://timburr1.github.io/2020/01/10/panam-notes.html)  
 
 Awards and Acknowledgements
 ----
