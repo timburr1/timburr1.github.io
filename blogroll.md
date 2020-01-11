@@ -15,8 +15,7 @@ title: Stuff I Read
 
 **Law/Business**  
 * [Lawfare](https://lawfareblog.com/)  
-* [Money Stuff](https://www.bloomberg.com/view/topics/money-stuff)  
-* [Naked Capitalism](https://www.nakedcapitalism.com/)  
+* [Matt Levine's Money Stuff](https://www.bloomberg.com/view/topics/money-stuff)  
 * [PopeHat](https://www.popehat.com/)  
 * [Planet Money Newsletter](https://www.npr.org/sections/money/)  
 * [/r/bestoflegaladvice](https://www.reddit.com/r/bestoflegaladvice/)  
@@ -26,8 +25,6 @@ title: Stuff I Read
 * [The Idaho Statesman](https://www.idahostatesman.com/)  
 
 **Rationalism/Psychology**  
-* [80,000 Hours](https://80000hours.org/)  
-* [The GiveWell Blog](https://blog.givewell.org/)  
 * [Gwern](https://www.gwern.net/)  
 * [The Last Psychiatrist](https://thelastpsychiatrist.com)  
 * [Meaningness](https://meaningness.com/)  
@@ -35,20 +32,15 @@ title: Stuff I Read
 * [Mr. Money Mustache](https://www.mrmoneymustache.com/)  
 * [Nate Soares](http://mindingourway.com/)  
 * [Otium](https://srconstantin.wordpress.com/)  
-* [Overcoming Bias](https://www.overcomingbias.com/)  
 * [Sam\[\]zdat](https://samzdat.com/)  
 * [Slate Star Codex](https://slatestarcodex.com/)  
 * [Wait But Why](https://waitbutwhy.com)  
 
 **Software Development**  
-* [Coding Horror](https://blog.codinghorror.com/)  
 * [Google Developers Blog](https://developers.googleblog.com/)  
 * [Hacker News](https://news.ycombinator.com/)  
 * [Henrik Warne](https://henrikwarne.com/)  
-* [Joel on Software](https://www.joelonsoftware.com/)  
-* [kate{mats}](https://katemats.com/)  
 * [Paul Graham](http://paulgraham.com/articles.html)  
-* [Sam Altman](https://blog.samaltman.com/)  
 * [Schneier on Security](https://www.schneier.com/)  
 * [Scott Hanselman](https://www.hanselman.com/blog/)  
 

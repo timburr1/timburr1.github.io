@@ -13,10 +13,6 @@ title: Stuff I Listen To
 * [Planet Money](https://www.npr.org/podcasts/510289/planet-money/)  
 * [Slate Money](https://slate.com/podcasts/slate-money)  
 
-**College Football**  
-* [Podcast Ain't Played Nobody](https://soundcloud.com/aintplayednobody)  
-* [The Solid Verbal](https://www.solidverbal.com/)  
-
 **Exercise/Health/Nutrition**  
 * [The Drive with Peter Attia](https://peterattiamd.com/podcast/)  
 * [Stronger By Science](https://www.strongerbyscience.com/podcast/)  
