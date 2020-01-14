@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Book Report: The Mythical Man-Month'
-author: tim
-tags: book report
+author: Tim
+tags: tech
 ---
 
 The Mythical Man-Month  
 by Frederick P. Brooks, Jr.
 
-This book is a classic, and includes a lot of interesting thoughts about software engineering. That said, it really shows its age: it was written in a time when all the devs were men and all the secretaries were women. Also, Brooks writes about god several times in a way that is more... earnest than you'd usually see in a book about writing software.
+This book is a classic, and includes a lot of interesting thoughts about software engineering. That said, it really shows its age: it was written in a time when all the devs were men and all the secretaries were women. Also, Brooks writes about god several times in a way that is more... earnest than you'd usually see in a book about software development.
 
 1. The Tar Pit
 2. The Mythical Man-Month

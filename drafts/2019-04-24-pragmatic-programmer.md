@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Book Report: The Pragmatic Programmer'
-author: tim
-tags: book report
+author: Tim
+tags: tech
 ---
 
 The Pragmatic Programmer  
