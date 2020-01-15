@@ -3,6 +3,8 @@ layout: default
 title: Curriculum Vitae
 ---
 
+# Curriculum Vitae  
+
 Work Experience
 ----
 Aug 2019 - present  
