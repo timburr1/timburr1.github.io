@@ -1,25 +1,9 @@
-<!DOCTYPE html>
-<!-- Tim Burr -->
+---
+layout: default
+title: Story Parser
+author: Tim
+---
 <html>
-<head>
-	<title>Story Parser</title>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width">
-	<!-- link to main stylesheet -->
-	<link rel="stylesheet" type="text/css" href="/css/main.css">
-</head>
-<body>
-	<nav>
-	    <ul>
-		<li><a href="/">Home</a></li>
-		<li><a href="/about">About</a></li>
-		<li><a href="/cv">CV</a></li>
-		<li><a href="/games">Games</a></li>
-		<li><a href="/blogroll">Blogroll</a></li>				
-		<li><a href="/podcasts">Podcasts</a></li>
-		<li><a href="/StoryParser.html">Story Parser</a></li>				
-	    </ul>
-	</nav>
 	<h2>Story Parser</h2>
 	<p>Please input the text you would like analyzed. 
 	<p>*The Story Parser probably won't work unless you are using the Latin, Greek, or Cyrillic alphabets with UTF-8 encoding. If you'd like another language added (or if you find a bug!) please shoot me an email at the reverse of moc.liamg@rrub.r.mit.</p>
@@ -124,11 +108,3 @@
 		return false;
 	}
 	</script>
-  
-	<footer>
-	    <ul>
-			Subscribe to the blog with <li><a href="http://timburr1.github.io/blog/atom.xml">RSS</a></li> 
-		</ul>
-	</footer>
-</body>
-</html>
