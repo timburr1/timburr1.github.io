@@ -4,7 +4,7 @@ title: The Confusion Cannon
 author: Tim
 ---
 
-[The Art of War](../../..papers/Art of War.html) by Sun Tzu  
+[The Art of War](../../../_ref/Art of War.html) by Sun Tzu  
 
 Behavioral Economics, especially [Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) by Daniel Kahneman and [Predictably Irrational](https://en.wikipedia.org/wiki/Predictably_Irrational) by Dan Ariely
 

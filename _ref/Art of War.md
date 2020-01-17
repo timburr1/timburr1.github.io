@@ -1,10 +1,14 @@
-<BASE HREF="http://classics.mit.edu/Tzu/artwar.1b.txt">
-<html><body><pre>
-Provided by The Internet Classics Archive.
-See bottom for copyright. Available online at
-    http://classics.mit.edu//Tzu/artwar.html
+---
+layout: default
+title: The Art of War
+author: Sun Tzu
+---
 
-<b>The Art of War</b>
+Provided by The Internet Classics Archive.  
+See bottom for copyright. Available online at  
+[http://classics.mit.edu//Tzu/artwar.html]( http://classics.mit.edu//Tzu/artwar.html)
+
+## The Art of War
 By Sun Tzu
 
 
@@ -1475,4 +1479,3 @@ conventions, including the right of reproduction in whole or in part
 in any form. Direct permission requests to classics@classics.mit.edu.
 Translation of "The Deeds of the Divine Augustus" by Augustus is
 copyright (C) Thomas Bushnell, BSG.
-</pre></body></html>

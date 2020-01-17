@@ -7,15 +7,11 @@ Cd into the blog root directory, run "bundle exec jekyll serve", and navigate to
 gaming, links, school, tech, travel  
 
 ## TODO:
-fill out MtG post; fix links - wayback machine? 
-<del>figure out how to use default.html as a wrapper for other content (Warhammer armies, magic articles...)</del>
-move formatted content into _pages dir, update _config.yaml per https://github.com/jekyll/jekyll/issues/920
+expand MtG, Chile posts
 
-EA/philanthropy post  
+finance/EA/philanthropy post  
 
 China post  
-
-expand Chile post  
 
 book reports:    
 * The Pragmatic Programmer  
