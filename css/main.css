@@ -1,11 +1,11 @@
 body {
     margin: 40px auto;
-    width: 75%;
+    width: 70%;
 }
 
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-	margin-top: 5px;
+    margin-top: 5px;
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -24,7 +24,7 @@ footer {
 a {
     text-decoration: none;
     color: #006272;
-	font-weight: bold;
+    font-weight: bold;
 }
 
 a:hover {
@@ -37,20 +37,20 @@ h1 {
 }
 
 h2 {
-	margin-bottom: 2px;
+    margin-bottom: 2px;
 }
 
 p {
-	margin: 10px;
+    margin: 10px;
     font-size: 1.2em;
     line-height: 1.4em;
     color: #333;
 }
 
 ul {
-	list-style-type: none;
-	margin-top: 0px;
-	padding-left: 20px;
+    list-style-type: none;
+    margin-top: 0px;
+    padding-left: 20px;
 }
 
 ul.posts { 

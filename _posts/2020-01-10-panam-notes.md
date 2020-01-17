@@ -24,7 +24,7 @@ Other useful resources:
 
 CSS: https://developer.mozilla.org/en-US/docs/Web/CSS
 React: https://reactjs.org/docs/getting-started.html  
-Azure Fundamentals: https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/setup  
-Azure Node.js Quickstart: https://docs.microsoft.com/en-us/azure/app-service/app-service-web-get-started-nodejscontinuous
+Azure Fundamentals: https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/  
+Azure Node.js Quickstart: https://docs.microsoft.com/en-us/azure/app-service/app-service-web-get-started-nodejs
 
 [react-datepicker](https://www.npmjs.com/package/react-datepicker) is cool.
