@@ -8,7 +8,8 @@ gaming, links, school, tech, travel
 
 ## TODO:
 fill out MtG post; fix links - wayback machine? 
-figure out how to use default.html as a wrapper for other content (Warhammer armies, magic articles...)
+<del>figure out how to use default.html as a wrapper for other content (Warhammer armies, magic articles...)</del>
+move formatted content into _pages dir, update _config.yaml per https://github.com/jekyll/jekyll/issues/920
 
 EA/philanthropy post  
 
