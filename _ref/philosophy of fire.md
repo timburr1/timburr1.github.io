@@ -2,6 +2,7 @@
 layout: default
 title: The Philosophy of Fire
 author: Michael J. Flores
+date: 4/23/04
 ---
 
 ## The Philosophy of Fire
