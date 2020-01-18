@@ -1,3 +1,6 @@
+---
+layout: default
+---
 <html>
     <head>
         <meta name="viewport" content="width=670"> 
@@ -198,25 +201,13 @@
                 font-variant: small-caps;
             }
         </style>
-		<link rel="stylesheet" type="text/css" href="/css/main.css">
     </head>
     <body class="battlescribe">
-		<nav>
-			<ul>
-			<li><a href="/">Home</a></li>
-			<li><a href="/about">About</a></li>
-			<li><a href="/cv">CV</a></li>
-			<li><a href="/games">Games</a></li>
-			<li><a href="/blogroll">Blogroll</a></li>				
-			<li><a href="/podcasts">Podcasts</a></li>
-			<li><a href="/StoryParser.html">Story Parser</a></li>				
-			</ul>
-		</nav>
-        <div class="battlescribe">
-            <h1>Hunter-Killers (Warhammer 40,000: Kill Team (2018)) [100pts]</h1>
+	<div class="battlescribe">
+            <h1>Space Marines KT: Power Armor (Warhammer 40,000: Kill Team (2018)) [100pts]</h1>
             <ul>
             <li class="force">
-                <h2>Kill Team List (Tyranids) [100pts]</h2>
+                <h2>Kill Team List (Adeptus Astartes) [100pts]</h2>
                 <ul>
                     <li class="category">
                         <h3>Configuration</h3>
@@ -234,18 +225,18 @@
                         </ul>
                     </li>
                     <li class="category">
-                        <h3>Leader [23pts]</h3>
+                        <h3>Leader [18pts]</h3>
                         <ul>
                             <li class="rootselection">
-                                <h4>Tyranid Warrior [23pts]</h4>
+                                <h4>Intercessor Sergeant [18pts]</h4>
                                 <p>
-                                    <span class="bold">Selections:</span> Adrenal Glands [1pts], Boneswords, Deathspitter [2pts], Leader
+                                    <span class="bold">Selections:</span> Bolt rifle, Leader, Power sword [2pts]
                                 </p>
                                 <p class="category-names">
-                                    <span class="bold">Categories:</span> <span class="caps">Faction: Tyranids, Infantry, Synapse, Model, Leader</span>
+                                    <span class="bold">Categories:</span> <span class="caps">Faction: Adeptus Astartes, Imperium, Infantry, Primaris, Intercessor, Model, Leader</span>
                                 </p>
                                 <p class="profile-names">
-                                    <span class="bold">Ability:</span> <span class="italic">Adrendal Glands, Shadow in the Warp, Synapse</span>, <span class="bold">Model:</span> <span class="italic">Tyranid Warrior</span>, <span class="bold">Weapon:</span> <span class="italic">Boneswords, Deathspitter</span>
+                                    <span class="bold">Ability:</span> <span class="italic">And They Shall Know No Fear, Transhuman Physiology</span>, <span class="bold">Model:</span> <span class="italic">Intercessor Sergeant</span>, <span class="bold">Weapon:</span> <span class="italic">Bolt pistol, Bolt rifle, Frag grenade, Krak grenade, Power sword</span>
                                 </p>
                                     <br>
                                     <table cellspacing="-1">
@@ -255,10 +246,9 @@
                                             <th>Ref</th>
                                         </tr>
                                         <tr>
-                                            <td class="profile-name">Adrendal Glands</td>
-                                            <td>If a model has adrenal glands, add 1" to the distance it can move when it Advances or charges.</td>
+                                            <td class="profile-name">And They Shall Know No Fear</td>
+                                            <td>You can re-roll failed Nerve Tests for this model.</td>
                                             <td>
-                                                Core Manual
                                             </td>
                                         </tr>
                                         <tr>
@@ -269,17 +259,9 @@
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="profile-name">Shadow in the Warp</td>
-                                            <td>Subract 1 from any psychic tests made for enemy PSKYERS within 18" of a model with this ability. TYRANIDS PSYKERS are not affected.</td>
+                                            <td class="profile-name">Transhuman Physiology</td>
+                                            <td>Ignore penalties to this model's hit rolls from one flesh wound this model has suffered.</td>
                                             <td>
-                                                Core Manual p179
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Synapse</td>
-                                            <td>TYRANIDS models automatically pass Nerve tests while they are within 12" of any friendly models with this ability.</td>
-                                            <td>
-                                                Core Manual p179
                                             </td>
                                         </tr>
                                     </table>
@@ -290,10 +272,9 @@
                                             <th>Ref</th>
                                         </tr>
                                         <tr>
-                                            <td class="profile-name">Tyranid Warrior</td>
-                                            <td>6"</td><td>3+</td><td>4+</td><td>4</td><td>4</td><td>3</td><td>3</td><td>9</td><td>4+</td><td>-</td>
+                                            <td class="profile-name">Intercessor Sergeant</td>
+                                            <td>6"</td><td>3+</td><td>3+</td><td>4</td><td>4</td><td>2</td><td>3</td><td>8</td><td>3+</td><td>1</td>
                                             <td>
-                                                Core Manual p179
                                             </td>
                                         </tr>
                                     </table>
@@ -304,17 +285,33 @@
                                             <th>Ref</th>
                                         </tr>
                                         <tr>
-                                            <td class="profile-name">Boneswords</td>
-                                            <td>Melee</td><td>Melee</td><td>User</td><td>-2</td><td>1</td><td>A model armed with boneswords can make 1 additional attack with them in the Fight phase.</td>
+                                            <td class="profile-name">Bolt pistol</td>
+                                            <td>12"</td><td>Pistol 1</td><td>4</td><td>0</td><td>1</td><td>-</td>
                                             <td>
-                                                Core Manual p180
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="profile-name">Deathspitter</td>
-                                            <td>24"</td><td>Assault 3</td><td>5</td><td>-1</td><td>1</td><td>-</td>
+                                            <td class="profile-name">Bolt rifle</td>
+                                            <td>30"</td><td>Rapid Fire 1</td><td>4</td><td>-1</td><td>1</td><td>-</td>
                                             <td>
-                                                Core Manual p180
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Frag grenade</td>
+                                            <td>6"</td><td>Grenade D6</td><td>3</td><td>0</td><td>1</td><td>-</td>
+                                            <td>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Krak grenade</td>
+                                            <td>6"</td><td>Grenade 1</td><td>6</td><td>-1</td><td> D3</td><td>-</td>
+                                            <td>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Power sword</td>
+                                            <td>Melee</td><td>Melee</td><td>User</td><td>-3</td><td>1</td><td>-</td>
+                                            <td>
                                             </td>
                                         </tr>
                                     </table>
@@ -323,18 +320,18 @@
                         </ul>
                     </li>
                     <li class="category">
-                        <h3>Specialists [34pts]</h3>
+                        <h3>Specialists [46pts]</h3>
                         <ul>
                             <li class="rootselection">
-                                <h4>Genestealer [11pts]</h4>
+                                <h4>Intercessor Gunner [16pts]</h4>
                                 <p>
-                                    <span class="bold">Selections:</span> Acid Maw, Combat, Scything Talons
+                                    <span class="bold">Selections:</span> Auxiliary grenade launcher, Bolt rifle, Demolitions
                                 </p>
                                 <p class="category-names">
-                                    <span class="bold">Categories:</span> <span class="caps">Faction: Tyranids, Infantry, Model, Specialist</span>
+                                    <span class="bold">Categories:</span> <span class="caps">Faction: Adeptus Astartes, Imperium, Infantry, Primaris, Intercessor, Model, Specialist</span>
                                 </p>
                                 <p class="profile-names">
-                                    <span class="bold">Ability:</span> <span class="italic">Lightning Reflexes, Swift and Deadly</span>, <span class="bold">Model:</span> <span class="italic">Genestealer</span>, <span class="bold">Weapon:</span> <span class="italic">Acid Maw, Rending Claws, Scything Talons</span>
+                                    <span class="bold">Ability:</span> <span class="italic">And They Shall Know No Fear, Transhuman Physiology</span>, <span class="bold">Model:</span> <span class="italic">Intercessor Gunner</span>, <span class="bold">Wargear:</span> <span class="italic">Auxiliary grenade launcher</span>, <span class="bold">Weapon:</span> <span class="italic">Bolt pistol, Bolt rifle, Frag grenade, Krak grenade</span>
                                 </p>
                                     <br>
                                     <table cellspacing="-1">
@@ -344,24 +341,22 @@
                                             <th>Ref</th>
                                         </tr>
                                         <tr>
-                                            <td class="profile-name">Expert Fighter</td>
-                                            <td>Add 1 to this model's Attacks characteristic.</td>
+                                            <td class="profile-name">And They Shall Know No Fear</td>
+                                            <td>You can re-roll failed Nerve Tests for this model.</td>
                                             <td>
-                                                Core Manual p69
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="profile-name">Lightning Reflexes</td>
-                                            <td>This model has a 5+ invulnerable save.</td>
+                                            <td class="profile-name">Breacher</td>
+                                            <td>You can add 1 to this model's wound rolls against targets that are obscured.</td>
                                             <td>
-                                                Core Manual p179
+                                                Core Manual p71
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="profile-name">Swift and Deadly</td>
-                                            <td>You can re-roll failed charge rolls for this model.</td>
+                                            <td class="profile-name">Transhuman Physiology</td>
+                                            <td>Ignore penalties to this model's hit rolls from one flesh wound this model has suffered.</td>
                                             <td>
-                                                Core Manual p179
                                             </td>
                                         </tr>
                                     </table>
@@ -372,10 +367,22 @@
                                             <th>Ref</th>
                                         </tr>
                                         <tr>
-                                            <td class="profile-name">Genestealer</td>
-                                            <td>8"</td><td>3+</td><td>4+</td><td>4</td><td>4</td><td>1</td><td>3</td><td>9</td><td>5+</td><td>-</td>
+                                            <td class="profile-name">Intercessor Gunner</td>
+                                            <td>6"</td><td>3+</td><td>3+</td><td>4</td><td>4</td><td>2</td><td>2</td><td>7</td><td>3+</td><td>2</td>
                                             <td>
-                                                Core Manual p179
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <table cellspacing="-1">
+                                        <tr>
+                                            <th>Wargear</th>
+                                            <th>Ability</th>
+                                            <th>Ref</th>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Auxiliary grenade launcher</td>
+                                            <td>If a model is armed with an auxiliary grenade launcher, increase the range of any Grenade weapons they have to 30". This model's Grenade weapons are affected by the long range rule.</td>
+                                            <td>
                                             </td>
                                         </tr>
                                     </table>
@@ -386,39 +393,42 @@
                                             <th>Ref</th>
                                         </tr>
                                         <tr>
-                                            <td class="profile-name">Acid Maw</td>
-                                            <td>Melee</td><td>Melee</td><td>User</td><td>-3</td><td>1</td><td>-</td>
+                                            <td class="profile-name">Bolt pistol</td>
+                                            <td>12"</td><td>Pistol 1</td><td>4</td><td>0</td><td>1</td><td>-</td>
                                             <td>
-                                                Core Manual p180
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="profile-name">Rending Claws</td>
-                                            <td>Melee</td><td>Melee</td><td>User</td><td>-1</td><td>1</td><td>Each time you make a wound roll of 6+ for this weapon, that hit is resolved with an AP of -4.</td>
+                                            <td class="profile-name">Bolt rifle</td>
+                                            <td>30"</td><td>Rapid Fire 1</td><td>4</td><td>-1</td><td>1</td><td>-</td>
                                             <td>
-                                                Core Manual p180
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="profile-name">Scything Talons</td>
-                                            <td>Melee</td><td>Melee</td><td>User</td><td>0</td><td>1</td><td>You can re-roll hit rolls of 1 for this weapon. If the bearer has more than one pair of scything talons, it can made 1 additional attack with them each time it fights.</td>
+                                            <td class="profile-name">Frag grenade</td>
+                                            <td>6"</td><td>Grenade D6</td><td>3</td><td>0</td><td>1</td><td>-</td>
                                             <td>
-                                                Core Manual p180
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Krak grenade</td>
+                                            <td>6"</td><td>Grenade 1</td><td>6</td><td>-1</td><td> D3</td><td>-</td>
+                                            <td>
                                             </td>
                                         </tr>
                                     </table>
 
                             </li>
                             <li class="rootselection">
-                                <h4>Tyranid Warrior [23pts]</h4>
+                                <h4>Tactical Marine Gunner [16pts]</h4>
                                 <p>
-                                    <span class="bold">Selections:</span> Adrenal Glands [1pts], Boneswords, Comms, Deathspitter [2pts]
+                                    <span class="bold">Selections:</span> Plasma gun [3pts], Sniper
                                 </p>
                                 <p class="category-names">
-                                    <span class="bold">Categories:</span> <span class="caps">Faction: Tyranids, Infantry, Synapse, Model, Specialist</span>
+                                    <span class="bold">Categories:</span> <span class="caps">Faction: Adeptus Astartes, Imperium, Infantry, Tactical Marine, Model, Specialist</span>
                                 </p>
                                 <p class="profile-names">
-                                    <span class="bold">Ability:</span> <span class="italic">Adrendal Glands, Shadow in the Warp, Synapse</span>, <span class="bold">Model:</span> <span class="italic">Tyranid Warrior</span>, <span class="bold">Weapon:</span> <span class="italic">Boneswords, Deathspitter</span>
+                                    <span class="bold">Ability:</span> <span class="italic">And They Shall Know No Fear, Transhuman Physiology</span>, <span class="bold">Model:</span> <span class="italic">Tactical Marine Gunner</span>, <span class="bold">Weapon:</span> <span class="italic">Bolt pistol, Frag grenade, Krak grenade, Plasma gun (Standard), Plasma gun (Supercharged)</span>
                                 </p>
                                     <br>
                                     <table cellspacing="-1">
@@ -428,10 +438,99 @@
                                             <th>Ref</th>
                                         </tr>
                                         <tr>
-                                            <td class="profile-name">Adrendal Glands</td>
-                                            <td>If a model has adrenal glands, add 1" to the distance it can move when it Advances or charges.</td>
+                                            <td class="profile-name">And They Shall Know No Fear</td>
+                                            <td>You can re-roll failed Nerve Tests for this model.</td>
                                             <td>
-                                                Core Manual
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Marksman</td>
+                                            <td>You can re-roll hit rolls of 1 for this model when it makes a shooting attack.</td>
+                                            <td>
+                                                Core Manual p75
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Transhuman Physiology</td>
+                                            <td>Ignore penalties to this model's hit rolls from one flesh wound this model has suffered.</td>
+                                            <td>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <table cellspacing="-1">
+                                        <tr>
+                                            <th>Model</th>
+                                            <th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>A</th><th>Ld</th><th>Sv</th><th>Max</th>
+                                            <th>Ref</th>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Tactical Marine Gunner</td>
+                                            <td>6"</td><td>3+</td><td>3+</td><td>4</td><td>4</td><td>1</td><td>1</td><td>7</td><td>3+</td><td>2</td>
+                                            <td>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <table cellspacing="-1">
+                                        <tr>
+                                            <th>Weapon</th>
+                                            <th>Range</th><th>Type</th><th>S</th><th>AP</th><th>D</th><th>Abilities</th>
+                                            <th>Ref</th>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Bolt pistol</td>
+                                            <td>12"</td><td>Pistol 1</td><td>4</td><td>0</td><td>1</td><td>-</td>
+                                            <td>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Frag grenade</td>
+                                            <td>6"</td><td>Grenade D6</td><td>3</td><td>0</td><td>1</td><td>-</td>
+                                            <td>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Krak grenade</td>
+                                            <td>6"</td><td>Grenade 1</td><td>6</td><td>-1</td><td> D3</td><td>-</td>
+                                            <td>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Plasma gun (Standard)</td>
+                                            <td>24"</td><td>Rapid Fire 1</td><td>7</td><td>-3</td><td>1</td><td>-</td>
+                                            <td>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Plasma gun (Supercharged)</td>
+                                            <td>24"</td><td>Rapid Fire 1</td><td>8</td><td>-3</td><td>2</td><td>On an unmodified hit roll of 1, the bearer of this weapon is taken out of action after all this weapon's shots have been resolved. </td>
+                                            <td>
+                                            </td>
+                                        </tr>
+                                    </table>
+
+                            </li>
+                            <li class="rootselection">
+                                <h4>Tactical Sergeant [14pts]</h4>
+                                <p>
+                                    <span class="bold">Selections:</span> Auspex [1pts], Boltgun, Comms
+                                </p>
+                                <p class="category-names">
+                                    <span class="bold">Categories:</span> <span class="caps">Faction: Adeptus Astartes, Imperium, Infantry, Tactical Marine, Model, Specialist</span>
+                                </p>
+                                <p class="profile-names">
+                                    <span class="bold">Ability:</span> <span class="italic">And They Shall Know No Fear, Transhuman Physiology</span>, <span class="bold">Model:</span> <span class="italic">Tactical Sergeant</span>, <span class="bold">Wargear:</span> <span class="italic">Auspex</span>, <span class="bold">Weapon:</span> <span class="italic">Boltgun, Frag grenade, Krak grenade</span>
+                                </p>
+                                    <br>
+                                    <table cellspacing="-1">
+                                        <tr>
+                                            <th>Ability</th>
+                                            <th>Description</th>
+                                            <th>Ref</th>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">And They Shall Know No Fear</td>
+                                            <td>You can re-roll failed Nerve Tests for this model.</td>
+                                            <td>
                                             </td>
                                         </tr>
                                         <tr>
@@ -442,17 +541,9 @@
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="profile-name">Shadow in the Warp</td>
-                                            <td>Subract 1 from any psychic tests made for enemy PSKYERS within 18" of a model with this ability. TYRANIDS PSYKERS are not affected.</td>
+                                            <td class="profile-name">Transhuman Physiology</td>
+                                            <td>Ignore penalties to this model's hit rolls from one flesh wound this model has suffered.</td>
                                             <td>
-                                                Core Manual p179
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Synapse</td>
-                                            <td>TYRANIDS models automatically pass Nerve tests while they are within 12" of any friendly models with this ability.</td>
-                                            <td>
-                                                Core Manual p179
                                             </td>
                                         </tr>
                                     </table>
@@ -463,10 +554,22 @@
                                             <th>Ref</th>
                                         </tr>
                                         <tr>
-                                            <td class="profile-name">Tyranid Warrior</td>
-                                            <td>6"</td><td>3+</td><td>4+</td><td>4</td><td>4</td><td>3</td><td>3</td><td>9</td><td>4+</td><td>-</td>
+                                            <td class="profile-name">Tactical Sergeant</td>
+                                            <td>6"</td><td>3+</td><td>3+</td><td>4</td><td>4</td><td>1</td><td>2</td><td>8</td><td>3+</td><td>1</td>
                                             <td>
-                                                Core Manual p179
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <table cellspacing="-1">
+                                        <tr>
+                                            <th>Wargear</th>
+                                            <th>Ability</th>
+                                            <th>Ref</th>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Auspex</td>
+                                            <td>At the start of the shooting phase, you can choose another ADEPTUS ASTARTES model within 3" of a friendly model equipped with an auspex that is not shaken. That model does not suffer penalties to their hit or injury rolls due to their target being obscured</td>
+                                            <td>
                                             </td>
                                         </tr>
                                     </table>
@@ -477,17 +580,21 @@
                                             <th>Ref</th>
                                         </tr>
                                         <tr>
-                                            <td class="profile-name">Boneswords</td>
-                                            <td>Melee</td><td>Melee</td><td>User</td><td>-2</td><td>1</td><td>A model armed with boneswords can make 1 additional attack with them in the Fight phase.</td>
+                                            <td class="profile-name">Boltgun</td>
+                                            <td>24"</td><td>Rapid Fire 1</td><td>4</td><td>0</td><td>1</td><td>-</td>
                                             <td>
-                                                Core Manual p180
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="profile-name">Deathspitter</td>
-                                            <td>24"</td><td>Assault 3</td><td>5</td><td>-1</td><td>1</td><td>-</td>
+                                            <td class="profile-name">Frag grenade</td>
+                                            <td>6"</td><td>Grenade D6</td><td>3</td><td>0</td><td>1</td><td>-</td>
                                             <td>
-                                                Core Manual p180
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Krak grenade</td>
+                                            <td>6"</td><td>Grenade 1</td><td>6</td><td>-1</td><td> D3</td><td>-</td>
+                                            <td>
                                             </td>
                                         </tr>
                                     </table>
@@ -496,18 +603,18 @@
                         </ul>
                     </li>
                     <li class="category">
-                        <h3>Non-specialists [43pts]</h3>
+                        <h3>Non-specialists [36pts]</h3>
                         <ul>
                             <li class="rootselection">
-                                <h4>Genestealer [11pts]</h4>
+                                <h4>Scout [10pts]</h4>
                                 <p>
-                                    <span class="bold">Selections:</span> Scything Talons
+                                    <span class="bold">Selections:</span> Boltgun
                                 </p>
                                 <p class="category-names">
-                                    <span class="bold">Categories:</span> <span class="caps">Faction: Tyranids, Infantry, Model, Non-specialist</span>
+                                    <span class="bold">Categories:</span> <span class="caps">Faction: Adeptus Astartes, Imperium, Infantry, Scout, Model, Non-specialist</span>
                                 </p>
                                 <p class="profile-names">
-                                    <span class="bold">Ability:</span> <span class="italic">Lightning Reflexes, Swift and Deadly</span>, <span class="bold">Model:</span> <span class="italic">Genestealer</span>, <span class="bold">Weapon:</span> <span class="italic">Rending Claws, Scything Talons</span>
+                                    <span class="bold">Ability:</span> <span class="italic">And They Shall Know No Fear, Transhuman Physiology</span>, <span class="bold">Model:</span> <span class="italic">Scout</span>, <span class="bold">Weapon:</span> <span class="italic">Bolt pistol, Boltgun, Frag grenade, Krak grenade</span>
                                 </p>
                                     <br>
                                     <table cellspacing="-1">
@@ -517,17 +624,15 @@
                                             <th>Ref</th>
                                         </tr>
                                         <tr>
-                                            <td class="profile-name">Lightning Reflexes</td>
-                                            <td>This model has a 5+ invulnerable save.</td>
+                                            <td class="profile-name">And They Shall Know No Fear</td>
+                                            <td>You can re-roll failed Nerve Tests for this model.</td>
                                             <td>
-                                                Core Manual p179
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="profile-name">Swift and Deadly</td>
-                                            <td>You can re-roll failed charge rolls for this model.</td>
+                                            <td class="profile-name">Transhuman Physiology</td>
+                                            <td>Ignore penalties to this model's hit rolls from one flesh wound this model has suffered.</td>
                                             <td>
-                                                Core Manual p179
                                             </td>
                                         </tr>
                                     </table>
@@ -538,10 +643,9 @@
                                             <th>Ref</th>
                                         </tr>
                                         <tr>
-                                            <td class="profile-name">Genestealer</td>
-                                            <td>8"</td><td>3+</td><td>4+</td><td>4</td><td>4</td><td>1</td><td>3</td><td>9</td><td>5+</td><td>-</td>
+                                            <td class="profile-name">Scout</td>
+                                            <td>6"</td><td>3+</td><td>3+</td><td>4</td><td>4</td><td>1</td><td>1</td><td>7</td><td>4+</td><td>-</td>
                                             <td>
-                                                Core Manual p179
                                             </td>
                                         </tr>
                                     </table>
@@ -552,32 +656,42 @@
                                             <th>Ref</th>
                                         </tr>
                                         <tr>
-                                            <td class="profile-name">Rending Claws</td>
-                                            <td>Melee</td><td>Melee</td><td>User</td><td>-1</td><td>1</td><td>Each time you make a wound roll of 6+ for this weapon, that hit is resolved with an AP of -4.</td>
+                                            <td class="profile-name">Bolt pistol</td>
+                                            <td>12"</td><td>Pistol 1</td><td>4</td><td>0</td><td>1</td><td>-</td>
                                             <td>
-                                                Core Manual p180
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="profile-name">Scything Talons</td>
-                                            <td>Melee</td><td>Melee</td><td>User</td><td>0</td><td>1</td><td>You can re-roll hit rolls of 1 for this weapon. If the bearer has more than one pair of scything talons, it can made 1 additional attack with them each time it fights.</td>
+                                            <td class="profile-name">Boltgun</td>
+                                            <td>24"</td><td>Rapid Fire 1</td><td>4</td><td>0</td><td>1</td><td>-</td>
                                             <td>
-                                                Core Manual p180
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Frag grenade</td>
+                                            <td>6"</td><td>Grenade D6</td><td>3</td><td>0</td><td>1</td><td>-</td>
+                                            <td>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Krak grenade</td>
+                                            <td>6"</td><td>Grenade 1</td><td>6</td><td>-1</td><td> D3</td><td>-</td>
+                                            <td>
                                             </td>
                                         </tr>
                                     </table>
 
                             </li>
                             <li class="rootselection">
-                                <h4>Genestealer [11pts]</h4>
+                                <h4>Scout [10pts]</h4>
                                 <p>
-                                    <span class="bold">Selections:</span> Flesh Hooks, Scything Talons
+                                    <span class="bold">Selections:</span> Boltgun
                                 </p>
                                 <p class="category-names">
-                                    <span class="bold">Categories:</span> <span class="caps">Faction: Tyranids, Infantry, Model, Non-specialist</span>
+                                    <span class="bold">Categories:</span> <span class="caps">Faction: Adeptus Astartes, Imperium, Infantry, Scout, Model, Non-specialist</span>
                                 </p>
                                 <p class="profile-names">
-                                    <span class="bold">Ability:</span> <span class="italic">Lightning Reflexes, Swift and Deadly</span>, <span class="bold">Model:</span> <span class="italic">Genestealer</span>, <span class="bold">Weapon:</span> <span class="italic">Flesh Hooks, Rending Claws, Scything Talons</span>
+                                    <span class="bold">Ability:</span> <span class="italic">And They Shall Know No Fear, Transhuman Physiology</span>, <span class="bold">Model:</span> <span class="italic">Scout</span>, <span class="bold">Weapon:</span> <span class="italic">Bolt pistol, Boltgun, Frag grenade, Krak grenade</span>
                                 </p>
                                     <br>
                                     <table cellspacing="-1">
@@ -587,17 +701,15 @@
                                             <th>Ref</th>
                                         </tr>
                                         <tr>
-                                            <td class="profile-name">Lightning Reflexes</td>
-                                            <td>This model has a 5+ invulnerable save.</td>
+                                            <td class="profile-name">And They Shall Know No Fear</td>
+                                            <td>You can re-roll failed Nerve Tests for this model.</td>
                                             <td>
-                                                Core Manual p179
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="profile-name">Swift and Deadly</td>
-                                            <td>You can re-roll failed charge rolls for this model.</td>
+                                            <td class="profile-name">Transhuman Physiology</td>
+                                            <td>Ignore penalties to this model's hit rolls from one flesh wound this model has suffered.</td>
                                             <td>
-                                                Core Manual p179
                                             </td>
                                         </tr>
                                     </table>
@@ -608,10 +720,9 @@
                                             <th>Ref</th>
                                         </tr>
                                         <tr>
-                                            <td class="profile-name">Genestealer</td>
-                                            <td>8"</td><td>3+</td><td>4+</td><td>4</td><td>4</td><td>1</td><td>3</td><td>9</td><td>5+</td><td>-</td>
+                                            <td class="profile-name">Scout</td>
+                                            <td>6"</td><td>3+</td><td>3+</td><td>4</td><td>4</td><td>1</td><td>1</td><td>7</td><td>4+</td><td>-</td>
                                             <td>
-                                                Core Manual p179
                                             </td>
                                         </tr>
                                     </table>
@@ -622,39 +733,42 @@
                                             <th>Ref</th>
                                         </tr>
                                         <tr>
-                                            <td class="profile-name">Flesh Hooks</td>
-                                            <td>6"</td><td>Assault 2</td><td>User</td><td>0</td><td>1</td><td>The weapon can be fired within 1" of an enemy model, and can target enemy models within 1" of friendly models.</td>
+                                            <td class="profile-name">Bolt pistol</td>
+                                            <td>12"</td><td>Pistol 1</td><td>4</td><td>0</td><td>1</td><td>-</td>
                                             <td>
-                                                Core Manual p180
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="profile-name">Rending Claws</td>
-                                            <td>Melee</td><td>Melee</td><td>User</td><td>-1</td><td>1</td><td>Each time you make a wound roll of 6+ for this weapon, that hit is resolved with an AP of -4.</td>
+                                            <td class="profile-name">Boltgun</td>
+                                            <td>24"</td><td>Rapid Fire 1</td><td>4</td><td>0</td><td>1</td><td>-</td>
                                             <td>
-                                                Core Manual p180
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="profile-name">Scything Talons</td>
-                                            <td>Melee</td><td>Melee</td><td>User</td><td>0</td><td>1</td><td>You can re-roll hit rolls of 1 for this weapon. If the bearer has more than one pair of scything talons, it can made 1 additional attack with them each time it fights.</td>
+                                            <td class="profile-name">Frag grenade</td>
+                                            <td>6"</td><td>Grenade D6</td><td>3</td><td>0</td><td>1</td><td>-</td>
                                             <td>
-                                                Core Manual p180
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Krak grenade</td>
+                                            <td>6"</td><td>Grenade 1</td><td>6</td><td>-1</td><td> D3</td><td>-</td>
+                                            <td>
                                             </td>
                                         </tr>
                                     </table>
 
                             </li>
                             <li class="rootselection">
-                                <h4>Termagant [7pts]</h4>
+                                <h4>Tactical Marine Gunner [16pts]</h4>
                                 <p>
-                                    <span class="bold">Selections:</span> Devourer [3pts]
+                                    <span class="bold">Selections:</span> Heavy bolter [3pts]
                                 </p>
                                 <p class="category-names">
-                                    <span class="bold">Categories:</span> <span class="caps">Faction: Tyranids, Infantry, Model, Non-specialist</span>
+                                    <span class="bold">Categories:</span> <span class="caps">Faction: Adeptus Astartes, Imperium, Infantry, Tactical Marine, Model, Non-specialist</span>
                                 </p>
                                 <p class="profile-names">
-                                    <span class="bold">Ability:</span> <span class="italic">Instinctive Behaviour</span>, <span class="bold">Model:</span> <span class="italic">Termagant</span>, <span class="bold">Weapon:</span> <span class="italic">Devourer</span>
+                                    <span class="bold">Ability:</span> <span class="italic">And They Shall Know No Fear, Transhuman Physiology</span>, <span class="bold">Model:</span> <span class="italic">Tactical Marine Gunner</span>, <span class="bold">Weapon:</span> <span class="italic">Bolt pistol, Frag grenade, Heavy bolter, Krak grenade</span>
                                 </p>
                                     <br>
                                     <table cellspacing="-1">
@@ -664,10 +778,15 @@
                                             <th>Ref</th>
                                         </tr>
                                         <tr>
-                                            <td class="profile-name">Instinctive Behaviour</td>
-                                            <td>Unless this model is within 24" of a friendly SYNAPSE model, you must subtract 1 from any hit rolls made for it when shooting any target other than the nearest visible enemy model, and subtract 2 from any charge rolls made for it if it declares a charge against any model other than the nearest enemy model.</td>
+                                            <td class="profile-name">And They Shall Know No Fear</td>
+                                            <td>You can re-roll failed Nerve Tests for this model.</td>
                                             <td>
-                                                Core Manual p178
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Transhuman Physiology</td>
+                                            <td>Ignore penalties to this model's hit rolls from one flesh wound this model has suffered.</td>
+                                            <td>
                                             </td>
                                         </tr>
                                     </table>
@@ -678,10 +797,9 @@
                                             <th>Ref</th>
                                         </tr>
                                         <tr>
-                                            <td class="profile-name">Termagant</td>
-                                            <td>6"</td><td>4+</td><td>4+</td><td>3</td><td>3</td><td>1</td><td>1</td><td>5</td><td>6+</td><td>-</td>
+                                            <td class="profile-name">Tactical Marine Gunner</td>
+                                            <td>6"</td><td>3+</td><td>3+</td><td>4</td><td>4</td><td>1</td><td>1</td><td>7</td><td>3+</td><td>2</td>
                                             <td>
-                                                Core Manual p178
                                             </td>
                                         </tr>
                                     </table>
@@ -692,122 +810,27 @@
                                             <th>Ref</th>
                                         </tr>
                                         <tr>
-                                            <td class="profile-name">Devourer</td>
-                                            <td>18"</td><td>Assault 3</td><td>4</td><td>0</td><td>1</td><td>-</td>
+                                            <td class="profile-name">Bolt pistol</td>
+                                            <td>12"</td><td>Pistol 1</td><td>4</td><td>0</td><td>1</td><td>-</td>
                                             <td>
-                                                Core Manual p180
                                             </td>
                                         </tr>
-                                    </table>
-
-                            </li>
-                            <li class="rootselection">
-                                <h4>Termagant [7pts]</h4>
-                                <p>
-                                    <span class="bold">Selections:</span> Devourer [3pts]
-                                </p>
-                                <p class="category-names">
-                                    <span class="bold">Categories:</span> <span class="caps">Faction: Tyranids, Infantry, Model, Non-specialist</span>
-                                </p>
-                                <p class="profile-names">
-                                    <span class="bold">Ability:</span> <span class="italic">Instinctive Behaviour</span>, <span class="bold">Model:</span> <span class="italic">Termagant</span>, <span class="bold">Weapon:</span> <span class="italic">Devourer</span>
-                                </p>
-                                    <br>
-                                    <table cellspacing="-1">
                                         <tr>
-                                            <th>Ability</th>
-                                            <th>Description</th>
-                                            <th>Ref</th>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Instinctive Behaviour</td>
-                                            <td>Unless this model is within 24" of a friendly SYNAPSE model, you must subtract 1 from any hit rolls made for it when shooting any target other than the nearest visible enemy model, and subtract 2 from any charge rolls made for it if it declares a charge against any model other than the nearest enemy model.</td>
+                                            <td class="profile-name">Frag grenade</td>
+                                            <td>6"</td><td>Grenade D6</td><td>3</td><td>0</td><td>1</td><td>-</td>
                                             <td>
-                                                Core Manual p178
                                             </td>
                                         </tr>
-                                    </table>
-                                    <table cellspacing="-1">
                                         <tr>
-                                            <th>Model</th>
-                                            <th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>A</th><th>Ld</th><th>Sv</th><th>Max</th>
-                                            <th>Ref</th>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Termagant</td>
-                                            <td>6"</td><td>4+</td><td>4+</td><td>3</td><td>3</td><td>1</td><td>1</td><td>5</td><td>6+</td><td>-</td>
+                                            <td class="profile-name">Heavy bolter</td>
+                                            <td>36"</td><td>Heavy 3</td><td>5</td><td>-1</td><td>1</td><td>-</td>
                                             <td>
-                                                Core Manual p178
                                             </td>
                                         </tr>
-                                    </table>
-                                    <table cellspacing="-1">
                                         <tr>
-                                            <th>Weapon</th>
-                                            <th>Range</th><th>Type</th><th>S</th><th>AP</th><th>D</th><th>Abilities</th>
-                                            <th>Ref</th>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Devourer</td>
-                                            <td>18"</td><td>Assault 3</td><td>4</td><td>0</td><td>1</td><td>-</td>
+                                            <td class="profile-name">Krak grenade</td>
+                                            <td>6"</td><td>Grenade 1</td><td>6</td><td>-1</td><td> D3</td><td>-</td>
                                             <td>
-                                                Core Manual p180
-                                            </td>
-                                        </tr>
-                                    </table>
-
-                            </li>
-                            <li class="rootselection">
-                                <h4>Termagant [7pts]</h4>
-                                <p>
-                                    <span class="bold">Selections:</span> Devourer [3pts]
-                                </p>
-                                <p class="category-names">
-                                    <span class="bold">Categories:</span> <span class="caps">Faction: Tyranids, Infantry, Model, Non-specialist</span>
-                                </p>
-                                <p class="profile-names">
-                                    <span class="bold">Ability:</span> <span class="italic">Instinctive Behaviour</span>, <span class="bold">Model:</span> <span class="italic">Termagant</span>, <span class="bold">Weapon:</span> <span class="italic">Devourer</span>
-                                </p>
-                                    <br>
-                                    <table cellspacing="-1">
-                                        <tr>
-                                            <th>Ability</th>
-                                            <th>Description</th>
-                                            <th>Ref</th>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Instinctive Behaviour</td>
-                                            <td>Unless this model is within 24" of a friendly SYNAPSE model, you must subtract 1 from any hit rolls made for it when shooting any target other than the nearest visible enemy model, and subtract 2 from any charge rolls made for it if it declares a charge against any model other than the nearest enemy model.</td>
-                                            <td>
-                                                Core Manual p178
-                                            </td>
-                                        </tr>
-                                    </table>
-                                    <table cellspacing="-1">
-                                        <tr>
-                                            <th>Model</th>
-                                            <th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>A</th><th>Ld</th><th>Sv</th><th>Max</th>
-                                            <th>Ref</th>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Termagant</td>
-                                            <td>6"</td><td>4+</td><td>4+</td><td>3</td><td>3</td><td>1</td><td>1</td><td>5</td><td>6+</td><td>-</td>
-                                            <td>
-                                                Core Manual p178
-                                            </td>
-                                        </tr>
-                                    </table>
-                                    <table cellspacing="-1">
-                                        <tr>
-                                            <th>Weapon</th>
-                                            <th>Range</th><th>Type</th><th>S</th><th>AP</th><th>D</th><th>Abilities</th>
-                                            <th>Ref</th>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Devourer</td>
-                                            <td>18"</td><td>Assault 3</td><td>4</td><td>0</td><td>1</td><td>-</td>
-                                            <td>
-                                                Core Manual p180
                                             </td>
                                         </tr>
                                     </table>
@@ -826,10 +849,5 @@
             <br>
             <p>Created with <a href="http://www.battlescribe.net">BattleScribe</a></p>
         </div>
-		<footer>
-			<ul>
-				Subscribe to the blog with <li><a href="http://timburr1.github.io/blog/atom.xml">RSS</a></li> 
-			</ul>
-		</footer>
     </body>
 </html>

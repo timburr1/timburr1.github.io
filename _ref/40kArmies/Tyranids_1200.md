@@ -1,3 +1,6 @@
+---
+layout: default
+---
 <html>
     <head>
         <meta name="viewport" content="width=670"> 
@@ -198,20 +201,8 @@
                 font-variant: small-caps;
             }
         </style>
-		<link rel="stylesheet" type="text/css" href="/css/main.css">
     </head>
     <body class="battlescribe">
-		<nav>
-			<ul>
-			<li><a href="/">Home</a></li>
-			<li><a href="/about">About</a></li>
-			<li><a href="/cv">CV</a></li>
-			<li><a href="/games">Games</a></li>
-			<li><a href="/blogroll">Blogroll</a></li>				
-			<li><a href="/podcasts">Podcasts</a></li>
-			<li><a href="/StoryParser.html">Story Parser</a></li>				
-			</ul>
-		</nav>
         <div class="battlescribe">
             <h1>Tyranids 1200pts (Warhammer 40,000 8th Edition) [76 PL, 1,201pts]</h1>
             <ul>
@@ -1115,10 +1106,5 @@
             <br>
             <p>Created with <a href="https://www.battlescribe.net">BattleScribe</a></p>
         </div>
-		<footer>
-			<ul>
-				Subscribe to the blog with <li><a href="http://timburr1.github.io/blog/atom.xml">RSS</a></li> 
-			</ul>
-		</footer>
     </body>
 </html>
