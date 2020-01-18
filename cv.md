@@ -86,14 +86,15 @@ Microsoft Azure
 Projects
 ----
 [Illumicone](https://illumicone.com/) - test system  
-[Story Parser](https://timburr1.github.io/StoryParser.html)  
-[Aerolínea PanAmerica](https://timburr1.github.io/2020/01/10/panam-notes.html)  
+[Story Parser](/StoryParser.html)  
+[Aerolínea PanAmerica](/2020/01/10/panam-notes.html)  
+[Machine Learning in StarCraft: Brood War](/papers/burr2011.pdf)  
 
 Awards and Acknowledgements
 ----
 Eagle Scout  
 National Merit Finalist  
-Presented at OU Honors College on ['Majors and Careers in a Volatile Economy'](https://timburr1.github.io/2017/02/04/ou-talk.html) in September 2015  
+Presented at OU Honors College on ['Majors and Careers in a Volatile Economy'](/2017/02/04/ou-talk.html) in September 2015  
 
 
 Find me on [GitHub](https://github.com/timburr1) or [LinkedIn](http://www.linkedin.com/pub/timothy-burr/66/a88/a39).
