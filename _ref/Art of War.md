@@ -3,1479 +3,1196 @@ layout: default
 title: The Art of War
 author: Sun Tzu
 ---
-
-Provided by The Internet Classics Archive.  
-See bottom for copyright. Available online at  
-[http://classics.mit.edu//Tzu/artwar.html]( http://classics.mit.edu//Tzu/artwar.html)
-
-## The Art of War
-By Sun Tzu
-
-
-Translated by Lionel Giles
-
-I. Laying Plans
-
-1. Sun Tzu said: The art of war is of vital importance to the State.
-
-2. It is a matter of life and death, a road either to safety or to
-ruin. Hence it is a subject of inquiry which can on no account be
-neglected. 
-
-3. The art of war, then, is governed by five constant factors, to
-be taken into account in one's deliberations, when seeking to determine
-the conditions obtaining in the field. 
-
-4. These are: (1) The Moral Law; (2) Heaven; (3) Earth; (4) The Commander;
-(5) Method and discipline. 
-
-5,6. The Moral Law causes the people to be in complete accord with
-their ruler, so that they will follow him regardless of their lives,
-undismayed by any danger. 
-
-7. Heaven signifies night and day, cold and heat, times and seasons.
-
-8. Earth comprises distances, great and small; danger and security;
-open ground and narrow passes; the chances of life and death.
-
-9. The Commander stands for the virtues of wisdom, sincerely, benevolence,
-courage and strictness. 
-
-10. By method and discipline are to be understood the marshaling of
-the army in its proper subdivisions, the graduations of rank among
-the officers, the maintenance of roads by which supplies may reach
-the army, and the control of military expenditure. 
-
-11. These five heads should be familiar to every general: he who knows
-them will be victorious; he who knows them not will fail.
-
-12. Therefore, in your deliberations, when seeking to determine the
-military conditions, let them be made the basis of a comparison, in
-this wise:-- 
-
-13. (1) Which of the two sovereigns is imbued with the Moral law?
-(2) Which of the two generals has most ability? (3) With whom lie
-the advantages derived from Heaven and Earth? (4) On which side is
-discipline most rigorously enforced? (5) Which army is stronger? (6)
-On which side are officers and men more highly trained? (7) In which
-army is there the greater constancy both in reward and punishment?
-
-14. By means of these seven considerations I can forecast victory
-or defeat. 
-
-15. The general that hearkens to my counsel and acts upon it, will
-conquer: let such a one be retained in command! The general that hearkens
-not to my counsel nor acts upon it, will suffer defeat:--let such
-a one be dismissed! 
-
-16. While heading the profit of my counsel, avail yourself also of
-any helpful circumstances over and beyond the ordinary rules.
-
-17. According as circumstances are favorable, one should modify one's
-plans. 
-
-18. All warfare is based on deception. 
-
-19. Hence, when able to attack, we must seem unable; when using our
-forces, we must seem inactive; when we are near, we must make the
-enemy believe we are far away; when far away, we must make him believe
-we are near. 
-
-20. Hold out baits to entice the enemy. Feign disorder, and crush
-him. 
-
-21. If he is secure at all points, be prepared for him. If he is in
-superior strength, evade him. 
-
-22. If your opponent is of choleric temper, seek to irritate him.
-Pretend to be weak, that he may grow arrogant. 
-
-23. If he is taking his ease, give him no rest. If his forces are
-united, separate them. 
-
-24. Attack him where he is unprepared, appear where you are not expected.
-
-25. These military devices, leading to victory, must not be divulged
-beforehand. 
-
-26. Now the general who wins a battle makes many calculations in his
-temple ere the battle is fought. The general who loses a battle makes
-but few calculations beforehand. Thus do many calculations lead to
-victory, and few calculations to defeat: how much more no calculation
-at all! It is by attention to this point that I can foresee who is
-likely to win or lose. 
-
-II. Waging War
-
-1. Sun Tzu said: In the operations of war, where there are in the
-field a thousand swift chariots, as many heavy chariots, and a hundred
-thousand mail-clad soldiers, with provisions enough to carry them
-a thousand li, the expenditure at home and at the front, including
-entertainment of guests, small items such as glue and paint, and sums
-spent on chariots and armor, will reach the total of a thousand ounces
-of silver per day. Such is the cost of raising an army of 100,000
-men. 
-
-2. When you engage in actual fighting, if victory is long in coming,
-then men's weapons will grow dull and their ardor will be damped.
-If you lay siege to a town, you will exhaust your strength.
-
-3. Again, if the campaign is protracted, the resources of the State
-will not be equal to the strain. 
-
-4. Now, when your weapons are dulled, your ardor damped, your strength
-exhausted and your treasure spent, other chieftains will spring up
-to take advantage of your extremity. Then no man, however wise, will
-be able to avert the consequences that must ensue. 
-
-5. Thus, though we have heard of stupid haste in war, cleverness has
-never been seen associated with long delays. 
-
-6. There is no instance of a country having benefited from prolonged
-warfare. 
-
-7. It is only one who is thoroughly acquainted with the evils of war
-that can thoroughly understand the profitable way of carrying it on.
-
-8. The skillful soldier does not raise a second levy, neither are
-his supply-wagons loaded more than twice. 
-
-9. Bring war material with you from home, but forage on the enemy.
-Thus the army will have food enough for its needs. 
-
-10. Poverty of the State exchequer causes an army to be maintained
-by contributions from a distance. Contributing to maintain an army
-at a distance causes the people to be impoverished. 
-
-11. On the other hand, the proximity of an army causes prices to go
-up; and high prices cause the people's substance to be drained away.
-
-12. When their substance is drained away, the peasantry will be afflicted
-by heavy exactions. 
-
-13,14. With this loss of substance and exhaustion of strength, the
-homes of the people will be stripped bare, and three-tenths of their
-income will be dissipated; while government expenses for broken chariots,
-worn-out horses, breast-plates and helmets, bows and arrows, spears
-and shields, protective mantles, draught-oxen and heavy wagons, will
-amount to four-tenths of its total revenue. 
-
-15. Hence a wise general makes a point of foraging on the enemy. One
-cartload of the enemy's provisions is equivalent to twenty of one's
-own, and likewise a single picul of his provender is equivalent to
-twenty from one's own store. 
-
-16. Now in order to kill the enemy, our men must be roused to anger;
-that there may be advantage from defeating the enemy, they must have
-their rewards. 
-
-17. Therefore in chariot fighting, when ten or more chariots have
-been taken, those should be rewarded who took the first. Our own flags
-should be substituted for those of the enemy, and the chariots mingled
-and used in conjunction with ours. The captured soldiers should be
-kindly treated and kept. 
-
-18. This is called, using the conquered foe to augment one's own strength.
-
-19. In war, then, let your great object be victory, not lengthy campaigns.
-
-20. Thus it may be known that the leader of armies is the arbiter
-of the people's fate, the man on whom it depends whether the nation
-shall be in peace or in peril. 
-
-III. Attack by Stratagem
-
-1. Sun Tzu said: In the practical art of war, the best thing of all
-is to take the enemy's country whole and intact; to shatter and destroy
-it is not so good. So, too, it is better to recapture an army entire
-than to destroy it, to capture a regiment, a detachment or a company
-entire than to destroy them. 
-
-2. Hence to fight and conquer in all your battles is not supreme excellence;
-supreme excellence consists in breaking the enemy's resistance without
-fighting. 
-
-3. Thus the highest form of generalship is to balk the enemy's plans;
-the next best is to prevent the junction of the enemy's forces; the
-next in order is to attack the enemy's army in the field; and the
-worst policy of all is to besiege walled cities. 
-
-4. The rule is, not to besiege walled cities if it can possibly be
-avoided. The preparation of mantlets, movable shelters, and various
-implements of war, will take up three whole months; and the piling
-up of mounds over against the walls will take three months more.
-
-5. The general, unable to control his irritation, will launch his
-men to the assault like swarming ants, with the result that one-third
-of his men are slain, while the town still remains untaken. Such are
-the disastrous effects of a siege. 
-
-6. Therefore the skillful leader subdues the enemy's troops without
-any fighting; he captures their cities without laying siege to them;
-he overthrows their kingdom without lengthy operations in the field.
-
-7. With his forces intact he will dispute the mastery of the Empire,
-and thus, without losing a man, his triumph will be complete. This
-is the method of attacking by stratagem. 
-
-8. It is the rule in war, if our forces are ten to the enemy's one,
-to surround him; if five to one, to attack him; if twice as numerous,
-to divide our army into two. 
-
-9. If equally matched, we can offer battle; if slightly inferior in
-numbers, we can avoid the enemy; if quite unequal in every way, we
-can flee from him. 
-
-10. Hence, though an obstinate fight may be made by a small force,
-in the end it must be captured by the larger force. 
-
-11. Now the general is the bulwark of the State; if the bulwark is
-complete at all points; the State will be strong; if the bulwark is
-defective, the State will be weak. 
-
-12. There are three ways in which a ruler can bring misfortune upon
-his army:-- 
-
-13. (1) By commanding the army to advance or to retreat, being ignorant
-of the fact that it cannot obey. This is called hobbling the army.
-
-14. (2) By attempting to govern an army in the same way as he administers
-a kingdom, being ignorant of the conditions which obtain in an army.
-This causes restlessness in the soldier's minds. 
-
-15. (3) By employing the officers of his army without discrimination,
-through ignorance of the military principle of adaptation to circumstances.
-This shakes the confidence of the soldiers. 
-
-16. But when the army is restless and distrustful, trouble is sure
-to come from the other feudal princes. This is simply bringing anarchy
-into the army, and flinging victory away. 
-
-17. Thus we may know that there are five essentials for victory: (1)
-He will win who knows when to fight and when not to fight. (2) He
-will win who knows how to handle both superior and inferior forces.
-(3) He will win whose army is animated by the same spirit throughout
-all its ranks. (4) He will win who, prepared himself, waits to take
-the enemy unprepared. (5) He will win who has military capacity and
-is not interfered with by the sovereign. 
-
-18. Hence the saying: If you know the enemy and know yourself, you
-need not fear the result of a hundred battles. If you know yourself
-but not the enemy, for every victory gained you will also suffer a
-defeat. If you know neither the enemy nor yourself, you will succumb
-in every battle. 
-
-IV. Tactical Dispositions
-
-1. Sun Tzu said: The good fighters of old first put themselves beyond
-the possibility of defeat, and then waited for an opportunity of defeating
-the enemy. 
-
-2. To secure ourselves against defeat lies in our own hands, but the
-opportunity of defeating the enemy is provided by the enemy himself.
-
-3. Thus the good fighter is able to secure himself against defeat,
-but cannot make certain of defeating the enemy. 
-
-4. Hence the saying: One may know how to conquer without being able
-to do it. 
-
-5. Security against defeat implies defensive tactics; ability to defeat
-the enemy means taking the offensive. 
-
-6. Standing on the defensive indicates insufficient strength; attacking,
-a superabundance of strength. 
-
-7. The general who is skilled in defense hides in the most secret
-recesses of the earth; he who is skilled in attack flashes forth from
-the topmost heights of heaven. Thus on the one hand we have ability
-to protect ourselves; on the other, a victory that is complete.
-
-8. To see victory only when it is within the ken of the common herd
-is not the acme of excellence. 
-
-9. Neither is it the acme of excellence if you fight and conquer and
-the whole Empire says, "Well done!" 
-
-10. To lift an autumn hair is no sign of great strength; to see the
-sun and moon is no sign of sharp sight; to hear the noise of thunder
-is no sign of a quick ear. 
-
-11. What the ancients called a clever fighter is one who not only
-wins, but excels in winning with ease. 
-
-12. Hence his victories bring him neither reputation for wisdom nor
-credit for courage. 
-
-13. He wins his battles by making no mistakes. Making no mistakes
-is what establishes the certainty of victory, for it means conquering
-an enemy that is already defeated. 
-
-14. Hence the skillful fighter puts himself into a position which
-makes defeat impossible, and does not miss the moment for defeating
-the enemy. 
-
-15. Thus it is that in war the victorious strategist only seeks battle
-after the victory has been won, whereas he who is destined to defeat
-first fights and afterwards looks for victory. 
-
-16. The consummate leader cultivates the moral law, and strictly adheres
-to method and discipline; thus it is in his power to control success.
-
-17. In respect of military method, we have, firstly, Measurement;
-secondly, Estimation of quantity; thirdly, Calculation; fourthly,
-Balancing of chances; fifthly, Victory. 
-
-18. Measurement owes its existence to Earth; Estimation of quantity
-to Measurement; Calculation to Estimation of quantity; Balancing of
-chances to Calculation; and Victory to Balancing of chances.
-
-19. A victorious army opposed to a routed one, is as a pound's weight
-placed in the scale against a single grain. 
-
-20. The onrush of a conquering force is like the bursting of pent-up
-waters into a chasm a thousand fathoms deep. 
-
-V. Energy
-
-1. Sun Tzu said: The control of a large force is the same principle
-as the control of a few men: it is merely a question of dividing up
-their numbers. 
-
-2. Fighting with a large army under your command is nowise different
-from fighting with a small one: it is merely a question of instituting
-signs and signals. 
-
-3. To ensure that your whole host may withstand the brunt of the enemy's
-attack and remain unshaken-- this is effected by maneuvers direct
-and indirect. 
-
-4. That the impact of your army may be like a grindstone dashed against
-an egg--this is effected by the science of weak points and strong.
-
-5. In all fighting, the direct method may be used for joining battle,
-but indirect methods will be needed in order to secure victory.
-
-6. Indirect tactics, efficiently applied, are inexhaustible as Heaven
-and Earth, unending as the flow of rivers and streams; like the sun
-and moon, they end but to begin anew; like the four seasons, they
-pass away to return once more. 
-
-7. There are not more than five musical notes, yet the combinations
-of these five give rise to more melodies than can ever be heard.
-
-8. There are not more than five primary colors (blue, yellow, red,
-white, and black), yet in combination they produce more hues than
-can ever been seen. 
-
-9. There are not more than five cardinal tastes (sour, acrid, salt,
-sweet, bitter), yet combinations of them yield more flavors than can
-ever be tasted. 
-
-10. In battle, there are not more than two methods of attack--the
-direct and the indirect; yet these two in combination give rise to
-an endless series of maneuvers. 
-
-11. The direct and the indirect lead on to each other in turn. It
-is like moving in a circle--you never come to an end. Who can exhaust
-the possibilities of their combination? 
-
-12. The onset of troops is like the rush of a torrent which will even
-roll stones along in its course. 
-
-13. The quality of decision is like the well-timed swoop of a falcon
-which enables it to strike and destroy its victim. 
-
-14. Therefore the good fighter will be terrible in his onset, and
-prompt in his decision. 
-
-15. Energy may be likened to the bending of a crossbow; decision,
-to the releasing of a trigger. 
-
-16. Amid the turmoil and tumult of battle, there may be seeming disorder
-and yet no real disorder at all; amid confusion and chaos, your array
-may be without head or tail, yet it will be proof against defeat.
-
-17. Simulated disorder postulates perfect discipline, simulated fear
-postulates courage; simulated weakness postulates strength.
-
-18. Hiding order beneath the cloak of disorder is simply a question
-of subdivision; concealing courage under a show of timidity presupposes
-a fund of latent energy; masking strength with weakness is to be effected
-by tactical dispositions. 
-
-19. Thus one who is skillful at keeping the enemy on the move maintains
-deceitful appearances, according to which the enemy will act. He sacrifices
-something, that the enemy may snatch at it. 
-
-20. By holding out baits, he keeps him on the march; then with a body
-of picked men he lies in wait for him. 
-
-21. The clever combatant looks to the effect of combined energy, and
-does not require too much from individuals. Hence his ability to pick
-out the right men and utilize combined energy. 
-
-22. When he utilizes combined energy, his fighting men become as it
-were like unto rolling logs or stones. For it is the nature of a log
-or stone to remain motionless on level ground, and to move when on
-a slope; if four-cornered, to come to a standstill, but if round-shaped,
-to go rolling down. 
-
-23. Thus the energy developed by good fighting men is as the momentum
-of a round stone rolled down a mountain thousands of feet in height.
-So much on the subject of energy. 
-
-VI. Weak Points and Strong
-
-1. Sun Tzu said: Whoever is first in the field and awaits the coming
-of the enemy, will be fresh for the fight; whoever is second in the
-field and has to hasten to battle will arrive exhausted.
-
-2. Therefore the clever combatant imposes his will on the enemy, but
-does not allow the enemy's will to be imposed on him. 
-
-3. By holding out advantages to him, he can cause the enemy to approach
-of his own accord; or, by inflicting damage, he can make it impossible
-for the enemy to draw near. 
-
-4. If the enemy is taking his ease, he can harass him; if well supplied
-with food, he can starve him out; if quietly encamped, he can force
-him to move. 
-
-5. Appear at points which the enemy must hasten to defend; march swiftly
-to places where you are not expected. 
-
-6. An army may march great distances without distress, if it marches
-through country where the enemy is not. 
-
-7. You can be sure of succeeding in your attacks if you only attack
-places which are undefended.You can ensure the safety of your defense
-if you only hold positions that cannot be attacked. 
-
-8. Hence that general is skillful in attack whose opponent does not
-know what to defend; and he is skillful in defense whose opponent
-does not know what to attack. 
-
-9. O divine art of subtlety and secrecy! Through you we learn to be
-invisible, through you inaudible; and hence we can hold the enemy's
-fate in our hands. 
-
-10. You may advance and be absolutely irresistible, if you make for
-the enemy's weak points; you may retire and be safe from pursuit if
-your movements are more rapid than those of the enemy. 
-
-11. If we wish to fight, the enemy can be forced to an engagement
-even though he be sheltered behind a high rampart and a deep ditch.
-All we need do is attack some other place that he will be obliged
-to relieve. 
-
-12. If we do not wish to fight, we can prevent the enemy from engaging
-us even though the lines of our encampment be merely traced out on
-the ground. All we need do is to throw something odd and unaccountable
-in his way. 
-
-13. By discovering the enemy's dispositions and remaining invisible
-ourselves, we can keep our forces concentrated, while the enemy's
-must be divided. 
-
-14. We can form a single united body, while the enemy must split up
-into fractions. Hence there will be a whole pitted against separate
-parts of a whole, which means that we shall be many to the enemy's
-few. 
-
-15. And if we are able thus to attack an inferior force with a superior
-one, our opponents will be in dire straits. 
-
-16. The spot where we intend to fight must not be made known; for
-then the enemy will have to prepare against a possible attack at several
-different points; and his forces being thus distributed in many directions,
-the numbers we shall have to face at any given point will be proportionately
-few. 
-
-17. For should the enemy strengthen his van, he will weaken his rear;
-should he strengthen his rear, he will weaken his van; should he strengthen
-his left, he will weaken his right; should he strengthen his right,
-he will weaken his left. If he sends reinforcements everywhere, he
-will everywhere be weak. 
-
-18. Numerical weakness comes from having to prepare against possible
-attacks; numerical strength, from compelling our adversary to make
-these preparations against us. 
-
-19. Knowing the place and the time of the coming battle, we may concentrate
-from the greatest distances in order to fight. 
-
-20. But if neither time nor place be known, then the left wing will
-be impotent to succor the right, the right equally impotent to succor
-the left, the van unable to relieve the rear, or the rear to support
-the van. How much more so if the furthest portions of the army are
-anything under a hundred LI apart, and even the nearest are separated
-by several LI! 
-
-21. Though according to my estimate the soldiers of Yueh exceed our
-own in number, that shall advantage them nothing in the matter of
-victory. I say then that victory can be achieved. 
-
-22. Though the enemy be stronger in numbers, we may prevent him from
-fighting. Scheme so as to discover his plans and the likelihood of
-their success. 
-
-23. Rouse him, and learn the principle of his activity or inactivity.
-Force him to reveal himself, so as to find out his vulnerable spots.
-
-24. Carefully compare the opposing army with your own, so that you
-may know where strength is superabundant and where it is deficient.
-
-25. In making tactical dispositions, the highest pitch you can attain
-is to conceal them; conceal your dispositions, and you will be safe
-from the prying of the subtlest spies, from the machinations of the
-wisest brains. 
-
-26. How victory may be produced for them out of the enemy's own tactics--that
-is what the multitude cannot comprehend. 
-
-27. All men can see the tactics whereby I conquer, but what none can
-see is the strategy out of which victory is evolved. 
-
-28. Do not repeat the tactics which have gained you one victory, but
-let your methods be regulated by the infinite variety of circumstances.
-
-29. Military tactics are like unto water; for water in its natural
-course runs away from high places and hastens downwards.
-
-30. So in war, the way is to avoid what is strong and to strike at
-what is weak. 
-
-31. Water shapes its course according to the nature of the ground
-over which it flows; the soldier works out his victory in relation
-to the foe whom he is facing. 
-
-32. Therefore, just as water retains no constant shape, so in warfare
-there are no constant conditions. 
-
-33. He who can modify his tactics in relation to his opponent and
-thereby succeed in winning, may be called a heaven-born captain.
-
-34. The five elements (water, fire, wood, metal, earth) are not always
-equally predominant; the four seasons make way for each other in turn.
-There are short days and long; the moon has its periods of waning
-and waxing. 
-
-VII. Maneuvering
-
-1. Sun Tzu said: In war, the general receives his commands from the
-sovereign. 
-
-2. Having collected an army and concentrated his forces, he must blend
-and harmonize the different elements thereof before pitching his camp.
-
-3. After that, comes tactical maneuvering, than which there is nothing
-more difficult. The difficulty of tactical maneuvering consists in
-turning the devious into the direct, and misfortune into gain.
-
-4. Thus, to take a long and circuitous route, after enticing the enemy
-out of the way, and though starting after him, to contrive to reach
-the goal before him, shows knowledge of the artifice of deviation.
-
-5. Maneuvering with an army is advantageous; with an undisciplined
-multitude, most dangerous. 
-
-6. If you set a fully equipped army in march in order to snatch an
-advantage, the chances are that you will be too late. On the other
-hand, to detach a flying column for the purpose involves the sacrifice
-of its baggage and stores. 
-
-7. Thus, if you order your men to roll up their buff-coats, and make
-forced marches without halting day or night, covering double the usual
-distance at a stretch, doing a hundred LI in order to wrest an advantage,
-the leaders of all your three divisions will fall into the hands of
-the enemy. 
-
-8. The stronger men will be in front, the jaded ones will fall behind,
-and on this plan only one-tenth of your army will reach its destination.
-
-9. If you march fifty LI in order to outmaneuver the enemy, you will
-lose the leader of your first division, and only half your force will
-reach the goal. 
-
-10. If you march thirty LI with the same object, two-thirds of your
-army will arrive. 
-
-11. We may take it then that an army without its baggage-train is
-lost; without provisions it is lost; without bases of supply it is
-lost. 
-
-12. We cannot enter into alliances until we are acquainted with the
-designs of our neighbors. 
-
-13. We are not fit to lead an army on the march unless we are familiar
-with the face of the country--its mountains and forests, its pitfalls
-and precipices, its marshes and swamps. 
-
-14. We shall be unable to turn natural advantage to account unless
-we make use of local guides. 
-
-15. In war, practice dissimulation, and you will succeed.
-
-16. Whether to concentrate or to divide your troops, must be decided
-by circumstances. 
-
-17. Let your rapidity be that of the wind, your compactness that of
-the forest. 
-
-18. In raiding and plundering be like fire, is immovability like a
-mountain. 
-
-19. Let your plans be dark and impenetrable as night, and when you
-move, fall like a thunderbolt. 
-
-20. When you plunder a countryside, let the spoil be divided amongst
-your men; when you capture new territory, cut it up into allotments
-for the benefit of the soldiery. 
-
-21. Ponder and deliberate before you make a move. 
-
-22. He will conquer who has learnt the artifice of deviation. Such
-is the art of maneuvering. 
-
-23. The Book of Army Management says: On the field of battle, the
-spoken word does not carry far enough: hence the institution of gongs
-and drums. Nor can ordinary objects be seen clearly enough: hence
-the institution of banners and flags. 
-
-24. Gongs and drums, banners and flags, are means whereby the ears
-and eyes of the host may be focused on one particular point.
-
-25. The host thus forming a single united body, is it impossible either
-for the brave to advance alone, or for the cowardly to retreat alone.
-This is the art of handling large masses of men. 
-
-26. In night-fighting, then, make much use of signal-fires and drums,
-and in fighting by day, of flags and banners, as a means of influencing
-the ears and eyes of your army. 
-
-27. A whole army may be robbed of its spirit; a commander-in-chief
-may be robbed of his presence of mind. 
-
-28. Now a soldier's spirit is keenest in the morning; by noonday it
-has begun to flag; and in the evening, his mind is bent only on returning
-to camp. 
-
-29. A clever general, therefore, avoids an army when its spirit is
-keen, but attacks it when it is sluggish and inclined to return. This
-is the art of studying moods. 
-
-30. Disciplined and calm, to await the appearance of disorder and
-hubbub amongst the enemy:--this is the art of retaining self-possession.
-
-31. To be near the goal while the enemy is still far from it, to wait
-at ease while the enemy is toiling and struggling, to be well-fed
-while the enemy is famished:--this is the art of husbanding one's
-strength. 
-
-32. To refrain from intercepting an enemy whose banners are in perfect
-order, to refrain from attacking an army drawn up in calm and confident
-array:--this is the art of studying circumstances. 
-
-33. It is a military axiom not to advance uphill against the enemy,
-nor to oppose him when he comes downhill. 
-
-34. Do not pursue an enemy who simulates flight; do not attack soldiers
-whose temper is keen. 
-
-35. Do not swallow bait offered by the enemy. Do not interfere with
-an army that is returning home. 
-
-36. When you surround an army, leave an outlet free. Do not press
-a desperate foe too hard. 
-
-37. Such is the art of warfare. 
-
-VIII. Variation in Tactics
-
-1. Sun Tzu said: In war, the general receives his commands from the
-sovereign, collects his army and concentrates his forces
-
-2. When in difficult country, do not encamp. In country where high
-roads intersect, join hands with your allies. Do not linger in dangerously
-isolated positions. In hemmed-in situations, you must resort to stratagem.
-In desperate position, you must fight. 
-
-3. There are roads which must not be followed, armies which must be
-not attacked, towns which must be besieged, positions which must not
-be contested, commands of the sovereign which must not be obeyed.
-
-4. The general who thoroughly understands the advantages that accompany
-variation of tactics knows how to handle his troops. 
-
-5. The general who does not understand these, may be well acquainted
-with the configuration of the country, yet he will not be able to
-turn his knowledge to practical account. 
-
-6. So, the student of war who is unversed in the art of war of varying
-his plans, even though he be acquainted with the Five Advantages,
-will fail to make the best use of his men. 
-
-7. Hence in the wise leader's plans, considerations of advantage and
-of disadvantage will be blended together. 
-
-8. If our expectation of advantage be tempered in this way, we may
-succeed in accomplishing the essential part of our schemes.
-
-9. If, on the other hand, in the midst of difficulties we are always
-ready to seize an advantage, we may extricate ourselves from misfortune.
-
-10. Reduce the hostile chiefs by inflicting damage on them; and make
-trouble for them, and keep them constantly engaged; hold out specious
-allurements, and make them rush to any given point. 
-
-11. The art of war teaches us to rely not on the likelihood of the
-enemy's not coming, but on our own readiness to receive him; not on
-the chance of his not attacking, but rather on the fact that we have
-made our position unassailable. 
-
-12. There are five dangerous faults which may affect a general: (1)
-Recklessness, which leads to destruction; (2) cowardice, which leads
-to capture; (3) a hasty temper, which can be provoked by insults;
-(4) a delicacy of honor which is sensitive to shame; (5) over-solicitude
-for his men, which exposes him to worry and trouble. 
-
-13. These are the five besetting sins of a general, ruinous to the
-conduct of war. 
-
-14. When an army is overthrown and its leader slain, the cause will
-surely be found among these five dangerous faults. Let them be a subject
-of meditation. 
-
-IX. The Army on the March
-
-1. Sun Tzu said: We come now to the question of encamping the army,
-and observing signs of the enemy. Pass quickly over mountains, and
-keep in the neighborhood of valleys. 
-
-2. Camp in high places, facing the sun. Do not climb heights in order
-to fight. So much for mountain warfare. 
-
-3. After crossing a river, you should get far away from it.
-
-4. When an invading force crosses a river in its onward march, do
-not advance to meet it in mid-stream. It will be best to let half
-the army get across, and then deliver your attack. 
-
-5. If you are anxious to fight, you should not go to meet the invader
-near a river which he has to cross. 
-
-6. Moor your craft higher up than the enemy, and facing the sun. Do
-not move up-stream to meet the enemy. So much for river warfare.
-
-7. In crossing salt-marshes, your sole concern should be to get over
-them quickly, without any delay. 
-
-8. If forced to fight in a salt-marsh, you should have water and grass
-near you, and get your back to a clump of trees. So much for operations
-in salt-marches. 
-
-9. In dry, level country, take up an easily accessible position with
-rising ground to your right and on your rear, so that the danger may
-be in front, and safety lie behind. So much for campaigning in flat
-country. 
-
-10. These are the four useful branches of military knowledge which
-enabled the Yellow Emperor to vanquish four several sovereigns.
-
-11. All armies prefer high ground to low and sunny places to dark.
-
-12. If you are careful of your men, and camp on hard ground, the army
-will be free from disease of every kind, and this will spell victory.
-
-13. When you come to a hill or a bank, occupy the sunny side, with
-the slope on your right rear. Thus you will at once act for the benefit
-of your soldiers and utilize the natural advantages of the ground.
-
-14. When, in consequence of heavy rains up-country, a river which
-you wish to ford is swollen and flecked with foam, you must wait until
-it subsides. 
-
-15. Country in which there are precipitous cliffs with torrents running
-between, deep natural hollows, confined places, tangled thickets,
-quagmires and crevasses, should be left with all possible speed and
-not approached. 
-
-16. While we keep away from such places, we should get the enemy to
-approach them; while we face them, we should let the enemy have them
-on his rear. 
-
-17. If in the neighborhood of your camp there should be any hilly
-country, ponds surrounded by aquatic grass, hollow basins filled with
-reeds, or woods with thick undergrowth, they must be carefully routed
-out and searched; for these are places where men in ambush or insidious
-spies are likely to be lurking. 
-
-18. When the enemy is close at hand and remains quiet, he is relying
-on the natural strength of his position. 
-
-19. When he keeps aloof and tries to provoke a battle, he is anxious
-for the other side to advance. 
-
-20. If his place of encampment is easy of access, he is tendering
-a bait. 
-
-21. Movement amongst the trees of a forest shows that the enemy is
-advancing. The appearance of a number of screens in the midst of thick
-grass means that the enemy wants to make us suspicious. 
-
-22. The rising of birds in their flight is the sign of an ambuscade.
-Startled beasts indicate that a sudden attack is coming.
-
-23. When there is dust rising in a high column, it is the sign of
-chariots advancing; when the dust is low, but spread over a wide area,
-it betokens the approach of infantry. When it branches out in different
-directions, it shows that parties have been sent to collect firewood.
-A few clouds of dust moving to and fro signify that the army is encamping.
-
-24. Humble words and increased preparations are signs that the enemy
-is about to advance. Violent language and driving forward as if to
-the attack are signs that he will retreat. 
-
-25. When the light chariots come out first and take up a position
-on the wings, it is a sign that the enemy is forming for battle.
-
-26. Peace proposals unaccompanied by a sworn covenant indicate a plot.
-
-27. When there is much running about and the soldiers fall into rank,
-it means that the critical moment has come. 
-
-28. When some are seen advancing and some retreating, it is a lure.
-
-29. When the soldiers stand leaning on their spears, they are faint
-from want of food. 
-
-30. If those who are sent to draw water begin by drinking themselves,
-the army is suffering from thirst. 
-
-31. If the enemy sees an advantage to be gained and makes no effort
-to secure it, the soldiers are exhausted. 
-
-32. If birds gather on any spot, it is unoccupied. Clamor by night
-betokens nervousness. 
-
-33. If there is disturbance in the camp, the general's authority is
-weak. If the banners and flags are shifted about, sedition is afoot.
-If the officers are angry, it means that the men are weary.
-
-34. When an army feeds its horses with grain and kills its cattle
-for food, and when the men do not hang their cooking-pots over the
-camp-fires, showing that they will not return to their tents, you
-may know that they are determined to fight to the death.
-
-35. The sight of men whispering together in small knots or speaking
-in subdued tones points to disaffection amongst the rank and file.
-
-36. Too frequent rewards signify that the enemy is at the end of his
-resources; too many punishments betray a condition of dire distress.
-
-37. To begin by bluster, but afterwards to take fright at the enemy's
-numbers, shows a supreme lack of intelligence. 
-
-38. When envoys are sent with compliments in their mouths, it is a
-sign that the enemy wishes for a truce. 
-
-39. If the enemy's troops march up angrily and remain facing ours
-for a long time without either joining battle or taking themselves
-off again, the situation is one that demands great vigilance and circumspection.
-
-40. If our troops are no more in number than the enemy, that is amply
-sufficient; it only means that no direct attack can be made. What
-we can do is simply to concentrate all our available strength, keep
-a close watch on the enemy, and obtain reinforcements. 
-
-41. He who exercises no forethought but makes light of his opponents
-is sure to be captured by them. 
-
-42. If soldiers are punished before they have grown attached to you,
-they will not prove submissive; and, unless submissive, then will
-be practically useless. If, when the soldiers have become attached
-to you, punishments are not enforced, they will still be unless.
-
-43. Therefore soldiers must be treated in the first instance with
-humanity, but kept under control by means of iron discipline. This
-is a certain road to victory. 
-
-44. If in training soldiers commands are habitually enforced, the
-army will be well-disciplined; if not, its discipline will be bad.
-
-45. If a general shows confidence in his men but always insists on
-his orders being obeyed, the gain will be mutual. 
-
-X. Terrain
-
-1. Sun Tzu said: We may distinguish six kinds of terrain, to wit:
-(1) Accessible ground; (2) entangling ground; (3) temporizing ground;
-(4) narrow passes; (5) precipitous heights; (6) positions at a great
-distance from the enemy. 
-
-2. Ground which can be freely traversed by both sides is called accessible.
-
-3. With regard to ground of this nature, be before the enemy in occupying
-the raised and sunny spots, and carefully guard your line of supplies.
-Then you will be able to fight with advantage. 
-
-4. Ground which can be abandoned but is hard to re-occupy is called
-entangling. 
-
-5. From a position of this sort, if the enemy is unprepared, you may
-sally forth and defeat him. But if the enemy is prepared for your
-coming, and you fail to defeat him, then, return being impossible,
-disaster will ensue. 
-
-6. When the position is such that neither side will gain by making
-the first move, it is called temporizing ground. 
-
-7. In a position of this sort, even though the enemy should offer
-us an attractive bait, it will be advisable not to stir forth, but
-rather to retreat, thus enticing the enemy in his turn; then, when
-part of his army has come out, we may deliver our attack with advantage.
-
-8. With regard to narrow passes, if you can occupy them first, let
-them be strongly garrisoned and await the advent of the enemy.
-
-9. Should the army forestall you in occupying a pass, do not go after
-him if the pass is fully garrisoned, but only if it is weakly garrisoned.
-
-10. With regard to precipitous heights, if you are beforehand with
-your adversary, you should occupy the raised and sunny spots, and
-there wait for him to come up. 
-
-11. If the enemy has occupied them before you, do not follow him,
-but retreat and try to entice him away. 
-
-12. If you are situated at a great distance from the enemy, and the
-strength of the two armies is equal, it is not easy to provoke a battle,
-and fighting will be to your disadvantage. 
-
-13. These six are the principles connected with Earth. The general
-who has attained a responsible post must be careful to study them.
-
-14. Now an army is exposed to six several calamities, not arising
-from natural causes, but from faults for which the general is responsible.
-These are: (1) Flight; (2) insubordination; (3) collapse; (4) ruin;
-(5) disorganization; (6) rout. 
-
-15. Other conditions being equal, if one force is hurled against another
-ten times its size, the result will be the flight of the former.
-
-16. When the common soldiers are too strong and their officers too
-weak, the result is insubordination. When the officers are too strong
-and the common soldiers too weak, the result is collapse.
-
-17. When the higher officers are angry and insubordinate, and on meeting
-the enemy give battle on their own account from a feeling of resentment,
-before the commander-in-chief can tell whether or no he is in a position
-to fight, the result is ruin. 
-
-18. When the general is weak and without authority; when his orders
-are not clear and distinct; when there are no fixes duties assigned
-to officers and men, and the ranks are formed in a slovenly haphazard
-manner, the result is utter disorganization. 
-
-19. When a general, unable to estimate the enemy's strength, allows
-an inferior force to engage a larger one, or hurls a weak detachment
-against a powerful one, and neglects to place picked soldiers in the
-front rank, the result must be rout. 
-
-20. These are six ways of courting defeat, which must be carefully
-noted by the general who has attained a responsible post.
-
-21. The natural formation of the country is the soldier's best ally;
-but a power of estimating the adversary, of controlling the forces
-of victory, and of shrewdly calculating difficulties, dangers and
-distances, constitutes the test of a great general. 
-
-22. He who knows these things, and in fighting puts his knowledge
-into practice, will win his battles. He who knows them not, nor practices
-them, will surely be defeated. 
-
-23. If fighting is sure to result in victory, then you must fight,
-even though the ruler forbid it; if fighting will not result in victory,
-then you must not fight even at the ruler's bidding. 
-
-24. The general who advances without coveting fame and retreats without
-fearing disgrace, whose only thought is to protect his country and
-do good service for his sovereign, is the jewel of the kingdom.
-
-25. Regard your soldiers as your children, and they will follow you
-into the deepest valleys; look upon them as your own beloved sons,
-and they will stand by you even unto death. 
-
-26. If, however, you are indulgent, but unable to make your authority
-felt; kind-hearted, but unable to enforce your commands; and incapable,
-moreover, of quelling disorder: then your soldiers must be likened
-to spoilt children; they are useless for any practical purpose.
-
-27. If we know that our own men are in a condition to attack, but
-are unaware that the enemy is not open to attack, we have gone only
-halfway towards victory. 
-
-28. If we know that the enemy is open to attack, but are unaware that
-our own men are not in a condition to attack, we have gone only halfway
-towards victory. 
-
-29. If we know that the enemy is open to attack, and also know that
-our men are in a condition to attack, but are unaware that the nature
-of the ground makes fighting impracticable, we have still gone only
-halfway towards victory. 
-
-30. Hence the experienced soldier, once in motion, is never bewildered;
-once he has broken camp, he is never at a loss. 
-
-31. Hence the saying: If you know the enemy and know yourself, your
-victory will not stand in doubt; if you know Heaven and know Earth,
-you may make your victory complete. 
-
-XI. The Nine Situations
-
-1. Sun Tzu said: The art of war recognizes nine varieties of ground:
-(1) Dispersive ground; (2) facile ground; (3) contentious ground;
-(4) open ground; (5) ground of intersecting highways; (6) serious
-ground; (7) difficult ground; (8) hemmed-in ground; (9) desperate
-ground. 
-
-2. When a chieftain is fighting in his own territory, it is dispersive
-ground. 
-
-3. When he has penetrated into hostile territory, but to no great
-distance, it is facile ground. 
-
-4. Ground the possession of which imports great advantage to either
-side, is contentious ground. 
-
-5. Ground on which each side has liberty of movement is open ground.
-
-6. Ground which forms the key to three contiguous states, so that
-he who occupies it first has most of the Empire at his command, is
-a ground of intersecting highways. 
-
-7. When an army has penetrated into the heart of a hostile country,
-leaving a number of fortified cities in its rear, it is serious ground.
-
-8. Mountain forests, rugged steeps, marshes and fens--all country
-that is hard to traverse: this is difficult ground. 
-
-9. Ground which is reached through narrow gorges, and from which we
-can only retire by tortuous paths, so that a small number of the enemy
-would suffice to crush a large body of our men: this is hemmed in
-ground. 
-
-10. Ground on which we can only be saved from destruction by fighting
-without delay, is desperate ground. 
-
-11. On dispersive ground, therefore, fight not. On facile ground,
-halt not. On contentious ground, attack not. 
-
-12. On open ground, do not try to block the enemy's way. On the ground
-of intersecting highways, join hands with your allies. 
-
-13. On serious ground, gather in plunder. In difficult ground, keep
-steadily on the march. 
-
-14. On hemmed-in ground, resort to stratagem. On desperate ground,
-fight. 
-
-15. Those who were called skillful leaders of old knew how to drive
-a wedge between the enemy's front and rear; to prevent co-operation
-between his large and small divisions; to hinder the good troops from
-rescuing the bad, the officers from rallying their men. 
-
-16. When the enemy's men were united, they managed to keep them in
-disorder. 
-
-17. When it was to their advantage, they made a forward move; when
-otherwise, they stopped still. 
-
-18. If asked how to cope with a great host of the enemy in orderly
-array and on the point of marching to the attack, I should say: "Begin
-by seizing something which your opponent holds dear; then he will
-be amenable to your will." 
-
-19. Rapidity is the essence of war: take advantage of the enemy's
-unreadiness, make your way by unexpected routes, and attack unguarded
-spots. 
-
-20. The following are the principles to be observed by an invading
-force: The further you penetrate into a country, the greater will
-be the solidarity of your troops, and thus the defenders will not
-prevail against you. 
-
-21. Make forays in fertile country in order to supply your army with
-food. 
-
-22. Carefully study the well-being of your men, and do not overtax
-them. Concentrate your energy and hoard your strength. Keep your army
-continually on the move, and devise unfathomable plans. 
-
-23. Throw your soldiers into positions whence there is no escape,
-and they will prefer death to flight. If they will face death, there
-is nothing they may not achieve. Officers and men alike will put forth
-their uttermost strength. 
-
-24. Soldiers when in desperate straits lose the sense of fear. If
-there is no place of refuge, they will stand firm. If they are in
-hostile country, they will show a stubborn front. If there is no help
-for it, they will fight hard. 
-
-25. Thus, without waiting to be marshaled, the soldiers will be constantly
-on the qui vive; without waiting to be asked, they will do your will;
-without restrictions, they will be faithful; without giving orders,
-they can be trusted. 
-
-26. Prohibit the taking of omens, and do away with superstitious doubts.
-Then, until death itself comes, no calamity need be feared.
-
-27. If our soldiers are not overburdened with money, it is not because
-they have a distaste for riches; if their lives are not unduly long,
-it is not because they are disinclined to longevity. 
-
-28. On the day they are ordered out to battle, your soldiers may weep,
-those sitting up bedewing their garments, and those lying down letting
-the tears run down their cheeks. But let them once be brought to bay,
-and they will display the courage of a Chu or a Kuei. 
-
-29. The skillful tactician may be likened to the shuai-jan. Now the
-shuai-jan is a snake that is found in the ChUng mountains. Strike
-at its head, and you will be attacked by its tail; strike at its tail,
-and you will be attacked by its head; strike at its middle, and you
-will be attacked by head and tail both. 
-
-30. Asked if an army can be made to imitate the shuai-jan, I should
-answer, Yes. For the men of Wu and the men of Yueh are enemies; yet
-if they are crossing a river in the same boat and are caught by a
-storm, they will come to each other's assistance just as the left
-hand helps the right. 
-
-31. Hence it is not enough to put one's trust in the tethering of
-horses, and the burying of chariot wheels in the ground 
-
-32. The principle on which to manage an army is to set up one standard
-of courage which all must reach. 
-
-33. How to make the best of both strong and weak--that is a question
-involving the proper use of ground. 
-
-34. Thus the skillful general conducts his army just as though he
-were leading a single man, willy-nilly, by the hand. 
-
-35. It is the business of a general to be quiet and thus ensure secrecy;
-upright and just, and thus maintain order. 
-
-36. He must be able to mystify his officers and men by false reports
-and appearances, and thus keep them in total ignorance. 
-
-37. By altering his arrangements and changing his plans, he keeps
-the enemy without definite knowledge. By shifting his camp and taking
-circuitous routes, he prevents the enemy from anticipating his purpose.
-
-38. At the critical moment, the leader of an army acts like one who
-has climbed up a height and then kicks away the ladder behind him.
-He carries his men deep into hostile territory before he shows his
-hand. 
-
-39. He burns his boats and breaks his cooking-pots; like a shepherd
-driving a flock of sheep, he drives his men this way and that, and
-nothing knows whither he is going. 
-
-40. To muster his host and bring it into danger:--this may be termed
-the business of the general. 
-
-41. The different measures suited to the nine varieties of ground;
-the expediency of aggressive or defensive tactics; and the fundamental
-laws of human nature: these are things that must most certainly be
-studied. 
-
-42. When invading hostile territory, the general principle is, that
-penetrating deeply brings cohesion; penetrating but a short way means
-dispersion. 
-
-43. When you leave your own country behind, and take your army across
-neighborhood territory, you find yourself on critical ground. When
-there are means of communication on all four sides, the ground is
-one of intersecting highways. 
-
-44. When you penetrate deeply into a country, it is serious ground.
-When you penetrate but a little way, it is facile ground.
-
-45. When you have the enemy's strongholds on your rear, and narrow
-passes in front, it is hemmed-in ground. When there is no place of
-refuge at all, it is desperate ground. 
-
-46. Therefore, on dispersive ground, I would inspire my men with unity
-of purpose. On facile ground, I would see that there is close connection
-between all parts of my army. 
-
-47. On contentious ground, I would hurry up my rear. 
-
-48. On open ground, I would keep a vigilant eye on my defenses. On
-ground of intersecting highways, I would consolidate my alliances.
-
-49. On serious ground, I would try to ensure a continuous stream of
-supplies. On difficult ground, I would keep pushing on along the road.
-
-50. On hemmed-in ground, I would block any way of retreat. On desperate
-ground, I would proclaim to my soldiers the hopelessness of saving
-their lives. 
-
-51. For it is the soldier's disposition to offer an obstinate resistance
-when surrounded, to fight hard when he cannot help himself, and to
-obey promptly when he has fallen into danger. 
-
-52. We cannot enter into alliance with neighboring princes until we
-are acquainted with their designs. We are not fit to lead an army
-on the march unless we are familiar with the face of the country--its
-mountains and forests, its pitfalls and precipices, its marshes and
-swamps. We shall be unable to turn natural advantages to account unless
-we make use of local guides. 
-
-53. To be ignored of any one of the following four or five principles
-does not befit a warlike prince. 
-
-54. When a warlike prince attacks a powerful state, his generalship
-shows itself in preventing the concentration of the enemy's forces.
-He overawes his opponents, and their allies are prevented from joining
-against him. 
-
-55. Hence he does not strive to ally himself with all and sundry,
-nor does he foster the power of other states. He carries out his own
-secret designs, keeping his antagonists in awe. Thus he is able to
-capture their cities and overthrow their kingdoms. 
-
-56. Bestow rewards without regard to rule, issue orders without regard
-to previous arrangements; and you will be able to handle a whole army
-as though you had to do with but a single man. 
-
-57. Confront your soldiers with the deed itself; never let them know
-your design. When the outlook is bright, bring it before their eyes;
-but tell them nothing when the situation is gloomy. 
-
-58. Place your army in deadly peril, and it will survive; plunge it
-into desperate straits, and it will come off in safety. 
-
-59. For it is precisely when a force has fallen into harm's way that
-is capable of striking a blow for victory. 
-
-60. Success in warfare is gained by carefully accommodating ourselves
-to the enemy's purpose. 
-
-61. By persistently hanging on the enemy's flank, we shall succeed
-in the long run in killing the commander-in-chief. 
-
-62. This is called ability to accomplish a thing by sheer cunning.
-
-63. On the day that you take up your command, block the frontier passes,
-destroy the official tallies, and stop the passage of all emissaries.
-
-64. Be stern in the council-chamber, so that you may control the situation.
-
-65. If the enemy leaves a door open, you must rush in. 
-
-66. Forestall your opponent by seizing what he holds dear, and subtly
-contrive to time his arrival on the ground. 
-
-67. Walk in the path defined by rule, and accommodate yourself to
-the enemy until you can fight a decisive battle. 
-
-68. At first, then, exhibit the coyness of a maiden, until the enemy
-gives you an opening; afterwards emulate the rapidity of a running
-hare, and it will be too late for the enemy to oppose you.
-
-XII. The Attack by Fire
-
-1. Sun Tzu said: There are five ways of attacking with fire. The first
-is to burn soldiers in their camp; the second is to burn stores; the
-third is to burn baggage trains; the fourth is to burn arsenals and
-magazines; the fifth is to hurl dropping fire amongst the enemy.
-
-2. In order to carry out an attack, we must have means available.
-The material for raising fire should always be kept in readiness.
-
-3. There is a proper season for making attacks with fire, and special
-days for starting a conflagration. 
-
-4. The proper season is when the weather is very dry; the special
-days are those when the moon is in the constellations of the Sieve,
-the Wall, the Wing or the Cross-bar; for these four are all days of
-rising wind. 
-
-5. In attacking with fire, one should be prepared to meet five possible
-developments: 
-
-6. (1) When fire breaks out inside to enemy's camp, respond at once
-with an attack from without. 
-
-7. (2) If there is an outbreak of fire, but the enemy's soldiers remain
-quiet, bide your time and do not attack. 
-
-8. (3) When the force of the flames has reached its height, follow
-it up with an attack, if that is practicable; if not, stay where you
-are. 
-
-9. (4) If it is possible to make an assault with fire from without,
-do not wait for it to break out within, but deliver your attack at
-a favorable moment. 
-
-10. (5) When you start a fire, be to windward of it. Do not attack
-from the leeward. 
-
-11. A wind that rises in the daytime lasts long, but a night breeze
-soon falls. 
-
-12. In every army, the five developments connected with fire must
-be known, the movements of the stars calculated, and a watch kept
-for the proper days. 
-
-13. Hence those who use fire as an aid to the attack show intelligence;
-those who use water as an aid to the attack gain an accession of strength.
-
-14. By means of water, an enemy may be intercepted, but not robbed
-of all his belongings. 
-
-15. Unhappy is the fate of one who tries to win his battles and succeed
-in his attacks without cultivating the spirit of enterprise; for the
-result is waste of time and general stagnation. 
-
-16. Hence the saying: The enlightened ruler lays his plans well ahead;
-the good general cultivates his resources. 
-
-17. Move not unless you see an advantage; use not your troops unless
-there is something to be gained; fight not unless the position is
-critical. 
-
-18. No ruler should put troops into the field merely to gratify his
-own spleen; no general should fight a battle simply out of pique.
-
-19. If it is to your advantage, make a forward move; if not, stay
-where you are. 
-
-20. Anger may in time change to gladness; vexation may be succeeded
-by content. 
-
-21. But a kingdom that has once been destroyed can never come again
-into being; nor can the dead ever be brought back to life.
-
-22. Hence the enlightened ruler is heedful, and the good general full
-of caution. This is the way to keep a country at peace and an army
-intact. 
-
-XIII. The Use of Spies
-
-1. Sun Tzu said: Raising a host of a hundred thousand men and marching
-them great distances entails heavy loss on the people and a drain
-on the resources of the State. The daily expenditure will amount to
-a thousand ounces of silver. There will be commotion at home and abroad,
-and men will drop down exhausted on the highways. As many as seven
-hundred thousand families will be impeded in their labor.
-
-2. Hostile armies may face each other for years, striving for the
-victory which is decided in a single day. This being so, to remain
-in ignorance of the enemy's condition simply because one grudges the
-outlay of a hundred ounces of silver in honors and emoluments, is
-the height of inhumanity. 
-
-3. One who acts thus is no leader of men, no present help to his sovereign,
-no master of victory. 
-
-4. Thus, what enables the wise sovereign and the good general to strike
-and conquer, and achieve things beyond the reach of ordinary men,
-is foreknowledge. 
-
-5. Now this foreknowledge cannot be elicited from spirits; it cannot
-be obtained inductively from experience, nor by any deductive calculation.
-
-6. Knowledge of the enemy's dispositions can only be obtained from
-other men. 
-
-7. Hence the use of spies, of whom there are five classes: (1) Local
-spies; (2) inward spies; (3) converted spies; (4) doomed spies; (5)
-surviving spies. 
-
-8. When these five kinds of spy are all at work, none can discover
-the secret system. This is called "divine manipulation of the threads."
-It is the sovereign's most precious faculty. 
-
-9. Having local spies means employing the services of the inhabitants
-of a district. 
-
-10. Having inward spies, making use of officials of the enemy.
-
-11. Having converted spies, getting hold of the enemy's spies and
-using them for our own purposes. 
-
-12. Having doomed spies, doing certain things openly for purposes
-of deception, and allowing our spies to know of them and report them
-to the enemy. 
-
-13. Surviving spies, finally, are those who bring back news from the
-enemy's camp. 
-
-14. Hence it is that which none in the whole army are more intimate
-relations to be maintained than with spies. None should be more liberally
-rewarded. In no other business should greater secrecy be preserved.
-
-15. Spies cannot be usefully employed without a certain intuitive
-sagacity. 
-
-16. They cannot be properly managed without benevolence and straightforwardness.
-
-17. Without subtle ingenuity of mind, one cannot make certain of the
-truth of their reports. 
-
-18. Be subtle! be subtle! and use your spies for every kind of business.
-
-19. If a secret piece of news is divulged by a spy before the time
-is ripe, he must be put to death together with the man to whom the
-secret was told. 
-
-20. Whether the object be to crush an army, to storm a city, or to
-assassinate an individual, it is always necessary to begin by finding
-out the names of the attendants, the aides-de-camp, and door-keepers
-and sentries of the general in command. Our spies must be commissioned
-to ascertain these. 
-
-21. The enemy's spies who have come to spy on us must be sought out,
-tempted with bribes, led away and comfortably housed. Thus they will
-become converted spies and available for our service. 
-
-22. It is through the information brought by the converted spy that
-we are able to acquire and employ local and inward spies.
-
-23. It is owing to his information, again, that we can cause the doomed
-spy to carry false tidings to the enemy. 
-
-24. Lastly, it is by his information that the surviving spy can be
-used on appointed occasions. 
-
-25. The end and aim of spying in all its five varieties is knowledge
-of the enemy; and this knowledge can only be derived, in the first
-instance, from the converted spy. Hence it is essential that the converted
-spy be treated with the utmost liberality. 
-
-26. Of old, the rise of the Yin dynasty was due to I Chih who had
-served under the Hsia. Likewise, the rise of the Chou dynasty was
-due to Lu Ya who had served under the Yin. 
-
-27. Hence it is only the enlightened ruler and the wise general who
-will use the highest intelligence of the army for purposes of spying
-and thereby they achieve great results. Spies are a most important
-element in water, because on them depends an army's ability to move.
-
-THE END
-
-----------------------------------------------------------------------
-
-Copyright statement:
-The Internet Classics Archive by Daniel C. Stevenson, Web Atomics.
-World Wide Web presentation is copyright (C) 1994-2000, Daniel
-C. Stevenson, Web Atomics.
-All rights reserved under international and pan-American copyright
-conventions, including the right of reproduction in whole or in part
-in any form. Direct permission requests to classics@classics.mit.edu.
-Translation of "The Deeds of the Divine Augustus" by Augustus is
-copyright (C) Thomas Bushnell, BSG.
+<html>
+<a name="1"></a><div align="CENTER"><font size="+1"><b>The Art of War</b></font>
+<a name="2"></a><br><br>By Sun Tzu
+<a name="3"></a>
+<br><br>Translated by Lionel Giles</div>
+<br><a name="start"></a>
+
+<a name="10"></a><b>I. Laying Plans</b>
+
+<a name="11"></a><br><br><b>1.</b> Sun Tzu said:  The art of war is of vital importance 
+<a name="12"></a>to the State.
+<a name="13"></a><br><br><b>2.</b> It is a matter of life and death, a road either to safety 
+<a name="14"></a>or to ruin.  Hence it is a subject of inquiry which can on no account be 
+<a name="15"></a>neglected.
+<a name="16"></a><br><br><b>3.</b> The art of war, then, is governed by five constant factors, 
+<a name="17"></a>to be taken into account in one's deliberations, when seeking to determine 
+<a name="18"></a>the conditions obtaining in the field.
+<a name="19"></a><br><br><b>4.</b> These are:  (1) The Moral Law; (2) Heaven; (3) Earth; 
+<a name="20"></a>(4) The Commander; (5) Method and discipline.
+<a name="21"></a><br><br><b>5,6.</b> The Moral Law causes the people to be in complete accord 
+<a name="22"></a>with their ruler, so that they will follow him regardless of their lives, 
+<a name="23"></a>undismayed by any danger.
+<a name="24"></a><br><br><b>7.</b> Heaven signifies night and day, cold and heat, times 
+<a name="25"></a>and seasons.
+<a name="26"></a><br><br><b>8.</b> Earth comprises distances, great and small; danger and 
+<a name="27"></a>security; open ground and narrow passes; the chances of life and 
+<a name="28"></a>death.
+<a name="29"></a><br><br><b>9.</b> The Commander stands for the virtues of wisdom, sincerely, 
+<a name="30"></a>benevolence, courage and strictness.
+<a name="31"></a><br><br><b>10.</b> By method and discipline are to be understood the marshaling 
+<a name="32"></a>of the army in its proper subdivisions, the graduations of rank among the 
+<a name="33"></a>officers, the maintenance of roads by which supplies may reach the army, 
+<a name="34"></a>and the control of military expenditure.
+<a name="35"></a><br><br><b>11.</b> These five heads should be familiar to every general: 
+<a name="36"></a>he who knows them will be victorious; he who knows them not will 
+<a name="37"></a>fail.
+<a name="38"></a><br><br><b>12.</b> Therefore, in your deliberations, when seeking to determine 
+<a name="39"></a>the military conditions, let them be made the basis of a comparison, in 
+<a name="40"></a>this wise:--
+<a name="41"></a><br><br><b>13.</b> (1) Which of the two sovereigns is imbued with the Moral 
+<a name="42"></a>law? (2) Which of the two generals has most ability? (3) With whom lie 
+<a name="43"></a>the advantages derived from Heaven and Earth? (4) On which side is discipline 
+<a name="44"></a>most rigorously enforced? (5) Which army is stronger? (6) On which side 
+<a name="45"></a>are officers and men more highly trained? (7) In which army is there the 
+<a name="46"></a>greater constancy both in reward and punishment?
+<a name="47"></a><br><br><b>14.</b> By means of these seven considerations I can forecast 
+<a name="48"></a>victory or defeat.
+<a name="49"></a><br><br><b>15.</b> The general that hearkens to my counsel and acts upon 
+<a name="50"></a>it, will conquer:  let such a one be retained in command! The general that 
+<a name="51"></a>hearkens not to my counsel nor acts upon it, will suffer defeat:--let such 
+<a name="52"></a>a one be dismissed!
+<a name="53"></a><br><br><b>16.</b> While heading the profit of my counsel, avail yourself 
+<a name="54"></a>also of any helpful circumstances over and beyond the ordinary 
+<a name="55"></a>rules.
+<a name="56"></a><br><br><b>17.</b> According as circumstances are favorable, one should 
+<a name="57"></a>modify one's plans.
+<a name="58"></a><br><br><b>18.</b> All warfare is based on deception.
+<a name="59"></a><br><br><b>19.</b> Hence, when able to attack, we must seem unable; when 
+<a name="60"></a>using our forces, we must seem inactive; when we are near, we must make 
+<a name="61"></a>the enemy believe we are far away; when far away, we must make him believe 
+<a name="62"></a>we are near.
+<a name="63"></a><br><br><b>20.</b> Hold out baits to entice the enemy.  Feign disorder, 
+<a name="64"></a>and crush him.
+<a name="65"></a><br><br><b>21.</b> If he is secure at all points, be prepared for him. 
+<a name="66"></a>If he is in superior strength, evade him.
+<a name="67"></a><br><br><b>22.</b> If your opponent is of choleric temper, seek to irritate 
+<a name="68"></a>him.  Pretend to be weak, that he may grow arrogant.
+<a name="69"></a><br><br><b>23.</b> If he is taking his ease, give him no rest. If his forces 
+<a name="70"></a>are united, separate them.
+<a name="71"></a><br><br><b>24.</b> Attack him where he is unprepared, appear where you 
+<a name="72"></a>are not expected.
+<a name="73"></a><br><br><b>25.</b> These military devices, leading to victory, must not 
+<a name="74"></a>be divulged beforehand.
+<a name="75"></a><br><br><b>26.</b> Now the general who wins a battle makes many calculations 
+<a name="76"></a>in his temple ere the battle is fought. The general who loses a battle 
+<a name="77"></a>makes but few calculations beforehand.  Thus do many calculations lead 
+<a name="78"></a>to victory, and few calculations to defeat: how much more no calculation 
+<a name="79"></a>at all!  It is by attention to this point that I can foresee who is likely 
+<a name="80"></a>to win or lose.
+<a name="81"></a><br><br><b>II. Waging War</b>
+
+<a name="82"></a><br><br><b>1.</b> Sun Tzu said:  In the operations of war, where there 
+<a name="83"></a>are in the field a thousand swift chariots, as many heavy chariots, and 
+<a name="84"></a>a hundred thousand mail-clad soldiers, with provisions enough to carry 
+<a name="85"></a>them a thousand li, the expenditure at home and at the front, including 
+<a name="86"></a>entertainment of guests, small items such as glue and paint, and sums spent 
+<a name="87"></a>on chariots and armor, will reach the total of a thousand ounces of silver 
+<a name="88"></a>per day. Such is the cost of raising an army of 100,000 
+<a name="89"></a>men.
+<a name="90"></a><br><br><b>2.</b> When you engage in actual fighting, if victory is long 
+<a name="91"></a>in coming, then men's weapons will grow dull and their ardor will be damped. 
+<a name="92"></a> If you lay siege to a town, you will exhaust your strength.
+<a name="93"></a><br><br><b>3.</b> Again, if the campaign is protracted, the resources of 
+<a name="94"></a>the State will not be equal to the strain.
+<a name="95"></a><br><br><b>4.</b> Now, when your weapons are dulled, your ardor damped, 
+<a name="96"></a>your strength exhausted and your treasure spent, other chieftains will 
+<a name="97"></a>spring up to take advantage of your extremity.  Then no man, however wise, 
+<a name="98"></a>will be able to avert the consequences that must ensue.
+<a name="99"></a><br><br><b>5.</b> Thus, though we have heard of stupid haste in war, cleverness 
+<a name="100"></a>has never been seen associated with long delays.
+<a name="101"></a><br><br><b>6.</b> There is no instance of a country having benefited from 
+<a name="102"></a>prolonged warfare.
+<a name="103"></a><br><br><b>7.</b> It is only one who is thoroughly acquainted with the 
+<a name="104"></a>evils of war that can thoroughly understand the profitable way of carrying 
+<a name="105"></a>it on.
+<a name="106"></a><br><br><b>8.</b> The skillful soldier does not raise a second levy, neither 
+<a name="107"></a>are his supply-wagons loaded more than twice.
+<a name="108"></a><br><br><b>9.</b> Bring war material with you from home, but forage on 
+<a name="109"></a>the enemy.  Thus the army will have food enough for its 
+<a name="110"></a>needs.
+<a name="111"></a><br><br><b>10.</b> Poverty of the State exchequer causes an army to be 
+<a name="112"></a>maintained by contributions from a distance. Contributing to maintain an 
+<a name="113"></a>army at a distance causes the people to be impoverished.
+<a name="114"></a><br><br><b>11.</b> On the other hand, the proximity of an army causes prices 
+<a name="115"></a>to go up; and high prices cause the people's substance to be drained 
+<a name="116"></a>away.
+<a name="117"></a><br><br><b>12.</b> When their substance is drained away, the peasantry 
+<a name="118"></a>will be afflicted by heavy exactions.
+<a name="119"></a><br><br><b>13,14.</b> With this loss of substance and exhaustion of strength, 
+<a name="120"></a>the homes of the people will be stripped bare, and three-tenths of their 
+<a name="121"></a>income will be dissipated; while government expenses for broken chariots, 
+<a name="122"></a>worn-out horses, breast-plates and helmets, bows and arrows, spears and 
+<a name="123"></a>shields, protective mantles, draught-oxen and heavy wagons, will amount 
+<a name="124"></a>to four-tenths of its total revenue.
+<a name="125"></a><br><br><b>15.</b> Hence a wise general makes a point of foraging on the 
+<a name="126"></a>enemy.  One cartload of the enemy's provisions is equivalent to twenty 
+<a name="127"></a>of one's own, and likewise a single picul of his provender is equivalent 
+<a name="128"></a>to twenty from one's own store.
+<a name="129"></a><br><br><b>16.</b> Now in order to kill the enemy, our men must be roused 
+<a name="130"></a>to anger; that there may be advantage from defeating the enemy, they must 
+<a name="131"></a>have their rewards.
+<a name="132"></a><br><br><b>17.</b> Therefore in chariot fighting, when ten or more chariots 
+<a name="133"></a>have been taken, those should be rewarded who took the first. Our own flags 
+<a name="134"></a>should be substituted for those of the enemy, and the chariots mingled 
+<a name="135"></a>and used in conjunction with ours. The captured soldiers should be kindly 
+<a name="136"></a>treated and kept.
+<a name="137"></a><br><br><b>18.</b> This is called, using the conquered foe to augment one's 
+<a name="138"></a>own strength.
+<a name="139"></a><br><br><b>19.</b> In war, then, let your great object be victory, not 
+<a name="140"></a>lengthy campaigns.
+<a name="141"></a><br><br><b>20.</b> Thus it may be known that the leader of armies is the 
+<a name="142"></a>arbiter of the people's fate, the man on whom it depends whether the nation 
+<a name="143"></a>shall be in peace or in peril.
+<a name="144"></a><br><br><b>III. Attack by Stratagem</b>
+
+<a name="145"></a><br><br><b>1.</b> Sun Tzu said:  In the practical art of war, the best 
+<a name="146"></a>thing of all is to take the enemy's country whole and intact; to shatter 
+<a name="147"></a>and destroy it is not so good.  So, too, it is better to recapture an army 
+<a name="148"></a>entire than to destroy it, to capture a regiment, a detachment or a company 
+<a name="149"></a>entire than to destroy them.
+<a name="150"></a><br><br><b>2.</b> Hence to fight and conquer in all your battles is not 
+<a name="151"></a>supreme excellence; supreme excellence consists in breaking the enemy's 
+<a name="152"></a>resistance without fighting.
+<a name="153"></a><br><br><b>3.</b> Thus the highest form of generalship is to balk the enemy's 
+<a name="154"></a>plans; the next best is to prevent the junction of the enemy's forces; 
+<a name="155"></a>the next in order is to attack the enemy's army in the field; and the worst 
+<a name="156"></a>policy of all is to besiege walled cities.
+<a name="157"></a><br><br><b>4.</b> The rule is, not to besiege walled cities if it can possibly 
+<a name="158"></a>be avoided.  The preparation of mantlets, movable shelters, and various 
+<a name="159"></a>implements of war, will take up three whole months; and the piling up of 
+<a name="160"></a>mounds over against the walls will take three months 
+<a name="161"></a>more.
+<a name="162"></a><br><br><b>5.</b> The general, unable to control his irritation, will launch 
+<a name="163"></a>his men to the assault like swarming ants, with the result that one-third 
+<a name="164"></a>of his men are slain, while the town still remains untaken.  Such are the 
+<a name="165"></a>disastrous effects of a siege.
+<a name="166"></a><br><br><b>6.</b> Therefore the skillful leader subdues the enemy's troops 
+<a name="167"></a>without any fighting; he captures their cities without laying siege to 
+<a name="168"></a>them; he overthrows their kingdom without lengthy operations in the 
+<a name="169"></a>field.
+<a name="170"></a><br><br><b>7.</b> With his forces intact he will dispute the mastery of 
+<a name="171"></a>the Empire, and thus, without losing a man, his triumph will be complete. 
+<a name="172"></a> This is the method of attacking by stratagem.
+<a name="173"></a><br><br><b>8.</b> It is the rule in war, if our forces are ten to the enemy's 
+<a name="174"></a>one, to surround him; if five to one, to attack him; if twice as numerous, 
+<a name="175"></a>to divide our army into two.
+<a name="176"></a><br><br><b>9.</b> If equally matched, we can offer battle; if slightly 
+<a name="177"></a>inferior in numbers, we can avoid the enemy; if quite unequal in every 
+<a name="178"></a>way, we can flee from him.
+<a name="179"></a><br><br><b>10.</b> Hence, though an obstinate fight may be made by a small 
+<a name="180"></a>force, in the end it must be captured by the larger 
+<a name="181"></a>force.
+<a name="182"></a><br><br><b>11.</b> Now the general is the bulwark of the State; if the 
+<a name="183"></a>bulwark is complete at all points; the State will be strong; if the bulwark 
+<a name="184"></a>is defective, the State will be weak.
+<a name="185"></a><br><br><b>12.</b> There are three ways in which a ruler can bring misfortune 
+<a name="186"></a>upon his army:--
+<a name="187"></a><br><br><b>13.</b> (1) By commanding the army to advance or to retreat, 
+<a name="188"></a>being ignorant of the fact that it cannot obey. This is called hobbling 
+<a name="189"></a>the army.
+<a name="190"></a><br><br><b>14.</b> (2) By attempting to govern an army in the same way 
+<a name="191"></a>as he administers a kingdom, being ignorant of the conditions which obtain 
+<a name="192"></a>in an army.  This causes restlessness in the soldier's 
+<a name="193"></a>minds.
+<a name="194"></a><br><br><b>15.</b> (3) By employing the officers of his army without discrimination, 
+<a name="195"></a>through ignorance of the military principle of adaptation to circumstances. 
+<a name="196"></a>This shakes the confidence of the soldiers.
+<a name="197"></a><br><br><b>16.</b> But when the army is restless and distrustful, trouble 
+<a name="198"></a>is sure to come from the other feudal princes. This is simply bringing 
+<a name="199"></a>anarchy into the army, and flinging victory away.
+<a name="200"></a><br><br><b>17.</b> Thus we may know that there are five essentials for 
+<a name="201"></a>victory: (1) He will win who knows when to fight and when not to fight. 
+<a name="202"></a>(2) He will win who knows how to handle both superior and inferior forces. 
+<a name="203"></a>(3) He will win whose army is animated by the same spirit throughout all 
+<a name="204"></a>its ranks. (4) He will win who, prepared himself, waits to take the enemy 
+<a name="205"></a>unprepared. (5) He will win who has military capacity and is not interfered 
+<a name="206"></a>with by the sovereign.
+<a name="207"></a><br><br><b>18.</b> Hence the saying:  If you know the enemy and know yourself, 
+<a name="208"></a>you need not fear the result of a hundred battles.  If you know yourself 
+<a name="209"></a>but not the enemy, for every victory gained you will also suffer a defeat. 
+<a name="210"></a>If you know neither the enemy nor yourself, you will succumb in every 
+<a name="211"></a>battle.
+<a name="212"></a><br><br><b>IV. Tactical Dispositions</b>
+
+<a name="213"></a><br><br><b>1.</b> Sun Tzu said:  The good fighters of old first put themselves 
+<a name="214"></a>beyond the possibility of defeat, and then waited for an opportunity of 
+<a name="215"></a>defeating the enemy.
+<a name="216"></a><br><br><b>2.</b> To secure ourselves against defeat lies in our own hands, 
+<a name="217"></a>but the opportunity of defeating the enemy is provided by the enemy 
+<a name="218"></a>himself.
+<a name="219"></a><br><br><b>3.</b> Thus the good fighter is able to secure himself against 
+<a name="220"></a>defeat, but cannot make certain of defeating the enemy.
+<a name="221"></a><br><br><b>4.</b> Hence the saying:  One may know how to conquer without 
+<a name="222"></a>being able to do it.
+<a name="223"></a><br><br><b>5.</b> Security against defeat implies defensive tactics; ability 
+<a name="224"></a>to defeat the enemy means taking the offensive.
+<a name="225"></a><br><br><b>6.</b> Standing on the defensive indicates insufficient strength; 
+<a name="226"></a>attacking, a superabundance of strength.
+<a name="227"></a><br><br><b>7.</b> The general who is skilled in defense hides in the most 
+<a name="228"></a>secret recesses of the earth; he who is skilled in attack flashes forth 
+<a name="229"></a>from the topmost heights of heaven. Thus on the one hand we have ability 
+<a name="230"></a>to protect ourselves; on the other, a victory that is 
+<a name="231"></a>complete.
+<a name="232"></a><br><br><b>8.</b> To see victory only when it is within the ken of the 
+<a name="233"></a>common herd is not the acme of excellence.
+<a name="234"></a><br><br><b>9.</b> Neither is it the acme of excellence if you fight and 
+<a name="235"></a>conquer and the whole Empire says, "Well done!"
+<a name="236"></a><br><br><b>10.</b> To lift an autumn hair is no sign of great strength; 
+<a name="237"></a>to see the sun and moon is no sign of sharp sight; to hear the noise of 
+<a name="238"></a>thunder is no sign of a quick ear.
+<a name="239"></a><br><br><b>11.</b> What the ancients called a clever fighter is one who 
+<a name="240"></a>not only wins, but excels in winning with ease.
+<a name="241"></a><br><br><b>12.</b> Hence his victories bring him neither reputation for 
+<a name="242"></a>wisdom nor credit for courage.
+<a name="243"></a><br><br><b>13.</b> He wins his battles by making no mistakes. Making no 
+<a name="244"></a>mistakes is what establishes the certainty of victory, for it means conquering 
+<a name="245"></a>an enemy that is already defeated.
+<a name="246"></a><br><br><b>14.</b> Hence the skillful fighter puts himself into a position 
+<a name="247"></a>which makes defeat impossible, and does not miss the moment for defeating 
+<a name="248"></a>the enemy.
+<a name="249"></a><br><br><b>15.</b> Thus it is that in war the victorious strategist only 
+<a name="250"></a>seeks battle after the victory has been won, whereas he who is destined 
+<a name="251"></a>to defeat first fights and afterwards looks for victory.
+<a name="252"></a><br><br><b>16.</b> The consummate leader cultivates the moral law, and 
+<a name="253"></a>strictly adheres to method and discipline; thus it is in his power to control 
+<a name="254"></a>success.
+<a name="255"></a><br><br><b>17.</b> In respect of military method, we have, firstly, Measurement; 
+<a name="256"></a>secondly, Estimation of quantity; thirdly, Calculation; fourthly, Balancing 
+<a name="257"></a>of chances; fifthly, Victory.
+<a name="258"></a><br><br><b>18.</b> Measurement owes its existence to Earth; Estimation 
+<a name="259"></a>of quantity to Measurement; Calculation to Estimation of quantity; Balancing 
+<a name="260"></a>of chances to Calculation; and Victory to Balancing of 
+<a name="261"></a>chances.
+<a name="262"></a><br><br><b>19.</b> A victorious army opposed to a routed one, is as a pound's 
+<a name="263"></a>weight placed in the scale against a single grain.
+<a name="264"></a><br><br><b>20.</b> The onrush of a conquering force is like the bursting 
+<a name="265"></a>of pent-up waters into a chasm a thousand fathoms deep.
+<a name="266"></a><br><br><b>V. Energy</b>
+
+<a name="267"></a><br><br><b>1.</b> Sun Tzu said:  The control of a large force is the same 
+<a name="268"></a>principle as the control of a few men: it is merely a question of dividing 
+<a name="269"></a>up their numbers.
+<a name="270"></a><br><br><b>2.</b> Fighting with a large army under your command is nowise 
+<a name="271"></a>different from fighting with a small one: it is merely a question of instituting 
+<a name="272"></a>signs and signals.
+<a name="273"></a><br><br><b>3.</b> To ensure that your whole host may withstand the brunt 
+<a name="274"></a>of the enemy's attack and remain unshaken-- this is effected by maneuvers 
+<a name="275"></a>direct and indirect.
+<a name="276"></a><br><br><b>4.</b> That the impact of your army may be like a grindstone 
+<a name="277"></a>dashed against an egg--this is effected by the science of weak points and 
+<a name="278"></a>strong.
+<a name="279"></a><br><br><b>5.</b> In all fighting, the direct method may be used for joining 
+<a name="280"></a>battle, but indirect methods will be needed in order to secure 
+<a name="281"></a>victory.
+<a name="282"></a><br><br><b>6.</b> Indirect tactics, efficiently applied, are inexhaustible 
+<a name="283"></a>as Heaven and Earth, unending as the flow of rivers and streams; like the 
+<a name="284"></a>sun and moon, they end but to begin anew; like the four seasons, they pass 
+<a name="285"></a>away to return once more.
+<a name="286"></a><br><br><b>7.</b> There are not more than five musical notes, yet the combinations 
+<a name="287"></a>of these five give rise to more melodies than can ever be 
+<a name="288"></a>heard.
+<a name="289"></a><br><br><b>8.</b> There are not more than five primary colors (blue, yellow, 
+<a name="290"></a>red, white, and black), yet in combination they produce more hues than 
+<a name="291"></a>can ever been seen.
+<a name="292"></a><br><br><b>9.</b> There are not more than five cardinal tastes (sour, acrid, 
+<a name="293"></a>salt, sweet, bitter), yet combinations of them yield more flavors than 
+<a name="294"></a>can ever be tasted.
+<a name="295"></a><br><br><b>10.</b> In battle, there are not more than two methods of attack--the 
+<a name="296"></a>direct and the indirect; yet these two in combination give rise to an endless 
+<a name="297"></a>series of maneuvers.
+<a name="298"></a><br><br><b>11.</b> The direct and the indirect lead on to each other in 
+<a name="299"></a>turn. It is like moving in a circle--you never come to an end. Who can 
+<a name="300"></a>exhaust the possibilities of their combination?
+<a name="301"></a><br><br><b>12.</b> The onset of troops is like the rush of a torrent which 
+<a name="302"></a>will even roll stones along in its course.
+<a name="303"></a><br><br><b>13.</b> The quality of decision is like the well-timed swoop 
+<a name="304"></a>of a falcon which enables it to strike and destroy its 
+<a name="305"></a>victim.
+<a name="306"></a><br><br><b>14.</b> Therefore the good fighter will be terrible in his onset, 
+<a name="307"></a>and prompt in his decision.
+<a name="308"></a><br><br><b>15.</b> Energy may be likened to the bending of a crossbow; 
+<a name="309"></a>decision, to the releasing of a trigger.
+<a name="310"></a><br><br><b>16.</b> Amid the turmoil and tumult of battle, there may be 
+<a name="311"></a>seeming disorder and yet no real disorder at all; amid confusion and chaos, 
+<a name="312"></a>your array may be without head or tail, yet it will be proof against 
+<a name="313"></a>defeat.
+<a name="314"></a><br><br><b>17.</b> Simulated disorder postulates perfect discipline, simulated 
+<a name="315"></a>fear postulates courage; simulated weakness postulates 
+<a name="316"></a>strength.
+<a name="317"></a><br><br><b>18.</b> Hiding order beneath the cloak of disorder is simply 
+<a name="318"></a>a question of subdivision; concealing courage under a show of timidity 
+<a name="319"></a>presupposes a fund of latent energy; masking strength with weakness is 
+<a name="320"></a>to be effected by tactical dispositions.
+<a name="321"></a><br><br><b>19.</b> Thus one who is skillful at keeping the enemy on the 
+<a name="322"></a>move maintains deceitful appearances, according to which the enemy will 
+<a name="323"></a>act.  He sacrifices something, that the enemy may snatch at 
+<a name="324"></a>it.
+<a name="325"></a><br><br><b>20.</b> By holding out baits, he keeps him on the march; then 
+<a name="326"></a>with a body of picked men he lies in wait for him.
+<a name="327"></a><br><br><b>21.</b> The clever combatant looks to the effect of combined 
+<a name="328"></a>energy, and does not require too much from individuals. Hence his ability 
+<a name="329"></a>to pick out the right men and utilize combined energy.
+<a name="330"></a><br><br><b>22.</b> When he utilizes combined energy, his fighting men become 
+<a name="331"></a>as it were like unto rolling logs or stones. For it is the nature of a 
+<a name="332"></a>log or stone to remain motionless on level ground, and to move when on 
+<a name="333"></a>a slope; if four-cornered, to come to a standstill, but if round-shaped, 
+<a name="334"></a>to go rolling down.
+<a name="335"></a><br><br><b>23.</b> Thus the energy developed by good fighting men is as 
+<a name="336"></a>the momentum of a round stone rolled down a mountain thousands of feet 
+<a name="337"></a>in height.  So much on the subject of energy.
+<a name="338"></a><br><br><b>VI. Weak Points and Strong</b>
+
+<a name="339"></a><br><br><b>1.</b> Sun Tzu said:  Whoever is first in the field and awaits 
+<a name="340"></a>the coming of the enemy, will be fresh for the fight; whoever is second 
+<a name="341"></a>in the field and has to hasten to battle will arrive 
+<a name="342"></a>exhausted.
+<a name="343"></a><br><br><b>2.</b> Therefore the clever combatant imposes his will on the 
+<a name="344"></a>enemy, but does not allow the enemy's will to be imposed on 
+<a name="345"></a>him.
+<a name="346"></a><br><br><b>3.</b> By holding out advantages to him, he can cause the enemy 
+<a name="347"></a>to approach of his own accord; or, by inflicting damage, he can make it 
+<a name="348"></a>impossible for the enemy to draw near.
+<a name="349"></a><br><br><b>4.</b> If the enemy is taking his ease, he can harass him; if 
+<a name="350"></a>well supplied with food, he can starve him out; if quietly encamped, he 
+<a name="351"></a>can force him to move.
+<a name="352"></a><br><br><b>5.</b> Appear at points which the enemy must hasten to defend; 
+<a name="353"></a>march swiftly to places where you are not expected.
+<a name="354"></a><br><br><b>6.</b> An army may march great distances without distress, if 
+<a name="355"></a>it marches through country where the enemy is not.
+<a name="356"></a><br><br><b>7.</b> You can be sure of succeeding in your attacks if you 
+<a name="357"></a>only attack places which are undefended.You can ensure the safety of your 
+<a name="358"></a>defense if you only hold positions that cannot be attacked.
+<a name="359"></a><br><br><b>8.</b> Hence that general is skillful in attack whose opponent 
+<a name="360"></a>does not know what to defend; and he is skillful in defense whose opponent 
+<a name="361"></a>does not know what to attack.
+<a name="362"></a><br><br><b>9.</b> O divine art of subtlety and secrecy!  Through you we 
+<a name="363"></a>learn to be invisible, through you inaudible; and hence we can hold the 
+<a name="364"></a>enemy's fate in our hands.
+<a name="365"></a><br><br><b>10.</b> You may advance and be absolutely irresistible, if you 
+<a name="366"></a>make for the enemy's weak points; you may retire and be safe from pursuit 
+<a name="367"></a>if your movements are more rapid than those of the enemy.
+<a name="368"></a><br><br><b>11.</b> If we wish to fight, the enemy can be forced to an engagement 
+<a name="369"></a>even though he be sheltered behind a high rampart and a deep ditch.  All 
+<a name="370"></a>we need do is attack some other place that he will be obliged to 
+<a name="371"></a>relieve.
+<a name="372"></a><br><br><b>12.</b> If we do not wish to fight, we can prevent the enemy 
+<a name="373"></a>from engaging us even though the lines of our encampment be merely traced 
+<a name="374"></a>out on the ground. All we need do is to throw something odd and unaccountable 
+<a name="375"></a>in his way.
+<a name="376"></a><br><br><b>13.</b> By discovering the enemy's dispositions and remaining 
+<a name="377"></a>invisible ourselves, we can keep our forces concentrated, while the enemy's 
+<a name="378"></a>must be divided.
+<a name="379"></a><br><br><b>14.</b> We can form a single united body, while the enemy must 
+<a name="380"></a>split up into fractions.  Hence there will be a whole pitted against separate 
+<a name="381"></a>parts of a whole, which means that we shall be many to the enemy's 
+<a name="382"></a>few.
+<a name="383"></a><br><br><b>15.</b> And if we are able thus to attack an inferior force 
+<a name="384"></a>with a superior one, our opponents will be in dire straits.
+<a name="385"></a><br><br><b>16.</b> The spot where we intend to fight must not be made known; 
+<a name="386"></a>for then the enemy will have to prepare against a possible attack at several 
+<a name="387"></a>different points; and his forces being thus distributed in many directions, 
+<a name="388"></a>the numbers we shall have to face at any given point will be proportionately 
+<a name="389"></a>few.
+<a name="390"></a><br><br><b>17.</b> For should the enemy strengthen his van, he will weaken 
+<a name="391"></a>his rear; should he strengthen his rear, he will weaken his van; should 
+<a name="392"></a>he strengthen his left, he will weaken his right; should he strengthen 
+<a name="393"></a>his right, he will weaken his left.  If he sends reinforcements everywhere, 
+<a name="394"></a>he will everywhere be weak.
+<a name="395"></a><br><br><b>18.</b> Numerical weakness comes from having to prepare against 
+<a name="396"></a>possible attacks; numerical strength, from compelling our adversary to 
+<a name="397"></a>make these preparations against us.
+<a name="398"></a><br><br><b>19.</b> Knowing the place and the time of the coming battle, 
+<a name="399"></a>we may concentrate from the greatest distances in order to 
+<a name="400"></a>fight.
+<a name="401"></a><br><br><b>20.</b> But if neither time nor place be known, then the left 
+<a name="402"></a>wing will be impotent to succor the right, the right equally impotent to 
+<a name="403"></a>succor the left, the van unable to relieve the rear, or the rear to support 
+<a name="404"></a>the van. How much more so if the furthest portions of the army are anything 
+<a name="405"></a>under a hundred LI apart, and even the nearest are separated by several 
+<a name="406"></a>LI!
+<a name="407"></a><br><br><b>21.</b> Though according to my estimate the soldiers of Yueh 
+<a name="408"></a>exceed our own in number, that shall advantage them nothing in the matter 
+<a name="409"></a>of victory.  I say then that victory can be achieved.
+<a name="410"></a><br><br><b>22.</b> Though the enemy be stronger in numbers, we may prevent 
+<a name="411"></a>him from fighting.  Scheme so as to discover his plans and the likelihood 
+<a name="412"></a>of their success.
+<a name="413"></a><br><br><b>23.</b> Rouse him, and learn the principle of his activity or 
+<a name="414"></a>inactivity.  Force him to reveal himself, so as to find out his vulnerable 
+<a name="415"></a>spots.
+<a name="416"></a><br><br><b>24.</b> Carefully compare the opposing army with your own, so 
+<a name="417"></a>that you may know where strength is superabundant and where it is 
+<a name="418"></a>deficient.
+<a name="419"></a><br><br><b>25.</b> In making tactical dispositions, the highest pitch you 
+<a name="420"></a>can attain is to conceal them; conceal your dispositions, and you will 
+<a name="421"></a>be safe from the prying of the subtlest spies, from the machinations of 
+<a name="422"></a>the wisest brains.
+<a name="423"></a><br><br><b>26.</b> How victory may be produced for them out of the enemy's 
+<a name="424"></a>own tactics--that is what the multitude cannot comprehend.
+<a name="425"></a><br><br><b>27.</b> All men can see the tactics whereby I conquer, but what 
+<a name="426"></a>none can see is the strategy out of which victory is 
+<a name="427"></a>evolved.
+<a name="428"></a><br><br><b>28.</b> Do not repeat the tactics which have gained you one 
+<a name="429"></a>victory, but let your methods be regulated by the infinite variety of 
+<a name="430"></a>circumstances.
+<a name="431"></a><br><br><b>29.</b> Military tactics are like unto water; for water in its 
+<a name="432"></a>natural course runs away from high places and hastens 
+<a name="433"></a>downwards.
+<a name="434"></a><br><br><b>30.</b> So in war, the way is to avoid what is strong and to 
+<a name="435"></a>strike at what is weak.
+<a name="436"></a><br><br><b>31.</b> Water shapes its course according to the nature of the 
+<a name="437"></a>ground over which it flows; the soldier works out his victory in relation 
+<a name="438"></a>to the foe whom he is facing.
+<a name="439"></a><br><br><b>32.</b> Therefore, just as water retains no constant shape, 
+<a name="440"></a>so in warfare there are no constant conditions.
+<a name="441"></a><br><br><b>33.</b> He who can modify his tactics in relation to his opponent 
+<a name="442"></a>and thereby succeed in winning, may be called a heaven-born 
+<a name="443"></a>captain.
+<a name="444"></a><br><br><b>34.</b> The five elements (water, fire, wood, metal, earth) 
+<a name="445"></a>are not always equally predominant; the four seasons make way for each 
+<a name="446"></a>other in turn.  There are short days and long; the moon has its periods 
+<a name="447"></a>of waning and waxing.
+<a name="448"></a><br><br><b>VII. Maneuvering</b>
+
+<a name="449"></a><br><br><b>1.</b> Sun Tzu said:  In war, the general receives his commands 
+<a name="450"></a>from the sovereign.
+<a name="451"></a><br><br><b>2.</b> Having collected an army and concentrated his forces, 
+<a name="452"></a>he must blend and harmonize the different elements thereof before pitching 
+<a name="453"></a>his camp.
+<a name="454"></a><br><br><b>3.</b> After that, comes tactical maneuvering, than which there 
+<a name="455"></a>is nothing more difficult. The difficulty of tactical maneuvering consists 
+<a name="456"></a>in turning the devious into the direct, and misfortune into 
+<a name="457"></a>gain.
+<a name="458"></a><br><br><b>4.</b> Thus, to take a long and circuitous route, after enticing 
+<a name="459"></a>the enemy out of the way, and though starting after him, to contrive to 
+<a name="460"></a>reach the goal before him, shows knowledge of the artifice of 
+<a name="461"></a>deviation.
+<a name="462"></a><br><br><b>5.</b> Maneuvering with an army is advantageous; with an undisciplined 
+<a name="463"></a>multitude, most dangerous.
+<a name="464"></a><br><br><b>6.</b> If you set a fully equipped army in march in order to 
+<a name="465"></a>snatch an advantage, the chances are that you will be too late.  On the 
+<a name="466"></a>other hand, to detach a flying column for the purpose involves the sacrifice 
+<a name="467"></a>of its baggage and stores.
+<a name="468"></a><br><br><b>7.</b> Thus, if you order your men to roll up their buff-coats, 
+<a name="469"></a>and make forced marches without halting day or night, covering double the 
+<a name="470"></a>usual distance at a stretch, doing a hundred LI in order to wrest an advantage, 
+<a name="471"></a>the leaders of all your three divisions will fall into the hands of the 
+<a name="472"></a>enemy.
+<a name="473"></a><br><br><b>8.</b> The stronger men will be in front, the jaded ones will 
+<a name="474"></a>fall behind, and on this plan only one-tenth of your army will reach its 
+<a name="475"></a>destination.
+<a name="476"></a><br><br><b>9.</b> If you march fifty LI in order to outmaneuver the enemy, 
+<a name="477"></a>you will lose the leader of your first division, and only half your force 
+<a name="478"></a>will reach the goal.
+<a name="479"></a><br><br><b>10.</b> If you march thirty LI with the same object, two-thirds 
+<a name="480"></a>of your army will arrive.
+<a name="481"></a><br><br><b>11.</b> We may take it then that an army without its baggage-train 
+<a name="482"></a>is lost; without provisions it is lost; without bases of supply it is 
+<a name="483"></a>lost.
+<a name="484"></a><br><br><b>12.</b> We cannot enter into alliances until we are acquainted 
+<a name="485"></a>with the designs of our neighbors.
+<a name="486"></a><br><br><b>13.</b> We are not fit to lead an army on the march unless we 
+<a name="487"></a>are familiar with the face of the country--its mountains and forests, its 
+<a name="488"></a>pitfalls and precipices, its marshes and swamps.
+<a name="489"></a><br><br><b>14.</b> We shall be unable to turn natural advantage to account 
+<a name="490"></a>unless we make use of local guides.
+<a name="491"></a><br><br><b>15.</b> In war, practice dissimulation, and you will 
+<a name="492"></a>succeed.
+<a name="493"></a><br><br><b>16.</b> Whether to concentrate or to divide your troops, must 
+<a name="494"></a>be decided by circumstances.
+<a name="495"></a><br><br><b>17.</b> Let your rapidity be that of the wind, your compactness 
+<a name="496"></a>that of the forest.
+<a name="497"></a><br><br><b>18.</b> In raiding and plundering be like fire, is immovability 
+<a name="498"></a>like a mountain.
+<a name="499"></a><br><br><b>19.</b> Let your plans be dark and impenetrable as night, and 
+<a name="500"></a>when you move, fall like a thunderbolt.
+<a name="501"></a><br><br><b>20.</b> When you plunder a countryside, let the spoil be divided 
+<a name="502"></a>amongst your men; when you capture new territory, cut it up into allotments 
+<a name="503"></a>for the benefit of the soldiery.
+<a name="504"></a><br><br><b>21.</b> Ponder and deliberate before you make a 
+<a name="505"></a>move.
+<a name="506"></a><br><br><b>22.</b> He will conquer who has learnt the artifice of deviation. 
+<a name="507"></a> Such is the art of maneuvering.
+<a name="508"></a><br><br><b>23.</b> The Book of Army Management says:  On the field of battle, 
+<a name="509"></a>the spoken word does not carry far enough: hence the institution of gongs 
+<a name="510"></a>and drums.  Nor can ordinary objects be seen clearly enough:  hence the 
+<a name="511"></a>institution of banners and flags.
+<a name="512"></a><br><br><b>24.</b> Gongs and drums, banners and flags, are means whereby 
+<a name="513"></a>the ears and eyes of the host may be focused on one particular 
+<a name="514"></a>point.
+<a name="515"></a><br><br><b>25.</b> The host thus forming a single united body, is it impossible 
+<a name="516"></a>either for the brave to advance alone, or for the cowardly to retreat alone. 
+<a name="517"></a> This is the art of handling large masses of men.
+<a name="518"></a><br><br><b>26.</b> In night-fighting, then, make much use of signal-fires 
+<a name="519"></a>and drums, and in fighting by day, of flags and banners, as a means of 
+<a name="520"></a>influencing the ears and eyes of your army.
+<a name="521"></a><br><br><b>27.</b> A whole army may be robbed of its spirit; a commander-in-chief 
+<a name="522"></a>may be robbed of his presence of mind.
+<a name="523"></a><br><br><b>28.</b> Now a soldier's spirit is keenest in the morning; by 
+<a name="524"></a>noonday it has begun to flag; and in the evening, his mind is bent only 
+<a name="525"></a>on returning to camp.
+<a name="526"></a><br><br><b>29.</b> A clever general, therefore, avoids an army when its 
+<a name="527"></a>spirit is keen, but attacks it when it is sluggish and inclined to return. 
+<a name="528"></a> This is the art of studying moods.
+<a name="529"></a><br><br><b>30.</b> Disciplined and calm, to await the appearance of disorder 
+<a name="530"></a>and hubbub amongst the enemy:--this is the art of retaining 
+<a name="531"></a>self-possession.
+<a name="532"></a><br><br><b>31.</b> To be near the goal while the enemy is still far from 
+<a name="533"></a>it, to wait at ease while the enemy is toiling and struggling, to be well-fed 
+<a name="534"></a>while the enemy is famished:--this is the art of husbanding one's 
+<a name="535"></a>strength.
+<a name="536"></a><br><br><b>32.</b> To refrain from intercepting an enemy whose banners 
+<a name="537"></a>are in perfect order, to refrain from attacking an army drawn up in calm 
+<a name="538"></a>and confident array:--this is the art of studying circumstances.
+<a name="539"></a><br><br><b>33.</b> It is a military axiom not to advance uphill against 
+<a name="540"></a>the enemy, nor to oppose him when he comes downhill.
+<a name="541"></a><br><br><b>34.</b> Do not pursue an enemy who simulates flight; do not 
+<a name="542"></a>attack soldiers whose temper is keen.
+<a name="543"></a><br><br><b>35.</b> Do not swallow bait offered by the enemy. Do not interfere 
+<a name="544"></a>with an army that is returning home.
+<a name="545"></a><br><br><b>36.</b> When you surround an army, leave an outlet free. Do 
+<a name="546"></a>not press a desperate foe too hard.
+<a name="547"></a><br><br><b>37.</b> Such is the art of warfare.
+<a name="548"></a><br><br><b>VIII. Variation in Tactics</b>
+
+<a name="549"></a><br><br><b>1.</b> Sun Tzu said:  In war, the general receives his commands 
+<a name="550"></a>from the sovereign, collects his army and concentrates his 
+<a name="551"></a>forces
+<a name="552"></a><br><br><b>2.</b> When in difficult country, do not encamp.  In country 
+<a name="553"></a>where high roads intersect, join hands with your allies. Do not linger 
+<a name="554"></a>in dangerously isolated positions. In hemmed-in situations, you must resort 
+<a name="555"></a>to stratagem. In desperate position, you must fight.
+<a name="556"></a><br><br><b>3.</b> There are roads which must not be followed, armies which 
+<a name="557"></a>must be not attacked, towns which must be besieged, positions which must 
+<a name="558"></a>not be contested, commands of the sovereign which must not be 
+<a name="559"></a>obeyed.
+<a name="560"></a><br><br><b>4.</b> The general who thoroughly understands the advantages 
+<a name="561"></a>that accompany variation of tactics knows how to handle his 
+<a name="562"></a>troops.
+<a name="563"></a><br><br><b>5.</b> The general who does not understand these, may be well 
+<a name="564"></a>acquainted with the configuration of the country, yet he will not be able 
+<a name="565"></a>to turn his knowledge to practical account.
+<a name="566"></a><br><br><b>6.</b> So, the student of war who is unversed in the art of 
+<a name="567"></a>war of varying his plans, even though he be acquainted with the Five Advantages, 
+<a name="568"></a>will fail to make the best use of his men.
+<a name="569"></a><br><br><b>7.</b> Hence in the wise leader's plans, considerations of advantage 
+<a name="570"></a>and of disadvantage will be blended together.
+<a name="571"></a><br><br><b>8.</b> If our expectation of advantage be tempered in this way, 
+<a name="572"></a>we may succeed in accomplishing the essential part of our 
+<a name="573"></a>schemes.
+<a name="574"></a><br><br><b>9.</b> If, on the other hand, in the midst of difficulties we 
+<a name="575"></a>are always ready to seize an advantage, we may extricate ourselves from 
+<a name="576"></a>misfortune.
+<a name="577"></a><br><br><b>10.</b> Reduce the hostile chiefs by inflicting damage on them; 
+<a name="578"></a>and make trouble for them, and keep them constantly engaged; hold out specious 
+<a name="579"></a>allurements, and make them rush to any given point.
+<a name="580"></a><br><br><b>11.</b> The art of war teaches us to rely not on the likelihood 
+<a name="581"></a>of the enemy's not coming, but on our own readiness to receive him; not 
+<a name="582"></a>on the chance of his not attacking, but rather on the fact that we have 
+<a name="583"></a>made our position unassailable.
+<a name="584"></a><br><br><b>12.</b> There are five dangerous faults which may affect a general: 
+<a name="585"></a>(1) Recklessness, which leads to destruction; (2) cowardice, which leads 
+<a name="586"></a>to capture; (3) a hasty temper, which can be provoked by insults; (4) a 
+<a name="587"></a>delicacy of honor which is sensitive to shame; (5) over-solicitude for 
+<a name="588"></a>his men, which exposes him to worry and trouble.
+<a name="589"></a><br><br><b>13.</b> These are the five besetting sins of a general, ruinous 
+<a name="590"></a>to the conduct of war.
+<a name="591"></a><br><br><b>14.</b> When an army is overthrown and its leader slain, the 
+<a name="592"></a>cause will surely be found among these five dangerous faults.  Let them 
+<a name="593"></a>be a subject of meditation.
+<a name="594"></a><br><br><b>IX.  The Army on the March</b>
+
+<a name="595"></a><br><br><b>1.</b> Sun Tzu said:  We come now to the question of encamping 
+<a name="596"></a>the army, and observing signs of the enemy. Pass quickly over mountains, 
+<a name="597"></a>and keep in the neighborhood of valleys.
+<a name="598"></a><br><br><b>2.</b> Camp in high places, facing the sun.  Do not climb heights 
+<a name="599"></a>in order to fight.  So much for mountain warfare.
+<a name="600"></a><br><br><b>3.</b> After crossing a river, you should get far away from 
+<a name="601"></a>it.
+<a name="602"></a><br><br><b>4.</b> When an invading force crosses a river in its onward 
+<a name="603"></a>march, do not advance to meet it in mid-stream. It will be best to let 
+<a name="604"></a>half the army get across, and then deliver your attack.
+<a name="605"></a><br><br><b>5.</b> If you are anxious to fight, you should not go to meet 
+<a name="606"></a>the invader near a river which he has to cross.
+<a name="607"></a><br><br><b>6.</b> Moor your craft higher up than the enemy, and facing 
+<a name="608"></a>the sun.  Do not move up-stream to meet the enemy. So much for river 
+<a name="609"></a>warfare.
+<a name="610"></a><br><br><b>7.</b> In crossing salt-marshes, your sole concern should be 
+<a name="611"></a>to get over them quickly, without any delay.
+<a name="612"></a><br><br><b>8.</b> If forced to fight in a salt-marsh, you should have water 
+<a name="613"></a>and grass near you, and get your back to a clump of trees.  So much for 
+<a name="614"></a>operations in salt-marches.
+<a name="615"></a><br><br><b>9.</b> In dry, level country, take up an easily accessible position 
+<a name="616"></a>with rising ground to your right and on your rear, so that the danger may 
+<a name="617"></a>be in front, and safety lie behind. So much for campaigning in flat 
+<a name="618"></a>country.
+<a name="619"></a><br><br><b>10.</b> These are the four useful branches of military knowledge 
+<a name="620"></a>which enabled the Yellow Emperor to vanquish four several 
+<a name="621"></a>sovereigns.
+<a name="622"></a><br><br><b>11.</b> All armies prefer high ground to low and sunny places 
+<a name="623"></a>to dark.
+<a name="624"></a><br><br><b>12.</b> If you are careful of your men, and camp on hard ground, 
+<a name="625"></a>the army will be free from disease of every kind, and this will spell 
+<a name="626"></a>victory.
+<a name="627"></a><br><br><b>13.</b> When you come to a hill or a bank, occupy the sunny 
+<a name="628"></a>side, with the slope on your right rear. Thus you will at once act for 
+<a name="629"></a>the benefit of your soldiers and utilize the natural advantages of the 
+<a name="630"></a>ground.
+<a name="631"></a><br><br><b>14.</b> When, in consequence of heavy rains up-country, a river 
+<a name="632"></a>which you wish to ford is swollen and flecked with foam, you must wait 
+<a name="633"></a>until it subsides.
+<a name="634"></a><br><br><b>15.</b> Country in which there are precipitous cliffs with torrents 
+<a name="635"></a>running between, deep natural hollows, confined places, tangled thickets, 
+<a name="636"></a>quagmires and crevasses, should be left with all possible speed and not 
+<a name="637"></a>approached.
+<a name="638"></a><br><br><b>16.</b> While we keep away from such places, we should get the 
+<a name="639"></a>enemy to approach them; while we face them, we should let the enemy have 
+<a name="640"></a>them on his rear.
+<a name="641"></a><br><br><b>17.</b> If in the neighborhood of your camp there should be 
+<a name="642"></a>any hilly country, ponds surrounded by aquatic grass, hollow basins filled 
+<a name="643"></a>with reeds, or woods with thick undergrowth, they must be carefully routed 
+<a name="644"></a>out and searched; for these are places where men in ambush or insidious 
+<a name="645"></a>spies are likely to be lurking.
+<a name="646"></a><br><br><b>18.</b> When the enemy is close at hand and remains quiet, he 
+<a name="647"></a>is relying on the natural strength of his position.
+<a name="648"></a><br><br><b>19.</b> When he keeps aloof and tries to provoke a battle, he 
+<a name="649"></a>is anxious for the other side to advance.
+<a name="650"></a><br><br><b>20.</b> If his place of encampment is easy of access, he is 
+<a name="651"></a>tendering a bait.
+<a name="652"></a><br><br><b>21.</b> Movement amongst the trees of a forest shows that the 
+<a name="653"></a>enemy is advancing.  The appearance of a number of screens in the midst 
+<a name="654"></a>of thick grass means that the enemy wants to make us 
+<a name="655"></a>suspicious.
+<a name="656"></a><br><br><b>22.</b> The rising of birds in their flight is the sign of an 
+<a name="657"></a>ambuscade.  Startled beasts indicate that a sudden attack is 
+<a name="658"></a>coming.
+<a name="659"></a><br><br><b>23.</b> When there is dust rising in a high column, it is the 
+<a name="660"></a>sign of chariots advancing; when the dust is low, but spread over a wide 
+<a name="661"></a>area, it betokens the approach of infantry.  When it branches out in different 
+<a name="662"></a>directions, it shows that parties have been sent to collect firewood. A 
+<a name="663"></a>few clouds of dust moving to and fro signify that the army is 
+<a name="664"></a>encamping.
+<a name="665"></a><br><br><b>24.</b> Humble words and increased preparations are signs that 
+<a name="666"></a>the enemy is about to advance.  Violent language and driving forward as 
+<a name="667"></a>if to the attack are signs that he will retreat.
+<a name="668"></a><br><br><b>25.</b> When the light chariots come out first and take up a 
+<a name="669"></a>position on the wings, it is a sign that the enemy is forming for 
+<a name="670"></a>battle.
+<a name="671"></a><br><br><b>26.</b> Peace proposals unaccompanied by a sworn covenant indicate 
+<a name="672"></a>a plot.
+<a name="673"></a><br><br><b>27.</b> When there is much running about and the soldiers fall 
+<a name="674"></a>into rank, it means that the critical moment has come.
+<a name="675"></a><br><br><b>28.</b> When some are seen advancing and some retreating, it 
+<a name="676"></a>is a lure.
+<a name="677"></a><br><br><b>29.</b> When the soldiers stand leaning on their spears, they 
+<a name="678"></a>are faint from want of food.
+<a name="679"></a><br><br><b>30.</b> If those who are sent to draw water begin by drinking 
+<a name="680"></a>themselves, the army is suffering from thirst.
+<a name="681"></a><br><br><b>31.</b> If the enemy sees an advantage to be gained and makes 
+<a name="682"></a>no effort to secure it, the soldiers are exhausted.
+<a name="683"></a><br><br><b>32.</b> If birds gather on any spot, it is unoccupied. Clamor 
+<a name="684"></a>by night betokens nervousness.
+<a name="685"></a><br><br><b>33.</b> If there is disturbance in the camp, the general's authority 
+<a name="686"></a>is weak.  If the banners and flags are shifted about, sedition is afoot. 
+<a name="687"></a> If the officers are angry, it means that the men are 
+<a name="688"></a>weary.
+<a name="689"></a><br><br><b>34.</b> When an army feeds its horses with grain and kills its 
+<a name="690"></a>cattle for food, and when the men do not hang their cooking-pots over the 
+<a name="691"></a>camp-fires, showing that they will not return to their tents, you may know 
+<a name="692"></a>that they are determined to fight to the death.
+<a name="693"></a><br><br><b>35.</b> The sight of men whispering together in small knots 
+<a name="694"></a>or speaking in subdued tones points to disaffection amongst the rank and 
+<a name="695"></a>file.
+<a name="696"></a><br><br><b>36.</b> Too frequent rewards signify that the enemy is at the 
+<a name="697"></a>end of his resources; too many punishments betray a condition of dire 
+<a name="698"></a>distress.
+<a name="699"></a><br><br><b>37.</b> To begin by bluster, but afterwards to take fright at 
+<a name="700"></a>the enemy's numbers, shows a supreme lack of intelligence.
+<a name="701"></a><br><br><b>38.</b> When envoys are sent with compliments in their mouths, 
+<a name="702"></a>it is a sign that the enemy wishes for a truce.
+<a name="703"></a><br><br><b>39.</b> If the enemy's troops march up angrily and remain facing 
+<a name="704"></a>ours for a long time without either joining battle or taking themselves 
+<a name="705"></a>off again, the situation is one that demands great vigilance and 
+<a name="706"></a>circumspection.
+<a name="707"></a><br><br><b>40.</b> If our troops are no more in number than the enemy, 
+<a name="708"></a>that is amply sufficient; it only means that no direct attack can be made. 
+<a name="709"></a> What we can do is simply to concentrate all our available strength, keep 
+<a name="710"></a>a close watch on the enemy, and obtain reinforcements.
+<a name="711"></a><br><br><b>41.</b> He who exercises no forethought but makes light of his 
+<a name="712"></a>opponents is sure to be captured by them.
+<a name="713"></a><br><br><b>42.</b> If soldiers are punished before they have grown attached 
+<a name="714"></a>to you, they will not prove submissive; and, unless submissive, then will 
+<a name="715"></a>be practically useless. If, when the soldiers have become attached to you, 
+<a name="716"></a>punishments are not enforced, they will still be unless.
+<a name="717"></a><br><br><b>43.</b> Therefore soldiers must be treated in the first instance 
+<a name="718"></a>with humanity, but kept under control by means of iron discipline.  This 
+<a name="719"></a>is a certain road to victory.
+<a name="720"></a><br><br><b>44.</b> If in training soldiers commands are habitually enforced, 
+<a name="721"></a>the army will be well-disciplined; if not, its discipline will be 
+<a name="722"></a>bad.
+<a name="723"></a><br><br><b>45.</b> If a general shows confidence in his men but always 
+<a name="724"></a>insists on his orders being obeyed, the gain will be 
+<a name="725"></a>mutual.
+<a name="726"></a><br><br><b>X. Terrain</b>
+
+<a name="727"></a><br><br><b>1.</b> Sun Tzu said:  We may distinguish six kinds of terrain, 
+<a name="728"></a>to wit:  (1) Accessible ground; (2) entangling ground; (3) temporizing 
+<a name="729"></a>ground; (4) narrow passes; (5) precipitous heights; (6) positions at a 
+<a name="730"></a>great distance from the enemy.
+<a name="731"></a><br><br><b>2.</b> Ground which can be freely traversed by both sides is 
+<a name="732"></a>called accessible.
+<a name="733"></a><br><br><b>3.</b> With regard to ground of this nature, be before the enemy 
+<a name="734"></a>in occupying the raised and sunny spots, and carefully guard your line 
+<a name="735"></a>of supplies.  Then you will be able to fight with advantage.
+<a name="736"></a><br><br><b>4.</b> Ground which can be abandoned but is hard to re-occupy 
+<a name="737"></a>is called entangling.
+<a name="738"></a><br><br><b>5.</b> From a position of this sort, if the enemy is unprepared, 
+<a name="739"></a>you may sally forth and defeat him. But if the enemy is prepared for your 
+<a name="740"></a>coming, and you fail to defeat him, then, return being impossible, disaster 
+<a name="741"></a>will ensue.
+<a name="742"></a><br><br><b>6.</b> When the position is such that neither side will gain 
+<a name="743"></a>by making the first move, it is called temporizing ground.
+<a name="744"></a><br><br><b>7.</b> In a position of this sort, even though the enemy should 
+<a name="745"></a>offer us an attractive bait, it will be advisable not to stir forth, but 
+<a name="746"></a>rather to retreat, thus enticing the enemy in his turn; then, when part 
+<a name="747"></a>of his army has come out, we may deliver our attack with 
+<a name="748"></a>advantage.
+<a name="749"></a><br><br><b>8.</b> With regard to narrow passes, if you can occupy them 
+<a name="750"></a>first, let them be strongly garrisoned and await the advent of the 
+<a name="751"></a>enemy.
+<a name="752"></a><br><br><b>9.</b> Should the army forestall you in occupying a pass, do 
+<a name="753"></a>not go after him if the pass is fully garrisoned, but only if it is weakly 
+<a name="754"></a>garrisoned.
+<a name="755"></a><br><br><b>10.</b> With regard to precipitous heights, if you are beforehand 
+<a name="756"></a>with your adversary, you should occupy the raised and sunny spots, and 
+<a name="757"></a>there wait for him to come up.
+<a name="758"></a><br><br><b>11.</b> If the enemy has occupied them before you, do not follow 
+<a name="759"></a>him, but retreat and try to entice him away.
+<a name="760"></a><br><br><b>12.</b> If you are situated at a great distance from the enemy, 
+<a name="761"></a>and the strength of the two armies is equal, it is not easy to provoke 
+<a name="762"></a>a battle, and fighting will be to your disadvantage.
+<a name="763"></a><br><br><b>13.</b> These six are the principles connected with Earth. The 
+<a name="764"></a>general who has attained a responsible post must be careful to study 
+<a name="765"></a>them.
+<a name="766"></a><br><br><b>14.</b> Now an army is exposed to six several calamities, not 
+<a name="767"></a>arising from natural causes, but from faults for which the general is responsible. 
+<a name="768"></a> These are: (1) Flight; (2) insubordination; (3) collapse; (4) ruin; (5) 
+<a name="769"></a>disorganization; (6) rout.
+<a name="770"></a><br><br><b>15.</b> Other conditions being equal, if one force is hurled 
+<a name="771"></a>against another ten times its size, the result will be the flight of the 
+<a name="772"></a>former.
+<a name="773"></a><br><br><b>16.</b> When the common soldiers are too strong and their officers 
+<a name="774"></a>too weak, the result is insubordination. When the officers are too strong 
+<a name="775"></a>and the common soldiers too weak, the result is collapse.
+<a name="776"></a><br><br><b>17.</b> When the higher officers are angry and insubordinate, 
+<a name="777"></a>and on meeting the enemy give battle on their own account from a feeling 
+<a name="778"></a>of resentment, before the commander-in-chief can tell whether or no he 
+<a name="779"></a>is in a position to fight, the result is ruin.
+<a name="780"></a><br><br><b>18.</b> When the general is weak and without authority; when 
+<a name="781"></a>his orders are not clear and distinct; when there are no fixes duties assigned 
+<a name="782"></a>to officers and men, and the ranks are formed in a slovenly haphazard manner, 
+<a name="783"></a>the result is utter disorganization.
+<a name="784"></a><br><br><b>19.</b> When a general, unable to estimate the enemy's strength, 
+<a name="785"></a>allows an inferior force to engage a larger one, or hurls a weak detachment 
+<a name="786"></a>against a powerful one, and neglects to place picked soldiers in the front 
+<a name="787"></a>rank, the result must be rout.
+<a name="788"></a><br><br><b>20.</b> These are six ways of courting defeat, which must be 
+<a name="789"></a>carefully noted by the general who has attained a responsible 
+<a name="790"></a>post.
+<a name="791"></a><br><br><b>21.</b> The natural formation of the country is the soldier's 
+<a name="792"></a>best ally; but a power of estimating the adversary, of controlling the 
+<a name="793"></a>forces of victory, and of shrewdly calculating difficulties, dangers and 
+<a name="794"></a>distances, constitutes the test of a great general.
+<a name="795"></a><br><br><b>22.</b> He who knows these things, and in fighting puts his 
+<a name="796"></a>knowledge into practice, will win his battles. He who knows them not, nor 
+<a name="797"></a>practices them, will surely be defeated.
+<a name="798"></a><br><br><b>23.</b> If fighting is sure to result in victory, then you must 
+<a name="799"></a>fight, even though the ruler forbid it; if fighting will not result in 
+<a name="800"></a>victory, then you must not fight even at the ruler's 
+<a name="801"></a>bidding.
+<a name="802"></a><br><br><b>24.</b> The general who advances without coveting fame and retreats 
+<a name="803"></a>without fearing disgrace, whose only thought is to protect his country 
+<a name="804"></a>and do good service for his sovereign, is the jewel of the 
+<a name="805"></a>kingdom.
+<a name="806"></a><br><br><b>25.</b> Regard your soldiers as your children, and they will 
+<a name="807"></a>follow you into the deepest valleys; look upon them as your own beloved 
+<a name="808"></a>sons, and they will stand by you even unto death.
+<a name="809"></a><br><br><b>26.</b> If, however, you are indulgent, but unable to make your 
+<a name="810"></a>authority felt; kind-hearted, but unable to enforce your commands; and 
+<a name="811"></a>incapable, moreover, of quelling disorder: then your soldiers must be likened 
+<a name="812"></a>to spoilt children; they are useless for any practical 
+<a name="813"></a>purpose.
+<a name="814"></a><br><br><b>27.</b> If we know that our own men are in a condition to attack, 
+<a name="815"></a>but are unaware that the enemy is not open to attack, we have gone only 
+<a name="816"></a>halfway towards victory.
+<a name="817"></a><br><br><b>28.</b> If we know that the enemy is open to attack, but are 
+<a name="818"></a>unaware that our own men are not in a condition to attack, we have gone 
+<a name="819"></a>only halfway towards victory.
+<a name="820"></a><br><br><b>29.</b> If we know that the enemy is open to attack, and also 
+<a name="821"></a>know that our men are in a condition to attack, but are unaware that the 
+<a name="822"></a>nature of the ground makes fighting impracticable, we have still gone only 
+<a name="823"></a>halfway towards victory.
+<a name="824"></a><br><br><b>30.</b> Hence the experienced soldier, once in motion, is never 
+<a name="825"></a>bewildered; once he has broken camp, he is never at a 
+<a name="826"></a>loss.
+<a name="827"></a><br><br><b>31.</b> Hence the saying:  If you know the enemy and know yourself, 
+<a name="828"></a>your victory will not stand in doubt; if you know Heaven and know Earth, 
+<a name="829"></a>you may make your victory complete.
+<a name="830"></a><br><br><b>XI. The Nine Situations</b>
+
+<a name="831"></a><br><br><b>1.</b> Sun Tzu said:  The art of war recognizes nine varieties 
+<a name="832"></a>of ground: (1) Dispersive ground; (2) facile ground; (3) contentious ground; 
+<a name="833"></a>(4) open ground; (5) ground of intersecting highways; (6) serious ground; 
+<a name="834"></a>(7) difficult ground; (8) hemmed-in ground; (9) desperate 
+<a name="835"></a>ground.
+<a name="836"></a><br><br><b>2.</b> When a chieftain is fighting in his own territory, it 
+<a name="837"></a>is dispersive ground.
+<a name="838"></a><br><br><b>3.</b> When he has penetrated into hostile territory, but to 
+<a name="839"></a>no great distance, it is facile ground.
+<a name="840"></a><br><br><b>4.</b> Ground the possession of which imports great advantage 
+<a name="841"></a>to either side, is contentious ground.
+<a name="842"></a><br><br><b>5.</b> Ground on which each side has liberty of movement is 
+<a name="843"></a>open ground.
+<a name="844"></a><br><br><b>6.</b> Ground which forms the key to three contiguous states, 
+<a name="845"></a>so that he who occupies it first has most of the Empire at his command, 
+<a name="846"></a>is a ground of intersecting highways.
+<a name="847"></a><br><br><b>7.</b> When an army has penetrated into the heart of a hostile 
+<a name="848"></a>country, leaving a number of fortified cities in its rear, it is serious 
+<a name="849"></a>ground.
+<a name="850"></a><br><br><b>8.</b> Mountain forests, rugged steeps, marshes and fens--all 
+<a name="851"></a>country that is hard to traverse:  this is difficult 
+<a name="852"></a>ground.
+<a name="853"></a><br><br><b>9.</b> Ground which is reached through narrow gorges, and from 
+<a name="854"></a>which we can only retire by tortuous paths, so that a small number of the 
+<a name="855"></a>enemy would suffice to crush a large body of our men:  this is hemmed in 
+<a name="856"></a>ground.
+<a name="857"></a><br><br><b>10.</b> Ground on which we can only be saved from destruction 
+<a name="858"></a>by fighting without delay, is desperate ground.
+<a name="859"></a><br><br><b>11.</b> On dispersive ground, therefore, fight not. On facile 
+<a name="860"></a>ground, halt not.  On contentious ground, attack not.
+<a name="861"></a><br><br><b>12.</b> On open ground, do not try to block the enemy's way. 
+<a name="862"></a>On the ground of intersecting highways, join hands with your 
+<a name="863"></a>allies.
+<a name="864"></a><br><br><b>13.</b> On serious ground, gather in plunder. In difficult ground, 
+<a name="865"></a>keep steadily on the march.
+<a name="866"></a><br><br><b>14.</b> On hemmed-in ground, resort to stratagem. On desperate 
+<a name="867"></a>ground, fight.
+<a name="868"></a><br><br><b>15.</b> Those who were called skillful leaders of old knew how 
+<a name="869"></a>to drive a wedge between the enemy's front and rear; to prevent co-operation 
+<a name="870"></a>between his large and small divisions; to hinder the good troops from rescuing 
+<a name="871"></a>the bad, the officers from rallying their men.
+<a name="872"></a><br><br><b>16.</b> When the enemy's men were united, they managed to keep 
+<a name="873"></a>them in disorder.
+<a name="874"></a><br><br><b>17.</b> When it was to their advantage, they made a forward 
+<a name="875"></a>move; when otherwise, they stopped still.
+<a name="876"></a><br><br><b>18.</b> If asked how to cope with a great host of the enemy 
+<a name="877"></a>in orderly array and on the point of marching to the attack, I should say: 
+<a name="878"></a> "Begin by seizing something which your opponent holds dear; then he will 
+<a name="879"></a>be amenable to your will."
+<a name="880"></a><br><br><b>19.</b> Rapidity is the essence of war:  take advantage of the 
+<a name="881"></a>enemy's unreadiness, make your way by unexpected routes, and attack unguarded 
+<a name="882"></a>spots.
+<a name="883"></a><br><br><b>20.</b> The following are the principles to be observed by an 
+<a name="884"></a>invading force:  The further you penetrate into a country, the greater 
+<a name="885"></a>will be the solidarity of your troops, and thus the defenders will not 
+<a name="886"></a>prevail against you.
+<a name="887"></a><br><br><b>21.</b> Make forays in fertile country in order to supply your 
+<a name="888"></a>army with food.
+<a name="889"></a><br><br><b>22.</b> Carefully study the well-being of your men, and do not 
+<a name="890"></a>overtax them.  Concentrate your energy and hoard your strength.  Keep your 
+<a name="891"></a>army continually on the move, and devise unfathomable 
+<a name="892"></a>plans.
+<a name="893"></a><br><br><b>23.</b> Throw your soldiers into positions whence there is no 
+<a name="894"></a>escape, and they will prefer death to flight. If they will face death, 
+<a name="895"></a>there is nothing they may not achieve.  Officers and men alike will put 
+<a name="896"></a>forth their uttermost strength.
+<a name="897"></a><br><br><b>24.</b> Soldiers when in desperate straits lose the sense of 
+<a name="898"></a>fear.  If there is no place of refuge, they will stand firm.  If they are 
+<a name="899"></a>in hostile country, they will show a stubborn front.  If there is no help 
+<a name="900"></a>for it, they will fight hard.
+<a name="901"></a><br><br><b>25.</b> Thus, without waiting to be marshaled, the soldiers 
+<a name="902"></a>will be constantly on the qui vive; without waiting to be asked, they will 
+<a name="903"></a>do your will; without restrictions, they will be faithful; without giving 
+<a name="904"></a>orders, they can be trusted.
+<a name="905"></a><br><br><b>26.</b> Prohibit the taking of omens, and do away with superstitious 
+<a name="906"></a>doubts.  Then, until death itself comes, no calamity need be 
+<a name="907"></a>feared.
+<a name="908"></a><br><br><b>27.</b> If our soldiers are not overburdened with money, it 
+<a name="909"></a>is not because they have a distaste for riches; if their lives are not 
+<a name="910"></a>unduly long, it is not because they are disinclined to 
+<a name="911"></a>longevity.
+<a name="912"></a><br><br><b>28.</b> On the day they are ordered out to battle, your soldiers 
+<a name="913"></a>may weep, those sitting up bedewing their garments, and those lying down 
+<a name="914"></a>letting the tears run down their cheeks.  But let them once be brought 
+<a name="915"></a>to bay, and they will display the courage of a Chu or a 
+<a name="916"></a>Kuei.
+<a name="917"></a><br><br><b>29.</b> The skillful tactician may be likened to the shuai-jan. 
+<a name="918"></a>Now the shuai-jan is a snake that is found in the ChUng mountains.  Strike 
+<a name="919"></a>at its head, and you will be attacked by its tail; strike at its tail, 
+<a name="920"></a>and you will be attacked by its head; strike at its middle, and you will 
+<a name="921"></a>be attacked by head and tail both.
+<a name="922"></a><br><br><b>30.</b> Asked if an army can be made to imitate the shuai-jan, 
+<a name="923"></a>I should answer, Yes.  For the men of Wu and the men of Yueh are enemies; 
+<a name="924"></a>yet if they are crossing a river in the same boat and are caught by a storm, 
+<a name="925"></a>they will come to each other's assistance just as the left hand helps the 
+<a name="926"></a>right.
+<a name="927"></a><br><br><b>31.</b> Hence it is not enough to put one's trust in the tethering 
+<a name="928"></a>of horses, and the burying of chariot wheels in the 
+<a name="929"></a>ground
+<a name="930"></a><br><br><b>32.</b> The principle on which to manage an army is to set up 
+<a name="931"></a>one standard of courage which all must reach.
+<a name="932"></a><br><br><b>33.</b> How to make the best of both strong and weak--that is 
+<a name="933"></a>a question involving the proper use of ground.
+<a name="934"></a><br><br><b>34.</b> Thus the skillful general conducts his army just as 
+<a name="935"></a>though he were leading a single man, willy-nilly, by the 
+<a name="936"></a>hand.
+<a name="937"></a><br><br><b>35.</b> It is the business of a general to be quiet and thus 
+<a name="938"></a>ensure secrecy; upright and just, and thus maintain 
+<a name="939"></a>order.
+<a name="940"></a><br><br><b>36.</b> He must be able to mystify his officers and men by false 
+<a name="941"></a>reports and appearances, and thus keep them in total 
+<a name="942"></a>ignorance.
+<a name="943"></a><br><br><b>37.</b> By altering his arrangements and changing his plans, 
+<a name="944"></a>he keeps the enemy without definite knowledge. By shifting his camp and 
+<a name="945"></a>taking circuitous routes, he prevents the enemy from anticipating his 
+<a name="946"></a>purpose.
+<a name="947"></a><br><br><b>38.</b> At the critical moment, the leader of an army acts like 
+<a name="948"></a>one who has climbed up a height and then kicks away the ladder behind him. 
+<a name="949"></a> He carries his men deep into hostile territory before he shows his 
+<a name="950"></a>hand.
+<a name="951"></a><br><br><b>39.</b> He burns his boats and breaks his cooking-pots; like 
+<a name="952"></a>a shepherd driving a flock of sheep, he drives his men this way and that, 
+<a name="953"></a>and nothing knows whither he is going.
+<a name="954"></a><br><br><b>40.</b> To muster his host and bring it into danger:--this may 
+<a name="955"></a>be termed the business of the general.
+<a name="956"></a><br><br><b>41.</b> The different measures suited to the nine varieties 
+<a name="957"></a>of ground; the expediency of aggressive or defensive tactics; and the fundamental 
+<a name="958"></a>laws of human nature: these are things that must most certainly be 
+<a name="959"></a>studied.
+<a name="960"></a><br><br><b>42.</b> When invading hostile territory, the general principle 
+<a name="961"></a>is, that penetrating deeply brings cohesion; penetrating but a short way 
+<a name="962"></a>means dispersion.
+<a name="963"></a><br><br><b>43.</b> When you leave your own country behind, and take your 
+<a name="964"></a>army across neighborhood territory, you find yourself on critical ground. 
+<a name="965"></a> When there are means of communication on all four sides, the ground is 
+<a name="966"></a>one of intersecting highways.
+<a name="967"></a><br><br><b>44.</b> When you penetrate deeply into a country, it is serious 
+<a name="968"></a>ground.  When you penetrate but a little way, it is facile 
+<a name="969"></a>ground.
+<a name="970"></a><br><br><b>45.</b> When you have the enemy's strongholds on your rear, 
+<a name="971"></a>and narrow passes in front, it is hemmed-in ground. When there is no place 
+<a name="972"></a>of refuge at all, it is desperate ground.
+<a name="973"></a><br><br><b>46.</b> Therefore, on dispersive ground, I would inspire my 
+<a name="974"></a>men with unity of purpose.  On facile ground, I would see that there is 
+<a name="975"></a>close connection between all parts of my army.
+<a name="976"></a><br><br><b>47.</b> On contentious ground, I would hurry up my 
+<a name="977"></a>rear.
+<a name="978"></a><br><br><b>48.</b> On open ground, I would keep a vigilant eye on my defenses. 
+<a name="979"></a> On ground of intersecting highways, I would consolidate my 
+<a name="980"></a>alliances.
+<a name="981"></a><br><br><b>49.</b> On serious ground, I would try to ensure a continuous 
+<a name="982"></a>stream of supplies.  On difficult ground, I would keep pushing on along 
+<a name="983"></a>the road.
+<a name="984"></a><br><br><b>50.</b> On hemmed-in ground, I would block any way of retreat. 
+<a name="985"></a> On desperate ground, I would proclaim to my soldiers the hopelessness 
+<a name="986"></a>of saving their lives.
+<a name="987"></a><br><br><b>51.</b> For it is the soldier's disposition to offer an obstinate 
+<a name="988"></a>resistance when surrounded, to fight hard when he cannot help himself, 
+<a name="989"></a>and to obey promptly when he has fallen into danger.
+<a name="990"></a><br><br><b>52.</b> We cannot enter into alliance with neighboring princes 
+<a name="991"></a>until we are acquainted with their designs.  We are not fit to lead an 
+<a name="992"></a>army on the march unless we are familiar with the face of the country--its 
+<a name="993"></a>mountains and forests, its pitfalls and precipices, its marshes and swamps. 
+<a name="994"></a>We shall be unable to turn natural advantages to account unless we make 
+<a name="995"></a>use of local guides.
+<a name="996"></a><br><br><b>53.</b> To be ignored of any one of the following four or five 
+<a name="997"></a>principles does not befit a warlike prince.
+<a name="998"></a><br><br><b>54.</b> When a warlike prince attacks a powerful state, his 
+<a name="999"></a>generalship shows itself in preventing the concentration of the enemy's 
+<a name="1000"></a>forces.  He overawes his opponents, and their allies are prevented from 
+<a name="1001"></a>joining against him.
+<a name="1002"></a><br><br><b>55.</b> Hence he does not strive to ally himself with all and 
+<a name="1003"></a>sundry, nor does he foster the power of other states. He carries out his 
+<a name="1004"></a>own secret designs, keeping his antagonists in awe.  Thus he is able to 
+<a name="1005"></a>capture their cities and overthrow their kingdoms.
+<a name="1006"></a><br><br><b>56.</b> Bestow rewards without regard to rule, issue orders 
+<a name="1007"></a>without regard to previous arrangements; and you will be able to handle 
+<a name="1008"></a>a whole army as though you had to do with but a single 
+<a name="1009"></a>man.
+<a name="1010"></a><br><br><b>57.</b> Confront your soldiers with the deed itself; never let 
+<a name="1011"></a>them know your design.  When the outlook is bright, bring it before their 
+<a name="1012"></a>eyes; but tell them nothing when the situation is gloomy.
+<a name="1013"></a><br><br><b>58.</b> Place your army in deadly peril, and it will survive; 
+<a name="1014"></a>plunge it into desperate straits, and it will come off in 
+<a name="1015"></a>safety.
+<a name="1016"></a><br><br><b>59.</b> For it is precisely when a force has fallen into harm's 
+<a name="1017"></a>way that is capable of striking a blow for victory.
+<a name="1018"></a><br><br><b>60.</b> Success in warfare is gained by carefully accommodating 
+<a name="1019"></a>ourselves to the enemy's purpose.
+<a name="1020"></a><br><br><b>61.</b> By persistently hanging on the enemy's flank, we shall 
+<a name="1021"></a>succeed in the long run in killing the commander-in-chief.
+<a name="1022"></a><br><br><b>62.</b> This is called ability to accomplish a thing by sheer 
+<a name="1023"></a>cunning.
+<a name="1024"></a><br><br><b>63.</b> On the day that you take up your command, block the 
+<a name="1025"></a>frontier passes, destroy the official tallies, and stop the passage of 
+<a name="1026"></a>all emissaries.
+<a name="1027"></a><br><br><b>64.</b> Be stern in the council-chamber, so that you may control 
+<a name="1028"></a>the situation.
+<a name="1029"></a><br><br><b>65.</b> If the enemy leaves a door open, you must rush 
+<a name="1030"></a>in.
+<a name="1031"></a><br><br><b>66.</b> Forestall your opponent by seizing what he holds dear, 
+<a name="1032"></a>and subtly contrive to time his arrival on the ground.
+<a name="1033"></a><br><br><b>67.</b> Walk in the path defined by rule, and accommodate yourself 
+<a name="1034"></a>to the enemy until you can fight a decisive battle.
+<a name="1035"></a><br><br><b>68.</b> At first, then, exhibit the coyness of a maiden, until 
+<a name="1036"></a>the enemy gives you an opening; afterwards emulate the rapidity of a running 
+<a name="1037"></a>hare, and it will be too late for the enemy to oppose 
+<a name="1038"></a>you.
+<a name="1039"></a><br><br><b>XII. The Attack by Fire</b>
+
+<a name="1040"></a><br><br><b>1.</b> Sun Tzu said:  There are five ways of attacking with 
+<a name="1041"></a>fire.  The first is to burn soldiers in their camp; the second is to burn 
+<a name="1042"></a>stores; the third is to burn baggage trains; the fourth is to burn arsenals 
+<a name="1043"></a>and magazines; the fifth is to hurl dropping fire amongst the 
+<a name="1044"></a>enemy.
+<a name="1045"></a><br><br><b>2.</b> In order to carry out an attack, we must have means available. 
+<a name="1046"></a> The material for raising fire should always be kept in 
+<a name="1047"></a>readiness.
+<a name="1048"></a><br><br><b>3.</b> There is a proper season for making attacks with fire, 
+<a name="1049"></a>and special days for starting a conflagration.
+<a name="1050"></a><br><br><b>4.</b> The proper season is when the weather is very dry; the 
+<a name="1051"></a>special days are those when the moon is in the constellations of the Sieve, 
+<a name="1052"></a>the Wall, the Wing or the Cross-bar; for these four are all days of rising 
+<a name="1053"></a>wind.
+<a name="1054"></a><br><br><b>5.</b> In attacking with fire, one should be prepared to meet 
+<a name="1055"></a>five possible developments:
+<a name="1056"></a><br><br><b>6.</b> (1) When fire breaks out inside to enemy's camp, respond 
+<a name="1057"></a>at once with an attack from without.
+<a name="1058"></a><br><br><b>7.</b> (2) If there is an outbreak of fire, but the enemy's 
+<a name="1059"></a>soldiers remain quiet, bide your time and do not attack.
+<a name="1060"></a><br><br><b>8.</b> (3) When the force of the flames has reached its height, 
+<a name="1061"></a>follow it up with an attack, if that is practicable; if not, stay where 
+<a name="1062"></a>you are.
+<a name="1063"></a><br><br><b>9.</b> (4) If it is possible to make an assault with fire from 
+<a name="1064"></a>without, do not wait for it to break out within, but deliver your attack 
+<a name="1065"></a>at a favorable moment.
+<a name="1066"></a><br><br><b>10.</b> (5) When you start a fire, be to windward of it. Do 
+<a name="1067"></a>not attack from the leeward.
+<a name="1068"></a><br><br><b>11.</b> A wind that rises in the daytime lasts long, but a night 
+<a name="1069"></a>breeze soon falls.
+<a name="1070"></a><br><br><b>12.</b> In every army, the five developments connected with 
+<a name="1071"></a>fire must be known, the movements of the stars calculated, and a watch 
+<a name="1072"></a>kept for the proper days.
+<a name="1073"></a><br><br><b>13.</b> Hence those who use fire as an aid to the attack show 
+<a name="1074"></a>intelligence; those who use water as an aid to the attack gain an accession 
+<a name="1075"></a>of strength.
+<a name="1076"></a><br><br><b>14.</b> By means of water, an enemy may be intercepted, but 
+<a name="1077"></a>not robbed of all his belongings.
+<a name="1078"></a><br><br><b>15.</b> Unhappy is the fate of one who tries to win his battles 
+<a name="1079"></a>and succeed in his attacks without cultivating the spirit of enterprise; 
+<a name="1080"></a>for the result is waste of time and general stagnation.
+<a name="1081"></a><br><br><b>16.</b> Hence the saying:  The enlightened ruler lays his plans 
+<a name="1082"></a>well ahead; the good general cultivates his resources.
+<a name="1083"></a><br><br><b>17.</b> Move not unless you see an advantage; use not your troops 
+<a name="1084"></a>unless there is something to be gained; fight not unless the position is 
+<a name="1085"></a>critical.
+<a name="1086"></a><br><br><b>18.</b> No ruler should put troops into the field merely to 
+<a name="1087"></a>gratify his own spleen; no general should fight a battle simply out of 
+<a name="1088"></a>pique.
+<a name="1089"></a><br><br><b>19.</b> If it is to your advantage, make a forward move; if 
+<a name="1090"></a>not, stay where you are.
+<a name="1091"></a><br><br><b>20.</b> Anger may in time change to gladness; vexation may be 
+<a name="1092"></a>succeeded by content.
+<a name="1093"></a><br><br><b>21.</b> But a kingdom that has once been destroyed can never 
+<a name="1094"></a>come again into being; nor can the dead ever be brought back to 
+<a name="1095"></a>life.
+<a name="1096"></a><br><br><b>22.</b> Hence the enlightened ruler is heedful, and the good 
+<a name="1097"></a>general full of caution.  This is the way to keep a country at peace and 
+<a name="1098"></a>an army intact.
+<a name="1099"></a><br><br><b>XIII. The Use of Spies</b>
+
+<a name="1100"></a><br><br><b>1.</b> Sun Tzu said:  Raising a host of a hundred thousand men 
+<a name="1101"></a>and marching them great distances entails heavy loss on the people and 
+<a name="1102"></a>a drain on the resources of the State. The daily expenditure will amount 
+<a name="1103"></a>to a thousand ounces of silver.  There will be commotion at home and abroad, 
+<a name="1104"></a>and men will drop down exhausted on the highways. As many as seven hundred 
+<a name="1105"></a>thousand families will be impeded in their labor.
+<a name="1106"></a><br><br><b>2.</b> Hostile armies may face each other for years, striving 
+<a name="1107"></a>for the victory which is decided in a single day. This being so, to remain 
+<a name="1108"></a>in ignorance of the enemy's condition simply because one grudges the outlay 
+<a name="1109"></a>of a hundred ounces of silver in honors and emoluments, is the height of 
+<a name="1110"></a>inhumanity.
+<a name="1111"></a><br><br><b>3.</b> One who acts thus is no leader of men, no present help 
+<a name="1112"></a>to his sovereign, no master of victory.
+<a name="1113"></a><br><br><b>4.</b> Thus, what enables the wise sovereign and the good general 
+<a name="1114"></a>to strike and conquer, and achieve things beyond the reach of ordinary 
+<a name="1115"></a>men, is foreknowledge.
+<a name="1116"></a><br><br><b>5.</b> Now this foreknowledge cannot be elicited from spirits; 
+<a name="1117"></a>it cannot be obtained inductively from experience, nor by any deductive 
+<a name="1118"></a>calculation.
+<a name="1119"></a><br><br><b>6.</b> Knowledge of the enemy's dispositions can only be obtained 
+<a name="1120"></a>from other men.
+<a name="1121"></a><br><br><b>7.</b> Hence the use of spies, of whom there are five classes: 
+<a name="1122"></a>(1) Local spies; (2) inward spies; (3) converted spies; (4) doomed spies; 
+<a name="1123"></a>(5) surviving spies.
+<a name="1124"></a><br><br><b>8.</b> When these five kinds of spy are all at work, none can 
+<a name="1125"></a>discover the secret system.  This is called "divine manipulation of the 
+<a name="1126"></a>threads."  It is the sovereign's most precious faculty.
+<a name="1127"></a><br><br><b>9.</b> Having local spies means employing the services of the 
+<a name="1128"></a>inhabitants of a district.
+<a name="1129"></a><br><br><b>10.</b> Having inward spies, making use of officials of the 
+<a name="1130"></a>enemy.
+<a name="1131"></a><br><br><b>11.</b> Having converted spies, getting hold of the enemy's 
+<a name="1132"></a>spies and using them for our own purposes.
+<a name="1133"></a><br><br><b>12.</b> Having doomed spies, doing certain things openly for 
+<a name="1134"></a>purposes of deception, and allowing our spies to know of them and report 
+<a name="1135"></a>them to the enemy.
+<a name="1136"></a><br><br><b>13.</b> Surviving spies, finally, are those who bring back news 
+<a name="1137"></a>from the enemy's camp.
+<a name="1138"></a><br><br><b>14.</b> Hence it is that which none in the whole army are more 
+<a name="1139"></a>intimate relations to be maintained than with spies. None should be more 
+<a name="1140"></a>liberally rewarded.  In no other business should greater secrecy be 
+<a name="1141"></a>preserved.
+<a name="1142"></a><br><br><b>15.</b> Spies cannot be usefully employed without a certain 
+<a name="1143"></a>intuitive sagacity.
+<a name="1144"></a><br><br><b>16.</b> They cannot be properly managed without benevolence 
+<a name="1145"></a>and straightforwardness.
+<a name="1146"></a><br><br><b>17.</b> Without subtle ingenuity of mind, one cannot make certain 
+<a name="1147"></a>of the truth of their reports.
+<a name="1148"></a><br><br><b>18.</b> Be subtle! be subtle! and use your spies for every kind 
+<a name="1149"></a>of business.
+<a name="1150"></a><br><br><b>19.</b> If a secret piece of news is divulged by a spy before 
+<a name="1151"></a>the time is ripe, he must be put to death together with the man to whom 
+<a name="1152"></a>the secret was told.
+<a name="1153"></a><br><br><b>20.</b> Whether the object be to crush an army, to storm a city, 
+<a name="1154"></a>or to assassinate an individual, it is always necessary to begin by finding 
+<a name="1155"></a>out the names of the attendants, the aides-de-camp, and door-keepers and 
+<a name="1156"></a>sentries of the general in command.  Our spies must be commissioned to 
+<a name="1157"></a>ascertain these.
+<a name="1158"></a><br><br><b>21.</b> The enemy's spies who have come to spy on us must be 
+<a name="1159"></a>sought out, tempted with bribes, led away and comfortably housed.  Thus 
+<a name="1160"></a>they will become converted spies and available for our 
+<a name="1161"></a>service.
+<a name="1162"></a><br><br><b>22.</b> It is through the information brought by the converted 
+<a name="1163"></a>spy that we are able to acquire and employ local and inward 
+<a name="1164"></a>spies.
+<a name="1165"></a><br><br><b>23.</b> It is owing to his information, again, that we can cause 
+<a name="1166"></a>the doomed spy to carry false tidings to the enemy.
+<a name="1167"></a><br><br><b>24.</b> Lastly, it is by his information that the surviving 
+<a name="1168"></a>spy can be used on appointed occasions.
+<a name="1169"></a><br><br><b>25.</b> The end and aim of spying in all its five varieties 
+<a name="1170"></a>is knowledge of the enemy; and this knowledge can only be derived, in the 
+<a name="1171"></a>first instance, from the converted spy. Hence it is essential that the 
+<a name="1172"></a>converted spy be treated with the utmost liberality.
+<a name="1173"></a><br><br><b>26.</b> Of old, the rise of the Yin dynasty was due to I Chih 
+<a name="1174"></a>who had served under the Hsia.  Likewise, the rise of the Chou dynasty 
+<a name="1175"></a>was due to Lu Ya who had served under the Yin.
+<a name="1176"></a><br><br><b>27.</b> Hence it is only the enlightened ruler and the wise 
+<a name="1177"></a>general who will use the highest intelligence of the army for purposes 
+<a name="1178"></a>of spying and thereby they achieve great results.  Spies are a most important 
+<a name="1179"></a>element in water, because on them depends an army's ability to 
+<a name="1180"></a>move.
+<br /><br />
+</html>

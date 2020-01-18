@@ -7,11 +7,9 @@ Cd into the blog root directory, run "bundle exec jekyll serve", and navigate to
 gaming, links, school, tech, travel  
 
 ## TODO:
-fix numbering in Art of War
+expand Chile post
 
-expand MtG, Chile posts
-
-finance/EA/philanthropy post  
+finance/EA/philanthropy  
 
 China post  
 
