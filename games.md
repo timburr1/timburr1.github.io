@@ -20,7 +20,7 @@ Kill Teams:
 * [Space Marines vs. Shooty Hordes, 100pts](/_ref/40kArmies/SpaceMarinesKT_ShootyHorde.html)  
 * [Tyranids, 100pts](/_ref/40kArmies/TyranidsKT.html)   
 
-[Tyranid Tactics](_ref/40kArmies/tyranids_tactics.html)  
+[Tyranid Tactics](/_ref/40kArmies/tyranids_tactics.html)  
 
 &#127925;Serve the Hive, I control the groove...  
 Serve the Hive, I control the way you move...&#127925;  

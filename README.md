@@ -13,10 +13,9 @@ finance/EA/philanthropy
 
 China post  
 
-book reports:    
+book reports:  
 * The Pragmatic Programmer  
 * The Mythical Man-Month  
-* Head First Design Patterns  
 * Becoming a Technical Leader  
 
 Personality/morality:  
