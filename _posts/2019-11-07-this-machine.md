@@ -6,7 +6,7 @@ tags: tech
 ---
 
 ## Hardware
-Desktop computer specs, from 2012 but still running strong:  
+Desktop computer specs, upgraded a bit from 2012 and still running strong:  
 <table class="pcpp-part-list">
   <thead>
     <tr>
@@ -23,6 +23,10 @@ Desktop computer specs, from 2012 but still running strong:
       <td class="pcpp-part-list-type">Motherboard</td>
       <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/4JK7YJ/msi-motherboard-z77ag41">MSI Z77A-G41 ATX LGA1155 Motherboard</a></td>
     </tr>
+	<tr>
+      <td class="pcpp-part-list-type">Memory</td>
+      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/nJLypg/gskill-memory-f31600c10d16gao">G.Skill Ares Series 16 GB (2 x 8 GB) DDR3-1600 Memory</a></td>
+    </tr>
     <tr>
       <td class="pcpp-part-list-type">Memory</td>
       <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/zsTmP6/patriot-memory-pv316g186c0k">Patriot Viper 3 16 GB (2 x 8 GB) DDR3-1866 Memory</a></td>
@@ -30,6 +34,10 @@ Desktop computer specs, from 2012 but still running strong:
     <tr>
       <td class="pcpp-part-list-type">Storage</td>
       <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/kLmLrH/seagate-internal-hard-drive-st31000524as">Seagate Barracuda 1 TB 3.5" 7200RPM Internal Hard Drive</a></td>
+    </tr>
+	<tr>
+      <td class="pcpp-part-list-type">Storage</td>
+      <td>another 1 TB HDD w/ similar specs</td>
     </tr>
     <tr>
       <td class="pcpp-part-list-type">Video Card</td>
@@ -45,7 +53,7 @@ Desktop computer specs, from 2012 but still running strong:
     </tr>
   </tbody>
 </table>
-[PC Part Picker full list](https://pcpartpicker.com/list/Dc8cb8)
+[PC Part Picker full list](https://pcpartpicker.com/list/HXvMwh)
 
 ## Software
 I mostly use Windows 10 these days, or sometimes Ubuntu via [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/about). 
@@ -61,6 +69,7 @@ I mostly use Windows 10 these days, or sometimes Ubuntu via [Windows Subsystem f
 [PyCharm](https://www.jetbrains.com/pycharm/) + [Jupyter](https://jupyter.org/) notebooks for Python  
 [TortoiseGit](https://tortoisegit.org/) for version control  
 [Visual Studio 2019](https://visualstudio.microsoft.com/vs/) with [IntelliCode](https://visualstudio.microsoft.com/services/intellicode/) for C#  
+[IntelliJ IDEA](https://www.jetbrains.com/idea/) or [NetBeans](https://netbeans.apache.org/) for Java  
 
 **Utilities**  
 [7-Zip](https://www.7-zip.org/) for file compression/decompression  

@@ -6,6 +6,8 @@ author: Tim
 
 [8,760 hours: how to get the most out of next year](/papers/8760-hours-v2.pdf), Alex Vermeer (PDF)  
 
+[How to Get Motivated v2.0](/images/howtogetmotivated-1440x900.png)  
+
 [The Complete Guide to Self-Control](https://www.scotthyoung.com/blog/2019/09/30/self-control/), Scott Young  
 
 [Every productivity thought I've ever had, as concisely as possible](https://guzey.com/productivity/), Alexey Guzey  
@@ -24,5 +26,3 @@ WaitButWhy series on procrastination:
 * Part 1: [Why Procrastinators Procrastinate](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html)  
 * Part 2: [How to Beat Procrastination](https://www.waitbutwhy.com/2013/11/how-to-beat-procrastination.html)  
 * Part 3: [The Procrastination Matrix](https://waitbutwhy.com/2015/03/procrastination-matrix.html)  
-
-![alt text](/images/howtogetmotivated-1440x900.png "How to Get Motivated: A Guide for Defeating Procrastination")
