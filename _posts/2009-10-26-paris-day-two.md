@@ -4,8 +4,6 @@ title: Paris, day two
 date: '2009-10-26T10:45:00.000Z'
 author: Tim
 tags: travel
-modified_time: '2009-10-30T10:03:14.676Z'
-blogger_orig_url: http://tburr.blogspot.com/2009/10/paris-day-two.html
 ---
 
 Katie and I woke up early Saturday morning, and basically spent the whole day wandering around the city. Paris is amazing, in both the sense that it is easy to get lost and that anyone lucky enough to be wandering around there must frequently stop and say "wow."  

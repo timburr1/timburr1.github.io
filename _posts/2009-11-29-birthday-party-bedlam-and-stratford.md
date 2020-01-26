@@ -5,8 +5,6 @@ date: '2009-11-29T21:53:00.000Z'
 author: Tim
 tags: travel
 modified_time: '2009-11-29T21:53:52.730Z'
-blogger_id: tag:blogger.com,1999:blog-8654393464763154.post-4954953623370254065
-blogger_orig_url: http://tburr.blogspot.com/2009/11/birthday-party-bedlam-and-stratford.html
 ---
 
 What a great weekend! Friday was (my housemate) Rachel's birthday, and we went out to dinner at the Italian restaurant in the Galleria to celebrate. Unfortunately, I had to skip the silent disco afterword, since I didn't have any money. This bears explaining. A silent disco is just like a regular one, except instead of playing music on one set of speakers, everyone rents out wireless headphones. Does anyone know if they have these in the US?

@@ -5,7 +5,6 @@ date: '2009-10-26T10:25:00.000Z'
 author: Tim
 tags: travel
 modified_time: '2009-10-26T18:11:57.367Z'
-blogger_orig_url: http://tburr.blogspot.com/2009/10/paris-day-one.html
 ---
 
 The trip took me about an hour longer than I was expecting, so I arrived at the hotel at about 1600 to find Katie waiting there. After a quick dinner (bread, cheese, and ham from a local grocery) we made it to the Louvre.  

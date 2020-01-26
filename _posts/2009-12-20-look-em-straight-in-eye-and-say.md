@@ -5,8 +5,6 @@ date: '2009-12-20T14:43:00.012Z'
 author: Tim
 tags: travel
 modified_time: '2009-12-20T14:50:18.661Z'
-blogger_id: tag:blogger.com,1999:blog-8654393464763154.post-5040565385390196234
-blogger_orig_url: http://tburr.blogspot.com/2009/12/look-em-straight-in-eye-and-say.html
 ---
 
 Yesterday was a good day. I went into London early to look around before the Pogues concert at 7. (I bought my ticket the day after they went on sale.) The plan was to ride in early, visit the Science Museum, and play some Magic before catching the tube to Brixton for the show.

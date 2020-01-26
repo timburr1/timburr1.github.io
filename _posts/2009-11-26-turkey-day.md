@@ -5,8 +5,6 @@ date: '2009-11-26T22:23:00.002Z'
 author: Tim
 tags: 
 modified_time: '2009-11-26T22:29:17.227Z'
-blogger_id: tag:blogger.com,1999:blog-8654393464763154.post-1384145553392494393
-blogger_orig_url: http://tburr.blogspot.com/2009/11/turkey-day.html
 ---
 
 Happy Thanksgiving everyone! I just got back from eating dinner with a bunch of other American students in Melanie's kitchen. Quote of the day came from Stein, who was talking to a piece of cheesecake: "Hello again, old friend."  

@@ -1,12 +1,10 @@
 ---
-layout: default
+layout: post
 title: Blue's Castle
 date: '2009-11-11T09:18:00.002Z'
 author: Tim
 tags: fiction
 modified_time: '2009-11-11T09:25:40.423Z'
-blogger_id: tag:blogger.com,1999:blog-8654393464763154.post-5970126943875955439
-blogger_orig_url: http://tburr.blogspot.com/2009/11/blues-castle.html
 ---
 
 *I wrote this for my literature class, 'Reading the Short Story' and thought it turned out well. If you aren't familiar with it, you should check out Charles Perrault's Bluebeard before you read this.*

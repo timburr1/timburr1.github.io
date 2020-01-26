@@ -5,8 +5,6 @@ date: '2009-09-18T16:42:00.000+01:00'
 author: Tim
 tags: travel
 modified_time: '2009-09-18T17:44:42.458+01:00'
-blogger_id: tag:blogger.com,1999:blog-8654393464763154.post-8709324145949452446
-blogger_orig_url: http://tburr.blogspot.com/2009/09/gruezi-mitenand-von-baar.html
 ---
 
 I arrived in Zurich yesterday morning. The flight was fine- long, but uneventful. Herr Arnold (Jerry's dad) picked me up from the airport, and we took the train to Zug. We caught a bus in front of the Bahnhof that took us to Baar, where the Arnolds live. The two towns are right up against one another. I have been back and forth that way several times now, and still could not tell you where one ends and the other begins. 

@@ -5,9 +5,6 @@ date: '2010-12-05T20:19:00.004Z'
 author: Tim
 tags: 
 modified_time: '2010-12-11T18:22:39.060Z'
-thumbnail: http://4.bp.blogspot.com/_hiNbF4SwSJU/TPv9InEEHZI/AAAAAAAAADQ/QYRRO5CnLHI/s72-c/SSPX0134.jpg
-blogger_id: tag:blogger.com,1999:blog-8654393464763154.post-1278717672219310736
-blogger_orig_url: http://tburr.blogspot.com/2010/12/some-thoughts-about-wbc.html
 ---
 
 The [Westboro Baptist Church](http://www.godhatesfags.com/) came to Norman today, and Katie and I went to hold a sign and see what would happen. I've always kind of suspected that these people don't really exist, and someone has been photoshopping their signs into other pictures as a weird, elaborate prank. The fact that they do is a serious body blow to my faith in humanity. Apparently the WBC also protested in front of the Big 12 Championship last night. I find it interesting that the a super-conservative religious organization goes out of its way to offend conservatives and religious people: Baptists, OU fans, the military... 
@@ -16,4 +13,4 @@ Suppose for a minute that you've bought into the Bill Maher, anti-theist idea th
 
 Basically, if you wanted to convince people that religion is a bad thing, you'd found the Westboro Baptist Church.
 
-<a href="/images/troll_sign.jpg"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 200px; height: 150px;" src="/images/troll_sign.jpg" border="0"  /></a>
+<a href="/images/troll_sign.jpg"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 200px; height: 150px;" src="/images/troll_sign.jpg" border="0" alt="" /></a>

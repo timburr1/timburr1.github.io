@@ -4,11 +4,9 @@ title: 'Katie''s Visit: St. Albans, Hatfield, and Oxford'
 date: '2009-12-06T20:09:00.003Z'
 author: Tim
 tags: travel
-modified_time: '2009-12-07T19:31:52.124Z'
-blogger_orig_url: http://tburr.blogspot.com/2009/12/katies-visit-st-albans-hatfield-and.html
 ---
 
-<a href="/images/eurotrip/st_albans.jpg"><img style="float:left; margin:10px 10px 10px 10px;cursor:pointer; cursor:hand;width: 240px; height: 320px;" src="/images/eurotrip/st_albans.jpg" border="0" /></a>
+<a href="/images/eurotrip/st_albans.jpg"><img style="float:left; margin:10px 10px 10px 10px;cursor:pointer; cursor:hand;width: 240px; height: 320px;" src="/images/eurotrip/st_albans.jpg" border="0" alt=""/></a>
 
 Katie flew in on Wednesday night, arriving in Hatfield at about 1am thanks to weather delays at Barajas. We went to St. Albans on Thursday, to look at the Cathedral and the Roman wall in Verulamium Park. It started to rain, so we passed some time in Ye Olde Fighting Cocks, which claims to be the oldest pub in England.
 

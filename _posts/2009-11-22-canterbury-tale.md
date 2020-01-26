@@ -5,8 +5,6 @@ date: '2009-11-22T10:22:00.001Z'
 author: Tim
 tags: travel
 modified_time: '2009-11-22T10:24:10.905Z'
-blogger_id: tag:blogger.com,1999:blog-8654393464763154.post-1437977098848529920
-blogger_orig_url: http://tburr.blogspot.com/2009/11/canterbury-tale.html
 ---
 
 Yesterday, I went with a group of (mostly) international students to Canterbury. A guide showed us around the old city wall and the Norman castle, then left us to explore for a few hours. 

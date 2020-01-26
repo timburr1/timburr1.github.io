@@ -4,8 +4,6 @@ title: Paris, day three
 date: '2009-10-27T18:35:00.002Z'
 author: Tim
 tags: travel
-modified_time: '2009-12-29T19:32:39.232Z'
-blogger_orig_url: http://tburr.blogspot.com/2009/10/paris-day-three.html
 ---
 
 Katie and I were so exhausted from walking something like 18mi. on saturday that we decided to sleep in sunday morning. We checked out by 9 or so, and went out for one more day of exploring.  

@@ -5,7 +5,6 @@ date: '2009-11-16T21:58:00.005Z'
 author: Tim
 tags: travel
 modified_time: '2009-11-17T00:08:18.965Z'
-blogger_orig_url: http://tburr.blogspot.com/2009/11/spain-day-three.html
 ---
 
 Viernes y Sabado were both pretty sweet, but I think Domingo was my favorite of all. We started out at la Reina Sofia, which was very interesting. Guernica hit me in a way that modern art never has before. Pablo Picasso wants you to learn something from that painting.  

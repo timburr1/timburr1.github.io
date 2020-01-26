@@ -5,8 +5,6 @@ date: '2009-09-26T16:43:00.001+01:00'
 author: Tim
 tags: school, travel
 modified_time: '2009-11-17T00:01:08.023Z'
-blogger_id: tag:blogger.com,1999:blog-8654393464763154.post-5591651674419615893
-blogger_orig_url: http://tburr.blogspot.com/2009/09/halfway-through-freshers-fortnight.html
 ---
 
 The English students have started moving in. After being in England for a week, I will finally meet some Britons. (I don't count the two conversations I've had w/ the locals so far, since they both consisted of said locals complaining about what a horrible town Hatfield is.) The international students all seem pretty friendly, though. I guess being more or less on your own in a foreign country will do that to you.
