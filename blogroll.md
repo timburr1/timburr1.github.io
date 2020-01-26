@@ -19,7 +19,6 @@ title: Stuff I Read
 * [Lawfare](https://lawfareblog.com/)  
 * [Matt Levine's Money Stuff](https://www.bloomberg.com/view/topics/money-stuff)  
 * [PopeHat](https://www.popehat.com/)  
-* [Planet Money Newsletter](https://www.npr.org/sections/money/)  
 * [/r/bestoflegaladvice](https://www.reddit.com/r/bestoflegaladvice/)  
 
 **Local/Regional News**  
@@ -28,7 +27,6 @@ title: Stuff I Read
 
 **Rationalism/Psychology**  
 * [Gwern](https://www.gwern.net/)  
-* [The Last Psychiatrist](https://thelastpsychiatrist.com)  
 * [Meaningness](https://meaningness.com/)  
 * [Melting Asphalt](https://meltingasphalt.com)  
 * [Mr. Money Mustache](https://www.mrmoneymustache.com/)  
