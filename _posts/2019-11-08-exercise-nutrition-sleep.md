@@ -19,18 +19,18 @@ Pick a program that you like, and that works for your goals. I am currently usin
 
 [Jacked & Tan 2.0](https://swoleateveryheight.blogspot.com/2016/07/jacked-tan-20.html) - Cody Lefever, Swole at Every Height  
 
-[R/kettlebell FAQ](https://www.reddit.com/r/kettlebell/comments/3qxa4i/new_to_kettlebells_start_here_updated_for_2015/)  
+[/r/kettlebell FAQ](https://www.reddit.com/r/kettlebell/comments/3qxa4i/new_to_kettlebells_start_here_updated_for_2015/)  
 
 **Running**  
-[Base Training: A Guide to Your Foundation to Running](https://www.reddit.com/r/running/comments/3bckeh/base_training_a_guide_to_your_foundation_to/), /r/running  
-
 [Couch to 5k, treadmill workouts](../../../_ref/c25k.html)  
+
+[/r/running Base Training: A Guide to Your Foundation to Running](https://www.reddit.com/r/running/comments/3bckeh/base_training_a_guide_to_your_foundation_to/)  
 
 
 ## Nutrition
 *"Eat food. Not too much. Mostly plants." -Michael Pollan*  
 
-As long as your total calories and protein are reasonable, and your diet doesn't contain too much processed junk, you are probably fine. Athletes should shoot for about one gram of high-quality protein per pound of bodyweight, per day.  
+As long as your total calories and protein are reasonable, and your diet doesn't contain too much processed junk, you are probably fine. Athletes should shoot for about 0.8-1g of high-quality protein per pound of bodyweight, per day.  
 
 [Dietary Protein Requirement of Female Adults >65 Years Determined by the Indicator Amino Acid Oxidation Technique Is Higher Than Current Recommendations](../../../papers/rafii2014.pdf) - Rafii et al, 2014 (PDF)  
 > Dietary Protein Requirement of Female Adults >65 Years Determined by the Indicator Amino Acid Oxidation Technique Is Higher Than Current Recommendations  

@@ -36,7 +36,7 @@ title: Stuff I Listen To
 * [Stuff You Missed in History Class](https://www.missedinhistory.com/)  
 
 **Magic: the Gathering**  
-* [Limited Resources](http://lrcast.com/)
+* [Limited Resources](http://lrcast.com/)  
 
 **Misc./News/NPR Stuff**   
 * [All the President's Lawyers](https://www.kcrw.com/news-culture/shows/lrc-presents-all-the-presidents-lawyers)  

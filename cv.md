@@ -45,10 +45,6 @@ Operations Intern | MSCI Inc. | Norman, OK
 * Monitored production environment for problems
 * Automated menial tasks such as resetting user passwords
 
-2008 - 2010  
-Work/Study | Chick-Fil-A | Norman, OK
-* Worked with a team to cook, clean, and maintain customer satisfaction in a fast-paced setting
-
 May 2006 - Jul 2012  
 Lifeguard, Counselor, and Shooting Sports Co-Director | BSA Camp Tapico | Kalkaska, MI
 * Developed personal leadership skills in a non-profit environment
@@ -66,6 +62,7 @@ University of Hertfordshire, Hatfield, UK
 
 University of Michigan- Flint, Flint, MI  
 * *Dual Enrollment, 2006-07*  
+
 
 Tools and Languages
 ----
@@ -89,6 +86,7 @@ Projects
 [Story Parser](/StoryParser.html)  
 [Aerolínea PanAmerica](/2020/01/10/panam-notes.html)  
 [Machine Learning in StarCraft: Brood War](/papers/burr2011.pdf)  
+
 
 Awards and Acknowledgements
 ----
