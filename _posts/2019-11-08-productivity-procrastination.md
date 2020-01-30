@@ -4,6 +4,8 @@ title: Mental Health, Productivity, and Procrastination
 author: Tim
 ---
 
+[Don't waste your life away stuck in "research-mode"](https://www.reddit.com/r/nosurf/comments/bek1es/dont_waste_your_life_away_stuck_in_researchmode/?utm_source=amp&utm_medium=&utm_content=post_body) /r/nosurf  
+
 [8,760 hours: how to get the most out of next year](/papers/8760-hours-v2.pdf), Alex Vermeer (PDF)  
 
 [How to Get Motivated v2.0](/images/howtogetmotivated-1440x900.png)  

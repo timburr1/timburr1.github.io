@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Short List of Good Software Development Videos on YouTube
+title: Some Good Programming Videos on YouTube
 author: Tim
 tags: tech
 ---

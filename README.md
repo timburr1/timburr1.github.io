@@ -7,11 +7,13 @@ Cd into the blog root directory, run "bundle exec jekyll serve", and navigate to
 gaming, links, school, tech, travel  
 
 ## TODO:
-expand Chile post
-
-finance/EA/philanthropy  
+expand Chile post  
 
 China post  
+
+effortposts on:  
+* autoimmune diseases
+* finance/EA/philanthropy  
 
 book reports:  
 * The Pragmatic Programmer  

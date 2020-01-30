@@ -19,7 +19,6 @@ title: Stuff I Read
 * [Lawfare](https://lawfareblog.com/)  
 * [Matt Levine's Money Stuff](https://www.bloomberg.com/view/topics/money-stuff)  
 * [PopeHat](https://www.popehat.com/)  
-* [/r/bestoflegaladvice](https://www.reddit.com/r/bestoflegaladvice/)  
 
 **Local/Regional News**  
 * [BoiseDev](https://boisedev.com/)  
@@ -27,9 +26,7 @@ title: Stuff I Read
 
 **Rationalism/Psychology**  
 * [Gwern](https://www.gwern.net/)  
-* [Meaningness](https://meaningness.com/)  
 * [Melting Asphalt](https://meltingasphalt.com)  
-* [Mr. Money Mustache](https://www.mrmoneymustache.com/)  
 * [Nate Soares](http://mindingourway.com/)  
 * [Otium](https://srconstantin.wordpress.com/)  
 * [Sam\[\]zdat](https://samzdat.com/)  

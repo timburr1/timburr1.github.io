@@ -1,13 +1,12 @@
 ---
 layout: post
-title: 
+title: Indy Decklist
 date: '2010-03-21T17:53:00.004Z'
 author: Tim
 tags: gaming
-modified_time: '2010-03-26T22:58:21.568Z'
 ---
 
-This is basically the deck that I took to Indy two weekends ago. I think it has a lot of potential, although my testing for that particular event was somewhere between insufficient an nonexistent. I won last week's FNM with it, and I am going to try again tonight.
+This is basically the deck that I took to GP Indianapolis two weekends ago. I think it has a lot of potential, although my testing for that particular event was somewhere between insufficient an nonexistent. I won last week's FNM with it, and I am going to try again tonight.
 
 4 crumbling necropolis  
 1 dragonskull summit  
