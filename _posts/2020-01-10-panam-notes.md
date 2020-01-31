@@ -11,7 +11,7 @@ It was built with React, based on Brian Holt's [Complete Intro to React v5](http
 
 To run it locally, make sure you have [Node.js](https://nodejs.org/en/), [npm](https://www.npmjs.com/get-npm), and [Parcel](https://parceljs.org/) installed.  
 
-Open a terminal in Visual Studio Code or PowerShell; cd into the project root; and run 'npm run dev'.  
+Open a terminal in Visual Studio Code or PowerShell; cd into the project root; run 'npm run dev'; point a web browser at [localhost:1234/](http://localhost:1234/)  
 
 Some helpful VSCode extensions:  
 * Azure App Service  
