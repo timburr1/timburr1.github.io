@@ -26,4 +26,6 @@ Other useful resources:
 * MDN: [Cascading Style Sheets](https://developer.mozilla.org/en-US/docs/Web/CSS)  
 * [CI/CD with Github](https://docs.microsoft.com/en-us/azure/app-service/deploy-continuous-deployment)  
 
-[react-datepicker](https://www.npmjs.com/package/react-datepicker) is cool.
+[react-datepicker](https://www.npmjs.com/package/react-datepicker) is cool.  
+
+<br /><img src="/images/panam screenshot-min.png" alt="" width="100%" />  
