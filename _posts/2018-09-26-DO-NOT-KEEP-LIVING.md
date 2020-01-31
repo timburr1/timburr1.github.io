@@ -1,9 +1,11 @@
 ---
 layout: post
-title: 'DO NOT KEEP LIVING LIKE THIS: Burning Man 2018'
+title: DO NOT KEEP LIVING LIKE THIS
 author: Tim
 tags: travel
 ---
+
+## Burning Man 2018
 
 <img align="center" src="/images/burningman2018/Bear, Gummy.jpg" width="300"/>  
 

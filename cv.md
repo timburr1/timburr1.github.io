@@ -82,7 +82,7 @@ Microsoft Azure
 
 Projects
 ----
-[Illumicone](https://illumicone.com/) - test system  
+[Illumicone](https://illumicone.com/) Test System  
 [Story Parser](/StoryParser.html)  
 [Aerolínea PanAmerica](/2020/01/10/panam-notes.html)  
 [Machine Learning in StarCraft: Brood War](/papers/burr2011.pdf)  

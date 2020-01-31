@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some Good Programming Videos on YouTube
+title: Programming Videos on YouTube
 author: Tim
 tags: tech
 ---

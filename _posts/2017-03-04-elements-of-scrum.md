@@ -33,7 +33,7 @@ Team Member
 
 The Sprint
 ---
-![alt text](/images/sprint-schedule.jpg "Sprint Calendar")
+![Sprint Calendar](/images/sprint-schedule.jpg "Sprint Calendar")
 
 Sprint Planning (~2 hr)
 * What will we do?

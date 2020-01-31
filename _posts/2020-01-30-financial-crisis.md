@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Resources for Understanding the 2007 Financial Crisis
+title: The 2007 Financial Crisis
 author: Tim
 ---
 
@@ -49,6 +49,6 @@ This American Life: [Inside Job](https://www.thisamericanlife.org/405/inside-job
 
 
 ## Movies  
-Margin Call ([IMDB](https://www.imdb.com/title/tt1615147/))  
-
 The Big Short ([IMDB](https://www.imdb.com/title/tt1596363/))  
+
+Margin Call ([IMDB](https://www.imdb.com/title/tt1615147/))  

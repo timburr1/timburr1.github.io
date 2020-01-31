@@ -24,7 +24,7 @@ author: Tim
 
 [Tell Me What You Did Today, And I’ll Tell You Who You Are](https://medium.com/@benjaminhardy/tell-me-what-you-did-today-and-ill-tell-you-who-you-are-6243bd969ef6), Benjamin Hardy, Medium  
 
-WaitButWhy series on procrastination:  
-* Part 1: [Why Procrastinators Procrastinate](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html)  
-* Part 2: [How to Beat Procrastination](https://www.waitbutwhy.com/2013/11/how-to-beat-procrastination.html)  
-* Part 3: [The Procrastination Matrix](https://waitbutwhy.com/2015/03/procrastination-matrix.html)  
+WaitButWhy:  
+[Why Procrastinators Procrastinate](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html)  
+[How to Beat Procrastination](https://www.waitbutwhy.com/2013/11/how-to-beat-procrastination.html)  
+[The Procrastination Matrix](https://waitbutwhy.com/2015/03/procrastination-matrix.html)  
