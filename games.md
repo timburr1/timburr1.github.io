@@ -5,8 +5,9 @@ title: Slingin' Cardboard
 
 ## Games  
 
-[Dungeon](http://www.dungeon-world.com/) [World](https://www.dungeonworldsrd.com/)  
-[Pathfinder](https://www.d20pfsrd.com/)  
+[Dungeon](http://www.dungeon-world.com/) [World](https://www.dungeonworldsrd.com/) [character sheets](/papers/Dungeon_World_Play_Sheets.pdf)  
+[Pathfinder](https://www.d20pfsrd.com/) [character sheet](/papers/PathfinderRPGCharacterSheet.pdf)  
+Numenera [character sheet](/papers/Numenera Character Sheet.pdf)
 
 [Steam](https://steamcommunity.com/id/timburr2/)  
 
