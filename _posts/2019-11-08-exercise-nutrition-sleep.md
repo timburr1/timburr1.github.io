@@ -6,13 +6,13 @@ author: Tim
 
 ## Exercise
 **Lifting**  
-Pick a program that you like, and that works for your goals. I am currently using a modified version of [5/3/1 for Beginners](https://thefitness.wiki/routines/5-3-1-for-beginners/).  
+Pick a program that you like, and that works for your goals; I am currently using a modified version of [5/3/1 for Beginners](https://thefitness.wiki/routines/5-3-1-for-beginners/). More programming resources: 
 
 [102 Lifting Resources you may find useful](https://np.reddit.com/r/weightroom/comments/ca5b66/102_lifting_resources_you_may_find_useful/) - /u/Mephostophelus  
 
 [5/3/1: How to Build Pure Strength](https://www.t-nation.com/workouts/531-how-to-build-pure-strength) - Jim Wendler, T-Nation  
 
-[The GZCL Method, Simplified](https://swoleateveryheight.blogspot.com/2014/07/the-gzcl-method-simplified_13.html) - Cody Lefever, Swole at Every Height  
+[CrossFit Journal - What Is Fitness and Who Is Fit?](../../../papers/CFJ-trial.pdf) and [The CrossFit Total](../../../papers/52-2006_CFTotal.pdf)  
 
 [How to Increase Work Capacity and Bust Through Plateaus](https://www.strongerbyscience.com/increasing-work-capacity/) - Greg Nuckols, StrongerByScience  
 > Increase work capacity/ by adding volume, decreasing time between sets, or adding workouts. 
