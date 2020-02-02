@@ -13,6 +13,7 @@ author: Tim
 [Hug Nation / John Halcyon](https://www.youtube.com/user/halcyonstyn) on YouTube  
 
 [Official ticket info for 2020](https://tickets.burningman.org/)  
+> **Main Sale**  
 > [Registration](https://profiles.burningman.org/): April 1, 2020 at 12pm (noon) – April 3, 2020 at 12pm (noon) PDT  
 > Sale starts: April 8, 2020 at 12pm (noon) PDT  
 
