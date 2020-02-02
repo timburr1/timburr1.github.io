@@ -35,7 +35,7 @@ As long as your total calories and protein are reasonable, and your diet doesn't
 [Dietary Protein Requirement of Female Adults >65 Years Determined by the Indicator Amino Acid Oxidation Technique Is Higher Than Current Recommendations](../../../papers/rafii2014.pdf) - Rafii et al, 2014 (PDF)  
 > Dietary Protein Requirement of Female Adults >65 Years Determined by the Indicator Amino Acid Oxidation Technique Is Higher Than Current Recommendations  
 
-[Dietary Protein Requirement of Men >65 Years Old Determined by the Indicator Amino Acid Oxidation Technique Is Higher than the Current Estimated Average Requirement](../../../papers/rafii2014.pdf) - Rafii et al 2016, (PDF)  
+[Dietary Protein Requirement of Men >65 Years Old Determined by the Indicator Amino Acid Oxidation Technique Is Higher than the Current Estimated Average Requirement](../../../papers/rafii2014.pdf) - Rafii et al, 2016 (PDF)  
 > Dietary Protein Requirement of Men >65 Years Old Determined by the Indicator Amino Acid Oxidation Technique Is Higher than the Current Estimated Average Requirement  
 
 [Evidence that protein requirements have been
