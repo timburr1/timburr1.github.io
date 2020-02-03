@@ -8,7 +8,7 @@ title: Curriculum Vitae
 Work Experience
 ----
 Aug 2019 - present  
-Senior Software Engineer | Healthwise | Boise, ID
+**Senior Software Engineer | Healthwise | Boise, ID**  
 * Interacts with other departments and internal users as part of development of the
 Healthwise software and systems
 * Provides leadership and direction to engineers developing tools and processes to
@@ -23,30 +23,30 @@ reviews
 goals in creative and effective ways  
 
 Aug 2012 - Aug 2019  
-Software Developer | Clearwater Analytics | Boise, ID  
+**Software Developer | Clearwater Analytics | Boise, ID**  
 * Maintained and improved existing code  
 * Provided 24-hour, on-call support for critical projects
 * Created additional webservices, databases, and testing frameworks  
 * Collaborated with other developers and analysts
 
 Nov 2015 - Nov 2017  
-Compliance Team Lead | Clearwater Analytics | Boise, ID  
+**Compliance Team Lead | Clearwater Analytics | Boise, ID**  
 * Led an Agile team of four developers and one quality assurance engineer  
 * Worked with users and stakeholders to prioritize and implement new features  
 * Mentored and taught junior developers
 
 Sep 2011 - May 2012  
-Teaching Assistant | University of Oklahoma | Norman, OK
+**Teaching Assistant | University of Oklahoma | Norman, OK**  
 * Taught basic programming concepts at office hours
 * Provided student feedback through grading homework and projects
 
 Jun 2010 - Jun 2011  
-Operations Intern | MSCI Inc. | Norman, OK
+**Operations Intern | MSCI Inc. | Norman, OK**  
 * Monitored production environment for problems
 * Automated menial tasks such as resetting user passwords
 
 May 2006 - Jul 2012  
-Lifeguard, Counselor, and Shooting Sports Co-Director | BSA Camp Tapico | Kalkaska, MI
+**Lifeguard, Counselor, and Shooting Sports Co-Director | BSA Camp Tapico | Kalkaska, MI**  
 * Developed personal leadership skills in a non-profit environment
 * Managed groups of scouts and counselors from many diverse backgrounds
 
@@ -82,9 +82,9 @@ Microsoft Azure
 
 Projects
 ----
+[Aerolínea PanAmerica](/2020/01/10/panam-notes.html)  
 [Illumicone](https://illumicone.com/) Test System  
 [Story Parser](/StoryParser.html)  
-[Aerolínea PanAmerica](/2020/01/10/panam-notes.html)  
 [Machine Learning in StarCraft: Brood War](/papers/burr2011.pdf)  
 
 
@@ -92,7 +92,7 @@ Awards and Acknowledgements
 ----
 Eagle Scout  
 National Merit Finalist  
-Presented at OU Honors College on ['Majors and Careers in a Volatile Economy'](/2017/02/04/ou-talk.html) in September 2015  
+Presented at OU Honors College: ['Majors and Careers in a Volatile Economy'](/2017/02/04/ou-talk.html), September 2015  
 
 
 Find me on [GitHub](https://github.com/timburr1) or [LinkedIn](http://www.linkedin.com/pub/timothy-burr/66/a88/a39).
