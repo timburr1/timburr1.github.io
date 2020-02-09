@@ -37,7 +37,6 @@ title: Stuff I Read
 * [Google Developers Blog](https://developers.googleblog.com/)  
 * [Hacker News](https://news.ycombinator.com/)  
 * [Henrik Warne](https://henrikwarne.com/)  
-* [Paul Graham](http://paulgraham.com/articles.html)  
 * [Schneier on Security](https://www.schneier.com/)  
 * [Scott Hanselman](https://www.hanselman.com/blog/)  
 
