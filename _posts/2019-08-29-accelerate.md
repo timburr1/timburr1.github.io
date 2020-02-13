@@ -6,6 +6,7 @@ tags: tech
 ---
 
 ['Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations'](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339/ref=sr_1_1?keywords=accelerate&qid=1567118731&s=gateway&sr=8-1)  
+by Nicole Forsgren, Jez Humble, and Gene Kim  
 
 ## Continuous Delivery Capabilities 
 Use version control for all production artifacts (including application code, configurations, build/environment setup scripts, etc.)  

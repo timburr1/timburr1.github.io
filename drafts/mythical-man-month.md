@@ -10,7 +10,10 @@ by Frederick P. Brooks, Jr.
 
 This book is a classic, and includes a lot of interesting thoughts about software engineering. That said, it really shows its age: it was written in a time when all the devs were men and all the secretaries were women. Also, Brooks writes about god several times in a way that is more... earnest than you'd usually see in a book about software development.
 
-1. The Tar Pit
+## The Tar Pit  
+
+
+
 2. The Mythical Man-Month
 3. The Surgical Team
 4. Aristocracy, Democracy, and System Design

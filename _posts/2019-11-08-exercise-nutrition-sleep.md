@@ -22,7 +22,7 @@ Pick a program that you like, and that works for your goals; I am currently usin
 [/r/kettlebell FAQ](https://www.reddit.com/r/kettlebell/comments/3qxa4i/new_to_kettlebells_start_here_updated_for_2015/)  
 
 **Running**  
-[Couch to 5k, treadmill workouts](../../../_ref/c25k.html)  
+[Couch to 5k, treadmill workouts](../../../_ref/c25k.html) (Make sure to set the treadmill incline to at least 1.0.)  
 
 [/r/running Base Training: A Guide to Your Foundation to Running](https://www.reddit.com/r/running/comments/3bckeh/base_training_a_guide_to_your_foundation_to/)  
 
