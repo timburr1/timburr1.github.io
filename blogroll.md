@@ -26,6 +26,7 @@ title: Stuff I Read
 
 **Rationalism/Psychology**  
 * [Gwern](https://www.gwern.net/)  
+* [Marginal Revolution](https://marginalrevolution.com/)  
 * [Melting Asphalt](https://meltingasphalt.com)  
 * [Nate Soares](http://mindingourway.com/)  
 * [Otium](https://srconstantin.wordpress.com/)  

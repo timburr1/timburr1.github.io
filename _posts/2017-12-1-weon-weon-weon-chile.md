@@ -18,8 +18,8 @@ Thu. 11/23: Vina del Mar -> Santiago
 Fri. 11/24: -> STG airport  
 Sat. 11/25: -> BOI  
 
-<img align="center" src="/images/chile/selfie.jpg" width="450"/>   
+<img align="center" src="/images/chile/selfie.jpg" width="450" alt=""/>   
 
-<img align="center" src="/images/chile/torres.jpg" width="450"/>   
+<img align="center" src="/images/chile/torres.jpg" width="450" alt=""/>   
 
-<img align="center" src="/images/chile/valpo_happies.jpg" width="450"/>   
+<img align="center" src="/images/chile/valpo_happies.jpg" width="450" alt=""/>   

@@ -5,6 +5,8 @@ author: Tim
 tags: tech
 ---
 
+[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) (11 one-hour lectures on tools: editors, version control, debugging and profiling, etc.)  
+
 ## Specific Talks  
 [Allspaw and Hammond - 10+ Deploys Per Day: Dev and Ops Cooperation at Flickr](https://www.youtube.com/watch?v=LdOe18KhtT4)  
 

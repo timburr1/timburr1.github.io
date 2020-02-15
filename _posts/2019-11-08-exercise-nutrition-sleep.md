@@ -12,7 +12,7 @@ Pick a program that you like, and that works for your goals; I am currently usin
 
 [5/3/1: How to Build Pure Strength](https://www.t-nation.com/workouts/531-how-to-build-pure-strength) - Jim Wendler, T-Nation  
 
-[CrossFit Journal - What Is Fitness and Who Is Fit?](../../../papers/CFJ-trial.pdf) and [The CrossFit Total](../../../papers/52-2006_CFTotal.pdf)  
+[CrossFit Journal - What Is Fitness and Who Is Fit?](../../../papers/CFJ-trial.pdf) and [The CrossFit Total](../../../papers/52-2006_CFTotal.pdf) - Mark Rippetoe  
 
 [How to Increase Work Capacity and Bust Through Plateaus](https://www.strongerbyscience.com/increasing-work-capacity/) - Greg Nuckols, StrongerByScience  
 > Increase work capacity/ by adding volume, decreasing time between sets, or adding workouts. 
