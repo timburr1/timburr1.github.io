@@ -53,14 +53,14 @@ May 2006 - Jul 2012
 
 Education
 ----
-University of Oklahoma, Norman, OK  
+**University of Oklahoma, Norman, OK**  
 * *B.S. in Computer Science with Math Minor, May 13, 2011*  
 * *M.S. in Computer Science, May 11, 2012*  
 
-University of Hertfordshire, Hatfield, UK  
+**University of Hertfordshire, Hatfield, UK**  
 * *Semester Abroad, Fall 2009*  
 
-University of Michigan- Flint, Flint, MI  
+**University of Michigan- Flint, Flint, MI**  
 * *Dual Enrollment, 2006-07*  
 
 
