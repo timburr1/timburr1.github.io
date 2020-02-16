@@ -23,7 +23,7 @@ Understand the problem
 Manage the flow of ideas  
 Maintain quality  
 
-Growth/development in the real world always involves: practice, stepwise improvement, and occasional regressions. It's a long, noisy process, but it's the only way any of us ever get better at anything.  
+Growth/development in the real world always involves: practice, stepwise improvement, and occasional regressions. It's a long, noisy process, but it's the only way to get better.  
 
 
 ## Innovation  

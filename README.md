@@ -11,14 +11,12 @@ expand Chile post
 
 China post  
 
-effortposts on:  
-* autoimmune diseases
-* finance/EA/philanthropy  
 
 book reports:  
 * The Pragmatic Programmer  
 * The Mythical Man-Month  
 * Becoming a Technical Leader  
+* The Phoenix Project  
 
 Personality/morality:  
 * yourmorals.org
