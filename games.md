@@ -13,7 +13,9 @@ Numenera [character sheet](/papers/Numenera Character Sheet.pdf)
 
 You can look at my Magic: the Gathering decks on [deckbox](https://deckbox.org/users/timburr), if you are into that sort of thing.  
 
-I'm also getting into Warhammer 40k a little bit. Current army: [Tyranids, 1200pts](/_ref/40kArmies/Tyranids_1200.html)   
+I'm also getting into Warhammer 40k a little bit: 
+* [Tyranids, 1200pts](/_ref/40kArmies/Tyranids_1200.html)  
+* [Tyranids, 800pts](/_ref/40kArmies/Tyranids_800.html)  
 
 Kill Teams:  
 * [Space Marines vs. Melee Hordes, 100pts](/_ref/40kArmies/SpaceMarinesKT_MeleeHorde.html)  
