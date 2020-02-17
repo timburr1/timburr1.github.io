@@ -11,7 +11,6 @@ expand Chile post
 
 China post  
 
-
 book reports:  
 * The Pragmatic Programmer  
 * The Mythical Man-Month  

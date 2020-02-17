@@ -18,6 +18,7 @@ nav ul li, footer ul li {
 
 footer {
     border-top: 2px solid #d5d5d5;
+    margin-top: 10px;
     font-size: 1em;
 }
 
