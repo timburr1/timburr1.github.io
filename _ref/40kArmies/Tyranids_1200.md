@@ -6,12 +6,6 @@ layout: default
         <meta name="viewport" content="width=670"> 
         <style>
 
-            body.battlescribe {
-                margin: 0px;
-                padding: 0px;
-                border-width: 0px;
-            }
-
             div.battlescribe {
                 margin-top: 0px;
                 margin-bottom: 0px;
@@ -323,13 +317,13 @@ layout: default
                             <li class="rootselection">
                                 <h4>Broodlord [8 PL, 115pts]</h4>
                                 <p>
-                                    <span class="bold">Selections:</span> Chameleonic Mutation, Power: Catalyst
+                                    <span class="bold">Selections:</span> Chameleonic Mutation
                                 </p>
                                 <p class="category-names">
                                     <span class="bold">Categories:</span> <span class="caps">Faction: &lt;Hive Fleet&gt;, Faction: Tyranids, HQ, Genestealer, Character, Infantry, Psyker, Synapse</span>
                                 </p>
                                 <p class="profile-names">
-                                    <span class="bold">Abilities:</span> <span class="italic">Brood Telepathy, Chameleonic Mutation, Lightning Reflexes, Shadow in the Warp, Swift and Deadly, Synapse</span>, <span class="bold">Psychic Power:</span> <span class="italic">Catalyst</span>, <span class="bold">Psyker:</span> <span class="italic">Broodlord</span>, <span class="bold">Unit:</span> <span class="italic">Broodlord</span>, <span class="bold">Weapon:</span> <span class="italic">Monstrous Rending Claws</span>
+                                    <span class="bold">Abilities:</span> <span class="italic">Brood Telepathy, Chameleonic Mutation, Lightning Reflexes, Shadow in the Warp, Swift and Deadly, Synapse</span>, <span class="bold">Psyker:</span> <span class="italic">Broodlord</span>, <span class="bold">Unit:</span> <span class="italic">Broodlord</span>, <span class="bold">Weapon:</span> <span class="italic">Monstrous Rending Claws</span>
                                 </p>
                                     <br>
                                     <table cellspacing="-1">
@@ -383,20 +377,6 @@ layout: default
                                     </table>
                                     <table cellspacing="-1">
                                         <tr>
-                                            <th>Psychic Power</th>
-                                            <th>Warp Charge</th><th>Range</th><th>Details</th>
-                                            <th>Ref</th>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Catalyst</td>
-                                            <td>6</td><td>18"</td><td>Select a friendly TYRANIDS unit within 18" of the psyker. Until the start of your next Psychic phase, each time that unit loses a wound, roll a D6; on a 5+, the damage is ignored and the unit does not lose that wound.</td>
-                                            <td>
-                                                Codex: Tyranids p121
-                                            </td>
-                                        </tr>
-                                    </table>
-                                    <table cellspacing="-1">
-                                        <tr>
                                             <th>Psyker</th>
                                             <th>Cast</th><th>Deny</th><th>Powers Known</th><th>Other</th>
                                             <th>Ref</th>
@@ -441,13 +421,13 @@ layout: default
                             <li class="rootselection">
                                 <h4>Hive Tyrant [9 PL, 181pts]</h4>
                                 <p>
-                                    <span class="bold">Selections:</span> 3. Tenacious Survivor, Adrenal Glands [5pts], Heavy Venom Cannon [18pts], Monstrous Scything Talons [15pts], Power: Onslaught, Power: Synaptic Lure, Warlord
+                                    <span class="bold">Selections:</span> 3. Tenacious Survivor, Adrenal Glands [5pts], Heavy Venom Cannon [18pts], Monstrous Scything Talons [15pts], Warlord
                                 </p>
                                 <p class="category-names">
                                     <span class="bold">Categories:</span> <span class="caps">Faction: &lt;Hive Fleet&gt;, Faction: Tyranids, HQ, Character, Monster, Psyker, Hive Tyrant, Synapse, Warlord</span>
                                 </p>
                                 <p class="profile-names">
-                                    <span class="bold">Abilities:</span> <span class="italic">Adrenal Glands, Death Throes, Psychic Barrier, Shadow in the Warp, Synapse, Tenacious Survivor, The Will of the Hive Mind</span>, <span class="bold">Psychic Power:</span> <span class="italic">Onslaught, Synaptic Lure</span>, <span class="bold">Psyker:</span> <span class="italic">Hive Tyrant</span>, <span class="bold">Stat Damage - M, WS &amp; BS:</span> <span class="italic">Hive Tyrant (1), Hive Tyrant (2), Hive Tyrant (3)</span>, <span class="bold">Unit:</span> <span class="italic">Hive Tyrant</span>, <span class="bold">Weapon:</span> <span class="italic">Heavy Venom Cannon, Monstrous Scything Talons, Prehensile Pincer Tail</span>
+                                    <span class="bold">Abilities:</span> <span class="italic">Adrenal Glands, Death Throes, Psychic Barrier, Shadow in the Warp, Synapse, Tenacious Survivor, The Will of the Hive Mind</span>, <span class="bold">Psyker:</span> <span class="italic">Hive Tyrant</span>, <span class="bold">Stat Damage - M, WS &amp; BS:</span> <span class="italic">Hive Tyrant (1), Hive Tyrant (2), Hive Tyrant (3)</span>, <span class="bold">Unit:</span> <span class="italic">Hive Tyrant</span>, <span class="bold">Weapon:</span> <span class="italic">Heavy Venom Cannon, Monstrous Scything Talons, Prehensile Pincer Tail</span>
                                 </p>
                                     <br>
                                     <table cellspacing="-1">
@@ -502,27 +482,6 @@ layout: default
                                             <td>The range of this model's Synapse ability is 18" rather than 12".</td>
                                             <td>
                                                 Codex: Tyranids p85
-                                            </td>
-                                        </tr>
-                                    </table>
-                                    <table cellspacing="-1">
-                                        <tr>
-                                            <th>Psychic Power</th>
-                                            <th>Warp Charge</th><th>Range</th><th>Details</th>
-                                            <th>Ref</th>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Onslaught</td>
-                                            <td>6</td><td>18"</td><td>Select a friendly TYRANIDS unit within 18" of the psyker. That unit can shoot this turn (even if it Advanced) without suffering any penalties to its hit rolls for moving and shooting with Heavy weapons, or Advancing and shooting with Assault weapons. In addition, that unit can charge this turn even if it Advanced (though not if it Fell Back).</td>
-                                            <td>
-                                                Codex: Tyranids p121
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Synaptic Lure</td>
-                                            <td>5</td><td>-</td><td>Select one enemy unit. Until the end of the turn, when a charge roll is made by a friendly KRAKEN unit that targets that enemy unit, you can re-roll the result.</td>
-                                            <td>
-                                                Psychic Awakening: Blood of Baal p78
                                             </td>
                                         </tr>
                                     </table>

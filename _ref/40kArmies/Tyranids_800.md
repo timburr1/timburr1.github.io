@@ -5,13 +5,7 @@ layout: default
     <head>
         <meta name="viewport" content="width=670"> 
         <style>
-
-            body.battlescribe {
-                margin: 0px;
-                padding: 0px;
-                border-width: 0px;
-            }
-
+		
             div.battlescribe {
                 margin-top: 0px;
                 margin-bottom: 0px;
