@@ -1,7 +1,10 @@
 ---
 layout: default
-title: Tyranids Tactics - Killteam
+title: Tyranids Tactics - Kill Team
 ---
+
+## Tyranids Tactics - Kill Team
+
 **Rapid Regeneration:** 2 command points  
 Use this tactic when a model from your kill team is taken out of action. Roll a D6. On a 4+ that model is treated as if it had suffered a flesh wound instead.  
 
