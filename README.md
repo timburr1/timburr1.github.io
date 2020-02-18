@@ -7,6 +7,10 @@ Cd into the blog root directory, run "bundle exec jekyll serve", and navigate to
 gaming, links, school, tech, travel  
 
 ## TODO:
+comments:  
+* http://donw.io/post/github-comments/
+* https://dc25.github.io/myBlog/2017/06/24/using-github-comments-in-a-jekyll-blog.html
+
 expand Chile post  
 
 China post  
