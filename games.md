@@ -11,19 +11,23 @@ Numenera [character sheet](/papers/Numenera Character Sheet.pdf)
 
 [Steam](https://steamcommunity.com/id/timburr2/)  
 
-You can look at my Magic: the Gathering decks on [deckbox](https://deckbox.org/users/timburr), if you are into that sort of thing.  
+You can look at my **Magic: the Gathering** decks on [deckbox](https://deckbox.org/users/timburr), if you are into that sort of thing.  
 
-I'm also getting into Warhammer 40k a little bit: 
+I'm also getting into **Warhammer 40k** a little bit: 
 * [Tyranids, 1200pts](/_ref/40kArmies/Tyranids_1200.html)  
 * [Tyranids, 800pts](/_ref/40kArmies/Tyranids_800.html)  
 
-Kill Teams:  
+[Tactical Objectives and Stratagems](/_ref/40kArmies/tyranids_ref.html)  
+
+**Kill Teams:**  
 * [Space Marines vs. Melee Hordes, 100pts](/_ref/40kArmies/SpaceMarinesKT_MeleeHorde.html)  
 * [Space Marines vs. Power Armor, 100pts](/_ref/40kArmies/SpaceMarinesKT_PowerArmor.html)  
 * [Space Marines vs. Shooty Hordes, 100pts](/_ref/40kArmies/SpaceMarinesKT_ShootyHorde.html)  
 * [Tyranids, 100pts](/_ref/40kArmies/TyranidsKT.html)   
 
-[Tyranid Tactics](/_ref/40kArmies/tyranids_tactics.html)  
+**Tactics:**  
+[Space Marines](/_ref/40kArmies/adeptus_tactics.html)  
+[Tyranids](/_ref/40kArmies/tyranids_tactics.html)  
 
 &#127925;Serve the Hive, I control the groove...  
 Serve the Hive, I control the way you move...&#127925;  
