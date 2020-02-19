@@ -4,42 +4,19 @@ title: Stuff I Read
 ---
 
 ## Blogroll  
-  
-[Sci-Hub](https://sci-hub.tw/)  
 
-**Fiction**  
-* [Unsong](https://unsongbook.com/)  
-* [Yuh Dead](https://lorav.github.io/)  
-
-**Gaming**  
-* [The Alexandrian](https://thealexandrian.net/)  
-* [Magic: the Mothership](https://magic.wizards.com/en/articles)  
-
-**Law/Business**  
-* [Lawfare](https://lawfareblog.com/)  
-* [Matt Levine's Money Stuff](https://www.bloomberg.com/view/topics/money-stuff)  
-* [PopeHat](https://www.popehat.com/)  
-
-**Local/Regional News**  
 * [BoiseDev](https://boisedev.com/)  
-* [The Idaho Statesman](https://www.idahostatesman.com/)  
-
-**Rationalism/Psychology**  
 * [Gwern](https://www.gwern.net/)  
+* [Hacker News](https://news.ycombinator.com/)  
+* [The Idaho Statesman](https://www.idahostatesman.com/)  
 * [Marginal Revolution](https://marginalrevolution.com/)  
 * [Melting Asphalt](https://meltingasphalt.com)  
-* [Nate Soares](http://mindingourway.com/)  
-* [Otium](https://srconstantin.wordpress.com/)  
+* [Money Stuff](https://www.bloomberg.com/view/topics/money-stuff)  
+* [PopeHat](https://www.popehat.com/)  
 * [Sam\[\]zdat](https://samzdat.com/)  
+* [Schneier on Security](https://www.schneier.com/)  
 * [Slate Star Codex](https://slatestarcodex.com/)  
 * [Wait But Why](https://waitbutwhy.com)  
-
-**Software Development**  
-* [Google Developers Blog](https://developers.googleblog.com/)  
-* [Hacker News](https://news.ycombinator.com/)  
-* [Henrik Warne](https://henrikwarne.com/)  
-* [Schneier on Security](https://www.schneier.com/)  
-* [Scott Hanselman](https://www.hanselman.com/blog/)  
 
 **Web Comics**  
 * [Laws and Sausages](https://lawsandsausagescomic.com/comic)  

@@ -12,14 +12,22 @@ Pick a program that you like, and that works for your goals; I am currently usin
 
 [5/3/1: How to Build Pure Strength](https://www.t-nation.com/workouts/531-how-to-build-pure-strength) - Jim Wendler, T-Nation  
 
-[CrossFit Journal - What Is Fitness and Who Is Fit?](../../../papers/CFJ-trial.pdf) and [The CrossFit Total](../../../papers/52-2006_CFTotal.pdf) - Mark Rippetoe  
+[The CrossFit Total](../../../papers/52-2006_CFTotal.pdf) - Mark Rippetoe, CrossFit Journal   
+
+[Dave Tate's Guide to Supplemental Movements with FULL Video](https://www.elitefts.com/education/supplemental-strength/) - Dave Tate, EliteFTS  
+
+[The Eight Keys, A Complete Guide to Maximal Strength Development](https://www.elitefts.com/education/novice/efs-classic-the-eight-keys-a-complete-guide-to-maximal-strength-development/) - Dave Tate, EliteFTS  
 
 [How to Increase Work Capacity and Bust Through Plateaus](https://www.strongerbyscience.com/increasing-work-capacity/) - Greg Nuckols, StrongerByScience  
 > Increase work capacity/ by adding volume, decreasing time between sets, or adding workouts. 
 
 [Jacked & Tan 2.0](https://swoleateveryheight.blogspot.com/2016/07/jacked-tan-20.html) - Cody Lefever, Swole at Every Height  
 
+[The Periodization Bible](http://www.elitefts.com/education/training/powerlifting/efs-classic-the-periodization-bible) - Dave Tate, EliteFTS  
+
 [/r/kettlebell FAQ](https://www.reddit.com/r/kettlebell/comments/3qxa4i/new_to_kettlebells_start_here_updated_for_2015/)  
+
+[What Is Fitness and Who Is Fit?](../../../papers/CFJ-trial.pdf) - Mark Rippetoe, CrossFit Journal   
 
 **Running**  
 [Couch to 5k, treadmill workouts](../../../_ref/c25k.html) (Make sure to set the treadmill incline to at least 1.0.)  

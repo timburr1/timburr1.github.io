@@ -21,4 +21,7 @@ Use this Tactic at the end of the Fight phase. Pick a model from your kill team.
 Use this Tactic in the Shooting phase when you choose an Intercessor from your kill team to shoot with a stalker bolt rifle. Until the end of that phase, you can add 1 to hit and wound rolls for that model.
 
 **Shock and Awe:** 2 command points 
-Normally, Shock grenades are used in the Shooting phase, after you decided to move instead of charge. This strat allows a Reiver to chuck a shock grenade before the charge actually happens, protecting him. As it connects, the affected model can't Overwatch that very phase, on top of -1 to hit & inability to use Overwatch or be Readied until the end of the next battle round.
+Normally, Shock grenades are used in the Shooting phase, after you decided to move instead of charge. This strat allows a Reiver to chuck a shock grenade before the charge actually happens, protecting him. As it connects, the affected model can't Overwatch that very phase, on top of -1 to hit & inability to use Overwatch or be Readied until the end of the next battle round.  
+
+<br />
+Source: [1d4chan](https://1d4chan.org/wiki/Warhammer_40,000/Tactics/Tyranids(8E)#Stratagems)
