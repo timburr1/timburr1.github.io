@@ -11,7 +11,7 @@ by Gene Kim, Kevin Behr, and George Spafford
 **The Four Kinds of IT Work**  
 Business Projects - New products for the company to sell, new ways to reach customers.  
 Internal Projects - All the IT-related things it takes to keep a modern business running: installing new VOIP phones, keeping the email server running, etc.  
-Operational Change - Changes, deployments, dependency updates, etc. 
+Operational Change - Changes, deployments, dependency updates, etc.  
 Unplanned Work - Something broke, and you have to fix it.  
 
 **Erik's Three Ways**  
