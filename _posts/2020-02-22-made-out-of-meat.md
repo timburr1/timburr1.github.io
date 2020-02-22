@@ -105,6 +105,6 @@ photomaxmix
 
 the end
 
- 
-
+<br />
+© Terry Bisson  
 This story originally appeared in Omni April 1991 and was nominated for the Nebula Award. It is taken from the collection 'Bears Discover Fire'.

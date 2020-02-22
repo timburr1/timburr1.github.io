@@ -476,5 +476,6 @@ And, when he paused to recover from the rigors and dangers of travel, he would r
 
 He named his protagonist Lord Iron.  
 
-© 2007 by Daniel Abraham.  
+<br />
+© 2007 by Daniel Abraham  
 Originally published in Logorrhea: Good Words Make Good Stories, edited by John Klima.

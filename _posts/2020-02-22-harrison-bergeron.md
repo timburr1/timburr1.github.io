@@ -309,4 +309,5 @@ gun in his head.
 
 "Gee-" said Hazel, "I could tell that one was a doozy." 
 
-"Harrison Bergeron" is copyrighted by Kurt Vonnegut, Jr., 1961. 
+<br />
+© 1961 by Kurt Vonnegut, Jr.

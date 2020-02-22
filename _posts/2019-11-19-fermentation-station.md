@@ -21,6 +21,8 @@ Once your carboy or bucket is clean, combine sugar, juice, and yeast, as well as
 
 Throw on the airlock, and wait for it to quit bubbling. This should take a about two or three weeks.  
 
+More info at [WikiHow](https://app.getpocket.com/read/1873036).  
+
 ## Kombucha
 **Ingredients**  
 * water  
