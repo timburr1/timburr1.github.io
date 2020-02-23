@@ -45,7 +45,7 @@ Pick a program that you like, and that works for your goals; I am currently usin
 [The Eight Keys, A Complete Guide to Maximal Strength Development](https://www.elitefts.com/education/novice/efs-classic-the-eight-keys-a-complete-guide-to-maximal-strength-development/) - Dave Tate, EliteFTS  
 
 [How to Increase Work Capacity and Bust Through Plateaus](https://www.strongerbyscience.com/increasing-work-capacity/) - Greg Nuckols, StrongerByScience  
-> Increase work capacity/ by adding volume, decreasing time between sets, or adding workouts. 
+> "Increase work capacity/ by adding volume, decreasing time between sets, or adding workouts." 
 
 [Jacked & Tan 2.0](https://swoleateveryheight.blogspot.com/2016/07/jacked-tan-20.html) - Cody Lefever, Swole at Every Height  
 

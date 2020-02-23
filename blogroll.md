@@ -5,7 +5,9 @@ title: Stuff I Read
 
 ## Blogroll  
 
+* [The Alexandrian](https://thealexandrian.net/)  
 * [BoiseDev](https://boisedev.com/)  
+* [Coding Horror](https://blog.codinghorror.com/)  
 * [The Economist](https://www.economist.com/)  
 * [Gwern](https://www.gwern.net/)  
 * [Hacker News](https://news.ycombinator.com/)  
