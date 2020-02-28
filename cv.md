@@ -66,33 +66,33 @@ Education
 
 Tools and Languages
 ----
-C#  
-Java  
-Python  
-React  
-TypeScript / Angular 2  
-Microsoft SQL Server  
-Mongo DB  
-Microsoft Visual Studio  
-Netbeans  
-PyCharm  
-IntelliJ IDEA  
-Microsoft Azure  
+* C#  
+* Java  
+* Python  
+* React  
+* TypeScript / Angular 2  
+* Microsoft SQL Server  
+* Mongo DB  
+* Microsoft Visual Studio  
+* Netbeans  
+* PyCharm  
+* IntelliJ IDEA  
+* Microsoft Azure  
 
 
 Projects
 ----
-[Aerolínea PanAmerica](/2020/01/10/panam-notes.html)  
-[Illumicone](https://illumicone.com/) Test System  
-[Story Parser](/StoryParser.html)  
-[Machine Learning in StarCraft: Brood War](/papers/burr2011.pdf)  
+* [Aerolínea PanAmerica](/2020/01/10/panam-notes.html)  
+* [Illumicone](https://illumicone.com/) Test System  
+* [Story Parser](/StoryParser.html)  
+* [Machine Learning in StarCraft: Brood War](/papers/burr2011.pdf)  
 
 
 Awards and Acknowledgements
 ----
-Eagle Scout  
-National Merit Finalist  
-Presented at OU Honors College: ['Majors and Careers in a Volatile Economy'](/2017/02/04/ou-talk.html), September 2015  
+* Eagle Scout  
+* National Merit Finalist  
+* Presented at OU Honors College: ['Majors and Careers in a Volatile Economy'](/2017/02/04/ou-talk.html), September 2015  
 
 
 Find me on [GitHub](https://github.com/timburr1) or [LinkedIn](http://www.linkedin.com/pub/timothy-burr/66/a88/a39).
