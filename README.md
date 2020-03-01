@@ -7,11 +7,13 @@ Cd into the blog root directory, run "bundle exec jekyll serve", and navigate to
 gaming, links, school, tech, travel  
 
 ## TODO:
-expand Chile post  
+add/expand travel posts:  
+* Chile  
+* China  
+* Bolivia + Peru  
 
-China post  
-
-book reports:  
+book reports in 2020:  
+* ~The Phoenix Project~
 * The Pragmatic Programmer  
 * The Mythical Man-Month  
 * Becoming a Technical Leader  
