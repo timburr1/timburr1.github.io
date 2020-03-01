@@ -118,7 +118,10 @@ The kingdom-building rules presume your government is a feudal monarchy; the lea
 
 [Bar Fights](https://www.d20pfsrd.com/gamemastering/other-rules/bar-fights/)  
 
-[Ship Combat](https://www.d20pfsrd.com/gamemastering/other-rules/ship-combat/)  
+The Free City of Venutia:  
+<img src="/images/Venutia.png" alt="picture of Venutia" />
 
-Travel Time (1 hex is 12mi. across):  
+Overland Travel Time (1 hex is 12mi. across):  
 <img src="/images/travel time.png" alt="" />
+
+[Ship Combat](https://www.d20pfsrd.com/gamemastering/other-rules/ship-combat/)  
