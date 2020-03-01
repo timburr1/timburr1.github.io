@@ -112,7 +112,7 @@ The kingdom-building rules presume your government is a feudal monarchy; the lea
 **Secret Syndicate:** An unofficial or illegal group like a thieves’ guild rules the kingdom—the group may use a puppet leader to maintain secrecy, but the group pulls the strings. Modifiers: Corruption +1, Crime +1, Law –3, Productivity +1.  
 **Theocracy:** The kingdom is ruled by the leader of its most popular religion, and the ideas and members of that religion often enjoy favored status in government and the kingdom. Modifiers: Corruption –1, Law +1, Lore +1, Society –1.
 
-## Misc. Resferences  
+## Misc. References  
 
 [Alcorn's Armor AEmporium](https://drive.google.com/file/d/1wDU5XDzwO-en0q8891-y_Uf2D1zycjd3/view?usp=sharing)  
 
