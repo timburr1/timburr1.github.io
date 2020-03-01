@@ -33,7 +33,7 @@ author: Tim
 [Dungeon World](/papers/Dungeon_World_Play_Sheets.pdf)  
 [Numenera](/papers/Numenera Character Sheet.pdf)  
 [Pathfinder](/papers/PathfinderRPGCharacterSheet.pdf)  
-[Shadowrun]() + [Chummer Character Builder]()  
+[Shadowrun 5e](/papers/Shadowrun 5_CharacterSheet.pdf) + [Chummer Character Builder](https://github.com/chummer5a/chummer5a)  
 
 ## System Resource Documents  
 [Dungeon](http://www.dungeon-world.com/) [World](https://www.dungeonworldsrd.com/)  

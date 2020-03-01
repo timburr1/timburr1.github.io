@@ -18,7 +18,7 @@ Once you have your first settlement, you have the start of a kingdom. You’ll n
 * Start Your Treasury: The build points you have left over from starting your first settlement make up your initial Treasury.
 * Determine Your Kingdom’s Attributes: Your initial Economy, Loyalty, and Stability scores are based on the kingdom’s alignment and the buildings your settlement has. (If you start with more than one settlement, include all the settlements in this reckoning.)  
 
-<img src="/images/Kingdom sheet.png" alt="" width="100%" />
+<img src="/images/Kingdom sheet.png" alt="" />
 
 ### Kingdom Turn Sequence  
 A kingdom’s growth occurs during four phases, which together make up 1 kingdom turn (1 month of game time). The four phases are as follows:  
