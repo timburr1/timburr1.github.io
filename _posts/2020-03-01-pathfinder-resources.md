@@ -12,13 +12,13 @@ Go team UnicornFist! &#128405;&#128405;&#128405;
 
 ### Founding a Kingdom  
 Once you have your first settlement, you have the start of a kingdom. You’ll need to make some initial decisions that affect your kingdom’s statistics, and record them on the kingdom sheet.  
-* Choose Your Kingdom’s Alignment. Your kingdom’s alignment helps determine how loyal, prosperous, and stable your kingdom is. Your kingdom may be a lawful good bastion against a nearby land of devil worshipers, or a chaotic neutral territory of cutthroat traders whose government does very little to interfere with the rights of its citizens. When you decide on your kingdom’s alignment, apply the following adjustments to the kingdom’s statistics:  
+* Choose Your Kingdom’s Alignment: Your kingdom’s alignment helps determine how loyal, prosperous, and stable your kingdom is. Your kingdom may be a lawful good bastion against a nearby land of devil worshipers, or a chaotic neutral territory of cutthroat traders whose government does very little to interfere with the rights of its citizens. When you decide on your kingdom’s alignment, apply the following adjustments to the kingdom’s statistics:  
 **Chaotic:** +2 Loyalty; **Evil:** +2 Economy; **Good:** +2 Loyalty; **Lawful:** +2 Economy; **Neutral:** Stability +2 (apply this twice if the kingdom’s alignment is simply Neutral, not Chaotic Neutral or Lawful Neutral).  
-* Choose Leadership Roles. Assign the leadership roles for all PCs and NPCs involved in running the kingdom, such as Ruler, General, and High Priest. The leadership roles provide bonuses on checks made to collect taxes, deal with rioting citizens, and resolve similar issues.
-* Start Your Treasury. The build points you have left over from starting your first settlement make up your initial Treasury.
-* Determine Your Kingdom’s Attributes. Your initial Economy, Loyalty, and Stability scores are based on the kingdom’s alignment and the buildings your settlement has. (If you start with more than one settlement, include all the settlements in this reckoning.)  
+* Choose Leadership Roles: Assign the leadership roles for all PCs and NPCs involved in running the kingdom, such as Ruler, General, and High Priest. The leadership roles provide bonuses on checks made to collect taxes, deal with rioting citizens, and resolve similar issues.
+* Start Your Treasury: The build points you have left over from starting your first settlement make up your initial Treasury.
+* Determine Your Kingdom’s Attributes: Your initial Economy, Loyalty, and Stability scores are based on the kingdom’s alignment and the buildings your settlement has. (If you start with more than one settlement, include all the settlements in this reckoning.)  
 
-<img src="/images/Kingdom sheet.png" alt="" width="90%" />
+<img src="/images/Kingdom sheet.png" alt="" width="100%" />
 
 ### Kingdom Turn Sequence  
 A kingdom’s growth occurs during four phases, which together make up 1 kingdom turn (1 month of game time). The four phases are as follows:  
@@ -45,12 +45,12 @@ The Edict phase is when you make proclamations on expansion, improvements, taxat
 **Step 1—Assign Leadership:** Assign PCs or NPCs to any vacant leadership roles or change the roles being filled by particular PCs or closely allied NPCs (see Leadership Roles).  
 **Step 2—Claim and Abandon Hexes:** For your kingdom to grow, you must claim additional hexes. You can only claim a hex that is adjacent to at least 1 other hex in your kingdom. Before you can claim it, the hex must first be explored, then cleared of monsters and dangerous hazards (see Steps 2 and 3 of Founding a Settlement for more details). Then, to claim the hex, spend 1 BP; this establishes the hex as part of your kingdom and increases your kingdom’s Size by 1.  
 You may abandon any number of hexes to reduce your kingdom’s Size (which you may wish to do to manage Consumption). Doing so increases Unrest by 1 for each hex abandoned (or by 4 if the hex contained a settlement). This otherwise functions like losing a hex due to unrest (see Step 4 of the Upkeep Phase).  
+**Step 3—Establish and Improve Cities:** Prepare land for city districts and then purchase new buildings for your kingdom’s cities. The building’s adjustments to your nation apply immediately. You can also destroy buildings at this time in order to clear a space to build something new; if you destroy a building, don’t forget to remove its benefits from your kingdom’s statistics!  
+Improvement Edicts tells you the maximum number of buildings you can construct in your kingdom per turn. The first House, Mansion, Noble Villa, or Tenement your kingdom builds each turn does not count against that limit.  
 **Step 4—Build Terrain Improvements:** You may spend BP to build terrain improvements like Farms, Forts, Roads, Mines, and Quarries.
 You may also prepare a hex for constructing a settlement. Depending on the site, this may involve clearing trees, moving boulders, digging sanitation trenches, and so on.  
-**Step 5—Create and Improve Settlements:** You may create a settlement in a claimed hex.  
-You may a building in any settlement in your kingdom. The list of available building types begins. When a building is completed, apply its modifiers to your kingdom sheet. Table: Improvement Edicts tells you the maximum number of buildings you can construct in your kingdom per turn. The first House, Mansion, Noble Villa, or Tenement your kingdom builds each turn does not count against that limit.  
-**Step 6—Create Army Units:** You may create, expand, equip, or repair army units (see Mass Combat).  
-**Step 7—Issue Edicts:** Select or adjust your edict levels (see Edicts).  
+**Step 5—Create Army Units:** You may create, expand, equip, or repair army units (see Mass Combat).  
+**Step 6—Issue Edicts:** Select or adjust your edict levels (see Edicts).  
 **Example:** Jessica’s kingdom has no vacant leadership roles, so nothing happens in Step 1. The leaders don’t want to spend BP and increase Size right now, so in Step 2 they don’t claim any hexes. In Step 3, the leaders construct a Farm in one of the kingdom’s prepared hexes (Consumption –2, Treasury –2 BP). In Steps 5 and 6, the leaders continue to be frugal and do not construct settlement improvements or create armies. In Step 7, the leaders issue a Holiday edict of one national holiday (Loyalty +1, Consumption +1) and set the Promotion edict level to “none” (Stability –1, Consumption +0). Looking ahead to the Income Phase, Jessica realizes that an average roll for her Economy check would be a failure (10 on the 1d20 + 52 Economy – 4 Unrest = 58, less than the Control DC of 60), which means there’s a good chance the kingdom won’t generate any BP this turn. She decides to set the Taxation edict to “heavy” (Economy +3, Loyalty –4). At the end of this phase, the kingdom has Economy 55, Loyalty 42, Stability 55, Unrest 4, Consumption 4, and Treasury 5 BP.  
 
 **Income Phase**  
@@ -73,7 +73,6 @@ In addition, the GM may have an adventure- or campaign-specific event take place
 
 ### Who Rolls the Kingdom Check?  
 **Kingdom Check:** A kingdom has three attributes: Economy, Loyalty, and Stability. Your kingdom’s initial scores in each of these attributes is 0, plus modifiers for kingdom alignment, bonuses provided by the leaders, and any other modifiers.  
-**Ruler:** Loyalty checks, any checks or edicts not covered by other rulers  
 **Councilor:** Holiday edicts  
 **General:** Kingdom checks for events requiring combat  
 **Grand Diplomat:** Diplomatic edicts (optional rule)  
@@ -81,6 +80,7 @@ In addition, the GM may have an adventure- or campaign-specific event take place
 **Magister:** Rolls to generate magic items not rolled by the High Priest  
 **Marshal:** Exploration edicts (optional rule)  
 **Royal Enforcer:** Loyalty checks to reduce Unrest or prevent Unrest increases  
+**Ruler:** Loyalty checks, any checks or edicts not covered by other leaders  
 **Spymaster:** Kingdom checks involving crime and foreigners  
 **Treasurer:** Economy checks, Taxation edicts, Trade edicts (optional rule)  
 **Viceroy:** Vassalage edicts (optional rule)  
@@ -89,12 +89,9 @@ In addition, the GM may have an adventure- or campaign-specific event take place
 ### Leadership Role Skills
 Each leadership role provides bonuses to kingdom statistics based on one of the leader’s ability scores. The GM may want to allow a leader’s ranks in a relevant skill (such as Diplomacy or Intimidate) to also affect the kingdom statistics. For every 5 full ranks in a relevant skill, the leader may increase the leadership modifier by an additional 1. These skill-based additional bonuses modify the standard leadership role bonuses in the same way that the Leadership feat grants additional bonuses.  The relevant skills for each leadership role are as follows.  
 
-Ambassador: Diplomacy  
-Consort: Knowledge (nobility)  
-ouncilor: Knowledge (local)  
+Councilor: Knowledge (local)  
 General: Profession (soldier)  
 Grand Diplomat: Diplomacy  
-Heir: Knowledge (nobility)  
 High Priest: Knowledge (religion)  
 Magister: Knowledge (arcana)  
 Marshal: Survival  

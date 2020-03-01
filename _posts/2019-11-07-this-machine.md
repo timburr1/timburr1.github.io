@@ -64,30 +64,32 @@ I mostly use Windows 10 these days, or sometimes Ubuntu via [Windows Subsystem f
 [VeraCrypt](https://www.veracrypt.fr/en/Home.html)  
 
 **Software Development**  
+[IntelliJ IDEA](https://www.jetbrains.com/idea/) or [NetBeans](https://netbeans.apache.org/) for Java  
 [Microsoft SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/)  
-[Notepad++](https://notepad-plus-plus.org/) for general text editing   
+[Notepad++](https://notepad-plus-plus.org/) for general text editing  
 [PyCharm](https://www.jetbrains.com/pycharm/) + [Jupyter](https://jupyter.org/) notebooks for Python  
 [TortoiseGit](https://tortoisegit.org/) for version control  
 [Visual Studio 2019](https://visualstudio.microsoft.com/vs/) with [IntelliCode](https://visualstudio.microsoft.com/services/intellicode/) for C#  
-[IntelliJ IDEA](https://www.jetbrains.com/idea/) or [NetBeans](https://netbeans.apache.org/) for Java  
 
 **Utilities**  
-[7-Zip](https://www.7-zip.org/) for file compression/decompression  
-[f.lux](https://justgetflux.com/) for night mode  
+[7-Zip](https://www.7-zip.org/)  
+[f.lux](https://justgetflux.com/)  
 [Greenshot](https://getgreenshot.org/downloads/)  
 [qBittorrent](https://www.qbittorrent.org/)  
-[Steam](https://store.steampowered.com/) for gaming  
+[Steam](https://store.steampowered.com/)  
 
 **Web Browsing**  
-[Mozilla Firefox](https://www.mozilla.org/firefox/) with the following Add-ons:
+[Mozilla Firefox](https://www.mozilla.org/firefox/) with the following Add-ons:  
+* [Disable Facebook News Feed](https://addons.mozilla.org/en-US/firefox/addon/disable-facebook-news-feed/)
 * [Facebook Container ](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/)
-* [Feedbro](https://addons.mozilla.org/en-US/firefox/addon/feedbroreader/) RSS reader
+* [Feedbro](https://addons.mozilla.org/en-US/firefox/addon/feedbroreader/)
 * [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/)
-* [LastPass password manager](https://addons.mozilla.org/en-US/firefox/addon/lastpass-password-manager/)
-* [LeechBlock NG](https://addons.mozilla.org/en-US/firefox/addon/leechblock-ng/) to block distracting sites during work hours
-* [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/) tracking prevention from the EFF
+* [LastPass Password Manager](https://addons.mozilla.org/en-US/firefox/addon/lastpass-password-manager/)
+* [LeechBlock NG](https://addons.mozilla.org/en-US/firefox/addon/leechblock-ng/)
+* [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
+* [React Developer Tools](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/)  
 * [Reddit Enhancement Suite](https://addons.mozilla.org/en-US/firefox/addon/reddit-enhancement-suite/)
-* [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) ad-blocker
+* [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 
 ## Related:  
 [Alexey Guzey: Tools / Gear](https://guzey.com/tools-gear/)  
