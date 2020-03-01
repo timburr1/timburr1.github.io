@@ -19,7 +19,12 @@ Once you have saved up 25-33x your annual expenses in cash and securities, you c
 
 If you live in the US, you should really reduce your tax witholdings so that you owe the IRS a small amount every year. Getting a big refund is bad; if Uncle Sam wants to borrow your money, he can pay you interest.  
 
-At some point I will write a post about investing. In the meantime, here are some more resources about...
+Speaking of which, Investopedia has a good guide to [Tax-Efficient Investing](https://www.investopedia.com/articles/stocks/11/intro-tax-efficient-investing.asp):  
+> Tax-advantaged accounts like IRAs and 401(k)s have annual contribution limits. For 2020, you can contribute a total of $6,000 to your IRAs, or $7,000 if you're age 50 or older (because of a $1,000 "catch-up" contribution). With 401(k)s, you can contribute up to $19,500, or $26,000 if you're age 50 or older. The combined employee/employer contribution can't exceed $57,000 ($63,500 with the catch-up contribution).  
+> Because of the tax benefits, it would be ideal if you could hold all your investments in tax-advantaged accounts like IRAs and 401(k)s. But due to the annual contribution limits—and the lack of flexibility (non-qualified withdrawals trigger taxes and penalties)—that's not practical for every investor.  
+> A good way to maximize tax efficiency is to put your investments in the "right" account. In general, investments that lose less of their returns to taxes are better suited for taxable accounts. Conversely, investments that tend to lose more of their returns to taxes are good candidates for tax-advantaged accounts.  
+
+Some day I will write an effortpost about investing. In the meantime, here are some more resources about:
 
 **Effective Altruism**  
 [80,000 Hours](https://80000hours.org/)  
