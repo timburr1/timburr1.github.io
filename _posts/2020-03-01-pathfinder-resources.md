@@ -114,6 +114,8 @@ The kingdom-building rules presume your government is a feudal monarchy; the lea
 
 ## Misc. Resferences  
 
+[Alcorn's Armor AEmporium](https://drive.google.com/file/d/1wDU5XDzwO-en0q8891-y_Uf2D1zycjd3/view?usp=sharing)  
+
 [Bar Fights](https://www.d20pfsrd.com/gamemastering/other-rules/bar-fights/)  
 
 [Ship Combat](https://www.d20pfsrd.com/gamemastering/other-rules/ship-combat/)  
