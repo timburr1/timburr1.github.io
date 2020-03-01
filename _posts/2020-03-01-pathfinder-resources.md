@@ -4,7 +4,7 @@ title: Pathfinder Campaign Stuff
 author: Tim
 ---
 
-Go team UnicornFist! &#128405;&#128405;&#128405;  
+Go Team Unicorn Fist! &#128405;&#128405;&#128405;  
 
 ## Kingdom Building  
 
@@ -119,3 +119,6 @@ The kingdom-building rules presume your government is a feudal monarchy; the lea
 [Bar Fights](https://www.d20pfsrd.com/gamemastering/other-rules/bar-fights/)  
 
 [Ship Combat](https://www.d20pfsrd.com/gamemastering/other-rules/ship-combat/)  
+
+Travel Time (1 hex is 12mi. across):
+<img src="/images/travel time.png" alt="" />
