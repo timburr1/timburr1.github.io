@@ -120,5 +120,5 @@ The kingdom-building rules presume your government is a feudal monarchy; the lea
 
 [Ship Combat](https://www.d20pfsrd.com/gamemastering/other-rules/ship-combat/)  
 
-Travel Time (1 hex is 12mi. across):
+Travel Time (1 hex is 12mi. across):  
 <img src="/images/travel time.png" alt="" />
