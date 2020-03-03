@@ -12,7 +12,7 @@ author: Tim
 
 [Hug Nation / John Halcyon](https://www.youtube.com/user/halcyonstyn) on YouTube  
 
-[Idaho Decompression](https://sites.google.com/site/idahodecompression/home) - July 17-20, 2020  
+[Char](https://sites.google.com/site/idahodecompression/home) (Idaho Regional Burn: July 17-20)  
 
 [Official ticket info for Burning Man 2020](https://tickets.burningman.org/)  
 > **Main Sale**  
