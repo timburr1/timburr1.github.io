@@ -10,13 +10,13 @@ gaming, links, school, tech, travel
 add/expand travel posts:  
 * Chile  
 * China  
-* Bolivia + Peru  
+* Bolivia y Peru  
 
 book reports in 2020:  
 * ~The Phoenix Project~
+* Becoming a Technical Leader  
 * The Pragmatic Programmer  
 * The Mythical Man-Month  
-* Becoming a Technical Leader  
 
 Personality/morality:  
 * yourmorals.org
