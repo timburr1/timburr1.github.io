@@ -5,7 +5,7 @@ author: Tim
 ---
 
 [The Art and Science of Cognitive Engineering](https://cognitiveengineer.blogspot.com/) - cognitiveengineer.blogspot.com  
-> "What studying hypnotism has taught me about how we think and how to change it for the better."  
+> What studying hypnotism has taught me about how we think and how to change it for the better.  
 
 [Lucid Dreaming: A Beginner's Guide](https://tim.blog/2009/09/21/how-to-lucid-dream/) - Tim Ferriss  
 
