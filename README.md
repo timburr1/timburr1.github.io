@@ -12,6 +12,8 @@ add/expand travel posts:
 * China  
 * Bolivia y Peru  
 
+cfb effortpost  
+
 book reports in 2020:  
 * ~The Phoenix Project~
 * Becoming a Technical Leader  

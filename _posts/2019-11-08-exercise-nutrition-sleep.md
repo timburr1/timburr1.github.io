@@ -8,7 +8,6 @@ author: Tim
 
 [What Is Fitness and Who Is Fit?](../../../papers/CFJ-trial.pdf) - Mark Rippetoe, CrossFit Journal  
 
-
 ### Kettlebells  
 From the [/r/kettlebell FAQ](https://www.reddit.com/r/kettlebell/comments/3qxa4i/new_to_kettlebells_start_here_updated_for_2015/):  
 The general recommendation is to start with 35 lbs (16 kg) if you are a guy, and 18-20 lbs (8-9 kg) if you are a girl. Unscientifically, I'd guess that these weights are appropriate for 90% of the population.  
@@ -56,11 +55,14 @@ Pick a program that you like, and that works for your goals; I am currently usin
 
 [/r/running Base Training: A Guide to Your Foundation to Running](https://www.reddit.com/r/running/comments/3bckeh/base_training_a_guide_to_your_foundation_to/)  
 
+### Yoga  
+[Yoga with Adriene](https://www.youtube.com/channel/UCFKE7WVJfvaHW5q283SxchA)  
+
 
 ## Nutrition
 *"Eat food. Not too much. Mostly plants." -Michael Pollan*  
 
-As long as your total calories and protein are reasonable, and your diet doesn't contain too much processed junk, you are probably fine. Athletes should shoot for about 0.8-1g of high-quality protein per pound of bodyweight, per day.  
+As long as your total calories and protein are reasonable, and your diet doesn't contain too much processed junk, you are probably fine. Athletes should shoot for about 0.8-1g of high-quality protein per pound of bodyweight, per day. Eat 2-3g of creatine monohydrate per day, ideally after workouts. Timing isn't too important, but be careful about mixing it w/ caffeine; this causes GI discomfort in a large minority of people.  
 
 [Dietary Protein Requirement of Female Adults >65 Years Determined by the Indicator Amino Acid Oxidation Technique Is Higher Than Current Recommendations](../../../papers/rafii2014.pdf) - Rafii et al, 2014 (PDF)  
 > Dietary Protein Requirement of Female Adults >65 Years Determined by the Indicator Amino Acid Oxidation Technique Is Higher Than Current Recommendations  
