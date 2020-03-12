@@ -33,6 +33,7 @@ title: Stuff I Listen To
 * [Stronger By Science](https://www.strongerbyscience.com/podcast/)  
 * [Stuff You Missed in History Class](https://www.missedinhistory.com/)  
 * [This American Life](https://www.thisamericanlife.org/podcast)  
+* [Tides of History](https://wondery.com/shows/tides-of-history/)  
 * [Trump, Inc.](https://www.npr.org/podcasts/583340964/trump-inc)  
 
 
