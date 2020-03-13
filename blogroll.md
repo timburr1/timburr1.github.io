@@ -9,6 +9,7 @@ title: Stuff I Read
 * [BoiseDev](https://boisedev.com/)  
 * [Coding Horror](https://blog.codinghorror.com/)  
 * [The Economist](https://www.economist.com/)  
+* [Greg Mankiw's Blog](https://gregmankiw.blogspot.com/)  
 * [Gwern](https://www.gwern.net/)  
 * [Hacker News](https://news.ycombinator.com/)  
 * [The Idaho Statesman](https://www.idahostatesman.com/)  
