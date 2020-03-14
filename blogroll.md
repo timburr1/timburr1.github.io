@@ -3,8 +3,7 @@ layout: default
 title: Stuff I Read
 ---
 
-## Blogroll  
-
+## Blogs  
 * [The Alexandrian](https://thealexandrian.net/)  
 * [BoiseDev](https://boisedev.com/)  
 * [Coding Horror](https://blog.codinghorror.com/)  
@@ -24,7 +23,7 @@ title: Stuff I Read
 * [Slate Star Codex](https://slatestarcodex.com/)  
 * [Wait But Why](https://waitbutwhy.com)  
 
-**Web Comics**  
+## Web Comics  
 * [Laws and Sausages](https://lawsandsausagescomic.com/comic)  
 * [The Perry Bible Fellowship](https://pbfcomics.com/)  
 * [Saturday Morning Breakfast Cereal](https://smbc-comics.com/)  

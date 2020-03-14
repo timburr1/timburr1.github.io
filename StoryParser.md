@@ -5,8 +5,7 @@ author: Tim
 ---
 <html>
 	<h2>Story Parser</h2>
-	<p>Please input the text you would like analyzed. 
-	<p>*The Story Parser probably won't work unless you are using the Latin, Greek, or Cyrillic alphabets with UTF-8 encoding. If you'd like another language added (or if you find a bug!) please shoot me an email at the reverse of moc.liamg@rrub.r.mit.</p><br />
+	<p>Please input the text you want analyzed. <b>The Story Parser probably won't work unless you are using the Latin, Greek, or Cyrillic alphabets with UTF-8 encoding.</b> If you'd like another language added (or if you find a bug!) please shoot me an email at the reverse of moc.liamg@rrub.r.mit.</p><br />
 
 	<input id="input" type="text" accept-charset="UTF-8">
 	<button type="button" onclick="run()">Submit</button>
@@ -108,3 +107,4 @@ author: Tim
 		return false;
 	}
 	</script>
+</html>

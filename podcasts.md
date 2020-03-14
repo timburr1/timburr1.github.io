@@ -4,7 +4,6 @@ title: Stuff I Listen To
 ---
 
 ## Podcasts  
-
 * [12 Byzantine Rulers](https://12byzantinerulers.com/)  
 * [All the President's Lawyers](https://www.kcrw.com/news-culture/shows/lrc-presents-all-the-presidents-lawyers)  
 * [The British History Podcast](https://www.thebritishhistorypodcast.com/)  
