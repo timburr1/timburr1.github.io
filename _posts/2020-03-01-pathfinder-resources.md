@@ -9,7 +9,6 @@ Go Team Unicorn Fist! &#128405;&#128405;&#128405;
 ## Kingdom Building  
 
 [Overview](https://www.d20pfsrd.com/gamemastering/other-rules/kingdom-building/)  
-  
 
 ### Founding a Kingdom  
 Once you have your first settlement, you have the start of a kingdom. You’ll need to make some initial decisions that affect your kingdom’s statistics, and record them on the kingdom sheet.  
@@ -19,16 +18,10 @@ Once you have your first settlement, you have the start of a kingdom. You’ll n
 * Start Your Treasury: The build points you have left over from starting your first settlement make up your initial Treasury.
 * Determine Your Kingdom’s Attributes: Your initial Economy, Loyalty, and Stability scores are based on the kingdom’s alignment and the buildings your settlement has. (If you start with more than one settlement, include all the settlements in this reckoning.)  
 
-<img src="/images/Kingdom sheet.png" alt="" />
+<img src="/images/dnd/Kingdom sheet.png" alt="kingdom stat sheet" />
 
 ### Kingdom Turn Sequence  
 A kingdom’s growth occurs during four phases, which together make up 1 kingdom turn (1 month of game time). The four phases are as follows:  
-**Phase 1—Upkeep:** Check your kingdom’s stability, pay costs, and deal with Unrest (see below).  
-If your kingdom controls 0 hexes, skip the Upkeep Phase and proceed to the Edict Phase.  
-**Phase 2—Edict:** Declare official proclamations about taxes, diplomacy, and other kingdom-wide decisions.  
-**Phase 3—Income:** Add to your Treasury by collecting taxes and converting gp into BP, or withdraw BP from your kingdom for your personal use.  
-**Phase 4—Event:** Check whether any unusual events occur that require attention. Some are beneficial, such as an economic boom, good weather, or the discovery of remarkable treasure. Others are detrimental, such as foul weather, a plague, or a rampaging monster.  
-These phases are always undertaken in the above order. Many steps allow you to perform an action once per kingdom turn; this means once for the entire kingdom, not once per leader.  
 
 **Upkeep Phase**  
 During the Upkeep Phase, you adjust your kingdom’s scores based on what’s happened in the past month, how happy the people are, how much they’ve consumed and are taxed, and so on.  
@@ -47,7 +40,10 @@ The Edict phase is when you make proclamations on expansion, improvements, taxat
 **Step 2—Claim and Abandon Hexes:** For your kingdom to grow, you must claim additional hexes. You can only claim a hex that is adjacent to at least 1 other hex in your kingdom. Before you can claim it, the hex must first be explored, then cleared of monsters and dangerous hazards (see Steps 2 and 3 of Founding a Settlement for more details). Then, to claim the hex, spend 1 BP; this establishes the hex as part of your kingdom and increases your kingdom’s Size by 1.  
 You may abandon any number of hexes to reduce your kingdom’s Size (which you may wish to do to manage Consumption). Doing so increases Unrest by 1 for each hex abandoned (or by 4 if the hex contained a settlement). This otherwise functions like losing a hex due to unrest (see Step 4 of the Upkeep Phase).  
 **Step 3—Establish and Improve Cities:** Prepare land for city districts and then purchase new [Buildings](https://www.d20pfsrd.com/gamemastering/other-rules/kingdom-building/settlements/buildings#TOC-Building-Descriptions) for your kingdom’s cities. The building’s adjustments to your nation apply immediately. You can also destroy buildings at this time in order to clear a space to build something new; if you destroy a building, don’t forget to remove its benefits from your kingdom’s statistics!  
+<img src="/images/dnd/brothel-min.png" alt="" />  
+<img src="/images/dnd/prep-min.png" alt="" />  
 Improvement Edicts tells you the maximum number of buildings you can construct in your kingdom per turn. The first House, Mansion, Noble Villa, or Tenement your kingdom builds each turn does not count against that limit.  
+<img src="/images/dnd/imprv-min.png" alt="" />  
 **Step 4—Build Terrain Improvements:** You may spend BP to build [Terrain Improvements](https://www.d20pfsrd.com/gamemastering/other-rules/kingdom-building/settlements/terrain-improvements) like Farms, Forts, Roads, Mines, and Quarries.
 You may also prepare a hex for constructing a settlement. Depending on the site, this may involve clearing trees, moving boulders, digging sanitation trenches, and so on.  
 **Step 5—Create Army Units:** You may create, expand, equip, or repair army units (see Mass Combat).  
@@ -119,10 +115,7 @@ The kingdom-building rules presume your government is a feudal monarchy; the lea
 
 [Bar Fights](https://www.d20pfsrd.com/gamemastering/other-rules/bar-fights/)  
 
-The Free City of Venutia:  
-<img src="/images/Venutia.png" alt="picture of Venutia" width="75%"/>
-
-Overland Travel Time (1 hex is 12mi. across):  
-<img src="/images/travel time.png" alt="" />
+Overland Travel and Exploration Time (each hex is 12 mi. across):  
+<img src="/images/dnd/travel time.png" alt="travel time" />
 
 [Ship Combat](https://www.d20pfsrd.com/gamemastering/other-rules/ship-combat/)  
