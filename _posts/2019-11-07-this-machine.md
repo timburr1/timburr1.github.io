@@ -56,7 +56,7 @@ Desktop computer specs, upgraded a bit from 2012 and still running strong:
 [PC Part Picker full list](https://pcpartpicker.com/list/HXvMwh)
 
 ## Software
-I mostly use Windows 10 these days, or sometimes Ubuntu via [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/about). 
+I mostly use Windows 10 these days, or sometimes Ubuntu via [WSL 2](https://docs.microsoft.com/en-us/windows/wsl/wsl2-install). 
 
 **Security**  
 [ExpressVPN](https://www.expressvpn.com/)   
@@ -77,6 +77,7 @@ I mostly use Windows 10 these days, or sometimes Ubuntu via [Windows Subsystem f
 [Greenshot](https://getgreenshot.org/downloads/)  
 [qBittorrent](https://www.qbittorrent.org/)  
 [Steam](https://store.steampowered.com/)  
+[Windows Terminal](https://www.hanselman.com/blog/ItsTimeForYouToInstallWindowsTerminal.aspx)  
 
 **Web Browsing**  
 [Mozilla Firefox](https://www.mozilla.org/firefox/) with the following Add-ons:  
