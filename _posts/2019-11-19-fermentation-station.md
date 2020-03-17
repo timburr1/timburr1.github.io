@@ -21,7 +21,7 @@ Once your carboy or bucket is clean, combine sugar, juice, and yeast, as well as
 
 Throw on the airlock, and wait for it to quit bubbling. This should take a about two or three weeks.  
 
-More info at [WikiHow](https://app.getpocket.com/read/1873036).  
+More info at [WikiHow](https://www.wikihow.com/Make-Hard-Cider).  
 
 ## Kombucha
 **Ingredients**  
@@ -38,6 +38,6 @@ Add tea bags, cover, and steep for a few hours until the mixture is about room t
 Remove tea bags, pour into mason jar, add starter kombucha or scoby.  
 Cover w/ cheese cloth, and wait a couple of weeks until it starts to smell just a little bit tart or vinegary.  
 
-<br><br>
+<br>
 <img align="center" src="/images/kombucha.jpg" width="350" alt-text=""/>
 <br>
