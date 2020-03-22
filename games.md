@@ -7,11 +7,11 @@ title: Slingin' Cardboard
 
 [Tabletop RPG Resources](/2020/02/19/gamemastering.html)  
 
-Find me on [Steam](https://steamcommunity.com/id/timburr2/).  
+Add me: [timburr2](https://steamcommunity.com/id/timburr2/) on Steam, TimothyTimburr#39320 on M:tG Arena, or ThallidSalad#1392 on Battle.net.  
 
 You can look at my **Magic: the Gathering** decks on [Deckbox](https://deckbox.org/users/timburr), if you are into that sort of thing.  
 
-I'm also getting into **Warhammer 40k** a little bit: 
+I'm also getting into **Warhammer 40k** a little bit. Army lists: 
 * [Tyranids, 1200pts](/_ref/40kArmies/Tyranids_1200.html)  
 * [Tyranids, 800pts](/_ref/40kArmies/Tyranids_800.html)  
 
