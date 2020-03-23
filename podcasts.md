@@ -29,7 +29,7 @@ title: Stuff I Listen To
 * [Serial](https://serialpodcast.org/)  
 * [Slate Money](https://slate.com/podcasts/slate-money)  
 * [Slow Burn](https://slate.com/slow-burn)  
-* [Stronger By Science](https://www.strongerbyscience.com/podcast/)  
+* [Stronger by Science](https://www.strongerbyscience.com/podcast/)  
 * [Stuff You Missed in History Class](https://www.missedinhistory.com/)  
 * [This American Life](https://www.thisamericanlife.org/podcast)  
 * [Tides of History](https://wondery.com/shows/tides-of-history/)  
