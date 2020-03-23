@@ -4,8 +4,8 @@ title: 'The Machine Stops'
 author: E. M. Forster
 ---
 
-## THE MACHINE STOPS  
-### by E.M. Forster (1909)  
+<center><h1>THE MACHINE STOPS</h1>
+<h2>by E.M. Forster (1909)</h2></center>
 
 <center><font size="+2">I</font><p><font size="+2">THE AIR-SHIP</font></p></center>
 <p>
