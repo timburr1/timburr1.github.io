@@ -10,7 +10,7 @@ author: E. M. Forster
 <center><font size="+2">I</font><p><font size="+2">THE AIR-SHIP</font></p></center>
 <p>
 
-</p><p><font size="+2">Imagine, if you can, a small room,
+</p><p><font size="+2">I</font>magine, if you can, a small room,
 hexagonal in shape, like the cell of a bee.  It is lighted
 neither by window nor by lamp, yet it is filled with a soft
 radiance.  There are no apertures for ventilation, yet the
