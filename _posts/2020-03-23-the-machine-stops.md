@@ -5,7 +5,7 @@ author: E. M. Forster
 ---
 
 <center><h1>THE MACHINE STOPS</h1>
-<h2>by E.M. Forster (1909)</h2></center>
+<h2>by E.M. Forster (1909)</h2></center><br />
 
 <center><font size="+2">I</font><p><font size="+2">THE AIR-SHIP</font></p></center>
 <p>
