@@ -53,14 +53,41 @@ Communicating with other people is hard, and you will fail unless you try to see
 
 This is all fleshed out much more in the book, but the point is that this process a) happens very quickly, b) includes several different steps, c) each of which is error-prone and/or based on asymmetrical information. Any error progegates forward into subsequent steps, and that's before you even hear the result of my internal process, which is then fed back through your model as sensory input, causing you to react in some way which will then...  
 
-[Theory of mind is hard.](../../../papers/GoodOldNeon.pdf)
+[Theory of mind is hard.](../../../papers/GoodOldNeon.pdf) 
+
+**Some Lessons about Helping**  
+1. Wanting to help people may be a noble motive, but that doesn't make it any easier.
+2. If someone doesn't want your help, you will never succeed in helping them, no matter how great you are.
+3. Effective help can only start with mutual agreement on a clear definition of the problem.
+4. Always make sure that the person you are trying to help, actually wants your help.
+5. Even when someone agrees that they want your help, that agreement is not usually a lifetime contract.
+6. People who want to help other people generally expect to get something for themseleves, although they may not be aware of it.
+7. Most people understand that helpers are (on some level) selfish, but also think they are exceptions to the rule.
+8. Attempts to help are often interpreted as attempts to interfere.
+9. No matter how strange it may look, most people are actually trying to be helpful most of the time.
+
+Power is not a thing that you can own or control; it's a relationship. It's also useful to think about power is also a tool that you can use to change reality: "E.T. just really wanted to go home. What do *you* want?"  
+
+Just like every other interpersonal skill, Weinberg says that power is fundamentally about self-esteem. If you don't value yourself and your goals, how will you convince anyone else to help you reach them? NB that this is the same as asking: how can you lead?  
+
+The chapter on 'Power, Imperfection, and Congruence' gets into a lot of [Self-Concept](http://steveandreas.com/Articles/building.html) stuff. It also brings in the 
+[Stoic](../../../papers/enchiridion.pdf) idea that sometimes reality is painful, but more often our *internal reactions* to what is happening out in reality are actually causing us to suffer.  
 
 
+## Organization  
+Power can be converted from one form to another. E.g. you can exchange technical power for organizational/political power at work, if people trust your judgement and decide to follow your lead based on perceived competence in previous interactions.
 
+The structure of an organization will dramatically effect how it makes decisions, and the quality of those decisions. Consider individual initiative vs. strong leaders, voting vs. consensus-building.
 
-## Organization   
+**Obstacles to Effective Organizing:**  
+Playing the [Big Game](https://en.wikipedia.org/wiki/Who,_whom%3F)  
+Organizing people as if they were machines  
+Doing the work yourself  
+Rewarding innefective organizing  
+
+*"A problem-solving leader's entire orientation is toward creating an environment in which everyone can be solving problems, making decisions, and implementing those decisions, rather than personally solving problems, making decisions, and implementing those decisions."*
+
 
 
 
 ## Transformation  
-
