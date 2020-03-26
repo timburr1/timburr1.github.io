@@ -9,4 +9,8 @@ tags: tech
 
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) (11 one-hour lectures on tools and techniques: editors, version control, debugging and profiling, etc. from MIT)  
 
+[Notes on Building a Simple Web Site with React](/2020/01/10/panam-notes.html)  
+
 [Programming Videos on YouTube](/2020/01/24/programming-videos.html)  
+
+[Some Thoughts on Software as a Career](/2017/02/04/ou-talk.html)  
