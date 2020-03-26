@@ -6,6 +6,8 @@ author: Tim
 
 [The Alexandrian - Gamemastery 101](https://thealexandrian.net/gamemastery-101)  
 
+[Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/)  
+
 [Grand Experiments: West Marches](http://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches/)  
 >West Marches was a game I ran for a little over two years. It was designed to be pretty much the diametric opposite of the normal weekly game:  
 >1) There was no regular time: every session was scheduled by the players on the fly.  
