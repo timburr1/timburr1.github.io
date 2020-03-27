@@ -18,6 +18,7 @@ title: Stuff I Read
 * [Paul Graham](http://paulgraham.com/articles.html)  
 * [PopeHat](https://www.popehat.com/)  
 * [Sam\[\]zdat](https://samzdat.com/)  
+* [Sarah Constantin](https://srconstantin.github.io/)  
 * [Schneier on Security](https://www.schneier.com/)  
 * [Scott Hanselman](https://www.hanselman.com/blog/)  
 * [Slate Star Codex](https://slatestarcodex.com/)  
