@@ -4,7 +4,7 @@ title: Notes from 'The Elements of Scrum'
 tags: tech
 ---
 
-['The Elements of Scrum'](http://www.agilelearninglabs.com/resources/the-elements-of-scrum/)  
+## ['The Elements of Scrum'](http://www.agilelearninglabs.com/resources/the-elements-of-scrum/)  
 by Chris Sims and Hillary Louise Johnson  
 
 

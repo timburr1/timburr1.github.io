@@ -5,7 +5,7 @@ author: Tim
 tags: tech
 ---
 
-'The Phoenix Project'  
+## 'The Phoenix Project'  
 by Gene Kim, Kevin Behr, and George Spafford  
 
 **The Four Kinds of IT Work**  

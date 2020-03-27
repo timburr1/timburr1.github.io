@@ -5,7 +5,7 @@ author: Tim
 tags: tech
 ---
 
-'Becoming a Technical Leader'  
+## 'Becoming a Technical Leader'  
 by Gerald M. Weinberg  
 
 
