@@ -88,6 +88,7 @@ Rewarding innefective organizing
 *"A problem-solving leader's entire orientation is toward creating an environment in which everyone can be solving problems, making decisions, and implementing those decisions, rather than personally solving problems, making decisions, and implementing those decisions."*
 
 
-
-
 ## Transformation  
+Leadership is a skill like any other. You can test yourself, and improve with practice.  
+
+Being a leader requires an extensive support system. Asking for help isn't a sign of strength exactly, but it's better than failing to ask for help when you need it.
