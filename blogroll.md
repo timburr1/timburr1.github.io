@@ -10,6 +10,7 @@ title: Stuff I Read
 * [The Economist](https://www.economist.com/)  
 * [Greg Mankiw's Blog](https://gregmankiw.blogspot.com/)  
 * [Gwern](https://www.gwern.net/)  
+* [Google Developers Blog](https://developers.googleblog.com)  
 * [Hacker News](https://news.ycombinator.com/)  
 * [The Idaho Statesman](https://www.idahostatesman.com/)  
 * [Marginal Revolution](https://marginalrevolution.com/)  

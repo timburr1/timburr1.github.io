@@ -16,7 +16,7 @@ cfb effortpost
 
 book reports in 2020:  
 * ~The Phoenix Project~
-* Becoming a Technical Leader  
+* ~Becoming a Technical Leader~  
 * The Pragmatic Programmer  
 * The Mythical Man-Month  
 

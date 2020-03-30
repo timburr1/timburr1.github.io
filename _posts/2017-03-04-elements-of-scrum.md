@@ -7,10 +7,8 @@ tags: tech
 ## ['The Elements of Scrum'](http://www.agilelearninglabs.com/resources/the-elements-of-scrum/)  
 by Chris Sims and Hillary Louise Johnson  
 
-
-Roles
----
-Product Owner
+### Roles  
+**Product Owner**  
 * Holds the vision for the product
 * Represents the business
 * Represents the customers
@@ -19,12 +17,12 @@ Product Owner
 * Creates acceptance criteria for stories
 * Is available to answer the team's questions
 
-Scrum Master
+**Scrum Master**  
 * Knows/advises about scrum
 * Coaches teammates
 * Facilitates and removes impedements to the team
 
-Team Member
+**Team Member**  
 * Delivers user stories
 * Does all the development work
 * Self-oragnizes
@@ -33,15 +31,14 @@ Team Member
 * Avoids saying "not my job"
 
 
-The Sprint
----
+### The Sprint  
 ![Sprint Calendar](/images/sprint-schedule.jpg "Sprint Calendar")
 
 Sprint Planning (~2 hr)
 * What will we do?
 * How will we do it?
 
-Stand-up (daily, 15 min) 
+Stand-up (daily, 15 min)  
 * What I did yesterday
 * What I'll do today
 * Blockers 
@@ -56,16 +53,15 @@ Retro
 * Things to do ("action items")
 
  
-Scrum Artifacts
----
-Product Backlog  
-Sprint Backlog  
-"Information Radiators": burn charts, task board...  
-Definition of Done  
+### Scrum Artifacts
+* Product Backlog  
+* Sprint Backlog  
+* "Information Radiators": burn charts, task board...  
+* Definition of Done  
 
 
-Estimation
----
+### Estimation
+
 #### Part I: The Big Line-Up  
 Each player takes a turn, in which they may do any one of the following actions:
 * Place a new story card on the wall.
