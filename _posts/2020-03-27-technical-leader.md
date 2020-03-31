@@ -5,11 +5,11 @@ author: Tim
 tags: tech
 ---
 
-## 'Becoming a Technical Leader'  
+**'Becoming a Technical Leader'**  
 by Gerald M. Weinberg  
 
 
-### Definition  
+## Definition  
 Leadership is "the process of creating an environment in which people become empowered."  
 I.e. leading the *process*, not the *people*  
 
@@ -26,7 +26,7 @@ I.e. leading the *process*, not the *people*
 Growth/development in the real world always involves: practice, stepwise improvement, and occasional regressions. It's a long, noisy process, but it's the only way to get better.  
 
 
-### Innovation  
+## Innovation  
 **The Three Great Obstacles to Innovation**  
 * Self-blindness, concealing your own behavior, so you have no chance of changing  
 * No-Problem Syndrome, convincing you that you already know the answer to all problems  
@@ -39,7 +39,7 @@ The problem-solving leader's central dogma: "Any real problem has one *more* sol
 Great leaders can recover from failure, because they are driven by an underlying vision. What is important to you? What change would you like to bring about in the world?  
 
 
-### Motivation  
+## Motivation  
 Communicating with other people is hard, and you will fail unless you try to see things from their point of view. This is the first great obstacle to motivating others.  
 
 **Satir's Interaction Model**  
@@ -74,7 +74,7 @@ The chapter on 'Power, Imperfection, and Congruence' gets into a lot of [Self-Co
 [Stoic](../../../papers/enchiridion.pdf) idea that sometimes reality is painful, but more often our *internal reactions* to what is happening out in reality are actually causing us to suffer.  
 
 
-### Organization  
+## Organization  
 Power can be converted from one form to another. E.g. you can exchange technical power for organizational/political power at work, if people trust your judgement and decide to follow your lead based on perceived competence in previous interactions.
 
 The structure of an organization will dramatically effect how it makes decisions, and the quality of those decisions. Consider individual initiative vs. strong leaders, voting vs. consensus-building.
@@ -88,7 +88,7 @@ The structure of an organization will dramatically effect how it makes decisions
 *"A problem-solving leader's entire orientation is toward creating an environment in which everyone can be solving problems, making decisions, and implementing those decisions, rather than personally solving problems, making decisions, and implementing those decisions."*
 
 
-### Transformation  
+## Transformation  
 Leadership is a skill like any other. You can test yourself, and improve with practice.  
 
 Being a leader requires an extensive support system. Asking for help isn't a sign of strength exactly, but it's better than failing to ask for help when you need it.

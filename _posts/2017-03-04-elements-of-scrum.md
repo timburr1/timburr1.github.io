@@ -4,7 +4,7 @@ title: Notes from 'The Elements of Scrum'
 tags: tech
 ---
 
-## ['The Elements of Scrum'](http://www.agilelearninglabs.com/resources/the-elements-of-scrum/)  
+['The Elements of Scrum'](http://www.agilelearninglabs.com/resources/the-elements-of-scrum/)  
 by Chris Sims and Hillary Louise Johnson  
 
 ### Roles  
@@ -61,8 +61,7 @@ Retro
 
 
 ### Estimation
-
-#### Part I: The Big Line-Up  
+**Part I: The Big Line-Up**  
 Each player takes a turn, in which they may do any one of the following actions:
 * Place a new story card on the wall.
 * Mover a previously placed story card. It is perfectly OK to slide cards down to make room for the repositioned card, so long as the ordering of the other cards is preserved.
@@ -70,7 +69,7 @@ Each player takes a turn, in which they may do any one of the following actions:
 
 Cards are placed left to right, smallest to largest. It pays to space them widely so you can easily change the order later. Play continues until every player has passed.
 
-#### Part II: What's Your Number?  
+**Part II: What's Your Number?**  
 Each player takes a turn, in which they may do any one of the following actions:
 * Place the next Fibonacci card above a story card, indicating where the next increase in story size occurs.
 * Move a Fibonacci card to a different story. (The move must preserve the order of the number cards, i.e. one must come beofer two, 13 before 21...)
