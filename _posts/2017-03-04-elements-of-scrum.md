@@ -7,7 +7,7 @@ tags: tech
 ['The Elements of Scrum'](http://www.agilelearninglabs.com/resources/the-elements-of-scrum/)  
 by Chris Sims and Hillary Louise Johnson  
 
-### Roles  
+## Roles  
 **Product Owner**  
 * Holds the vision for the product
 * Represents the business
@@ -31,7 +31,7 @@ by Chris Sims and Hillary Louise Johnson
 * Avoids saying "not my job"
 
 
-### The Sprint  
+## The Sprint  
 ![Sprint Calendar](/images/sprint-schedule.jpg "Sprint Calendar")
 
 Sprint Planning (~2 hr)
@@ -53,14 +53,14 @@ Retro
 * Things to do ("action items")
 
  
-### Scrum Artifacts
+## Scrum Artifacts
 * Product Backlog  
 * Sprint Backlog  
 * "Information Radiators": burn charts, task board...  
 * Definition of Done  
 
 
-### Estimation
+## Estimation
 **Part I: The Big Line-Up**  
 Each player takes a turn, in which they may do any one of the following actions:
 * Place a new story card on the wall.

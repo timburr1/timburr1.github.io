@@ -3,7 +3,7 @@ layout: default
 title: Stuff I Read
 ---
 
-## Blogs  
+## Blogs and Newspapers  
 * [The Alexandrian](https://thealexandrian.net/)  
 * [BoiseDev](https://boisedev.com/)  
 * [Coding Horror](https://blog.codinghorror.com/)  

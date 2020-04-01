@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Getting Ready for Burning Man 2020
+title: Getting Ready for Burning Man 2021
 author: Tim
 ---
+
+**[Ticket sales for BM2020 have been postponed indefinitely](https://journal.burningman.org/2020/03/news/official-announcements/main-sale-postponed/). It looks like the event will likely be cancelled this year, and frankly from here in April it seems like holding an 80,000-person gathering in September is going to be a terrible idea, even if it's technically allowed. Hopefully we can get together again and do Misfit stuff in 2021.**  
 
 [2019 Survival Guide](/papers/BMSG-2019.pdf) (PDF)  
 
@@ -12,11 +14,6 @@ author: Tim
 
 [Hug Nation / John Halcyon](https://www.youtube.com/user/halcyonstyn) on YouTube  
 
-[Char](https://sites.google.com/site/idahodecompression/home) (Idaho Regional Burn: July 17-20)  
-
-[Official ticket info for Burning Man 2020](https://tickets.burningman.org/)  
-> **Main Sale**  
-> [Registration](https://profiles.burningman.org/): April 1, 2020 at 12pm (noon) – April 3, 2020 at 12pm (noon) PDT  
-> Sale starts: April 8, 2020 at 12pm (noon) PDT  
+[Char](https://sites.google.com/site/idahodecompression/home) (Idaho Regional Burn: back in 2021)  
 
 [Packing list .xlsx](/papers/BM supply list.xlsx)  

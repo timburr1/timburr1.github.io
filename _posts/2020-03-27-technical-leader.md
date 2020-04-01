@@ -8,7 +8,6 @@ tags: tech
 **'Becoming a Technical Leader'**  
 by Gerald M. Weinberg  
 
-
 ## Definition  
 Leadership is "the process of creating an environment in which people become empowered."  
 I.e. leading the *process*, not the *people*  
@@ -56,15 +55,15 @@ This is all fleshed out much more in the book, but the point is that this proces
 [Theory of mind is hard.](../../../papers/GoodOldNeon.pdf) 
 
 **Some Lessons about Helping**  
-1. Wanting to help people may be a noble motive, but that doesn't make it any easier.
-2. If someone doesn't want your help, you will never succeed in helping them, no matter how great you are.
-3. Effective help can only start with mutual agreement on a clear definition of the problem.
-4. Always make sure that the person you are trying to help, actually wants your help.
-5. Even when someone agrees that they want your help, that agreement is not usually a lifetime contract.
-6. People who want to help other people generally expect to get something for themseleves, although they may not be aware of it.
-7. Most people understand that helpers are (on some level) selfish, but also think they are exceptions to the rule.
-8. Attempts to help are often interpreted as attempts to interfere.
-9. No matter how strange it may look, most people are actually trying to be helpful most of the time.
+* Wanting to help people may be a noble motive, but that doesn't make it any easier.
+* If someone doesn't want your help, you will never succeed in helping them, no matter how great you are.
+* Effective help can only start with mutual agreement on a clear definition of the problem.
+* Always make sure that the person you are trying to help, actually wants your help.
+* Even when someone agrees that they want your help, that agreement is not usually a lifetime contract.
+* People who want to help other people generally expect to get something for themseleves, although they may not be aware of it.
+* Most people understand that helpers are (on some level) selfish, but also think they are exceptions to the rule.
+* Attempts to help are often interpreted as attempts to interfere.
+* No matter how strange it may look, most people are actually trying to be helpful most of the time.
 
 Power is not a thing that you can own or control; it's a relationship. It's also useful to think about power is also a tool that you can use to change reality: "E.T. just really wanted to go home. What do *you* want?"  
 
@@ -85,7 +84,7 @@ The structure of an organization will dramatically effect how it makes decisions
 * Doing the work yourself  
 * Rewarding innefective organizing  
 
-*"A problem-solving leader's entire orientation is toward creating an environment in which everyone can be solving problems, making decisions, and implementing those decisions, rather than personally solving problems, making decisions, and implementing those decisions."*
+"A problem-solving leader's entire orientation is toward creating an environment in which everyone can be solving problems, making decisions, and implementing those decisions, rather than personally solving problems, making decisions, and implementing those decisions."  
 
 
 ## Transformation  

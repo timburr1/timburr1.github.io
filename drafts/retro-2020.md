@@ -9,13 +9,13 @@ author: tim
 bench 315 
 save $50k (i.e. $415k by 2021)
 give away $3600
-4 book reports: ~PHX Project~, BaTL, MMM, PP
+4 book reports: ~PHX Project~, ~BaTL~, MMM, PP
 
 Travel
 ---
-MagicFest: Seattle
-Char
-Burning Man
+~MagicFest: Seattle~
+~Char~
+~Burning Man~
 
 Books:
 ---
