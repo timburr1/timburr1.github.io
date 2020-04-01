@@ -29,9 +29,9 @@ Some day I will write an effortpost about investing. In the meantime, here are s
 **Effective Altruism**  
 [80,000 Hours](https://80000hours.org/)  
 [GiveWell](https://www.givewell.org/)  
-[Giving away money: a guide](https://www.benkuhn.net/giving-101), Ben Kuhn  
+[Giving away money: a guide](https://www.benkuhn.net/giving-101) - Ben Kuhn  
 
 **Financial Independence / Early Retirement**  
 [Mr. Money Mustache](https://www.mrmoneymustache.com/)  
-[Financial Independence, Retire Early (FIRE) ](https://www.investopedia.com/terms/f/financial-independence-retire-early-fire.asp), Investopedia  
+[Financial Independence, Retire Early (FIRE) ](https://www.investopedia.com/terms/f/financial-independence-retire-early-fire.asp) - Investopedia  
 [/r/investing FAQ](https://www.reddit.com/r/investing/wiki/faq)  
