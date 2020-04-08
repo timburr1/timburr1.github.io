@@ -21,6 +21,7 @@ title: Stuff I Read
 * [Sam\[\]zdat](https://samzdat.com/)  
 * [Sarah Constantin](https://srconstantin.github.io/)  
 * [Schneier on Security](https://www.schneier.com/)  
+* [Sci-Hub](https://sci-hub.tw/)  
 * [Scott Hanselman](https://www.hanselman.com/blog/)  
 * [Slate Star Codex](https://slatestarcodex.com/)  
 * [Wait But Why](https://waitbutwhy.com)  
