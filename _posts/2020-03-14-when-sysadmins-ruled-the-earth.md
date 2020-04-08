@@ -4,8 +4,6 @@ title: 'When Sysadmins Ruled the Earth'
 author: Cory Doctorow
 ---
 
-<p class="western" style="margin-bottom: 0.14in"><font face="Monaco"><font size="5"><i>When
-Sysadmins Ruled the Earth</i></font></font></p>
 <p class="western" style="margin-bottom: 0in"><i>Forematter:</i></p>
 <p class="western" style="margin-bottom: 0in">This story is part of
 Cory Doctorow’s 2007 short story collection “Overclocked: Stories
