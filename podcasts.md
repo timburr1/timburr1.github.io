@@ -34,6 +34,4 @@ title: Stuff I Listen To
 * [This American Life](https://www.thisamericanlife.org/podcast)  
 * [Tides of History](https://wondery.com/shows/tides-of-history/)  
 * [Trump, Inc.](https://www.npr.org/podcasts/583340964/trump-inc)  
-
-
-
+* [You're Wrong About](https://www.stitcher.com/podcast/michael-hobbes/youre-wrong-about)  
