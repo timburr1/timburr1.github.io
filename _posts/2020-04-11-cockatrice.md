@@ -9,7 +9,7 @@ author: Tim
 
 [Magic Online](https://magic.wizards.com/en/mtgo) (aka MODO) has the Cube.  
 
-[Cockatrice]((https://cockatrice.github.io/)) is decent, free, and supports multiplayer:  
+[Cockatrice](https://cockatrice.github.io/) is decent, free, and supports multiplayer.  
 * Install cockatrice and run the Oracle tool.
 * Build or import a deck.
 * Menu: Cockatrice -> Register to server... 
