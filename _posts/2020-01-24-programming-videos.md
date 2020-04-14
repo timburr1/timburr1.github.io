@@ -24,3 +24,5 @@ tags: tech
 [Clearwater Analytics](https://www.youtube.com/channel/UCGi5s0Pni3qeVmX8NY-uSAw)  
 
 [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)  
+
+[Scott Hanselman](https://www.youtube.com/channel/UCL-fHOdarou-CR2XUmK48Og)  
