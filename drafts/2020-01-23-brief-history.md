@@ -12,8 +12,10 @@ These new, improved doohickies figured out how to hook up like Voltron, forming 
 
 The first anatomically modern humans appeared between 250,000 and 300,000 years ago, splitting off from our nearest ape relatives: chimps and bonobos. We don't know exactly what our earliest ancestors got up to, but it probably included lots of foraging and persistence hunting. They drove most of the large mammal species alive at the time extinct, including our fellow hominids *homo sapiens neanderthalis*, interbreeding with them in the process.  
 
-The use of stone tools and fire actually predate *homo sapiens sapiens*, but other important inventions are far more recent: our human ancestors began domesticating animals about 13,000 years ago, the practice of sowing crops began a couple thousand years after that, and then the first agricultural societies appeared in the Fertile Crescent (in modern-day Iraq) about 8,000 BC (i.e. 15,000 years ago). NB though that large-scale farming and division of labor would also be independently developed in modern-day China, India, and South America, at least.  
+The use of stone tools and fire actually predate *homo sapiens sapiens*, but other important inventions are far more recent: our human ancestors began domesticating animals about 13,000 years ago, the practice of sowing crops began a couple thousand years after that, and then the first agricultural societies appeared in the Fertile Crescent (in modern-day Iraq) about 9,000 BC (i.e. 11,000 years ago). NB though that large-scale farming and division of labor would also be independently developed in modern-day China, India, and South America, at least.  
 
 
 [^1]: [https://www.esa.int/Science_Exploration/Space_Science/Planck/Planck_reveals_an_almost_perfect_Universe](https://www.esa.int/Science_Exploration/Space_Science/Planck/Planck_reveals_an_almost_perfect_Universe)
 [^2]: [https://en.wikipedia.org/wiki/Age_of_the_Earth](https://en.wikipedia.org/wiki/Age_of_the_Earth)
+
+[]: [https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event](https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event)

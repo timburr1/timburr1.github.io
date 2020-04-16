@@ -1,17 +1,24 @@
 ---
 layout: post
-title: Investing 
+title: Investing Resources
 author: Tim
 ---
 
-*link to Dalio Post*
+I subscribe to a fairly strong version of the Efficient Markets Hypothesis: it's unlikely for you as a retail investor to beat the market. (It's not impossible, and in particular you can do well investing in sectors and companies that you know a lot about.) Furthermore it's unlikely for any particular hedge fund to 
+
 
 [The Bogleheads' Guide to Investing](https://www.amazon.com/Bogleheads-Guide-Investing-Taylor-Larimore/dp/0470067365)  
 
 Malkiel: [A Random Walk down Wall Street](https://en.wikipedia.org/wiki/A_Random_Walk_Down_Wall_Street) is the best book-length treatment of the Efficient Markets Hypothesis that I have seen. I don't buy the strongest version of this (that it's impossible for retail investors to beat the market, net of fees), but I'm convinced that most people won't beat the market consistently, and would be better off investing in index funds.
 
-Graham: [The Intelligent Investor](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661) is the classic book on security valuation, but kind of dated.
+Graham: [The Intelligent Investor](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661) is the classic book on security valuation, but kind of dated.  
 
+
+
+### Ray Dalio on the Business Cycle
+[How The Economic Machine Works](https://www.youtube.com/watch?v=PHe0bXAIuk0) (In 30 Minutes) - YouTube  
+
+['Principles For Navigating Big Debt Crises' by Ray Dalio](../../../papers/Principles For Navigating Big Debt Crises By Ray Dalio.pdf) (PDF)  
 
 ### Other Resources  
 [ClearInsights Newsletter](https://clearwater-analytics.com/clearinsights/)  
