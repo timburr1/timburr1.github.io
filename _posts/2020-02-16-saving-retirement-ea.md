@@ -24,7 +24,7 @@ Speaking of which, Investopedia has a good guide to [Tax-Efficient Investing](ht
 > Because of the tax benefits, it would be ideal if you could hold all your investments in tax-advantaged accounts like IRAs and 401(k)s. But due to the annual contribution limits—and the lack of flexibility (non-qualified withdrawals trigger taxes and penalties)—that's not practical for every investor.  
 > A good way to maximize tax efficiency is to put your investments in the "right" account. In general, investments that lose less of their returns to taxes are better suited for taxable accounts. Conversely, investments that tend to lose more of their returns to taxes are good candidates for tax-advantaged accounts.  
 
-Some day I will write an effortpost about investing. In the meantime, here are some more resources about:
+Some day I will write an [effortpost about investing](/2020/04/17/investing.html). In the meantime, here are some more resources about:
 
 **Effective Altruism**  
 [80,000 Hours](https://80000hours.org/)  

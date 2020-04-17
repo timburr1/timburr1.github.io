@@ -7,7 +7,9 @@ title: Slingin' Cardboard
 
 [Tabletop RPG Resources](/2020/02/19/gamemastering.html)  
 
-Add me: [timburr2](https://steamcommunity.com/id/timburr2/) on Steam, TimothyTimburr#39320 on M:tG Arena, or ThallidSalad#1392 on Battle.net.  
+[How to Play Magic over the Internet](/2020/04/11/cockatrice.html)  
+
+Add me: [timburr2](https://steamcommunity.com/id/timburr2/) on Steam, TimothyTimburr#39320 on M:tG Arena, TimothyTimber@server.cockatrice.us, or ThallidSalad#1392 on Battle.net.  
 
 You can look at my **Magic: the Gathering** decks on [Deckbox](https://deckbox.org/users/timburr), if you are into that sort of thing.  
 
