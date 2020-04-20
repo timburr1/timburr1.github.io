@@ -2,6 +2,7 @@
 layout: post
 title: 'The Machine Stops'
 author: E. M. Forster
+tags: fiction
 ---
 <center><font size="+2">I</font><p><font size="+2">THE AIR-SHIP</font></p></center>
 <p>

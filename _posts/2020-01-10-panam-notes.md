@@ -5,7 +5,7 @@ author: Tim
 tags: school, tech
 ---
 
-I recently finished a fake travel web site for Spanish learners. You can look at it [here](https://panam.azurewebsites.net), or check out the [Github repo](https://github.com/timburr1/panam).  
+I recently finished a fake travel web site for Spanish learners. You can <del>look at it [here](https://panam.azurewebsites.net), or</del> check out the [Github repo](https://github.com/timburr1/panam).  
 
 It was built with React, based on Brian Holt's [Complete Intro to React v5](https://github.com/btholt/complete-intro-to-react-v5) course for [FrontEndMasters](https://frontendmasters.com/courses/complete-react-v5/). This was overkill, but I needed to learn React for work.  
 

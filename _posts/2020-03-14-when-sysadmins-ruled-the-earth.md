@@ -2,6 +2,7 @@
 layout: post
 title: 'When Sysadmins Ruled the Earth'
 author: Cory Doctorow
+tags: fiction
 ---
 
 <p class="western" style="margin-bottom: 0in"><i>Forematter:</i></p>

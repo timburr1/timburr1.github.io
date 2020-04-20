@@ -2,6 +2,7 @@
 layout: post
 title: They're Made out of Meat
 author: Terry Bisson
+tags: fiction
 ---
 
 "They're made out of meat."

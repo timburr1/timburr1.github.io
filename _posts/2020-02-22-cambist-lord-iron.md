@@ -2,6 +2,7 @@
 layout: post
 title: 'The Cambist and Lord Iron: A Fairy Tale of Economics'
 author: Daniel Abraham
+tags: fiction
 ---
 
 For as many years as anyone in the city could remember, Olaf Neddelsohn had been the cambist of the Magdalen Gate postal authority. Every morning, he could be seen making the trek from his rooms in the boarding house on State Street, down past the street vendors with their apples and cheese, and into the bowels of the underground railway, only to emerge at the station across the wide boulevard from Magdalen Gate. Some mornings he would pause at the tobacconist’s or the newsstand before entering the hallowed hall of the postal authority, but seven o’clock found him without fail at the ticker tape, checking for the most recent exchange rates. At half past, he was invariably updating the slate board with a bit of chalk. And with the last chime of eight o’clock, he would nod his respect to his small portrait of His Majesty, King Walther IV, pull open the shutters, and greet whatever traveler had need of him.

@@ -2,6 +2,7 @@
 layout: post
 title: Harrison Bergeron
 author: Kurt Vonnegut, Jr. 
+tags: fiction
 ---
 
 The year was 2081, and everybody was finally equal. They weren't only equal 

@@ -7,7 +7,7 @@ title: Curriculum Vitae
 
 Work Experience
 ----
-Aug 2019 - present  
+Aug 2019 - Present  
 **Senior Software Engineer | Healthwise | Boise, ID**  
 * Interacts with other departments and internal users as part of development of the
 Healthwise software and systems
@@ -92,6 +92,7 @@ Awards and Acknowledgements
 ----
 * Eagle Scout  
 * National Merit Finalist  
+* OU College of Engineering Dean's Honor Roll, Spring 2008 - Fall 2011  
 * Presented at OU Honors College: ['Majors and Careers in a Volatile Economy'](/2017/02/04/ou-talk.html), September 2015  
 
 
