@@ -15,6 +15,7 @@ For constructed, [Cockatrice](https://cockatrice.github.io/) is decent, free (as
 * Menu: Cockatrice -> Register to server... 
 * Create an account, and consider supporting [Rooster Ranges](https://cockatrice.us/index.php).
 * Menu: Cockatrice -> Connect
-* Create or join a game.
+* Create or join a game.  
 
-**TimothyTimber@server.cockatrice.us**
+The [Cockatrice Discord](https://discord.gg/3Z9yzmA) is a good place to find people to play with.  
+**TimothyTimber@server.cockatrice.us**  
