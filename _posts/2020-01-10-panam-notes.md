@@ -5,7 +5,7 @@ author: Tim
 tags: school, tech
 ---
 
-I recently finished a fake travel web site for Spanish learners. You can <del>look at it [here](https://panam.azurewebsites.net), or</del> check out the [Github repo](https://github.com/timburr1/panam).  
+I recently finished a fake travel web site for Spanish learners. You can look at it [here](https://panam.azurewebsites.net) [^1], or check out the [Github repo](https://github.com/timburr1/panam).  
 
 It was built with React, based on Brian Holt's [Complete Intro to React v5](https://github.com/btholt/complete-intro-to-react-v5) course for [FrontEndMasters](https://frontendmasters.com/courses/complete-react-v5/). This was overkill, but I needed to learn React for work.  
 
@@ -29,3 +29,5 @@ Other useful resources:
 [react-datepicker](https://www.npmjs.com/package/react-datepicker) is cool.  
 
 <br /><img src="/images/panam screenshot-min.png" alt="" width="100%" />  
+
+[^1]: Maybe. The Panam site is up as of 4/26/2020, but I might take it down again later to save the hosting fees.  
