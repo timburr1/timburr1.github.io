@@ -19,10 +19,11 @@ Travel
 
 Books:
 ---
-Gates of Fire  
-The Mandalorian Armor  
-The Forever War  
-
+* Becoming a Technical Leader
+* The Mandalorian Armor
+* Gates of Fire
+* The Forever War
+* An Empire on the Edge
 
 2021 Goals:
 ---
