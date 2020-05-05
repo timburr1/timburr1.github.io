@@ -26,6 +26,10 @@ Center for Applied Rationality [2019 Participant Handbook](/papers/CFAR Handbook
 
 [Making intentions concrete - Trigger-Action Planning](https://www.lesswrong.com/posts/v4nNuJBZWPkMkgQRb/making-intentions-concrete-trigger-action-planning) - Kaj Sotala, LessWrong  
 
+Sam Altman:  
+* [How to Be Successful](https://blog.samaltman.com/how-to-be-successful)  
+* [Productivity](https://blog.samaltman.com/productivity)  
+
 [The Science of Winning at Life](https://wiki.lesswrong.com/wiki/The_Science_of_Winning_at_Life) - lukeprog, LessWrong  
 * (especially [How to Beat Procrastination](http://lesswrong.com/lw/3w3/how_to_beat_procrastination/))  
 
