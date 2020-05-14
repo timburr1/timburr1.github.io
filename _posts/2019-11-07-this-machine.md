@@ -65,7 +65,7 @@ I mostly use Windows 10 these days, or sometimes Ubuntu via [WSL 2](https://docs
 
 **Software Development**  
 [IntelliJ IDEA](https://www.jetbrains.com/idea/) or [NetBeans](https://netbeans.apache.org/) for Java  
-[Microsoft SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/)  
+[Microsoft SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/) (the Developer edition is available for free w/ [Visual Studio Dev Essentials](https://visualstudio.microsoft.com/dev-essentials/))  
 [Notepad++](https://notepad-plus-plus.org/) for general text editing  
 [PyCharm](https://www.jetbrains.com/pycharm/) + [Jupyter](https://jupyter.org/) notebooks for Python  
 [TortoiseGit](https://tortoisegit.org/) for version control  
