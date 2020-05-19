@@ -14,3 +14,9 @@ tags: tech
 [Programming Videos on YouTube](/2020/01/24/programming-videos.html)  
 
 [Some Thoughts on Software as a Career](/2017/02/04/ou-talk.html)  
+
+**(External) Blog Posts:** 
+* [Long Content](https://www.gwern.net/About#long-content) - Gwern  
+* [Minimalist HTML](https://blog.notryan.com/013.txt)  
+* [You'll Never Have Enough Cheese](https://blog.codinghorror.com/youll-never-have-enough-cheese/) - Coding Horror  
+* *more to come...*

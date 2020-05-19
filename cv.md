@@ -7,20 +7,16 @@ title: Curriculum Vitae
 
 Work Experience
 ----
-Aug 2019 - Present  
+May 2020 - Present  
+**Computer Science Teacher | Centennial High School | Meridian, ID**  
+* Teaches computer science with a focus on web development and databases
+
+Aug 2019 - May 2020  
 **Senior Software Engineer | Healthwise | Boise, ID**  
-* Interacts with other departments and internal users as part of development of the
-Healthwise software and systems
-* Provides leadership and direction to engineers developing tools and processes to
-improve continuous integration and automated testing at Healthwise
-* Envisions innovative designs for complex software systems; Contributes to
-developing effective processes and best practices
-* Works with other developers to facilitate knowledge transfer and conduct code
-reviews
-* Participates in pair programming, technical design reviews, and code reviews
-* Works with users to resolve technical issues and to provide implementation support  
-* Contributes to development of company objectives and principles, and achieves
-goals in creative and effective ways  
+* Developed and maintained software to provide health information to patients and providers
+* Improved internal processes and documentation
+* Mentored and collaborated with other developers
+* Provided developer feedback in code reviews
 
 Aug 2012 - Aug 2019  
 **Software Developer | Clearwater Analytics | Boise, ID**  
@@ -47,6 +43,8 @@ Jun 2010 - Jun 2011
 
 May 2006 - Jul 2012  
 **Lifeguard, Counselor, and Shooting Sports Co-Director | BSA Camp Tapico | Kalkaska, MI**  
+* Taught a variety of skills to campers, including: swimming, boating, scoutcraft, and shooting
+* Maintained a safe and fun environment
 * Developed personal leadership skills in a non-profit environment
 * Managed groups of scouts and counselors from many diverse backgrounds
 

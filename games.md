@@ -31,5 +31,5 @@ Serve the Hive, I control the way you move...&#127925;
 * [Tyranids, 100pts](/_ref/40kArmies/TyranidsKT.html)   
 
 **Tactics:**  
-[Space Marines](/_ref/40kArmies/adeptus_tactics.html)  
-[Tyranids](/_ref/40kArmies/tyranids_tactics.html)  
+* [Space Marines](/_ref/40kArmies/adeptus_tactics.html)  
+* [Tyranids](/_ref/40kArmies/tyranids_tactics.html)  
