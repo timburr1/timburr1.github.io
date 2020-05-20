@@ -31,6 +31,8 @@ author: Tim
 >Give the PCs a mysterious magic item. It is mysterious because even the DM has no clue what it does. The players coud spend hours toying with it trying to figure it out. Eventually they’ll come up with a guess about what the item is for and you can just go with the flow and confirm the players’ guess.  
 >Award enough XPs for the characters to level up. That’ll eat up 30 minutes or an hour.  
 
+[TheGM.org - NPC Database](http://thegm.org/npcs.php)  
+
 ## PDF Character Sheets  
 [Dungeon World](/papers/Dungeon_World_Play_Sheets.pdf)  
 [Numenera](/papers/Numenera Character Sheet.pdf)  
