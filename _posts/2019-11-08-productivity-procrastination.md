@@ -20,6 +20,8 @@ Center for Applied Rationality [2019 Participant Handbook](/papers/CFAR Handbook
 
 [Getting things done](https://jvns.ca/blog/2016/09/19/getting-things-done/) - Julia Evans  
 
+[Good and Bad Procrastination](http://www.paulgraham.com/procrastination.html) - Paul Graham  
+
 [How I got to 200 productive hours a month](https://qotoqot.com/blog/improving-focus/) - Ivan Mir  
 
 [How to Procrastinate and Still Get Things Done](https://www.chronicle.com/article/How-to-ProcrastinateStill/93959) - John Perry, Chronicle of Higher Education  

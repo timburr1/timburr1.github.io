@@ -51,6 +51,10 @@ Desktop computer specs, upgraded a bit from 2012 and still running strong:
       <td class="pcpp-part-list-type">Power Supply</td>
       <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/R4Lypg/corsair-power-supply-cmpsu600cxv2">Corsair Builder 600 W 80+ Certified ATX Power Supply</a></td>
     </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Keyboard</td>
+      <td class="pcpp-part-list-item"><a href="https://deckkeyboards.com/product/francium-pro-87-key">Deck Francium Pro with Cherry MX Brown switches</a></td>
+    </tr>
   </tbody>
 </table>
 [PC Part Picker full list](https://pcpartpicker.com/list/HXvMwh)
