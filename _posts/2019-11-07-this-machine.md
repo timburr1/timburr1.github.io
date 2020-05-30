@@ -81,11 +81,10 @@ I mostly use Windows 10 these days, or sometimes Ubuntu via [WSL 2](https://docs
 [Greenshot](https://getgreenshot.org/downloads/)  
 [qBittorrent](https://www.qbittorrent.org/)  
 [Steam](https://store.steampowered.com/)  
-[Windows Terminal](https://www.hanselman.com/blog/ItsTimeForYouToInstallWindowsTerminal.aspx)  
+[Windows Terminal](https://devblogs.microsoft.com/commandline/windows-terminal-1-0/)  
 
 **Web Browsing**  
 [Mozilla Firefox](https://www.mozilla.org/firefox/) with the following Add-ons:  
-* [Disable Facebook News Feed](https://addons.mozilla.org/en-US/firefox/addon/disable-facebook-news-feed/)
 * [Facebook Container ](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/)
 * [Feedbro](https://addons.mozilla.org/en-US/firefox/addon/feedbroreader/)
 * [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/)

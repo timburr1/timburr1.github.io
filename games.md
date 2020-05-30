@@ -16,8 +16,10 @@ Add me: [timburr2](https://steamcommunity.com/id/timburr2/) on Steam, TimothyTim
 You can look at my **Magic: the Gathering** decks on [Deckbox](https://deckbox.org/users/timburr), if you are into that sort of thing.  
 
 I'm also getting into **Warhammer 40k** a little bit. Army lists: 
-* [Tyranids, 1200pts](/_ref/40kArmies/Tyranids_1200.html)  
 * [Tyranids, 800pts](/_ref/40kArmies/Tyranids_800.html)  
+* [Tyranids, 1200pts](/_ref/40kArmies/Tyranids_1200.html)  
+* [Tyranids, 1500pts](/_ref/40kArmies/Tyranids_1500.html)  
+* [Tyranids, 2000pts](/_ref/40kArmies/Tyranids_2k.html) (includes proxies)  
 
 [Tactical Objectives and Stratagems](/_ref/40kArmies/tyranids_ref.html)  
 
