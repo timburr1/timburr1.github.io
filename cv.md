@@ -7,7 +7,7 @@ title: Curriculum Vitae
 
 Work Experience
 ----
-May 2020 - Present  
+Aug 2020 - Present  
 **Computer Science Teacher | Centennial High School | Meridian, ID**  
 * Teaches computer science with a focus on web development and databases
 
