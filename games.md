@@ -19,7 +19,7 @@ I'm also getting into [Warhammer 40k](/2020/05/31/warhammer.html) a little bit. 
 * [Tyranids, 800pts](/_ref/40kArmies/Tyranids_800.html)  
 * [Tyranids, 1200pts](/_ref/40kArmies/Tyranids_1200.html)  
 * [Tyranids, 1500pts](/_ref/40kArmies/Tyranids_1500.html)  
-* [Tyranids, 2000pts](/_ref/40kArmies/Tyranids_2k.html), *includes proxies*  
+* [Tyranids, 2000pts](/_ref/40kArmies/Tyranids_2k.html) *(includes proxies, for now)*  
 
 [Tactical Objectives and Stratagems](/_ref/40kArmies/tyranids_ref.html)  
 
