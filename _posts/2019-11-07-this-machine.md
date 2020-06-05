@@ -71,6 +71,7 @@ I mostly use Windows 10 these days, or sometimes Ubuntu via [WSL 2](https://docs
 [IntelliJ IDEA](https://www.jetbrains.com/idea/) or [NetBeans](https://netbeans.apache.org/) for Java  
 [Microsoft SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/) (the Developer edition is available for free w/ [Visual Studio Dev Essentials](https://visualstudio.microsoft.com/dev-essentials/))  
 [Notepad++](https://notepad-plus-plus.org/) for general text editing  
+[Postman](https://www.postman.com/) for creating REST-ful web calls  
 [PyCharm](https://www.jetbrains.com/pycharm/) + [Jupyter](https://jupyter.org/) notebooks for Python  
 [TortoiseGit](https://tortoisegit.org/) for version control  
 [Visual Studio 2019](https://visualstudio.microsoft.com/vs/) with [IntelliCode](https://visualstudio.microsoft.com/services/intellicode/) for C#  
@@ -85,6 +86,7 @@ I mostly use Windows 10 these days, or sometimes Ubuntu via [WSL 2](https://docs
 
 **Web Browsing**  
 [Mozilla Firefox](https://www.mozilla.org/firefox/) with the following Add-ons:  
+* [Disable Facebook News Feed](https://addons.mozilla.org/en-US/firefox/addon/disable-facebook-news-feed/) 
 * [Facebook Container ](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/)
 * [Feedbro](https://addons.mozilla.org/en-US/firefox/addon/feedbroreader/)
 * [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/)

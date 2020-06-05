@@ -13,7 +13,7 @@ Aug 2020 - Present
 
 Aug 2019 - May 2020  
 **Senior Software Engineer | Healthwise | Boise, ID**  
-* Developed and maintained software to provide health information to patients and providers
+* Developed and maintained software to provide health information to patients and health care workers
 * Improved internal processes and documentation
 * Mentored and collaborated with other developers
 * Provided developer feedback in code reviews
@@ -67,8 +67,10 @@ Tools and Languages
 * C#  
 * Java  
 * Python  
+* JavaScript / TypeScript  
 * React  
-* TypeScript / Angular 2  
+* Angular 2  
+* Jekyll  
 * Microsoft SQL Server  
 * Mongo DB  
 * Microsoft Visual Studio  

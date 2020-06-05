@@ -5,6 +5,7 @@ title: Stuff I Read
 
 ## Blogs and Newspapers  
 * [The Alexandrian](https://thealexandrian.net/)  
+* [Andrew Gelman](https://statmodeling.stat.columbia.edu/)  
 * [BoiseDev](https://boisedev.com/)  
 * [Coding Horror](https://blog.codinghorror.com/)  
 * [The Economist](https://www.economist.com/)  
@@ -14,6 +15,7 @@ title: Stuff I Read
 * [Google Developers Blog](https://developers.googleblog.com)  
 * [Hacker News](https://news.ycombinator.com/)  
 * [The Idaho Statesman](https://www.idahostatesman.com/)  
+* [Lawfare](https://www.lawfareblog.com/)  
 * [MalwareTech](https://www.malwaretech.com/)  
 * [Marginal Revolution](https://marginalrevolution.com/)  
 * [Melting Asphalt](https://meltingasphalt.com)  
