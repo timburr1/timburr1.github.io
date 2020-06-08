@@ -12,5 +12,7 @@ tags: gaming
 [Tyranids Errata and FAQ](../../../../../papers/warhammer_40000_tyranids_en.pdf) (PDF, other factions available [here](https://www.warhammer-community.com/faqs/#warhammer-40000))  
 
 1d4chan:
-* [Army Building and Playing the Game](https://1d4chan.org/wiki/Warhammer_40,000/Tactics(8E))
+* [Army Building and Playing the Game](https://1d4chan.org/wiki/Warhammer_40,000/Tactics(8E))  
+* [Genestealer Cults](https://1d4chan.org/wiki/Warhammer_40,000/Tactics/Genestealer_Cults(8E))  
+* [Movement 101](https://1d4chan.org/wiki/Warhammer_40,000/Tactics/Movement_101(8E))  
 * [Tyranids Tactics](https://1d4chan.org/wiki/Warhammer_40,000/Tactics/Tyranids(8E))  
