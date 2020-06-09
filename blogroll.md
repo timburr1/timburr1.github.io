@@ -16,6 +16,7 @@ title: Stuff I Read
 * [Hacker News](https://news.ycombinator.com/)  
 * [The Idaho Statesman](https://www.idahostatesman.com/)  
 * [Lawfare](https://www.lawfareblog.com/)  
+* [Library Genesis](http://libgen.lc/)  
 * [MalwareTech](https://www.malwaretech.com/)  
 * [Marginal Revolution](https://marginalrevolution.com/)  
 * [Melting Asphalt](https://meltingasphalt.com)  
