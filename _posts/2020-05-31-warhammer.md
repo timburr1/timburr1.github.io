@@ -16,3 +16,13 @@ tags: gaming
 * [Genestealer Cults](https://1d4chan.org/wiki/Warhammer_40,000/Tactics/Genestealer_Cults(8E))  
 * [Movement 101](https://1d4chan.org/wiki/Warhammer_40,000/Tactics/Movement_101(8E))  
 * [Tyranids Tactics](https://1d4chan.org/wiki/Warhammer_40,000/Tactics/Tyranids(8E))  
+
+
+## Blood Bowl
+[Blood Bowl Rulebook, 2016](../../../../../papers/BloodBowl2016.pdf) (PDF)  
+
+[How to Play](https://www.bloodbowl.com/how-to-play/)  
+
+[Living Rulebook 6.0](../../../../../papers/BB Living Rulebook 6.pdf) (PDF)  
+
+[Lizardmen Teams](https://bbtactics.com/lizardmen-teams/)  
