@@ -21,12 +21,20 @@ tags: tech
 [Why Is This Website Port Scanning Me?](https://nullsweep.com/why-is-this-website-port-scanning-me/)  
 
 ## Longer Stuff:  
+[CodeHS](https://codehs.com/)  
+
+[The Codeless Code: Fables and Koans for the Software Engineer](http://thecodelesscode.com/contents)  
+
 [Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212#) - Peter Norvig, Udacity  
 
 [Kodu Game Lab](https://www.kodugamelab.com/)  
 
+[Minecraft: Education Edition](https://education.minecraft.net/get-started/)  
+
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) (11 one-hour lectures on tools and techniques: editors, version control, debugging and profiling, etc. from MIT)  
 
 [Project Euler](https://projecteuler.net/)  
+
+[PyGame](https://www.pygame.org/)  
 
 [The Twelve-Factor App](https://12factor.net/)  

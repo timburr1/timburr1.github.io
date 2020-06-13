@@ -19,10 +19,12 @@ tags: gaming
 
 
 ## Blood Bowl
-[Blood Bowl Rulebook, 2016](../../../../../papers/BloodBowl2016.pdf) (PDF)  
+[Blood Bowl Rulebook, 2016](../../../../../papers/bloodbowl/BloodBowl2016.pdf) (PDF)  
 
 [How to Play](https://www.bloodbowl.com/how-to-play/)  
 
-[Living Rulebook 6.0](../../../../../papers/BB Living Rulebook 6.pdf) (PDF)  
+[Living Rulebook 6.0](../../../../../papers/bloodbowl/BB Living Rulebook 6.pdf) (PDF)  
 
 [Lizardmen Teams](https://bbtactics.com/lizardmen-teams/)  
+
+[Using NAF Online Blood Bowl League Manager](../../../../../papers/bloodbowl/Using-NAF-OBBLM.pdf) (PDF)  
