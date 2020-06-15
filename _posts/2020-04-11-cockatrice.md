@@ -11,7 +11,7 @@ author: Tim
 
 For constructed, [Cockatrice](https://cockatrice.github.io/) is decent, free (as in proxies), and supports multiplayer. It's a little trickier to get running though:    
 * Install [cockatrice](https://cockatrice.github.io/) and run the Oracle tool.
-* Build or import a deck. This part is pretty slick: you can build a deck by hand or export a text file like [Omnath](../../../_ref/rg omnath.txt), [Prossh](../../../_ref/prossh.txt), or [the Ur-Dragon](../../../_ref/ur-dragon.txt) from [TappedOut](https://tappedout.net/) or [DeckBox](https://deckbox.org/). Import the text file and Save-As *.cod.
+* Build or import a deck. This part is pretty slick: you can build a deck by hand or export a text file like [Omnath](../../../_ref/magic/rg omnath.txt), [Prossh](../../../_ref/magic/prossh.txt), or [the Ur-Dragon](../../../_ref/magic/ur-dragon.txt) from [TappedOut](https://tappedout.net/) or [DeckBox](https://deckbox.org/). Import the text file and Save-As *.cod.
 * Menu: Cockatrice -> Register to server... 
 * Create an account, and consider supporting [Rooster Ranges](https://cockatrice.us/index.php).
 * Menu: Cockatrice -> Connect

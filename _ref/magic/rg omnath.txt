@@ -1,0 +1,98 @@
+1 Arid Mesa
+1 Bloodstained Mire
+1 Cinder Glade
+13 Forest
+1 Ghost Quarter
+1 Gruul Turf
+1 Jund Panorama
+1 Kessig Wolf Run
+8 Mountain
+1 Naya Panorama
+1 Rootbound Crag
+1 Stomping Ground
+1 Strip Mine
+1 Verdant Catacombs
+1 Windswept Heath
+1 Wooded Foothills
+1 Ancient Grudge
+1 Birds of Paradise
+1 Birthing Pod
+1 Blood Moon
+1 Borborygmos Enraged
+1 Cindervines
+1 Comet Storm
+1 Courser of Kruphix
+1 Crucible of Worlds
+1 Cultivate
+1 Demonfire
+1 Destructive Revelry
+1 Devil's Play
+1 Domri Rade
+1 Earthquake
+1 Fireball
+1 Fires of Yavimaya
+1 Font of Mythos
+1 Frenzied Tilling
+1 Genesis Wave
+1 Green Sun's Zenith
+1 Ground Assault
+1 Gruul Ragebeast
+1 Harbinger of the Hunt
+1 Harmonize
+1 Harrow
+1 Heartbeat of Spring
+1 Hooded Hydra
+1 Howl of the Horde
+1 Howling Mine
+1 Hurricane
+1 Inferno Titan
+1 Kodama's Reach
+1 Loxodon Warhammer
+1 Mana Flare
+1 Mina and Denn, Wildborn
+1 Mistcutter Hydra
+1 Nikya of the Old Ways
+1 Nissa's Expedition
+1 Nissa's Pilgrimage
+1 Nissa's Renewal
+1 Omnath, Locus of Rage
+1 Platinum Angel
+1 Polis Crusher
+1 Realms Uncharted
+1 Reclamation Sage
+1 Red Sun's Zenith
+1 Reiterate
+1 Rites of Flourishing
+1 Rolling Thunder
+1 Sakura-Tribe Elder
+1 Samut, Tyrant Smasher
+1 Sensei's Divining Top
+1 Silklash Spider
+1 Solemn Simulacrum
+1 Sword of the Animist
+1 Thundering Ceratok
+1 Veteran Explorer
+1 Vexing Shusher
+1 Where Ancients Tread
+1 Wood Elves
+1 Wurmcalling
+1 Yavimaya Elder
+1 Zhur-Taa Ancient
+1 Zhur-Taa Druid
+SB: 1 Sideboard:
+SB: 1 Azusa, Lost but Seeking
+SB: 1 Banefire
+SB: 1 Borderland Ranger
+SB: 1 Chameleon Colossus
+SB: 1 Chord of Calling
+SB: 1 Eternal Witness
+SB: 1 Evolving Wilds
+SB: 1 Explosive Vegetation
+SB: 1 Gruul Signet
+SB: 1 Krosan Grip
+SB: 1 Rumbling Slum
+SB: 1 Sol Ring
+SB: 1 Sylvan Ranger
+SB: 1 Terramorphic Expanse
+SB: 1 Turret Ogre
+SB: 1 Viridian Shaman
