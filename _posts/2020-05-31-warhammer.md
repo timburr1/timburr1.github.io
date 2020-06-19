@@ -18,16 +18,4 @@ tags: gaming
 * [Tyranids Tactics](https://1d4chan.org/wiki/Warhammer_40,000/Tactics/Tyranids(8E))  
 
 
-## Blood Bowl
-[Blood Bowl Rulebook, 2016](../../../../../_ref/bloodbowl/BloodBowl2016.pdf) (PDF)  
 
-[How to Play](https://www.bloodbowl.com/how-to-play/)  
-
-[Using NAF Online Blood Bowl League Manager](../../../../../_ref/bloodbowl/Using-NAF-OBBLM.pdf) (PDF)  
-
-*Watch this space for the Boise Brawlers league site on [The NAF](https://thenaf.obblm.com/)*
-
-**Lizardman Stuff:**
-* [Playbook: Yin and Yang -Smash and Dash](../../../../../_ref/bloodbowl/Lizardmen.pdf) (PDF)  
-* [Strategy Guide](http://www.bbpb.de/lizardman-strategy-guide)  
-* [Tactics](https://bbtactics.com/lizardmen-teams/)  
