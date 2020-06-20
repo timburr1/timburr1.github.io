@@ -3,9 +3,8 @@ layout: default
 ---
 <html>
     <head>
-        <meta name="viewport" content="width=670">
-		<style>
-		
+        <meta name="viewport" content="width=670"> 
+        <style>           
             div.battlescribe {
                 margin-top: 0px;
                 margin-bottom: 0px;
@@ -195,6 +194,7 @@ layout: default
                 font-variant: small-caps;
             }
         </style>
+
     </head>
     <body class="battlescribe">
         <div class="battlescribe">
@@ -204,7 +204,7 @@ layout: default
                 <h2>Battalion Detachment +5CP (Tyranids) [96 PL, -1CP, 1,645pts]</h2>
                 <ul>
                     <li class="category">
-                        <h3>No Force Org Slot [-1CP]</h3>
+                        <h3>Configuration</h3>
                         <ul>
                             <li class="rootselection">
                                 <h4>[Reference] Discipline: Hive Mind</h4>
@@ -212,7 +212,7 @@ layout: default
                                     <span class="bold">Selections:</span> Smite
                                 </p>
                                 <p class="category-names">
-                                    <span class="bold">Categories:</span> <span class="caps">No Force Org Slot</span>
+                                    <span class="bold">Categories:</span> <span class="caps">Configuration</span>
                                 </p>
                                 <p class="profile-names">
                                     <span class="bold">Psychic Power:</span> <span class="italic">0. Smite, 1. Dominion, 2. Catalyst, 3. The Horror, 4. Onslaught, 5. Paroxysm, 6. Psychic Scream, Kraken: Synaptic Lure (Hive Fleet)</span>
@@ -289,7 +289,7 @@ layout: default
                                     <span class="bold">Selections:</span> Kraken
                                 </p>
                                 <p class="category-names">
-                                    <span class="bold">Categories:</span> <span class="caps">No Force Org Slot</span>
+                                    <span class="bold">Categories:</span> <span class="caps">Configuration</span>
                                 </p>
                                 <p class="profile-names">
                                     <span class="bold">Abilities:</span> <span class="italic">Hive Fleet Adaptations, Questing Tendrils</span>
@@ -318,13 +318,18 @@ layout: default
                                     </table>
 
                             </li>
+                        </ul>
+                    </li>
+                    <li class="category">
+                        <h3>Stratagems [-1CP]</h3>
+                        <ul>
                             <li class="rootselection">
-                                <h4>Stratagem: Bounty of the Hive Fleet [-1CP]</h4>
+                                <h4>Bounty of the Hive Fleet [-1CP]</h4>
                                 <p>
                                     <span class="bold">Selections:</span> 1 Extra Bio-artefact [-1CP]
                                 </p>
                                 <p class="category-names">
-                                    <span class="bold">Categories:</span> <span class="caps">No Force Org Slot</span>
+                                    <span class="bold">Categories:</span> <span class="caps">Stratagems</span>
                                 </p>
                                 <p class="profile-names">
                                     <span class="bold">Abilities:</span> <span class="italic">Bounty of the Hive Fleet</span>
@@ -354,13 +359,13 @@ layout: default
                             <li class="rootselection">
                                 <h4>Hive Tyrant [11 PL, 228pts]</h4>
                                 <p>
-                                    <span class="bold">Selections:</span> Adrenal Glands [5pts], Heavy Venom Cannon [18pts], Monstrous Scything Talons [15pts], Prehensile Pincer Tail, The Miasma Cannon, Wings [2 PL, 47pts]
+                                    <span class="bold">Selections:</span> Adrenal Glands [5pts], Heavy Venom Cannon [18pts], Monstrous Scything Talons [15pts], Power: Catalyst, Power: Psychic Scream, Prehensile Pincer Tail, The Venomthorn Parasite, Wings [2 PL, 47pts]
                                 </p>
                                 <p class="category-names">
                                     <span class="bold">Categories:</span> <span class="caps">Faction: &lt;Hive Fleet&gt;, Faction: Tyranids, HQ, Character, Monster, Psyker, Hive Tyrant, Synapse, Fly</span>
                                 </p>
                                 <p class="profile-names">
-                                    <span class="bold">Abilities:</span> <span class="italic">Adrenal Glands, Death Throes, Psychic Barrier, Shadow in the Warp, Swooping Assault, Synapse, The Miasma Cannon, The Will of the Hive Mind</span>, <span class="bold">Psyker:</span> <span class="italic">Hive Tyrant</span>, <span class="bold">Stat Damage - M, WS &amp; BS:</span> <span class="italic">Hive Tyrant with Wings (1), Hive Tyrant with Wings (2), Hive Tyrant with Wings (3)</span>, <span class="bold">Unit:</span> <span class="italic">Hive Tyrant</span>, <span class="bold">Weapon:</span> <span class="italic">Heavy Venom Cannon, Monstrous Scything Talons, Prehensile Pincer Tail, The Miasma Cannon</span>
+                                    <span class="bold">Abilities:</span> <span class="italic">Adrenal Glands, Death Throes, Psychic Barrier, Shadow in the Warp, Swooping Assault, Synapse, The Venomthorn Parasite, The Will of the Hive Mind</span>, <span class="bold">Psychic Power:</span> <span class="italic">Catalyst, Psychic Scream</span>, <span class="bold">Psyker:</span> <span class="italic">Hive Tyrant</span>, <span class="bold">Stat Damage - M, WS &amp; BS:</span> <span class="italic">Hive Tyrant with Wings (1), Hive Tyrant with Wings (2), Hive Tyrant with Wings (3)</span>, <span class="bold">Unit:</span> <span class="italic">Hive Tyrant</span>, <span class="bold">Weapon:</span> <span class="italic">Heavy Venom Cannon, Monstrous Scything Talons, Prehensile Pincer Tail</span>
                                 </p>
                                     <br>
                                     <table cellspacing="-1">
@@ -412,10 +417,10 @@ layout: default
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="profile-name">The Miasma Cannon</td>
-                                            <td>Model with heavy venom cannon only. The Miasma Cannon replaces the model's heavy venom cannon.</td>
+                                            <td class="profile-name">The Venomthorn Parasite</td>
+                                            <td>Model equipped with a stranglethorn cannon and/or heavy venom cannon only. When this model shoots with a stranglethorn cannon or heavy venom cannon, do not roll any dice when determining the Type characteristic of that weapon; instead it has the maximum value (e.g. a Heavy D6 weapon makes 6 attacks).</td>
                                             <td>
-                                                Codex: Tyranids p123
+                                                Psychic Awakening: Blood of Baal p71
                                             </td>
                                         </tr>
                                         <tr>
@@ -423,6 +428,27 @@ layout: default
                                             <td>The range of this model's Synapse ability is 18" rather than 12".</td>
                                             <td>
                                                 Codex: Tyranids p85
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <table cellspacing="-1">
+                                        <tr>
+                                            <th>Psychic Power</th>
+                                            <th>Warp Charge</th><th>Range</th><th>Details</th>
+                                            <th>Ref</th>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Catalyst</td>
+                                            <td>6</td><td>18"</td><td>Select a friendly TYRANIDS unit within 18" of the psyker. Until the start of your next Psychic phase, each time that unit loses a wound, roll a D6; on a 5+, the damage is ignored and the unit does not lose that wound.</td>
+                                            <td>
+                                                Codex: Tyranids p121
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Psychic Scream</td>
+                                            <td>5</td><td>18"</td><td>The nearest enemy unit within 18" suffers D3 mortal wounds. In addition, if that unit is a PSYKER, roll two dice. If the result is higher than their Leadership characteristic, randomly select one of their psychic powers. They can no longer use that psychic power.</td>
+                                            <td>
+                                                Codex: Tyranids p121
                                             </td>
                                         </tr>
                                     </table>
@@ -505,26 +531,19 @@ layout: default
                                                 Codex: Tyranids p111
                                             </td>
                                         </tr>
-                                        <tr>
-                                            <td class="profile-name">The Miasma Cannon</td>
-                                            <td>36"</td><td>Assault D3</td><td>9</td><td>-2</td><td>3</td><td>This weapon hits automatically if the target is within 8", and it always wounds targets (other than VEHICLES) on a 2+.</td>
-                                            <td>
-                                                Codex: Tyranids p123
-                                            </td>
-                                        </tr>
                                     </table>
 
                             </li>
                             <li class="rootselection">
                                 <h4>The Swarmlord [15 PL, 250pts]</h4>
                                 <p>
-                                    <span class="bold">Selections:</span> 3. Tenacious Survivor, Bone Sabres, Prehensile Pincer Tail, Warlord
+                                    <span class="bold">Selections:</span> 3. Tenacious Survivor, Bone Sabres, Power: Onslaught, Power: Psychic Scream, Prehensile Pincer Tail, Warlord
                                 </p>
                                 <p class="category-names">
                                     <span class="bold">Categories:</span> <span class="caps">Faction: &lt;Hive Fleet&gt;, Faction: Tyranids, HQ, Character, Monster, Psyker, Hive Tyrant, Synapse, Warlord</span>
                                 </p>
                                 <p class="profile-names">
-                                    <span class="bold">Abilities:</span> <span class="italic">Blade Parry, Death Throes, Hive Commander, Psychic Barrier, Shadow in the Warp, Synapse, Tenacious Survivor, The Will of the Hive Mind</span>, <span class="bold">Psyker:</span> <span class="italic">The Swarmlord</span>, <span class="bold">Stat Damage - M, S &amp; A:</span> <span class="italic">The Swarmlord (1), The Swarmlord (2), The Swarmlord (3)</span>, <span class="bold">Unit:</span> <span class="italic">The Swarmlord</span>, <span class="bold">Weapon:</span> <span class="italic">Bone Sabres, Prehensile Pincer Tail</span>
+                                    <span class="bold">Abilities:</span> <span class="italic">Blade Parry, Death Throes, Hive Commander, Psychic Barrier, Shadow in the Warp, Synapse, Tenacious Survivor, The Will of the Hive Mind</span>, <span class="bold">Psychic Power:</span> <span class="italic">Onslaught, Psychic Scream</span>, <span class="bold">Psyker:</span> <span class="italic">The Swarmlord</span>, <span class="bold">Stat Damage - M, S &amp; A:</span> <span class="italic">The Swarmlord (1), The Swarmlord (2), The Swarmlord (3)</span>, <span class="bold">Unit:</span> <span class="italic">The Swarmlord</span>, <span class="bold">Weapon:</span> <span class="italic">Bone Sabres, Prehensile Pincer Tail</span>
                                 </p>
                                     <br>
                                     <table cellspacing="-1">
@@ -586,6 +605,27 @@ layout: default
                                             <td>The range of this model's Synapse ability is 18" rather than 12".</td>
                                             <td>
                                                 Codex: Tyranids p86
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <table cellspacing="-1">
+                                        <tr>
+                                            <th>Psychic Power</th>
+                                            <th>Warp Charge</th><th>Range</th><th>Details</th>
+                                            <th>Ref</th>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Onslaught</td>
+                                            <td>6</td><td>18"</td><td>Select a friendly TYRANIDS unit within 18" of the psyker. That unit can shoot this turn (even if it Advanced) without suffering any penalties to its hit rolls for moving and shooting with Heavy weapons, or Advancing and shooting with Assault weapons. In addition, that unit can charge this turn even if it Advanced (though not if it Fell Back).</td>
+                                            <td>
+                                                Codex: Tyranids p121
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Psychic Scream</td>
+                                            <td>5</td><td>18"</td><td>The nearest enemy unit within 18" suffers D3 mortal wounds. In addition, if that unit is a PSYKER, roll two dice. If the result is higher than their Leadership characteristic, randomly select one of their psychic powers. They can no longer use that psychic power.</td>
+                                            <td>
+                                                Codex: Tyranids p121
                                             </td>
                                         </tr>
                                     </table>
@@ -782,9 +822,9 @@ layout: default
                                 </p>
                                 <ul>
                                     <li>
-                                        <h4>14x Termagant (Devourer) [112pts]</h4>
+                                        <h4>13x Termagant (Devourer) [104pts]</h4>
                                         <p>
-                                            <span class="bold">Selections:</span> 14x Devourer [56pts]
+                                            <span class="bold">Selections:</span> 13x Devourer [52pts]
                                         </p>
                                         <p class="profile-names">
                                             <span class="bold">Unit:</span> <span class="italic">Termagant</span>, <span class="bold">Weapon:</span> <span class="italic">Devourer</span>
@@ -792,9 +832,9 @@ layout: default
 
                                     </li>
                                     <li>
-                                        <h4>15x Termagant (Fleshborer) [60pts]</h4>
+                                        <h4>17x Termagant (Fleshborer) [68pts]</h4>
                                         <p>
-                                            <span class="bold">Selections:</span> 15x Fleshborer
+                                            <span class="bold">Selections:</span> 17x Fleshborer
                                         </p>
                                         <p class="profile-names">
                                             <span class="bold">Unit:</span> <span class="italic">Termagant</span>, <span class="bold">Weapon:</span> <span class="italic">Fleshborer</span>
@@ -1295,13 +1335,13 @@ layout: default
                             <li class="rootselection">
                                 <h4>Broodlord [8 PL, 115pts]</h4>
                                 <p>
-                                    <span class="bold">Selections:</span> Chameleonic Mutation, Monstrous Rending Claws
+                                    <span class="bold">Selections:</span> Chameleonic Mutation, Monstrous Rending Claws, Power: Onslaught
                                 </p>
                                 <p class="category-names">
                                     <span class="bold">Categories:</span> <span class="caps">Faction: &lt;Hive Fleet&gt;, Faction: Tyranids, HQ, Genestealer, Character, Infantry, Psyker, Synapse</span>
                                 </p>
                                 <p class="profile-names">
-                                    <span class="bold">Abilities:</span> <span class="italic">Brood Telepathy, Chameleonic Mutation, Lightning Reflexes, Shadow in the Warp, Swift and Deadly, Synapse</span>, <span class="bold">Psyker:</span> <span class="italic">Broodlord</span>, <span class="bold">Unit:</span> <span class="italic">Broodlord</span>, <span class="bold">Weapon:</span> <span class="italic">Monstrous Rending Claws</span>
+                                    <span class="bold">Abilities:</span> <span class="italic">Brood Telepathy, Chameleonic Mutation, Lightning Reflexes, Shadow in the Warp, Swift and Deadly, Synapse</span>, <span class="bold">Psychic Power:</span> <span class="italic">Onslaught</span>, <span class="bold">Psyker:</span> <span class="italic">Broodlord</span>, <span class="bold">Unit:</span> <span class="italic">Broodlord</span>, <span class="bold">Weapon:</span> <span class="italic">Monstrous Rending Claws</span>
                                 </p>
                                     <br>
                                     <table cellspacing="-1">
@@ -1350,6 +1390,20 @@ layout: default
                                             <td>&lt;HIVE FLEET&gt; units automatically pass Morale tests if they are within 12" of any friendly &lt;HIVE FLEET&gt; units with this ability.</td>
                                             <td>
                                                 Codex: Tyranids p82
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <table cellspacing="-1">
+                                        <tr>
+                                            <th>Psychic Power</th>
+                                            <th>Warp Charge</th><th>Range</th><th>Details</th>
+                                            <th>Ref</th>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Onslaught</td>
+                                            <td>6</td><td>18"</td><td>Select a friendly TYRANIDS unit within 18" of the psyker. That unit can shoot this turn (even if it Advanced) without suffering any penalties to its hit rolls for moving and shooting with Heavy weapons, or Advancing and shooting with Assault weapons. In addition, that unit can charge this turn even if it Advanced (though not if it Fell Back).</td>
+                                            <td>
+                                                Codex: Tyranids p121
                                             </td>
                                         </tr>
                                     </table>
@@ -1502,18 +1556,13 @@ layout: default
                                             </td>
                                         </tr>
                                     </table>
-
                             </li>
                         </ul>
                     </li>
 
                 </ul>
             </li>
-
             </ul>
-
-
-
             <br>
             <p>Created with <a href="https://www.battlescribe.net">BattleScribe</a></p>
         </div>

@@ -119,7 +119,7 @@ In the Fight phase, pick a unit with the Toxin Sacs biomorph. It now triggers it
 Use at the end of the movement phase. Select a destroyed unit of Termagants, Hormagaunts, Gargoyles, or Hydra Infantry. Add an identical unit to your army and set it up as reinforcement wholly 6" of any board edge and more than 9" from an enemy. Technically any Hive Fleet can use this Stratagem, but only Hydra can apply it to non-Gaunt infantry like Warriors or Venomthropes. And there's nothing that explicitly says that this can't bring back the Tyranid Prime or Neurothrope you made your Warlord since they're Infantry too...  
 * -As of the FAQ, this now costs reinforcement points. In other words, this is pointless in Matched Play.
 
-**Jormungandr - Enemy Below (1 CP)**  
+**JORMUNGANDR - Enemy Below (1 CP)**  
 When a single Jormungandr Infantry unit is set up, you can put it underground instead of deploying it normally. Whenever you deploy a Ravener squad, Mawloc, Trygon, or Trygon Prime from underground, said infantry unit can deep strike within 3", but more than 9" of an enemy unit. (this does mean Trygons can now deep strike multiple units at once). Sadly, the distance requirements mean Mawlocs can't both use this and benefit from their gimmick. Notable uses are:
  * -Bring a Broodlord along with the Genestealer unit accompanying your Trygon. (Conveniently enough, the Start Collecting! set for Tyranids contains that very mix of units.)
 * -Drop Pyrovores within their weapon range to torch enemy infantry.
@@ -141,5 +141,4 @@ When a Psyker within 24" of a Kronos unit tries to manifest a psychic power, it 
 **LEVIATHAN - War on All Fronts (1 CP)**  
 Use during the Fight phase. Select an enemy unit within 1" of at least one Leviathan unit that can FLY and one unit without Fly. You may reroll all To Hit and To Wound rolls of 1 against that unit. Hard to pull off, but since Tyranids don't have characters that provide rerolls to hit or to wound this will be a big help against especially resilient units. At the very least, it'll be more efficient than spending CP for individual re-rolls.
 
-<br />
 Source: [1d4chan](https://1d4chan.org/wiki/Warhammer_40,000/Tactics/Tyranids(8E)#Stratagems)

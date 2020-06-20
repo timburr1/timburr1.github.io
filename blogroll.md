@@ -33,6 +33,7 @@ title: Stuff I Read
 
 ## Web Comics  
 * [Laws and Sausages](https://lawsandsausagescomic.com/comic)  
+* [One Giant Hand](https://onegianthand.com/)  
 * [The Perry Bible Fellowship](https://pbfcomics.com/)  
 * [Saturday Morning Breakfast Cereal](https://smbc-comics.com/)  
 * [xkcd](https://xkcd.com/)  
