@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Harrison Bergeron
+title: Harrison Bergeron - Kurt Vonnegut
 author: Kurt Vonnegut, Jr. 
 tags: fiction
 ---

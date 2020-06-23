@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Cambist and Lord Iron: A Fairy Tale of Economics'
+title: The Cambist and Lord Iron, A Fairy Tale of Economics - Daniel Abraham
 author: Daniel Abraham
 tags: fiction
 ---

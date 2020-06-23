@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'When Sysadmins Ruled the Earth'
+title: When Sysadmins Ruled the Earth - Cory Doctorow
 author: Cory Doctorow
 tags: fiction
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Machine Stops'
+title: The Machine Stops - E. M. Forster
 author: E. M. Forster
 tags: fiction
 ---

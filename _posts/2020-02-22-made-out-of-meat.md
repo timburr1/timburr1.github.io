@@ -1,6 +1,6 @@
 ---
 layout: post
-title: They're Made out of Meat
+title: They're Made out of Meat - Terry Bisson
 author: Terry Bisson
 tags: fiction
 ---
