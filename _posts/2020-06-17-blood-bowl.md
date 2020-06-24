@@ -7,11 +7,11 @@ tags: gaming
 
 [Blood Bowl Rulebook, 2016](../../../../../_ref/bloodbowl/BloodBowl2016.pdf) (PDF)  
 
+[Boise Brawlers OBBLM](https://boise-brawlers.obblm.com/)  
+
 [How to Play](https://www.bloodbowl.com/how-to-play/)  
 
 [Using NAF Online Blood Bowl League Manager](../../../../../_ref/bloodbowl/Using-NAF-OBBLM.pdf) (PDF)  
-
-*Watch this space for the Boise Brawlers league site on [The NAF](https://thenaf.obblm.com/)*
 
 **Lizardman Stuff:**
 * [Playbook: Yin and Yang, Smash and Dash](../../../../../_ref/bloodbowl/Lizardmen.pdf) (PDF)  
