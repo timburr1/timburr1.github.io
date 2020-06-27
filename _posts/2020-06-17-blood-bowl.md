@@ -19,9 +19,9 @@ tags: gaming
 * [Tactics](https://bbtactics.com/lizardmen-teams/)  
 
 **Runna'Mucca Reptilian Overlords Starting Lineup:**
-* Skinkon Riley, 0
 * Clawler Murray, 1
 * Skinky Lamb, 2
+* Skinkon Riley, 3
 * Gator Mayfield, 6
 * Clawmarco Murray, 7
 * Spencer Rattlesnake, 8
