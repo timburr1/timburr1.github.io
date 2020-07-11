@@ -32,4 +32,6 @@ tags: gaming
 * Mark Lizardmandrews, 81
 * Ryan Brownscales, 85  
 
-Head Coach: Barry Swishtail
+Head Coach: Barry Swishtail  
+
+*"I'm predicting lizard people in August." -Dave Carter, July 2020*
