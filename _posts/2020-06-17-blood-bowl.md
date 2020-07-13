@@ -34,4 +34,4 @@ tags: gaming
 
 Head Coach: Barry Swishtail  
 
-*"I'm predicting lizard people in August." -Dave Carter, July 2020*
+*"I'm predicting lizard people in August."* -Dave Carter, July 2020

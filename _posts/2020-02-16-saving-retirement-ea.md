@@ -13,7 +13,7 @@ Saving money is one of those things that is simple, but not easy. You just have 
 * If it has good funds, max out 401k ($19,500 in 2020)  
 * Save cash for short- or mid-term expenses; invest in a brokerage account  
 
-If you can get to step six or seven, you are doing pretty well, good job! You've also probably been pretty fortunate in your life (I certainly have...) This would be a good time to read [Nobody Is Perfect, Everything Is Commensurable](https://slatestarcodex.com/2014/12/19/nobody-is-perfect-everything-is-commensurable/) and think about donating some of that extra money.
+If you can get to step six or seven, you are doing pretty well, good job! You've also probably been pretty fortunate in your life (I certainly have...) This would be a good time to read [Nobody Is Perfect, Everything Is Commensurable](https://web.archive.org/web/20200609110031/https://slatestarcodex.com/2014/12/19/nobody-is-perfect-everything-is-commensurable/) and think about donating some of that extra money.
 
 Once you have saved up 25-33x your annual expenses in cash and securities, you can pretty safely retire. There are plenty of reasons why you might decide to wait, though.  
 

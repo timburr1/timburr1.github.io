@@ -20,7 +20,7 @@ LessWrong and the [Sequences](https://wiki.lesswrong.com/wiki/Sequences)
 
 [The Righteous Mind](https://en.wikipedia.org/wiki/The_Righteous_Mind) by Jonathan Haidt  
 
-[Seeing Like A State](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/) by James C. Scott  
+[Seeing Like A State](https://web.archive.org/web/20200611033647/https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/) by James C. Scott  
 
 [SlateStarCodex](https://slatestarcodex.com/), especially:
 * [Nobody Is Perfect, Everything Is Commensurable](https://web.archive.org/web/20200422193605/https://slatestarcodex.com/2014/12/19/nobody-is-perfect-everything-is-commensurable/) 
