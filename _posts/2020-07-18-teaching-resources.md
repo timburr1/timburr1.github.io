@@ -6,6 +6,8 @@ author: Tim
 
 [CodeHS](https://codehs.com/)  
 
+[Project Euler](https://projecteuler.net/)  
+
 [Stack Overflow](https://stackoverflow.com/questions)  
 
 ### Cybersecurity  
