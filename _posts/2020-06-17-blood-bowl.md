@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Blood Bowl League 2020'
+title: 'Boise Brawlers Blood Bowl League, Summer 2020'
 author: Tim
 tags: gaming
 ---

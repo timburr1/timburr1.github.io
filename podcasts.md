@@ -6,8 +6,6 @@ title: Stuff I Listen To
 ## Podcasts  
 * [12 Byzantine Rulers](https://12byzantinerulers.com/)  
 * [All the President's Lawyers](https://www.kcrw.com/news/shows/lrc-presents-all-the-presidents-lawyers)  
-* [The British History Podcast](https://www.thebritishhistorypodcast.com/)  
-* [The China History Podcast](https://recordedhistory.net/china-history/)  
 * [Dark Net Diaries](https://darknetdiaries.com/)  
 * [Fall of Civilizations Podcast](https://fallofcivilizationspodcast.com/)  
 * [Hardcore History](https://www.dancarlin.com/hardcore-history-series/)  

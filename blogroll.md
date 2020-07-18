@@ -5,7 +5,6 @@ title: Stuff I Read
 
 ## Blogs and Newspapers  
 * [The Alexandrian](https://thealexandrian.net/)  
-* [Andrew Gelman](https://statmodeling.stat.columbia.edu/)  
 * [BoiseDev](https://boisedev.com/)  
 * [Coding Horror](https://blog.codinghorror.com/)  
 * [The Economist](https://www.economist.com/)  
