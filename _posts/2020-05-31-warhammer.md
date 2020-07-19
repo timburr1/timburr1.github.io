@@ -5,7 +5,7 @@ author: Tim
 tags: gaming
 ---
 
-[Battle Primer (Core Rules)](../../../../../_ref/40k/warhammer_40000_en.pdf) (PDF)  
+[Battle Primer (Core Rules)](../../../../../_ref/40k/ENG_40K9_Basic_Rules.pdf) (PDF)  
 
 [BattleScribe](https://battlescribe.net/) army builder  
 
