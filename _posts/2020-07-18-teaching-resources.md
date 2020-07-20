@@ -6,11 +6,15 @@ author: Tim
 
 [CodeHS](https://codehs.com/)  
 
+[Minecraft: Education Edition](https://education.minecraft.net/)  
+
 [Project Euler](https://projecteuler.net/)  
 
 [Stack Overflow](https://stackoverflow.com/questions)  
 
 ### Cybersecurity  
+[Darknet Diaries](https://darknetdiaries.com/) Podcast  
+
 [DefCon CTF Archive](https://archive.ooo/)  
 
 [Krebs on Security](https://krebsonsecurity.com/)  
