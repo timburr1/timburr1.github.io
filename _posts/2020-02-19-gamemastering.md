@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tabletop RPG Resources
-excerpt: ""
+excerpt: Tools and tips for running tabletop role-playing games.
 author: Tim
 ---
 

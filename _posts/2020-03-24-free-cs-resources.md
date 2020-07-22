@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Free Software Engineering Resources
-excerpt: ""
+excerpt: Blog posts, online courses, and other resources to learn about software engineering.
 author: Tim
 tags: tech
 ---
