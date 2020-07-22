@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Git Gud at Warhammer 40,000'
+excerpt: Especially Tyranids and Genestealer Cults. Updated for 9th edition!
 author: Tim
 tags: gaming
 ---

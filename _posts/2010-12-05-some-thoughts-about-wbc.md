@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Some thoughts about the WBC
+excerpt: "The Westboro Baptist Church came to Norman today, and Katie and I went to hold a sign and see what would happen. I've always kind of suspected that these people don't really exist, and someone has been photoshopping their signs into other pictures as a weird, elaborate prank. The fact that they do is a serious body blow to my faith in humanity. Apparently the WBC also protested in front of the Big 12 Championship last night. I find it interesting that the a super-conservative religious organization goes out of its way to offend conservatives and religious people: Baptists, OU fans, the military..."
 date: '2010-12-05T20:19:00.004Z'
 author: Tim
-tags: 
-modified_time: '2010-12-11T18:22:39.060Z'
 ---
 
 The [Westboro Baptist Church](http://www.godhatesfags.com/) came to Norman today, and Katie and I went to hold a sign and see what would happen. I've always kind of suspected that these people don't really exist, and someone has been photoshopping their signs into other pictures as a weird, elaborate prank. The fact that they do is a serious body blow to my faith in humanity. Apparently the WBC also protested in front of the Big 12 Championship last night. I find it interesting that the a super-conservative religious organization goes out of its way to offend conservatives and religious people: Baptists, OU fans, the military... 

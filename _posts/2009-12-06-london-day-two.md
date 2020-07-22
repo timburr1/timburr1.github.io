@@ -1,6 +1,7 @@
 ---
 layout: post
 title: London, day two
+excerpt: ""
 date: '2009-12-06T20:50:00.002Z'
 author: Tim
 tags: travel
@@ -19,6 +20,5 @@ The Globe tour was really interesting, although I suspect that our guide had a f
 Katie got on her bus, and I went to the museums of Natural History and Science. They were both incredible. The Natural History Museum reminded me of the Field Museum in Chicago, except in a castle. The Science museum had a big exhibit about outer space, and another one about the development of technology over the last century. 
 
 All in all, it was a great weekend. I will miss Katie, but only until I get back to Norman in January. 
-
 
 *Technically, it is a really good replica located about 100 yards from the site of the original, which burned down after a special-effects mishap.

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Heathrow/Ireland
+excerpt: I am in Heathrow airport, waiting for the Lufthansa desk to open so that I can check in for my flight. It is 23:31 right now, so that will be in t-minus five hours. Since getting back to Hatfield, I have been busy with school stuff and preparing to return to OU, so I haven't had much chance to write about last week's trip.
 date: '2010-01-17T03:44:00.004Z'
 author: Tim
 tags: travel
-modified_time: '2014-04-12T18:51:25.033+01:00'
 ---
 
 I am in Heathrow airport, waiting for the Lufthansa desk to open so that I can check in for my flight. It is 23:31 right now, so that will be in t-minus five hours. Since getting back to Hatfield, I have been busy with school stuff and preparing to return to OU, so I haven't had much chance to write about last week's trip.

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Gruezi mitenand von Baar
+excerpt: Switzerland is an interesting country. One of the first things you notice is how tidy everything is. Wherever you go, the grass is mowed and the people are neatly dressed and polite. In two days I have seen maybe a dozen pieces of litter, and not a single car that needed washing. There are little vegetable gardens all over the place, and when you get out into the country you can see neat little cornfields, or cows and goats graying away happily.
 date: '2009-09-18T16:42:00.000+01:00'
 author: Tim
 tags: travel
-modified_time: '2009-09-18T17:44:42.458+01:00'
 ---
 
 I arrived in Zurich yesterday morning. The flight was fine- long, but uneventful. Herr Arnold (Jerry's dad) picked me up from the airport, and we took the train to Zug. We caught a bus in front of the Bahnhof that took us to Baar, where the Arnolds live. The two towns are right up against one another. I have been back and forth that way several times now, and still could not tell you where one ends and the other begins. 

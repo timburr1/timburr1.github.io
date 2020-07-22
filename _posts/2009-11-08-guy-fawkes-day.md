@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Guy Fawkes Day
+excerpt: ""
 date: '2009-11-08T02:33:00.000Z'
 author: Tim
 tags: travel

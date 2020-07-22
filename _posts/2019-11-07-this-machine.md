@@ -1,6 +1,7 @@
 ---
 layout: post
 title: This Machine Kills Fascists
+excerpt: Specs and software.
 author: Tim 
 tags: tech
 ---

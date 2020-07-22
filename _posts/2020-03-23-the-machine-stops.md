@@ -1,6 +1,7 @@
 ---
 layout: post
-title: The Machine Stops - E. M. Forster
+title: The Machine Stops 
+excerpt: Short story by E. M. Forster.
 author: E. M. Forster
 tags: fiction
 ---

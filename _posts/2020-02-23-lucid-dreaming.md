@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Lucid Dreaming 
+excerpt: ""
 author: Tim
 ---
 

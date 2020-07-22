@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Notes from 'The Elements of Scrum'
+excerpt: ""
 tags: tech
 ---
 

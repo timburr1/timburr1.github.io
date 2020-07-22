@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Paris, day three
+excerpt: ""
 date: '2009-10-27T18:35:00.002Z'
 author: Tim
 tags: travel

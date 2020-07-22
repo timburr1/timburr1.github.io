@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Saving, Retirement, and Effective Altruism
+excerpt: 'Saving money is one of those things that is simple, but not easy. You just have to spend less than you make, how hard could that be? (/s) With this framing, it is pretty obvious that someone who is unhappy w/ their current savings rate has two choices: make more, or spend less.'
 author: Tim
 ---
 

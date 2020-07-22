@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Data Brokers
+excerpt: ""
 author: Tim 
 ---
 

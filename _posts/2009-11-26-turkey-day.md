@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Turkey Day
+excerpt: I am thankful for these friends, and all of the rest who are scattered across the U.S. and the rest of the world. I am thankful for my family, my health, and the fact that Silvio Berlusconi was unanimously named Rolling Stone's Rock Star of the Year.  
 date: '2009-11-26T22:23:00.002Z'
 author: Tim
 tags: 
-modified_time: '2009-11-26T22:29:17.227Z'
 ---
 
 Happy Thanksgiving everyone! I just got back from eating dinner with a bunch of other American students in Melanie's kitchen. Quote of the day came from Stein, who was talking to a piece of cheesecake: "Hello again, old friend."  

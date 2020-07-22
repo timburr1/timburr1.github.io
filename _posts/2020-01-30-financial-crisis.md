@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The 2007 Financial Crisis
+excerpt: A reading list. 
 author: Tim
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Fermentation Station
+excerpt: Recipes for cider and kombucha.
 author: Tim
 ---
 

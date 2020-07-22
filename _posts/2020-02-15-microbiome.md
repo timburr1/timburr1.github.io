@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Intestinal Microflora and You
+excerpt: ""
 author: Tim
 ---
 

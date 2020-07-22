@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Exercise, Nutrition, and Sleep
+excerpt: ""
 author: Tim
 ---
 

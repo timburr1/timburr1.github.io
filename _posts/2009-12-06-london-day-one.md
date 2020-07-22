@@ -1,10 +1,10 @@
 ---
 layout: post
 title: London, day one
+excerpt: ""
 date: '2009-12-06T20:27:00.001Z'
 author: Tim
 tags: travel
-modified_time: '2009-12-10T12:45:11.288Z'
 ---
 
 Saturday was another early morning: Katie and I caught an early train w/ Emilio and Hannah. Four-person discount for the win! For 6.25£ apiece, we got a train ticket into the city, and unlimited use of the tubes all day long.  

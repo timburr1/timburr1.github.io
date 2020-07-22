@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Harrison Bergeron - Kurt Vonnegut
+title: Harrison Bergeron 
+excerpt: Short story by Kurt Vonnegut, Jr.
 author: Kurt Vonnegut, Jr. 
 tags: fiction
 ---

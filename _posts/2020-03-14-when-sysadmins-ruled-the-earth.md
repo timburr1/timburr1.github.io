@@ -1,6 +1,7 @@
 ---
 layout: post
-title: When Sysadmins Ruled the Earth - Cory Doctorow
+title: When Sysadmins Ruled the Earth 
+excerpt: Short story by Cory Doctorow.
 author: Cory Doctorow
 tags: fiction
 ---

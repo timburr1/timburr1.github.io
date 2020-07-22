@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Resources for Teaching Computer Science
+excerpt: A growing collection of resources for teaching cybersecurity, databases, and web development.
 author: Tim
 ---
 
@@ -13,6 +14,8 @@ author: Tim
 [Stack Overflow](https://stackoverflow.com/questions)  
 
 ### Cybersecurity  
+[blog post](/2020/02/15/cybersecurity.html)  
+
 [Darknet Diaries](https://darknetdiaries.com/) Podcast  
 
 [DefCon CTF Archive](https://archive.ooo/)  

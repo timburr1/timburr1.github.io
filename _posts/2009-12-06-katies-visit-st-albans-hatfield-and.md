@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Katie''s Visit: St. Albans, Hatfield, and Oxford'
+excerpt: Katie flew in on Wednesday night, arriving in Hatfield at about 1am thanks to weather delays at Barajas. We went to St. Albans on Thursday, to look at the Cathedral and the Roman wall in Verulamium Park. It started to rain, so we passed some time in Ye Olde Fighting Cocks, which claims to be the oldest pub in England.
 date: '2009-12-06T20:09:00.003Z'
 author: Tim
 tags: travel

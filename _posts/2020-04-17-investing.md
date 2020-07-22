@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Investing Resources
+excerpt: This is not real financial advice. I have no fiduciary duty toward you, whoever you are. Past results are not indicative of future returns. Proceed at your own risk.
 author: Tim
 ---
 

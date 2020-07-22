@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Bedford/Edinburgh
+excerpt: I made it to Katie's yesterday. The money is all the same size again, and everyone drives on the right side of the road. When I was waiting in line to get my passport checked, the man in front of me turned around and spontaneously started a conversation; it is good to be home.
 date: '2010-01-17T04:05:00.004Z'
 author: Tim
 tags: travel

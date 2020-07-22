@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Pathfinder Campaign Stuff
+excerpt: Resources for the wise and venerable rulers of Unicornia.
 author: Tim
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Confusion Cannon
+excerpt: A list of books and things that have influenced my thinking.
 author: Tim
 ---
 

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Fresher's and Cambridge
+excerpt: ""
 date: '2009-10-05T23:04:00.000+01:00'
 author: Tim
 tags: school, travel
-modified_time: '2009-11-08T03:04:10.205Z'
 ---
 
 The house is full, which is a good thing. It was awfully quiet w/ just Emilio and me here. The rest of my flatmates seem pretty cool. We went to the Forum to see <a href="http://www.youtube.com/watch?v=dnezldGu7JU">Wiley</a>* the other night, which was a lot of fun. Wiley wasn't actually that good live (he rapped a couple of songs on top of a tape of himself rapping, which was kind of like Michael Scott karaoke), but it was fun to go out and dance. 

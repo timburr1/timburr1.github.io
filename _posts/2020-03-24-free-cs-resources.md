@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Free Software Engineering Resources
+excerpt: ""
 author: Tim
 tags: tech
 ---

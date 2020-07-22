@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Quick update
+excerpt: ""
 date: '2009-10-19T12:34:00.000+01:00'
 author: Tim
 tags: school, travel

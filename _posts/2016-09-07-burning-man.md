@@ -1,6 +1,7 @@
 ---
 layout: post
 title: )'(
+excerpt: "Welcome to the vacant heart of the wild west."
 author: Tim
 tags: travel
 ---
@@ -12,7 +13,7 @@ tags: travel
 <br>
 <img align="center" src="/images/burningman2016/windshield.jpg" width="544" alt-text=""/>
 <br>
-*"Welcome to the vacant heart of the wild west"*  
+*"Welcome to the vacant heart of the wild west."*  
 
 <br>
 <img align="center" src="/images/burningman2016/camp.jpg" width="544" alt-text=""/>

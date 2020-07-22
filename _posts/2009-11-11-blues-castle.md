@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Blue's Castle
+excerpt: Once upon a time, in a faraway land called New Jersey, there lived a woman and her three lovely daughters. They were reasonably happy, although it must be said that raising three teenage girls is quite a task for anyone, especially a single mother. The youngest daughter, who had been rather unfortunately named Blue, went through a rebellious phase about the time she turned 18. She decided that she no longer wished to live with her family, and began chasing boys in clubs and bars, in the hope that one of them might be able and willing to sweep her off into a life of comfort. This seemed easier than finding a job and roommates, especially since she really was quite attractive.
 date: '2009-11-11T09:18:00.002Z'
 author: Tim
 tags: fiction

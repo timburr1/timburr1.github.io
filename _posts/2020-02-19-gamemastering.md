@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Tabletop RPG Resources
+excerpt: ""
 author: Tim
 ---
 

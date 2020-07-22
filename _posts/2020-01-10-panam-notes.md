@@ -1,6 +1,7 @@
 ---
 layout: post
 title: La Aventura de Aerolínea PanAmerica
+excerpt: I recently finished a fake travel web site for Spanish students. You can see it, or the GitHub repo.
 author: Tim
 tags: school, tech
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: They're Made out of Meat - Terry Bisson
+title: They're Made out of Meat 
+excerpt: Short story by Terry Bisson.
 author: Terry Bisson
 tags: fiction
 ---

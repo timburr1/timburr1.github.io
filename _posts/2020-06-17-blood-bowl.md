@@ -1,9 +1,12 @@
 ---
 layout: post
-title: 'Boise Brawlers Blood Bowl League, Summer 2020'
+title: 'Boise Brawlers'
+excerpt: How to play Blood Bowl and participate in the 2020 Boise Brawlers summer league.
 author: Tim
 tags: gaming
 ---
+
+## Feel better soon Nate!  
 
 [Blood Bowl Rulebook, 2016](../../../../../_ref/bloodbowl/BloodBowl2016.pdf) (PDF)  
 

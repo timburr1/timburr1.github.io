@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Programming Videos on YouTube
+excerpt: ""
 author: Tim
 tags: tech
 ---

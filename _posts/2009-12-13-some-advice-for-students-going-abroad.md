@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Some advice for students going abroad, or considering it
+excerpt: ""
 date: '2009-12-13T11:55:00.004Z'
 author: Tim
 tags: travel
-modified_time: '2009-12-13T15:58:30.450Z'
-blogger_id: tag:blogger.com,1999:blog-8654393464763154.post-4519971991585630469
-blogger_orig_url: http://tburr.blogspot.com/2009/12/some-advice-for-students-going-abroad.html
 ---
 
 1. Learn to backpack. It is super-cheap to hop on a RyanAir flight to almost anywhere in Europe, but only if your luggage consists of one carry-on bag. Learn what you need to bring for a weekend trip, and what you can leave behind. (Hint: you will want a water bottle and a rain poncho much more than your laptop.)  

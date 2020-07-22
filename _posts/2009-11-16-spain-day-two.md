@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Spain, day two
+excerpt: We spent Saturday in Madrid. We got an early start and took the train into Atocha Station. We saw la Puerta de Toledo y la Basilica de San Francisco el Grande. We had a quick picnic before heading over to la Catedral de Santa María la Real de la Almudena. It's very impressive; I have never seen a cathedral that is quite so modern, or so full of primary colors. I was interested in the museum upstairs, as well as the interior of the dome which is painted with an alchemical theme.
 date: '2009-11-16T21:49:00.005Z'
 author: Tim
 tags: travel

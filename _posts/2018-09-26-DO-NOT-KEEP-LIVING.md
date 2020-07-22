@@ -1,6 +1,7 @@
 ---
 layout: post
 title: DO NOT KEEP LIVING LIKE THIS
+excerpt: Burning Man 2018.
 author: Tim
 tags: travel
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Weon Weon Weon: Nuestra Viaje a Chile'
+title: Weon Weon Weon 
+excerpt: Nuestra Viaje a Chile.
 author: Tim
 tags: travel
 ---

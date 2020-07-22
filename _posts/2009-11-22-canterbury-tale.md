@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Canterbury Tale
+excerpt: Yesterday, I went with a group of (mostly) international students to Canterbury. A guide showed us around the old city wall and the Norman castle, then left us to explore for a few hours.
 date: '2009-11-22T10:22:00.001Z'
 author: Tim
 tags: travel
-modified_time: '2009-11-22T10:24:10.905Z'
 ---
 
 Yesterday, I went with a group of (mostly) international students to Canterbury. A guide showed us around the old city wall and the Norman castle, then left us to explore for a few hours. 

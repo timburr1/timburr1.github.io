@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Zurich to Hatfield
+excerpt: ""
 date: '2009-09-20T17:24:00.001+01:00'
 author: Tim
 tags: travel
-modified_time: '2009-11-16T23:59:24.823Z'
 ---
 
 I enjoyed my stay in Switzerland. Jerry showed me around Luzern on Friday morning, but he had a school trip in the afternoon, so his sister Nela took me all over Zug and the surrounding countryside. We saw Jerry's Schule in Menzingen. This was interesting. The building is very modern, but there is a farm next door and the cornfield runs right up against the school. The view was great.

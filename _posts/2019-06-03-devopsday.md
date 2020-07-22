@@ -1,6 +1,7 @@
 ---
 layout: post
 title: DevOpsDays Boise
+excerpt: Here are my transcribed notes from Dev Ops Days, Boise 2019.
 author: Tim
 tags: tech
 ---
