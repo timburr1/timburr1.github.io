@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Notes from 'Accelerate'
-excerpt: ""
+excerpt: On the practices and capabilities of high-performing tech companies.
 author: Tim
 tags: tech
 ---

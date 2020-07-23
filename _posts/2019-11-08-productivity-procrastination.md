@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mental Health, Productivity, and Procrastination
-excerpt: ""
+excerpt: Tell me what you did today, and I’ll tell you who you are.
 author: Tim
 ---
 

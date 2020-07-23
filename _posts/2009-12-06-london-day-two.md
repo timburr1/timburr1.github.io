@@ -1,12 +1,10 @@
 ---
 layout: post
 title: London, day two
-excerpt: ""
+excerpt: "We headed to St. Paul's Cathedral first thing after checking out of the hostel. One more insider tip: if you ever find yourself in London, a day travelcard for the tubes is well worth the money, especially if you buy it after the peak hours end. After St. Paul's, we wanted to take a tour of Shakespeare's Globe Theater, but it wasn't open when we got there. To kill some time, we walked to the Tower of London via Southwark Cathedral."
 date: '2009-12-06T20:50:00.002Z'
 author: Tim
 tags: travel
-modified_time: '2009-12-10T12:54:50.342Z'
-blogger_orig_url: http://tburr.blogspot.com/2009/12/loondon-day-two.html
 ---
 
 <a href="/images/eurotrip/st_pauls.JPG"><img style="float:right; margin:10px 10px 10px 10px;cursor:pointer; cursor:hand;width: 240px; height: 320px;" src="/images/eurotrip/st_pauls.JPG" border="0" alt=""/></a> 

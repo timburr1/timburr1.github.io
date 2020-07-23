@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Notes from 'The Elements of Scrum'
-excerpt: ""
+excerpt: Scrum roles, sprints, artifacts, and estimation.
 tags: tech
 ---
 

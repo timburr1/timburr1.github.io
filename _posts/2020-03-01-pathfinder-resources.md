@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pathfinder Campaign Stuff
-excerpt: Resources for the wise and venerable rulers of Unicornia.
+excerpt: Scrolls and codices for the wise and venerable rulers of Unicornia.
 author: Tim
 ---
 

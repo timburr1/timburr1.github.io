@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Programming Videos on YouTube
-excerpt: ""
+excerpt: Some things you can watch to learn about software engineering and DevOps.
 author: Tim
 tags: tech
 ---

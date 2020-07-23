@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Play Magic over the Internet
-excerpt: Instructions for setting up and playing with M:tG Arena and Cockatrice.
+excerpt: "When you want to play Magic, but the gathering is not allowed: instructions for setting up and playing with M:tG Arena and Cockatrice."
 author: Tim
 ---
 

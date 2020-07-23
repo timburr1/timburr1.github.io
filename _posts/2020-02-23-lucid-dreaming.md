@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lucid Dreaming 
-excerpt: A handful of resources to learn about lucid dreaming.
+excerpt: Some information of how to lucid dream, and why you might want to.
 author: Tim
 ---
 

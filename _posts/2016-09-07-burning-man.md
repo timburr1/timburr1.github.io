@@ -1,7 +1,7 @@
 ---
 layout: post
 title: )'(
-excerpt: "Welcome to the vacant heart of the wild west."
+excerpt: "Burning Man 2016: Welcome to the vacant heart of the wild west."
 author: Tim
 tags: travel
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Intestinal Microflora and You
-excerpt: ""
+excerpt: New research on the human microbiome. 
 author: Tim
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exercise, Nutrition, and Sleep
-excerpt: ""
+excerpt: How to get healthier and stronger.
 author: Tim
 ---
 
