@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Look 'em straight in the eye and say...
-excerpt: Yesterday was a good day. I went into London early to look around before the Pogues concert at 7. (I bought my ticket the day after they went on sale.) The plan was to ride in early, visit the Science Museum, and play some Magic before catching the tube to Brixton for the show.
+excerpt: ""
 date: '2009-12-20T14:43:00.012Z'
 author: Tim
 tags: travel

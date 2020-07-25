@@ -1,7 +1,7 @@
 ---
 layout: post
 title: London, day one
-excerpt: "We stayed in King's Cross just long enough to find platform 9 3/4 before catching the tube to Green Park. From there we went to: Buckingham Palace, Big Ben, Westminster Palace, and the London Eye. After dropping our things off at the hostel, we went up to check out Hyde Park and Covent Gardens, which were both nice. Then we went to an evensong service at Westminster Abbey, where a woman politely told me that I was not allowed to take a picture of Sir Isaac Newton's tomb."
+excerpt: ""
 date: '2009-12-06T20:27:00.001Z'
 author: Tim
 tags: travel

@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Cybersecurity Best Practices
-excerpt: Don't click on links in sketchy emails.
+excerpt: Use a long, random, unique password for every web site where you have an account. Really, use a different one for each site. The best way to do this is with a password manager like LastPass (but a stack of index cards is probably fine too). You still need to memorize your passwords for LastPass and primary email account. It's easy to generate good, strong passwords from any line from a book or song. For example, "He's in it for the quiche, you might as well not ask him for no free stuff, capiche?" ==> !Hii4tq,Umawnah4nfsc?  
 author: Tim 
 ---
 
-Use a long, random, unique password for every web site where you have an account. **Really, use a different one for each site.** The best way to do this is w/ a password manager like [LastPass](https://www.lastpass.com/) (but a stack of index cards is probably fine too). You still need to memorize your passwords for LastPass and primary email account. It's easy to generate good, strong passwords from any line from a book or song. For example, "He's in it for the quiche, you might as well not ask him for no free stuff, capiche?" ==> !Hii4tq,Umawnah4nfsc?  
+Use a long, random, unique password for every web site where you have an account. **Really, use a different one for each site.** The best way to do this is with a password manager like [LastPass](https://www.lastpass.com/) (but a stack of index cards is probably fine too). You still need to memorize your passwords for LastPass and primary email account. It's easy to generate good, strong passwords from any line from a book or song. For example, "He's in it for the quiche, you might as well not ask him for no free stuff, capiche?" ==> !Hii4tq,Umawnah4nfsc?  
 
 Think about using a Virtual Private Network if you ever connect to public wifi, or if you would like to connect to the wifi at work, but also your friends like to post nsfw memes to Discord. I use [ExpressVPN](https://www.expressvpn.com/) but there are plenty of good options.
 

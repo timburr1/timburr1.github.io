@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Turkey Day
-excerpt: I am thankful for these friends, and all of the rest who are scattered across the U.S. and the rest of the world. I am thankful for my family, my health, and the fact that Silvio Berlusconi was unanimously named Rolling Stone's Rock Star of the Year.  
+excerpt: ""
 date: '2009-11-26T22:23:00.002Z'
 author: Tim
 tags: 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Almost ready to go!
-excerpt: Hi! If you are reading this, you probably already know that my name is Tim Burr. I am a junior at the University of Oklahoma, where I study computer science and math. I am writing this because I am going to study in England for the semester, and a blog seems like an easy way to keep in touch with people back home.
+excerpt: ""
 date: '2009-09-15T18:09:00.000+01:00'
 author: Tim
 tags: travel

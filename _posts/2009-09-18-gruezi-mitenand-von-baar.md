@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gruezi mitenand von Baar
-excerpt: Switzerland is an interesting country. One of the first things you notice is how tidy everything is. Wherever you go, the grass is mowed and the people are neatly dressed and polite. In two days I have seen maybe a dozen pieces of litter, and not a single car that needed washing. There are little vegetable gardens all over the place, and when you get out into the country you can see neat little cornfields, or cows and goats grazing away happily.
+excerpt: ""
 date: '2009-09-18T16:42:00.000+01:00'
 author: Tim
 tags: travel

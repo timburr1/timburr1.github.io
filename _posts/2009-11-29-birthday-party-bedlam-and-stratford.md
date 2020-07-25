@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Birthday Party, Bedlam, and Stratford
-excerpt: "Good frend for Iesvs sake forbeare, To digg the dvst encloased heare. Blese be ye man yt spares thes stones, And cvrst be he yt moves my bones."
+excerpt: ""
 date: '2009-11-29T21:53:00.000Z'
 author: Tim
 tags: travel

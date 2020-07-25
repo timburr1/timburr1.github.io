@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spain, day one
-excerpt: I've decided that I really like exploring foreign cities; I just hate getting to and from them. I flew into Madrid thursday night, planning on catching the metro to Estación Nuevos Ministerios and taking a train from there to Alcalá de Henares, where Katie is living. This didn't work, due to an unlikely set of circumstances, and I ended up spending the night in the bus stop above the metro station.
+excerpt: ""
 date: '2009-11-16T15:28:00.004Z'
 author: Tim
 tags: travel

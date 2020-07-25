@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Norman/Glasgow
-excerpt: Today was interesting. Apparently the Commons has changed management two or three times since I moved out, and I am no longer in their records. They won't let me move in until they do a background check, which won't happen until monday, at the earliest. Until then, I'm homeless and sleeping on Katie's couch. So... Glasgow.
+excerpt: ""
 date: '2010-01-17T04:18:00.003Z'
 author: Tim
 tags: travel

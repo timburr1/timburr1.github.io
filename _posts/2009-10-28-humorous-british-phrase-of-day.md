@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Humorous British phrase of the day:'
-excerpt: I've got a database test next week. According to studynet, we are supposed to bring "a good rubber..."
+excerpt: ""
 date: '2009-10-28T03:42:00.000Z'
 author: Tim
 tags: school, travel
