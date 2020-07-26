@@ -6,7 +6,7 @@ author: Tim
 tags: gaming
 ---
 
-[Battle Primer (9th Ed. Core Rules)](../../../../../_ref/40k/ENG_40K9_Basic_Rules.pdf) (PDF)  
+[Battle Primer (9th Ed. Core Rules)](../../../../../_ref/40k/9th ed battle primer.pdf) (PDF)  
 
 [BattleScribe](https://battlescribe.net/) army builder  
 
