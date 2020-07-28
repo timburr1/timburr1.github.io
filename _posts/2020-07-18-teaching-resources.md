@@ -7,6 +7,8 @@ author: Tim
 
 [CodeHS](https://codehs.com/)  
 
+[Computer Science Unplugged: off-line activities and games for all ages](../../../../../papers/cs-unplugged.pdf) (PDF)
+
 [Minecraft: Education Edition](https://education.minecraft.net/)  
 
 [Project Euler](https://projecteuler.net/)  
@@ -19,6 +21,8 @@ author: Tim
 [Darknet Diaries](https://darknetdiaries.com/) Podcast  
 
 [DefCon CTF Archive](https://archive.ooo/)  
+
+[Have I Been Pwned?](https://haveibeenpwned.com/)  
 
 [Krebs on Security](https://krebsonsecurity.com/)  
 
