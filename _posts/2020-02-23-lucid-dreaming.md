@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lucid Dreaming 
-excerpt: Some information of how to lucid dream, and why you might want to.
+excerpt: Some information about how to stay lucid while dreaming, and why you might want to.
 author: Tim
 ---
 
