@@ -84,7 +84,7 @@ Projects
 ----
 * [Quality of Life Modpack for Sid Meier's Civ V](/2020/08/01/civ-v-modpack.html)  
 * [Aerolínea PanAmerica](/2020/01/10/panam-notes.html)  
-* [Illumicone](https://illumicone.com/) Test System  
+* [Illumicone](https://illumicone.com/) [Test System](https://github.com/skipzone/Illumicone/tree/master/simulator)  
 * [Story Parser](/StoryParser.html)  
 * [Machine Learning in StarCraft: Brood War](/papers/burr2011.pdf)  
 
