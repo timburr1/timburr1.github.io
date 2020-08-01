@@ -28,6 +28,7 @@ title: Stuff I Read
 * [Sci-Hub](https://sci-hub.tw/)  
 * [Scott Hanselman](https://www.hanselman.com/blog/)  
 * [Slate Star Codex](https://slatestarcodex.com/)  
+* [Stratechery](https://stratechery.com/)  
 * [Wait But Why](https://waitbutwhy.com)  
 
 ## Web Comics  
