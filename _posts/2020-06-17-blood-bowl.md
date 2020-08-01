@@ -6,8 +6,6 @@ author: Tim
 tags: gaming
 ---
 
-## Feel better soon Nate!  
-
 [Blood Bowl Rulebook, 2016](../../../../../_ref/bloodbowl/BloodBowl2016.pdf) (PDF)  
 
 [Boise Brawlers OBBLM](https://boise-brawlers.obblm.com/)  

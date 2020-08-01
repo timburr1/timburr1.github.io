@@ -7,7 +7,7 @@ title: Curriculum Vitae
 
 Work Experience
 ----
-Aug 2020 - Present  
+May 2020 - Present  
 **Computer Science Teacher | Centennial High School | Meridian, ID**  
 * Teaches computer science with a focus on web development, databases, and cybersecurity
 
@@ -82,6 +82,7 @@ Tools and Languages
 
 Projects
 ----
+* [Quality of Life Modpack for Sid Meier's Civ V](/2020/08/01/civ-v-modpack.html)  
 * [Aerolínea PanAmerica](/2020/01/10/panam-notes.html)  
 * [Illumicone](https://illumicone.com/) Test System  
 * [Story Parser](/StoryParser.html)  

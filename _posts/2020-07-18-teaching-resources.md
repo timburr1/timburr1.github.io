@@ -7,6 +7,8 @@ author: Tim
 
 [CodeHS](https://codehs.com/)  
 
+[Computer Science Teachers Association](https://csteachers.org)  
+
 [Computer Science Unplugged: off-line activities and games for all ages](../../../../../papers/cs-unplugged.pdf) (PDF)
 
 [Cyber.Org](https://cyber.org/)  
@@ -20,17 +22,17 @@ author: Tim
 ### Cybersecurity  
 [blog post](/2020/02/15/cybersecurity.html)  
 
-[Darknet Diaries](https://darknetdiaries.com/) Podcast  
+[Darknet Diaries](https://darknetdiaries.com/) podcast  
 
 [DefCon CTF Archive](https://archive.ooo/)  
 
 [Have I Been Pwned?](https://haveibeenpwned.com/)  
 
-[Krebs on Security](https://krebsonsecurity.com/)  
+[Krebs on Security](https://krebsonsecurity.com/) blog  
 
 [MalwareTech](https://www.malwaretech.com/)  
 
-[Schneier on Security](https://www.schneier.com/)  
+[Schneier on Security](https://www.schneier.com/) blog  
 
 [Why Do Keynote Speakers Keep Suggesting That Improving Security Is Possible?](https://www.youtube.com/watch?v=ajGX7odA87k) (YouTube)  
 
