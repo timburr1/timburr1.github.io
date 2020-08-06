@@ -22,8 +22,6 @@ tags: tech
 [Why Is This Website Port Scanning Me?](https://nullsweep.com/why-is-this-website-port-scanning-me/)  
 
 ## Longer Stuff:  
-[CodeHS](https://codehs.com/)  
-
 [The Codeless Code: Fables and Koans for the Software Engineer](http://thecodelesscode.com/contents)  
 
 [Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212#) - Peter Norvig, Udacity  

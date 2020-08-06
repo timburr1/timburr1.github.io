@@ -13,14 +13,12 @@ author: Tim
 
 [Cyber.Org](https://cyber.org/)  
 
-[Minecraft: Education Edition](https://education.minecraft.net/)  
+[Free Software Engineering Resources](/2020/03/24/free-cs-resources.html)  
 
-[Project Euler](https://projecteuler.net/)  
-
-[Stack Overflow](https://stackoverflow.com/questions)  
+[Idaho Content Standards: Computer Science](../../../../../papers/ICS-Computer-Science-Standards.pdf) (PDF)  
 
 ### Cybersecurity  
-[blog post](/2020/02/15/cybersecurity.html)  
+[Cybersecurity Best Practices](/2020/02/15/cybersecurity.html)  
 
 [Darknet Diaries](https://darknetdiaries.com/) podcast  
 
@@ -30,20 +28,25 @@ author: Tim
 
 [Krebs on Security](https://krebsonsecurity.com/) blog  
 
-[MalwareTech](https://www.malwaretech.com/)  
+[MalwareTech](https://www.malwaretech.com/) blog  
 
 [Schneier on Security](https://www.schneier.com/) blog  
 
 [Why Do Keynote Speakers Keep Suggesting That Improving Security Is Possible?](https://www.youtube.com/watch?v=ajGX7odA87k) (YouTube)  
 
 ### Databases  
-[The Old Man and the SeaQL](https://www.youtube.com/watch?v=9L5NDG2aOLE) (YouTube)  
-
-[The SQL Gods Must Be Crazy](https://www.youtube.com/watch?v=6TMNCMvz7Ho&t=8s) (YouTube)  
+[A Tale of Two CTEs](https://www.youtube.com/watch?v=o2P0XqbcOUM) (YouTube)  
 
 [Database Replication](https://www.youtube.com/watch?v=PvyZW1sMWT8) (YouTube)  
 
-[A Tale of Two CTEs](https://www.youtube.com/watch?v=o2P0XqbcOUM) (YouTube)  
+[Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)  
+
+[Gay marriage: the database engineering perspective ](https://web.archive.org/web/20170807015344/https://qntm.org/gay)  
+> The real crime is that I'm not allowed to marry my database.
+
+[The Old Man and the SeaQL](https://www.youtube.com/watch?v=9L5NDG2aOLE) (YouTube)  
+
+[The SQL Gods Must Be Crazy](https://www.youtube.com/watch?v=6TMNCMvz7Ho&t=8s) (YouTube)  
 
 [SQL Joins: Clowns (to the LEFT) Jokers (to the RIGHT)](https://www.youtube.com/watch?v=QA0-6IRS9hc) (YouTube)  
 
