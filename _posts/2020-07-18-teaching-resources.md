@@ -13,9 +13,15 @@ author: Tim
 
 [Cyber.Org](https://cyber.org/)  
 
+[Flipgrid](https://info.flipgrid.com/) video discussion tool  
+
 [Free Software Engineering Resources](/2020/03/24/free-cs-resources.html)  
 
 [Idaho Content Standards: Computer Science](../../../../../papers/ICS-Computer-Science-Standards.pdf) (PDF)  
+
+[Lucidchart](https://www.lucidchart.com/pages/) virtual whiteboard  
+
+[StormBoard](https://www.stormboard.com/) shared workspace  
 
 ### Cybersecurity  
 [Cybersecurity Best Practices](/2020/02/15/cybersecurity.html)  
@@ -42,7 +48,6 @@ author: Tim
 [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)  
 
 [Gay marriage: the database engineering perspective ](https://web.archive.org/web/20170807015344/https://qntm.org/gay)  
-> The real crime is that I'm not allowed to marry my database.
 
 [The Old Man and the SeaQL](https://www.youtube.com/watch?v=9L5NDG2aOLE) (YouTube)  
 
