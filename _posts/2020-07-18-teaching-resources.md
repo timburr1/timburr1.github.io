@@ -23,22 +23,7 @@ author: Tim
 
 [StormBoard](https://www.stormboard.com/) shared workspace  
 
-### Cybersecurity  
-[Cybersecurity Best Practices](/2020/02/15/cybersecurity.html)  
-
-[Darknet Diaries](https://darknetdiaries.com/) podcast  
-
-[DefCon CTF Archive](https://archive.ooo/)  
-
-[Have I Been Pwned?](https://haveibeenpwned.com/)  
-
-[Krebs on Security](https://krebsonsecurity.com/) blog  
-
-[MalwareTech](https://www.malwaretech.com/) blog  
-
-[Schneier on Security](https://www.schneier.com/) blog  
-
-[Why Do Keynote Speakers Keep Suggesting That Improving Security Is Possible?](https://www.youtube.com/watch?v=ajGX7odA87k) (YouTube)  
+**[Cybersecurity Enrichment Activities](/2020/08/17/cybersecurity-enrichment.html)**
 
 ### Databases  
 [A Tale of Two CTEs](https://www.youtube.com/watch?v=o2P0XqbcOUM) (YouTube)  

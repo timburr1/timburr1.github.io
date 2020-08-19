@@ -7,6 +7,7 @@ title: Stuff I Listen To
 * [12 Byzantine Rulers](https://12byzantinerulers.com/)  
 * [All the President's Lawyers](https://www.kcrw.com/news/shows/lrc-presents-all-the-presidents-lawyers)  
 * [Dark Net Diaries](https://darknetdiaries.com/)  
+* [Deep Cover: The Drug Wars](https://www.deepcoverpod.com/)  
 * [Fall of Civilizations Podcast](https://fallofcivilizationspodcast.com/)  
 * [Hardcore History](https://www.dancarlin.com/hardcore-history-series/)  
 * [The History of Byzantium](https://thehistoryofbyzantium.com/)  

@@ -8,7 +8,7 @@ title: Curriculum Vitae
 Work Experience
 ----
 May 2020 - Present  
-**Computer Science Teacher | Centennial High School | Meridian, ID**  
+**Computer Science Teacher | Centennial High School | Boise, ID**  
 * Teaches computer science with a focus on web development, databases, and cybersecurity
 
 Aug 2019 - May 2020  

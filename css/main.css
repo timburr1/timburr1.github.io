@@ -38,7 +38,14 @@ h1 {
 }
 
 h2 {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     margin-bottom: 2px;
+}
+
+h3 {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    margin-left: 5px;
+    margin-bottom: 3px;
 }
 
 li {
