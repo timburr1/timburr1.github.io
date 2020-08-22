@@ -11,8 +11,6 @@ title: Slingin' Cardboard
 
 [How to Play Basically Any Other Game over the Internet](/papers/Online Board Games.pdf)  
 
-Add me: [timburr2](https://steamcommunity.com/id/timburr2/) on Steam, **TimothyTimburr#39320** on M:tG Arena, **TimothyTimber@server.cockatrice.us**, or **ThallidSalad#1392** on Battle.net.  
-
 You can look at my [Magic: the Gathering](/2020/01/17/mtg.html) decks on [Deckbox](https://deckbox.org/users/timburr), if you are into that sort of thing.  
 
 I'm also getting into [Warhammer 40k](/2020/05/31/warhammer.html) a little bit. Army lists: 

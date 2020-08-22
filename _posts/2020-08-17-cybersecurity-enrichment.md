@@ -6,21 +6,23 @@ author: Tim
 tags: school, tech
 ---
 
+[CyberPatriot](https://www.uscyberpatriot.org/) educational programs and competitions from the US Air Force  
+
 [Cybersecurity Best Practices](/2020/02/15/cybersecurity.html)  
 
-[Why Do Keynote Speakers Keep Suggesting That Improving Security Is Possible?](https://www.youtube.com/watch?v=ajGX7odA87k) - James Mickens, YouTube  
-
-### Blogs
 [Darknet Diaries](https://darknetdiaries.com/) podcast, especially:  
 * [Ep 03](https://darknetdiaries.com/episode/3/): DigiNotar and Certificate Authorities  
 * [Ep 09](https://darknetdiaries.com/episode/9/): Bitcoin and Mt. Gox  
-* [Ep 12](https://darknetdiaries.com/episode/12/): The Crypto Wars of the 90s  
+* [Ep 12](https://darknetdiaries.com/episode/12/): The Crypto Wars  
 * [Ep 29](https://darknetdiaries.com/episode/29/): Stuxnet  
 * [Ep 34](https://darknetdiaries.com/episode/34/): DON'T SEND NUDES  
 * [Ep 53](https://darknetdiaries.com/episode/53/): The Shadow Brokers leaks
 * [Ep 54](https://darknetdiaries.com/episode/54/): NotPetya  
 * [Ep 68](https://darknetdiaries.com/episode/68/): Triton  
 
+[Why Do Keynote Speakers Keep Suggesting That Improving Security Is Possible?](https://www.youtube.com/watch?v=ajGX7odA87k) - James Mickens, YouTube  
+
+### Blogs
 [Krebs on Security](https://krebsonsecurity.com/)  
 [MalwareTech](https://www.malwaretech.com/)  
 [Schneier on Security](https://www.schneier.com/)  

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Exogenous Neurotransmitters
+excerpt: Don't do drugs, m'kay?
 author: Tim
 ---
 
@@ -24,7 +25,10 @@ author: Tim
 
 **SlateStarCodex:**  
 [Marijuana: Much More Than You Wanted To Know](https://web.archive.org/web/20200428072243/https://slatestarcodex.com/2014/01/05/marijuana-much-more-than-you-wanted-to-know/)  
+> Conclusion for this section [Is Marijuana Bad For You?]: Marijuana does not have a detectable effect on mortality and there is surprisingly scarce evidence of tobacco-like side effects. It probably does decrease IQ if used early and often, possibly by as many as 8 IQ points. It may increase risk of psychosis by as much as 40%, but it’s not clear who is at risk or whether the risk is even real. The gateway drug hypothesis is too complicated to evaluate effectively but there is no clear casual evidence in its support.
+
 [Marijuana: An Update](https://web.archive.org/web/20200519021629/https://slatestarcodex.com/2018/11/07/marijuana-an-update/)  
+> In the current set of nine states with legalization, the 5% increase [in deaths from car accidents] would amount to an extra 300 deaths per year. If the country as a whole legalized, that would make about 1800 extra deaths per year. Using my totally made-up math model from the previous post, this is enough to shift the net effect of marijuana legalization from positive to slightly negative. This is especially true if the alternative to legalization is decriminalization, which has many of the benefits of legalization but fewer costs.
 
 **Other Resources:**  
 [Bunk Police - Leaders in Test Kits, Research and Innovation](https://bunkpolice.com/)  

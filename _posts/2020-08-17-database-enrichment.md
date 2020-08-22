@@ -8,7 +8,10 @@ tags: school, tech
 
 ### Articles  
 [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)  
+> I have never seen a computer system which handles names properly and doubt one exists, anywhere. So, as a public service, I’m going to list assumptions your systems probably make about names. All of these assumptions are wrong. Try to make less of them next time you write a system which touches names.
+
 [Gay marriage: the database engineering perspective ](https://web.archive.org/web/20170807015344/https://qntm.org/gay)  
+> Speaking as a computery-type person, altering the paper forms is not my department. It's probably expensive and there are probably millions of existing incorrect forms which would need returning or recycling or burning instead of using. Or maybe it's simple. I don't know. The real question from my perspective is how you store a marriage in a computer. Altering your database schema to accommodate gay marriage can be easy or difficult depending on how smart you were when you originally set up your system to accommodate heterosexuality only. Let's begin. Note: By popular demand, this problem is now known as "Y2gay".
 
 ### YouTube Videos  
 [A Tale of Two CTEs](https://www.youtube.com/watch?v=o2P0XqbcOUM)  

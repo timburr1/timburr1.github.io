@@ -25,6 +25,7 @@ footer {
 a {
     text-decoration: none;
     color: #006272;
+    --color: #841617;
     font-weight: bold;
 }
 
@@ -34,6 +35,7 @@ a:hover {
 
 blockquote {
     margin: 2px 20px;
+	background-color: #f0f0f0;
 }
 
 h1 {

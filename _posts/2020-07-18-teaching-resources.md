@@ -13,6 +13,7 @@ tags: school, tech
 [Employment Outcomes of Bachelor’s Degree Holders](../../../../../papers/Employment Outcomes of Bachelor’s Degree Holders.pdf) (PDF)  
 [Flipgrid](https://info.flipgrid.com/) video discussion tool  
 [Idaho Content Standards: Computer Science](../../../../../papers/ICS-Computer-Science-Standards.pdf) (PDF)  
+[Idaho CTE Standards: Web Design and Development](../../../../../papers/Web-Design-and-Development-Program-Standards.pdf) (PDF)  
 [Lucidchart](https://www.lucidchart.com/pages/) virtual whiteboard  
 [StormBoard](https://www.stormboard.com/) shared workspace  
 
