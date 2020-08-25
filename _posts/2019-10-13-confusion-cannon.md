@@ -30,6 +30,7 @@ LessWrong and the [Sequences](https://wiki.lesswrong.com/wiki/Sequences)
 * [Meditations on Moloch](https://web.archive.org/web/20200623015648/https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
 * [The Control Group Is Out of Control](https://web.archive.org/web/20200522001819/https://slatestarcodex.com/2014/04/28/the-control-group-is-out-of-control/)
 
-[Small Gods](https://en.wikipedia.org/wiki/Small_Gods) by Terry Pratchett *"We are here, and this is now. After that, everything tends toward guesswork."*  
+[Small Gods](https://en.wikipedia.org/wiki/Small_Gods) by Terry Pratchett  
+> "We are here, and this is now. After that, everything tends toward guesswork."  
 
 [The Wisdom of James Mickens](https://mickens.seas.harvard.edu/wisdom-james-mickens), who is basically right about everything: modernity is terrible and computers were a mistake.  

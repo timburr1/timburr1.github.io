@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exogenous Neurotransmitters
-excerpt: Don't do drugs, m'kay?
+excerpt: Drugs are bad, m'kay?
 author: Tim
 ---
 
@@ -11,7 +11,10 @@ author: Tim
 [Chemical evidence for the use of multiple psychotropic plants in a 1,000-year-old ritual bundle from South America](../../../papers/capriles2019.pdf) - Capriles, et al, 2019 (PDF)  
 > Over several millennia, various native plant species in South America have been used for their healing and psychoactive properties. Chemical analysis of archaeological artifacts provides an opportunity to study the use of psychoactive plants in the past and to better understand ancient botanical knowledge systems. Liquid chromatography tandem mass spectrometry (LC-MS/MS) was used to analyze organic residues from a ritual bundle, radiocarbon dated to approximately 1,000 C.E., recovered from archaeological excavations in a rock shelter located in the Lípez Altiplano of southwestern Bolivia. The site is located at an elevation of ∼3,900 m above sea level and contains evidence of intermittent human occupations during the last 4,000 years. Chemical traces of bufotenine, dimethyltryptamine, harmine, and cocaine, including its degradation product benzoylecgonine, were identified, suggesting that at least three plants containing these compounds were part of the shamanic paraphernalia dating back 1,000 years ago, the largest number of compounds recovered from a single artifact from this area of the world, to date. This is also a documented case of a ritual bundle containing both harmine and dimethyltryptamine, the two primary ingredients of ayahuasca. The presence of multiple plants that come from disparate and distant ecological areas in South America suggests that hallucinogenic plants moved across significant distances and that an intricate botanical knowledge was intrinsic to pre-Columbian ritual practices.
 
-[International LSD Prevalence — Factors Affecting Proliferation and Control](http://www.freeleonardpickard.org/LSD-Prevelance.html) - William Leonard Pickard  
+[DEA's NADDIS System: A Guide for Attorneys, the Courts, and Researchers]() - William Leonard Pickard (Erowid, 2011)  
+> In the early 1970s, the newly formed DEA established the Narcotics and Dangerous Drugs Information System (NADDIS). NADDIS has become the most widely used tool in drug law enforcement, with a NADDIS search frequently the first step in any DEA investigation. Comprised of millions of records on individuals rather than on drugs, NADDIS records provide a chronological history of DEA reports on U.S. citizens and foreign "subjects of interest." NADDIS records also exist on individuals with no criminal history, including sports figures, celebrities, politicians, attorneys and researchers.
+
+[International LSD Prevalence — Factors Affecting Proliferation and Control](http://www.freeleonardpickard.org/LSD-Prevelance.html) - WLP  
 > The premise of this paper for this gathering in Basel is that while a significant and growing number of medical researchers—many of them in attendance—are looking carefully at initially a small number of subjects, there are relatively few researchers rigorously considering the large numbers of individuals in the population who have experienced LSD. Thus, in that this forum provides an opportunity to examine LSD in its uncontrolled, epidemiological context, we will explore here some of the rarely discussed factors influencing past and current worldwide LSD availability and prevalence, as well as future trends that may be anticipated. In essence, we ask: “What is the future of LSD use in non-medical settings, given its special chemical, pharmacological and psychological properties?” To answer this question we review not only the national survey data but also the known history of LSD production and distribution for—although future trends involving heroin, cocaine and methamphetamine have been predicted in forensic settings, albeit with a large degree of error—there is little literature on factors influencing LSD availability.
 
 [LSD Overdoses: Three Case Reports](../../../papers/haden2020.pdf) - Haden & Woods, 2020 (PDF)  
