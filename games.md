@@ -13,12 +13,9 @@ title: Slingin' Cardboard
 
 You can look at my [Magic: the Gathering](/2020/01/17/mtg.html) decks on [Deckbox](https://deckbox.org/users/timburr), if you are into that sort of thing.  
 
-I'm also getting into [Warhammer 40k](/2020/05/31/warhammer.html) a little bit. Army lists: 
-* [Tyranids, 800pts](/_ref/40k/Tyranids_800.html)  
-* [Tyranids, 1200pts](/_ref/40k/Tyranids_1200.html)  
+I'm also getting into [Warhammer 40k](/2020/05/31/warhammer.html) a little bit. Army lists:  
 * [Tyranids, 1500pts](/_ref/40k/Tyranids_1500.html)  
 * [Tyranids, 2000pts](/_ref/40k/Tyranids_2k.html)  
-* [2k w/ Exocrines](/_ref/40k/Tyranids_2kExo.html)  
 
 [Tactical Objectives and Stratagems](/_ref/40k/tyranids_ref.html)  
 

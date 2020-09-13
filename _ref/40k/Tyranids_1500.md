@@ -5,7 +5,6 @@ layout: default
     <head>
         <meta name="viewport" content="width=670"> 
         <style>
-		
             div.battlescribe {
                 margin-top: 0px;
                 margin-bottom: 0px;
@@ -195,16 +194,17 @@ layout: default
                 font-variant: small-caps;
             }
         </style>
+
     </head>
     <body class="battlescribe">
         <div class="battlescribe">
-            <h1>Tyranids, 1500 (Warhammer 40,000 8th Edition) [95 PL, -1CP, 1,501pts]</h1>
+            <h1>Tyranids, 1500 (Warhammer 40,000 9th Edition) [88 PL, 11CP, 1,500pts]</h1>
             <ul>
             <li class="force">
-                <h2>Battalion Detachment +5CP (Tyranids) [71 PL, -1CP, 1,146pts]</h2>
+                <h2>Battalion Detachment 0CP (Tyranids) [88 PL, 11CP, 1,500pts]</h2>
                 <ul>
                     <li class="category">
-                        <h3>No Force Org Slot [-1CP]</h3>
+                        <h3>Configuration [12CP]</h3>
                         <ul>
                             <li class="rootselection">
                                 <h4>[Reference] Discipline: Hive Mind</h4>
@@ -212,7 +212,7 @@ layout: default
                                     <span class="bold">Selections:</span> Smite
                                 </p>
                                 <p class="category-names">
-                                    <span class="bold">Categories:</span> <span class="caps">No Force Org Slot</span>
+                                    <span class="bold">Categories:</span> <span class="caps">Configuration</span>
                                 </p>
                                 <p class="profile-names">
                                     <span class="bold">Psychic Power:</span> <span class="italic">0. Smite, 1. Dominion, 2. Catalyst, 3. The Horror, 4. Onslaught, 5. Paroxysm, 6. Psychic Scream, Kraken: Synaptic Lure (Hive Fleet)</span>
@@ -228,7 +228,7 @@ layout: default
                                             <td class="profile-name">0. Smite</td>
                                             <td>5</td><td>18"</td><td>The closest visible enemy unit within 18" of the psyker suffers D3 mortal wounds. If the result of the Psychic test was more than 10 the target suffers D6 mortal wounds instead.</td>
                                             <td>
-                                                Warhammer 40,000 Rulebook p178
+                                                Warhammer 40,000 Core Book p178
                                             </td>
                                         </tr>
                                         <tr>
@@ -277,10 +277,27 @@ layout: default
                                             <td class="profile-name">Kraken: Synaptic Lure (Hive Fleet)</td>
                                             <td>5</td><td>-</td><td>Select one enemy unit. Until the end of the turn, when a charge roll is made by a friendly KRAKEN unit that targets that enemy unit, you can re-roll the result.</td>
                                             <td>
-                                                Psychic Awakening: Blood of Baal p78
+                                                Psychic Awakening III: Blood of Baal p78
                                             </td>
                                         </tr>
                                     </table>
+
+                            </li>
+                            <li class="rootselection">
+                                <h4>Battle Size [12CP]</h4>
+                                <p>
+                                    <span class="bold">Selections:</span> 3. Strike Force (101-200 Total PL / 1001-2000 Points)  [12CP]
+                                </p>
+                                <p class="category-names">
+                                    <span class="bold">Categories:</span> <span class="caps">Configuration</span>
+                                </p>
+
+                            </li>
+                            <li class="rootselection">
+                                <h4>Detachment CP</h4>
+                                <p class="category-names">
+                                    <span class="bold">Categories:</span> <span class="caps">Configuration</span>
+                                </p>
 
                             </li>
                             <li class="rootselection">
@@ -289,7 +306,7 @@ layout: default
                                     <span class="bold">Selections:</span> Kraken
                                 </p>
                                 <p class="category-names">
-                                    <span class="bold">Categories:</span> <span class="caps">No Force Org Slot</span>
+                                    <span class="bold">Categories:</span> <span class="caps">Configuration</span>
                                 </p>
                                 <p class="profile-names">
                                     <span class="bold">Abilities:</span> <span class="italic">Hive Fleet Adaptations, Questing Tendrils</span>
@@ -318,13 +335,18 @@ layout: default
                                     </table>
 
                             </li>
+                        </ul>
+                    </li>
+                    <li class="category">
+                        <h3>Stratagems [-1CP]</h3>
+                        <ul>
                             <li class="rootselection">
-                                <h4>Stratagem: Bounty of the Hive Fleet [-1CP]</h4>
+                                <h4>Bounty of the Hive Fleet [-1CP]</h4>
                                 <p>
                                     <span class="bold">Selections:</span> 1 Extra Bio-artefact [-1CP]
                                 </p>
                                 <p class="category-names">
-                                    <span class="bold">Categories:</span> <span class="caps">No Force Org Slot</span>
+                                    <span class="bold">Categories:</span> <span class="caps">Stratagems</span>
                                 </p>
                                 <p class="profile-names">
                                     <span class="bold">Abilities:</span> <span class="italic">Bounty of the Hive Fleet</span>
@@ -349,18 +371,18 @@ layout: default
                         </ul>
                     </li>
                     <li class="category">
-                        <h3>HQ [26 PL, 478pts]</h3>
+                        <h3>HQ [19 PL, 365pts]</h3>
                         <ul>
                             <li class="rootselection">
-                                <h4>Hive Tyrant [11 PL, 228pts]</h4>
+                                <h4>Broodlord [7 PL, 125pts]</h4>
                                 <p>
-                                    <span class="bold">Selections:</span> Adrenal Glands [5pts], Heavy Venom Cannon [18pts], Monstrous Scything Talons [15pts], Prehensile Pincer Tail, The Miasma Cannon, Wings [2 PL, 47pts]
+                                    <span class="bold">Selections:</span> Chameleonic Mutation, Monstrous Rending Claws, Power: Smite
                                 </p>
                                 <p class="category-names">
-                                    <span class="bold">Categories:</span> <span class="caps">Faction: &lt;Hive Fleet&gt;, Faction: Tyranids, HQ, Character, Monster, Psyker, Hive Tyrant, Synapse, Fly</span>
+                                    <span class="bold">Categories:</span> <span class="caps">Faction: &lt;Hive Fleet&gt;, Faction: Tyranids, HQ, Genestealer, Character, Infantry, Psyker, Synapse</span>
                                 </p>
                                 <p class="profile-names">
-                                    <span class="bold">Abilities:</span> <span class="italic">Adrenal Glands, Death Throes, Psychic Barrier, Shadow in the Warp, Swooping Assault, Synapse, The Miasma Cannon, The Will of the Hive Mind</span>, <span class="bold">Psyker:</span> <span class="italic">Hive Tyrant</span>, <span class="bold">Stat Damage - M, WS &amp; BS:</span> <span class="italic">Hive Tyrant with Wings (1), Hive Tyrant with Wings (2), Hive Tyrant with Wings (3)</span>, <span class="bold">Unit:</span> <span class="italic">Hive Tyrant</span>, <span class="bold">Weapon:</span> <span class="italic">Heavy Venom Cannon, Monstrous Scything Talons, Prehensile Pincer Tail, The Miasma Cannon</span>
+                                    <span class="bold">Abilities:</span> <span class="italic">Brood Telepathy, Chameleonic Mutation, Lightning Reflexes, Shadow in the Warp, Swift and Deadly, Synapse</span>, <span class="bold">Psychic Power:</span> <span class="italic">Smite</span>, <span class="bold">Psyker:</span> <span class="italic">Broodlord</span>, <span class="bold">Unit:</span> <span class="italic">Broodlord</span>, <span class="bold">Weapon:</span> <span class="italic">Monstrous Rending Claws</span>
                                 </p>
                                     <br>
                                     <table cellspacing="-1">
@@ -368,6 +390,131 @@ layout: default
                                             <th>Abilities</th>
                                             <th>Description</th>
                                             <th>Ref</th>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Brood Telepathy</td>
+                                            <td>You can add 1 to hit rolls in the Fight phase for &lt;HIVE FLEET&gt; Genestealer units within 6" of and friendly &lt;HIVE FLEET&gt; Broodlords.</td>
+                                            <td>
+                                                Codex: Tyranids p84
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Chameleonic Mutation</td>
+                                            <td>KRAKEN model only. Your opponent must subtract 1 from all hit rolls for ranged weapons that target this model.</td>
+                                            <td>
+                                                Codex: Tyranids p122
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Lightning Reflexes</td>
+                                            <td>Models in this unit have a 5+ invulnerable save.</td>
+                                            <td>
+                                                Codex: Tyranids p89
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Shadow in the Warp</td>
+                                            <td>Enemy PSKYERS must subtract 1 from any Psychic tests they make if they are within 18" of any units with this ability. TYRANID PSYKERS are not affected.</td>
+                                            <td>
+                                                Codex: Tyranids p82
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Swift and Deadly</td>
+                                            <td>Models in this unit can charge even if they Advanced during its turn.</td>
+                                            <td>
+                                                Codex: Tyranids p89
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Synapse</td>
+                                            <td>&lt;HIVE FLEET&gt; units automatically pass Morale tests if they are within 12" of any friendly &lt;HIVE FLEET&gt; units with this ability.</td>
+                                            <td>
+                                                Codex: Tyranids p82
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <table cellspacing="-1">
+                                        <tr>
+                                            <th>Psychic Power</th>
+                                            <th>Warp Charge</th><th>Range</th><th>Details</th>
+                                            <th>Ref</th>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Smite</td>
+                                            <td>5</td><td>18"</td><td>The closest visible enemy unit within 18" of the psyker suffers D3 mortal wounds. If the result of the Psychic test was more than 10 the target suffers D6 mortal wounds instead.</td>
+                                            <td>
+                                                Warhammer 40,000 Core Book p178
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <table cellspacing="-1">
+                                        <tr>
+                                            <th>Psyker</th>
+                                            <th>Cast</th><th>Deny</th><th>Powers Known</th><th>Other</th>
+                                            <th>Ref</th>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Broodlord</td>
+                                            <td>1</td><td>1</td><td>Smite + 1 Hive Mind</td><td>-</td>
+                                            <td>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <table cellspacing="-1">
+                                        <tr>
+                                            <th>Unit</th>
+                                            <th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>A</th><th>Ld</th><th>Save</th>
+                                            <th>Ref</th>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Broodlord</td>
+                                            <td>8"</td><td>2+</td><td>-</td><td>5</td><td>5</td><td>6</td><td>6</td><td>10</td><td>4+/5++</td>
+                                            <td>
+                                                Codex: Tyranids p84
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <table cellspacing="-1">
+                                        <tr>
+                                            <th>Weapon</th>
+                                            <th>Range</th><th>Type</th><th>S</th><th>AP</th><th>D</th><th>Abilities</th>
+                                            <th>Ref</th>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Monstrous Rending Claws</td>
+                                            <td>Melee</td><td>Melee</td><td>User</td><td>-3</td><td>D3</td><td>You can re-roll failed wound rolls for this weapon. In addition, each time you make a wound roll of 6+, that hit is resolved with an AP of -6 and Damage of 3.</td>
+                                            <td>
+                                                Codex: Tyranids p111
+                                            </td>
+                                        </tr>
+                                    </table>
+
+                            </li>
+                            <li class="rootselection">
+                                <h4>Hive Tyrant [12 PL, 240pts]</h4>
+                                <p>
+                                    <span class="bold">Selections:</span> Adrenal Glands [5pts], Heavy Venom Cannon [20pts], Monstrous Scything Talons [15pts], Power: Smite, Prehensile Pincer Tail, The Miasma Cannon, Warlord, Warlord Trait: Adaptive Biology, Wings [3 PL, 45pts]
+                                </p>
+                                <p class="category-names">
+                                    <span class="bold">Categories:</span> <span class="caps">Faction: &lt;Hive Fleet&gt;, Faction: Tyranids, HQ, Character, Monster, Psyker, Hive Tyrant, Synapse, Fly, Warlord</span>
+                                </p>
+                                <p class="profile-names">
+                                    <span class="bold">Abilities:</span> <span class="italic">Adaptive Biology, Adrenal Glands, Death Throes, Psychic Barrier, Shadow in the Warp, Swooping Assault, Synapse, The Miasma Cannon, The Will of the Hive Mind</span>, <span class="bold">Psychic Power:</span> <span class="italic">Smite</span>, <span class="bold">Psyker:</span> <span class="italic">Hive Tyrant</span>, <span class="bold">Stat Damage - M, WS &amp; BS:</span> <span class="italic">Hive Tyrant with Wings (1), Hive Tyrant with Wings (2), Hive Tyrant with Wings (3)</span>, <span class="bold">Unit:</span> <span class="italic">Hive Tyrant</span>, <span class="bold">Weapon:</span> <span class="italic">Heavy Venom Cannon, Monstrous Scything Talons, Prehensile Pincer Tail, The Miasma Cannon</span>
+                                </p>
+                                    <br>
+                                    <table cellspacing="-1">
+                                        <tr>
+                                            <th>Abilities</th>
+                                            <th>Description</th>
+                                            <th>Ref</th>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Adaptive Biology</td>
+                                            <td>From the end of the first phase in which this Warlord suffers any wounds, for the remainder of the battle when inflicting damage upon the Warlord, reduce the damage of the attack by 1 to a minimum of 1.</td>
+                                            <td>
+                                                Codex: Tyranids p124
+                                            </td>
                                         </tr>
                                         <tr>
                                             <td class="profile-name">Adrenal Glands</td>
@@ -423,6 +570,20 @@ layout: default
                                             <td>The range of this model's Synapse ability is 18" rather than 12".</td>
                                             <td>
                                                 Codex: Tyranids p85
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <table cellspacing="-1">
+                                        <tr>
+                                            <th>Psychic Power</th>
+                                            <th>Warp Charge</th><th>Range</th><th>Details</th>
+                                            <th>Ref</th>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Smite</td>
+                                            <td>5</td><td>18"</td><td>The closest visible enemy unit within 18" of the psyker suffers D3 mortal wounds. If the result of the Psychic test was more than 10 the target suffers D6 mortal wounds instead.</td>
+                                            <td>
+                                                Warhammer 40,000 Core Book p178
                                             </td>
                                         </tr>
                                     </table>
@@ -486,7 +647,7 @@ layout: default
                                         </tr>
                                         <tr>
                                             <td class="profile-name">Heavy Venom Cannon</td>
-                                            <td>36"</td><td>Assault D3</td><td>9</td><td>-2</td><td>3</td><td>-</td>
+                                            <td>36"</td><td>Assault D3</td><td>9</td><td>-2</td><td>3</td><td>Blast</td>
                                             <td>
                                                 Codex: Tyranids p112
                                             </td>
@@ -507,158 +668,9 @@ layout: default
                                         </tr>
                                         <tr>
                                             <td class="profile-name">The Miasma Cannon</td>
-                                            <td>36"</td><td>Assault D3</td><td>9</td><td>-2</td><td>3</td><td>This weapon hits automatically if the target is within 8", and it always wounds targets (other than VEHICLES) on a 2+.</td>
+                                            <td>36"</td><td>Assault D3</td><td>9</td><td>-2</td><td>3</td><td>This weapon hits automatically if the target is within 8", and it always wounds targets (other than VEHICLES) on a 2+. Blast</td>
                                             <td>
                                                 Codex: Tyranids p123
-                                            </td>
-                                        </tr>
-                                    </table>
-
-                            </li>
-                            <li class="rootselection">
-                                <h4>The Swarmlord [15 PL, 250pts]</h4>
-                                <p>
-                                    <span class="bold">Selections:</span> 3. Tenacious Survivor, Bone Sabres, Prehensile Pincer Tail, Warlord
-                                </p>
-                                <p class="category-names">
-                                    <span class="bold">Categories:</span> <span class="caps">Faction: &lt;Hive Fleet&gt;, Faction: Tyranids, HQ, Character, Monster, Psyker, Hive Tyrant, Synapse, Warlord</span>
-                                </p>
-                                <p class="profile-names">
-                                    <span class="bold">Abilities:</span> <span class="italic">Blade Parry, Death Throes, Hive Commander, Psychic Barrier, Shadow in the Warp, Synapse, Tenacious Survivor, The Will of the Hive Mind</span>, <span class="bold">Psyker:</span> <span class="italic">The Swarmlord</span>, <span class="bold">Stat Damage - M, S &amp; A:</span> <span class="italic">The Swarmlord (1), The Swarmlord (2), The Swarmlord (3)</span>, <span class="bold">Unit:</span> <span class="italic">The Swarmlord</span>, <span class="bold">Weapon:</span> <span class="italic">Bone Sabres, Prehensile Pincer Tail</span>
-                                </p>
-                                    <br>
-                                    <table cellspacing="-1">
-                                        <tr>
-                                            <th>Abilities</th>
-                                            <th>Description</th>
-                                            <th>Ref</th>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Blade Parry</td>
-                                            <td>Add 1 to the Swarmlord's invulnerable saves against wounds caused by Melee weapons.</td>
-                                            <td>
-                                                Codex: Tyranids p86
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Death Throes</td>
-                                            <td>If this model is reduced to 0 wounds, roll a dice before removing it from the battlefield; on a 6, it lashes out in its death throes, and each unit within 3" suffers D3 mortal wounds.</td>
-                                            <td>
-                                                Codex: Tyranids
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Hive Commander</td>
-                                            <td>In each of your Shooting phases, you can pick one friendly &lt;HIVE FLEET&gt; unit within 6" of the Swarmlord. That unit can move (and Advance, if you wish) as if it were the Movement phase instead of shooting.</td>
-                                            <td>
-                                                Codex: Tyranids p86
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Psychic Barrier</td>
-                                            <td>A model with this ability has a 4+ invulnerable save.</td>
-                                            <td>
-                                                Codex: Tyranids p86
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Shadow in the Warp</td>
-                                            <td>Enemy PSKYERS must subtract 1 from any Psychic tests they make if they are within 18" of any units with this ability. TYRANID PSYKERS are not affected.</td>
-                                            <td>
-                                                Codex: Tyranids p82
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Synapse</td>
-                                            <td>&lt;HIVE FLEET&gt; units automatically pass Morale tests if they are within 12" of any friendly &lt;HIVE FLEET&gt; units with this ability.</td>
-                                            <td>
-                                                Codex: Tyranids p82
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Tenacious Survivor</td>
-                                            <td>Roll a dice each time this warlord loses a wound. On a 6, the warlord shrugs off the damage and does not lose the wound.</td>
-                                            <td>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">The Will of the Hive Mind</td>
-                                            <td>The range of this model's Synapse ability is 18" rather than 12".</td>
-                                            <td>
-                                                Codex: Tyranids p86
-                                            </td>
-                                        </tr>
-                                    </table>
-                                    <table cellspacing="-1">
-                                        <tr>
-                                            <th>Psyker</th>
-                                            <th>Cast</th><th>Deny</th><th>Powers Known</th><th>Other</th>
-                                            <th>Ref</th>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">The Swarmlord</td>
-                                            <td>2</td><td>2</td><td>Smite + 2 Hive Mind</td><td>-</td>
-                                            <td>
-                                            </td>
-                                        </tr>
-                                    </table>
-                                    <table cellspacing="-1">
-                                        <tr>
-                                            <th>Stat Damage - M, S & A</th>
-                                            <th>Remaining W</th><th>Movement</th><th>Strength</th><th>Attacks</th>
-                                            <th>Ref</th>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">The Swarmlord (1)</td>
-                                            <td>7-12+</td><td>9"</td><td>8</td><td>6</td>
-                                            <td>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">The Swarmlord (2)</td>
-                                            <td>4-6</td><td>7"</td><td>7</td><td>5</td>
-                                            <td>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">The Swarmlord (3)</td>
-                                            <td>1-3</td><td>5"</td><td>6</td><td>4</td>
-                                            <td>
-                                            </td>
-                                        </tr>
-                                    </table>
-                                    <table cellspacing="-1">
-                                        <tr>
-                                            <th>Unit</th>
-                                            <th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>A</th><th>Ld</th><th>Save</th>
-                                            <th>Ref</th>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">The Swarmlord</td>
-                                            <td>*</td><td>2+</td><td>3+</td><td>*</td><td>7</td><td>12</td><td>*</td><td>10</td><td>3+/4++</td>
-                                            <td>
-                                                Codex: Tyranids p86
-                                            </td>
-                                        </tr>
-                                    </table>
-                                    <table cellspacing="-1">
-                                        <tr>
-                                            <th>Weapon</th>
-                                            <th>Range</th><th>Type</th><th>S</th><th>AP</th><th>D</th><th>Abilities</th>
-                                            <th>Ref</th>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Bone Sabres</td>
-                                            <td>Melee</td><td>Melee</td><td>User</td><td>-3</td><td>3</td><td>Each time you make a wound roll of 6+ for this weapon, the target suffers a mortal wound in addition to any other damage.</td>
-                                            <td>
-                                                Codex: Tyranids p111
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Prehensile Pincer Tail</td>
-                                            <td>Melee</td><td>Melee</td><td>User</td><td>0</td><td>D3</td><td>Each time the bearer fights, make one (and only one) attack with this weapon. This is in addition to the bearer's attacks.</td>
-                                            <td>
-                                                Codex: Tyranids p111
                                             </td>
                                         </tr>
                                     </table>
@@ -667,12 +679,12 @@ layout: default
                         </ul>
                     </li>
                     <li class="category">
-                        <h3>Troops [30 PL, 418pts]</h3>
+                        <h3>Troops [45 PL, 725pts]</h3>
                         <ul>
                             <li class="rootselection">
                                 <h4>Genestealers [16 PL, 240pts]</h4>
                                 <p>
-                                    <span class="bold">Selections:</span> 5x Acid Maw, 20x Scything Talons
+                                    <span class="bold">Selections:</span> 4x Acid Maw, 16x Scything Talons
                                 </p>
                                 <p class="category-names">
                                     <span class="bold">Categories:</span> <span class="caps">Faction: &lt;Hive Fleet&gt;, Faction: Tyranids, Infantry, Genestealer, Troops</span>
@@ -682,9 +694,9 @@ layout: default
                                 </p>
                                 <ul>
                                     <li>
-                                        <h4>20x Genestealer [240pts]</h4>
+                                        <h4>16x Genestealer [240pts]</h4>
                                         <p>
-                                            <span class="bold">Selections:</span> 20x Rending Claws [40pts]
+                                            <span class="bold">Selections:</span> 16x Rending Claws
                                         </p>
                                         <p class="profile-names">
                                             <span class="bold">Unit:</span> <span class="italic">Genestealer</span>, <span class="bold">Weapon:</span> <span class="italic">Rending Claws</span>
@@ -773,7 +785,110 @@ layout: default
 
                             </li>
                             <li class="rootselection">
-                                <h4>Termagants [9 PL, 100pts]</h4>
+                                <h4>Genestealers [16 PL, 240pts]</h4>
+                                <p>
+                                    <span class="bold">Selections:</span> 4x Acid Maw, 16x Scything Talons
+                                </p>
+                                <p class="category-names">
+                                    <span class="bold">Categories:</span> <span class="caps">Faction: &lt;Hive Fleet&gt;, Faction: Tyranids, Infantry, Genestealer, Troops</span>
+                                </p>
+                                <p class="profile-names">
+                                    <span class="bold">Abilities:</span> <span class="italic">Flurry of Claws, Infestation, Lightning Reflexes, Swift and Deadly</span>, <span class="bold">Weapon:</span> <span class="italic">Acid Maw, Scything Talons</span>
+                                </p>
+                                <ul>
+                                    <li>
+                                        <h4>16x Genestealer [240pts]</h4>
+                                        <p>
+                                            <span class="bold">Selections:</span> 16x Rending Claws
+                                        </p>
+                                        <p class="profile-names">
+                                            <span class="bold">Unit:</span> <span class="italic">Genestealer</span>, <span class="bold">Weapon:</span> <span class="italic">Rending Claws</span>
+                                        </p>
+
+                                    </li>
+                                </ul>
+                                    <br>
+                                    <table cellspacing="-1">
+                                        <tr>
+                                            <th>Abilities</th>
+                                            <th>Description</th>
+                                            <th>Ref</th>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Flurry of Claws</td>
+                                            <td>Genestealers have 4 Attacks instead of 3 whilst their unit has 10 or more models.</td>
+                                            <td>
+                                                Codex: Tyranids p89
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Infestation</td>
+                                            <td>If your army includes any units of Genestealers, you can place up to four infestation nodes anywhere in your deployment zone when your army deploys. You can then set up any Genestealers lurking, instead of placing them on the battlefield. If an enemy model is ever within 9" of an infestation node, the node is destroyed and removed from the battlefield. Whilst there are any friendly infestation nodes on the battlefield, this unit can stop lurking: at the end of your Movement phase, set it up wholly within 6" of a friendly infestation node. That infestation node is then removed from the battlefield. If this unit is still lurking when the last friendly infestation node is removed, the unit is destroyed.</td>
+                                            <td>
+                                                Codex: Tyranids p89
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Lightning Reflexes</td>
+                                            <td>Models in this unit have a 5+ invulnerable save.</td>
+                                            <td>
+                                                Codex: Tyranids p89
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Swift and Deadly</td>
+                                            <td>Models in this unit can charge even if they Advanced during its turn.</td>
+                                            <td>
+                                                Codex: Tyranids p89
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <table cellspacing="-1">
+                                        <tr>
+                                            <th>Unit</th>
+                                            <th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>A</th><th>Ld</th><th>Save</th>
+                                            <th>Ref</th>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Genestealer</td>
+                                            <td>8"</td><td>3+</td><td>4+</td><td>4</td><td>4</td><td>1</td><td>3</td><td>9</td><td>5+/5++</td>
+                                            <td>
+                                                Codex: Tyranids p89
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <table cellspacing="-1">
+                                        <tr>
+                                            <th>Weapon</th>
+                                            <th>Range</th><th>Type</th><th>S</th><th>AP</th><th>D</th><th>Abilities</th>
+                                            <th>Ref</th>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Acid Maw</td>
+                                            <td>Melee</td><td>Melee</td><td>User</td><td>-3</td><td>1</td><td>-</td>
+                                            <td>
+                                                Codex: Tyranids p111
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Rending Claws</td>
+                                            <td>Melee</td><td>Melee</td><td>User</td><td>-1</td><td>1</td><td>Each time you make a wound roll of 6+ for this weapon, that hit is resolved with an AP of -4.</td>
+                                            <td>
+                                                Codex: Tyranids p111
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Scything Talons</td>
+                                            <td>Melee</td><td>Melee</td><td>User</td><td>0</td><td>1</td><td>You can re-roll hit rolls of 1 when attacking with this weapon. If the bearer has more than one pair of scything talons, it can make 1 additional attack with this weapon each time it fights.</td>
+                                            <td>
+                                                Codex: Tyranids p111
+                                            </td>
+                                        </tr>
+                                    </table>
+
+                            </li>
+                            <li class="rootselection">
+                                <h4>Termagants [9 PL, 164pts]</h4>
                                 <p class="category-names">
                                     <span class="bold">Categories:</span> <span class="caps">Faction: &lt;Hive Fleet&gt;, Faction: Tyranids, Infantry, Troops</span>
                                 </p>
@@ -782,9 +897,9 @@ layout: default
                                 </p>
                                 <ul>
                                     <li>
-                                        <h4>3x Termagant (Devourer) [24pts]</h4>
+                                        <h4>6x Termagant (Devourer) [54pts]</h4>
                                         <p>
-                                            <span class="bold">Selections:</span> 3x Devourer [12pts]
+                                            <span class="bold">Selections:</span> 6x Devourer [24pts]
                                         </p>
                                         <p class="profile-names">
                                             <span class="bold">Unit:</span> <span class="italic">Termagant</span>, <span class="bold">Weapon:</span> <span class="italic">Devourer</span>
@@ -792,9 +907,9 @@ layout: default
 
                                     </li>
                                     <li>
-                                        <h4>19x Termagant (Fleshborer) [76pts]</h4>
+                                        <h4>22x Termagant (Fleshborer) [110pts]</h4>
                                         <p>
-                                            <span class="bold">Selections:</span> 19x Fleshborer
+                                            <span class="bold">Selections:</span> 22x Fleshborer
                                         </p>
                                         <p class="profile-names">
                                             <span class="bold">Unit:</span> <span class="italic">Termagant</span>, <span class="bold">Weapon:</span> <span class="italic">Fleshborer</span>
@@ -862,44 +977,41 @@ layout: default
 
                             </li>
                             <li class="rootselection">
-                                <h4>Tyranid Warriors [5 PL, 78pts]</h4>
-                                <p>
-                                    <span class="bold">Selections:</span> Adrenal Glands [3pts]
-                                </p>
+                                <h4>Tyranid Warriors [4 PL, 81pts]</h4>
                                 <p class="category-names">
                                     <span class="bold">Categories:</span> <span class="caps">Faction: &lt;Hive Fleet&gt;, Faction: Tyranids, Troops, Synapse, Infantry</span>
                                 </p>
                                 <p class="profile-names">
-                                    <span class="bold">Abilities:</span> <span class="italic">Adrenal Glands, Shadow in the Warp, Synapse</span>
+                                    <span class="bold">Abilities:</span> <span class="italic">Shadow in the Warp, Synapse</span>
                                 </p>
                                 <ul>
                                     <li>
-                                        <h4>Tyranid Warrior [25pts]</h4>
+                                        <h4>Tyranid Warrior [27pts]</h4>
                                         <p>
-                                            <span class="bold">Selections:</span> Boneswords [2pts], Deathspitter [5pts]
+                                            <span class="bold">Selections:</span> Deathspitter [6pts], Scything Talons
                                         </p>
                                         <p class="profile-names">
-                                            <span class="bold">Unit:</span> <span class="italic">Tyranid Warrior</span>, <span class="bold">Weapon:</span> <span class="italic">Boneswords, Deathspitter</span>
+                                            <span class="bold">Unit:</span> <span class="italic">Tyranid Warrior</span>, <span class="bold">Weapon:</span> <span class="italic">Deathspitter, Scything Talons</span>
                                         </p>
 
                                     </li>
                                     <li>
-                                        <h4>Tyranid Warrior [25pts]</h4>
+                                        <h4>Tyranid Warrior [27pts]</h4>
                                         <p>
-                                            <span class="bold">Selections:</span> Boneswords [2pts], Deathspitter [5pts]
+                                            <span class="bold">Selections:</span> Deathspitter [6pts], Scything Talons
                                         </p>
                                         <p class="profile-names">
-                                            <span class="bold">Unit:</span> <span class="italic">Tyranid Warrior</span>, <span class="bold">Weapon:</span> <span class="italic">Boneswords, Deathspitter</span>
+                                            <span class="bold">Unit:</span> <span class="italic">Tyranid Warrior</span>, <span class="bold">Weapon:</span> <span class="italic">Deathspitter, Scything Talons</span>
                                         </p>
 
                                     </li>
                                     <li>
-                                        <h4>Tyranid Warrior [25pts]</h4>
+                                        <h4>Tyranid Warrior [27pts]</h4>
                                         <p>
-                                            <span class="bold">Selections:</span> Boneswords [2pts], Deathspitter [5pts]
+                                            <span class="bold">Selections:</span> Deathspitter [6pts], Scything Talons
                                         </p>
                                         <p class="profile-names">
-                                            <span class="bold">Unit:</span> <span class="italic">Tyranid Warrior</span>, <span class="bold">Weapon:</span> <span class="italic">Boneswords, Deathspitter</span>
+                                            <span class="bold">Unit:</span> <span class="italic">Tyranid Warrior</span>, <span class="bold">Weapon:</span> <span class="italic">Deathspitter, Scything Talons</span>
                                         </p>
 
                                     </li>
@@ -910,13 +1022,6 @@ layout: default
                                             <th>Abilities</th>
                                             <th>Description</th>
                                             <th>Ref</th>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Adrenal Glands</td>
-                                            <td>If a unit has adrenal glands, add 1" to the distance it can move when it Advances or charges.</td>
-                                            <td>
-                                                Codex: Tyranids p113
-                                            </td>
                                         </tr>
                                         <tr>
                                             <td class="profile-name">Shadow in the Warp</td>
@@ -954,15 +1059,85 @@ layout: default
                                             <th>Ref</th>
                                         </tr>
                                         <tr>
-                                            <td class="profile-name">Boneswords</td>
-                                            <td>Melee</td><td>Melee</td><td>User</td><td>-2</td><td>1</td><td>A model armed with boneswords can make 1 additional attack with them in the Fight phase.</td>
+                                            <td class="profile-name">Deathspitter</td>
+                                            <td>24"</td><td>Assault 3</td><td>5</td><td>-1</td><td>1</td><td>-</td>
+                                            <td>
+                                                Codex: Tyranids p112
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Scything Talons</td>
+                                            <td>Melee</td><td>Melee</td><td>User</td><td>0</td><td>1</td><td>You can re-roll hit rolls of 1 when attacking with this weapon. If the bearer has more than one pair of scything talons, it can make 1 additional attack with this weapon each time it fights.</td>
                                             <td>
                                                 Codex: Tyranids p111
                                             </td>
                                         </tr>
+                                    </table>
+
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="category">
+                        <h3>Elites [12 PL, 200pts]</h3>
+                        <ul>
+                            <li class="rootselection">
+                                <h4>Hive Guard [12 PL, 200pts]</h4>
+                                <p class="category-names">
+                                    <span class="bold">Categories:</span> <span class="caps">Faction: &lt;Hive Fleet&gt;, Faction: Tyranids, Elites, Infantry</span>
+                                </p>
+                                <p class="profile-names">
+                                    <span class="bold">Abilities:</span> <span class="italic">Instinctive Behaviour</span>
+                                </p>
+                                <ul>
+                                    <li>
+                                        <h4>4x Hive Guard (Impaler) [200pts]</h4>
+                                        <p>
+                                            <span class="bold">Selections:</span> 4x Impaler Cannon [40pts]
+                                        </p>
+                                        <p class="profile-names">
+                                            <span class="bold">Unit:</span> <span class="italic">Hive Guard</span>, <span class="bold">Weapon:</span> <span class="italic">Impaler Cannon</span>
+                                        </p>
+
+                                    </li>
+                                </ul>
+                                    <br>
+                                    <table cellspacing="-1">
                                         <tr>
-                                            <td class="profile-name">Deathspitter</td>
-                                            <td>24"</td><td>Assault 3</td><td>5</td><td>-1</td><td>1</td><td>-</td>
+                                            <th>Abilities</th>
+                                            <th>Description</th>
+                                            <th>Ref</th>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Instinctive Behaviour</td>
+                                            <td>Unless a &lt;HIVE FLEET&gt; unit with this ability is within 24" of any friendly &lt;HIVE FLEET&gt; Synapse unit, you must subtract 1 from any hit rolls made for it when shooting any target other than the nearest visible enemy unit, and you must subtract 2 from its charge roll if it declares a charge against any unit other than the nearest enemy unit.</td>
+                                            <td>
+                                                Codex: Tyranids p82
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <table cellspacing="-1">
+                                        <tr>
+                                            <th>Unit</th>
+                                            <th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>A</th><th>Ld</th><th>Save</th>
+                                            <th>Ref</th>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Hive Guard</td>
+                                            <td>5"</td><td>4+</td><td>3+</td><td>4</td><td>5</td><td>3</td><td>2</td><td>7</td><td>4+</td>
+                                            <td>
+                                                Codex: Tyranids p92
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <table cellspacing="-1">
+                                        <tr>
+                                            <th>Weapon</th>
+                                            <th>Range</th><th>Type</th><th>S</th><th>AP</th><th>D</th><th>Abilities</th>
+                                            <th>Ref</th>
+                                        </tr>
+                                        <tr>
+                                            <td class="profile-name">Impaler Cannon</td>
+                                            <td>36"</td><td>Heavy 2</td><td>8</td><td>-2</td><td>D3</td><td>This weapon can target unit that are not visible to the bearer. In addition, units attacked by this weapon do not gain any bonus to their saving throws for being in cover.</td>
                                             <td>
                                                 Codex: Tyranids p112
                                             </td>
@@ -973,10 +1148,10 @@ layout: default
                         </ul>
                     </li>
                     <li class="category">
-                        <h3>Heavy Support [15 PL, 250pts]</h3>
+                        <h3>Heavy Support [12 PL, 210pts]</h3>
                         <ul>
                             <li class="rootselection">
-                                <h4>Carnifexes [6 PL, 106pts]</h4>
+                                <h4>Carnifexes [12 PL, 210pts]</h4>
                                 <p class="category-names">
                                     <span class="bold">Categories:</span> <span class="caps">Faction: &lt;Hive Fleet&gt;, Faction: Tyranids, Carnifex, Monster, Heavy Support</span>
                                 </p>
@@ -985,12 +1160,22 @@ layout: default
                                 </p>
                                 <ul>
                                     <li>
-                                        <h4>Carnifex [106pts]</h4>
+                                        <h4>Carnifex [105pts]</h4>
                                         <p>
-                                            <span class="bold">Selections:</span> Adrenal Glands [5pts], Bone Mace [2pts], Heavy Venom Cannon [18pts], Monstrous Scything Talons [14pts]
+                                            <span class="bold">Selections:</span> 2x Monstrous Scything Talons [15pts], Adrenal Glands [5pts], Bone Mace [5pts]
                                         </p>
                                         <p class="profile-names">
-                                            <span class="bold">Abilities:</span> <span class="italic">Adrenal Glands</span>, <span class="bold">Unit:</span> <span class="italic">Carnifex</span>, <span class="bold">Weapon:</span> <span class="italic">Bone Mace, Heavy Venom Cannon, Monstrous Scything Talons</span>
+                                            <span class="bold">Abilities:</span> <span class="italic">Adrenal Glands</span>, <span class="bold">Unit:</span> <span class="italic">Carnifex</span>, <span class="bold">Weapon:</span> <span class="italic">Bone Mace, Monstrous Scything Talons</span>
+                                        </p>
+
+                                    </li>
+                                    <li>
+                                        <h4>Carnifex [105pts]</h4>
+                                        <p>
+                                            <span class="bold">Selections:</span> 2x Monstrous Scything Talons [15pts], Adrenal Glands [5pts], Bone Mace [5pts]
+                                        </p>
+                                        <p class="profile-names">
+                                            <span class="bold">Abilities:</span> <span class="italic">Adrenal Glands</span>, <span class="bold">Unit:</span> <span class="italic">Carnifex</span>, <span class="bold">Weapon:</span> <span class="italic">Bone Mace, Monstrous Scything Talons</span>
                                         </p>
 
                                     </li>
@@ -1059,354 +1244,8 @@ layout: default
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="profile-name">Heavy Venom Cannon</td>
-                                            <td>36"</td><td>Assault D3</td><td>9</td><td>-2</td><td>3</td><td>-</td>
-                                            <td>
-                                                Codex: Tyranids p112
-                                            </td>
-                                        </tr>
-                                        <tr>
                                             <td class="profile-name">Monstrous Scything Talons</td>
                                             <td>Melee</td><td>Melee</td><td>User</td><td>-3</td><td>3</td><td>You can re-roll hit rolls of 1 when attacking with this weapon. If the bearer has more than one pair of monstrous scything talons, it can make 1 additional attack with this weapon each time it fights.</td>
-                                            <td>
-                                                Codex: Tyranids p111
-                                            </td>
-                                        </tr>
-                                    </table>
-
-                            </li>
-                            <li class="rootselection">
-                                <h4>Trygon [9 PL, 144pts]</h4>
-                                <p>
-                                    <span class="bold">Selections:</span> 3x Massive Scything Talons [30pts], Adrenal Glands [5pts], Bio-electric Pulse, Toxinspike [1pts]
-                                </p>
-                                <p class="category-names">
-                                    <span class="bold">Categories:</span> <span class="caps">Faction: &lt;Hive Fleet&gt;, Faction: Tyranids, Heavy Support, Monster</span>
-                                </p>
-                                <p class="profile-names">
-                                    <span class="bold">Abilities:</span> <span class="italic">Adrenal Glands, Death Throes, Instinctive Behaviour, Subterranean Assault</span>, <span class="bold">Stat Damage - M, WS &amp; BS:</span> <span class="italic">Trygon (1), Trygon (2), Trygon (3)</span>, <span class="bold">Unit:</span> <span class="italic">Trygon</span>, <span class="bold">Weapon:</span> <span class="italic">Bio-electric Pulse, Massive Sything Talons, Toxinspike</span>
-                                </p>
-                                    <br>
-                                    <table cellspacing="-1">
-                                        <tr>
-                                            <th>Abilities</th>
-                                            <th>Description</th>
-                                            <th>Ref</th>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Adrenal Glands</td>
-                                            <td>If a unit has adrenal glands, add 1" to the distance it can move when it Advances or charges.</td>
-                                            <td>
-                                                Codex: Tyranids p113
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Death Throes</td>
-                                            <td>If this model is reduced to 0 wounds, roll a dice before removing it from the battlefield; on a 6, it lashes out in its death throes, and each unit within 3" suffers D3 mortal wounds.</td>
-                                            <td>
-                                                Codex: Tyranids
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Instinctive Behaviour</td>
-                                            <td>Unless a &lt;HIVE FLEET&gt; unit with this ability is within 24" of any friendly &lt;HIVE FLEET&gt; Synapse unit, you must subtract 1 from any hit rolls made for it when shooting any target other than the nearest visible enemy unit, and you must subtract 2 from its charge roll if it declares a charge against any unit other than the nearest enemy unit.</td>
-                                            <td>
-                                                Codex: Tyranids p82
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Subterranean Assault</td>
-                                            <td>During deployment, you can set up a Trygon underground instead of placing it on the battlefield. At the same time, you can set up a &lt;HIVE FLEET&gt; Troops unit in the Trygon's tunnel. At the end of any of your Movement phases, set up the Trygon anywhere on the battlefield that is  more than 9" away from any enemy models. If there is another unit in the Trygon's tunnel, set it up at the same time wholly within 3" of the Trygon and more than 9" away from any enemy models. Any models that you cannot place in this way are destroyed.</td>
-                                            <td>
-                                                Codex: Tyranids p106
-                                            </td>
-                                        </tr>
-                                    </table>
-                                    <table cellspacing="-1">
-                                        <tr>
-                                            <th>Stat Damage - M, WS & BS</th>
-                                            <th>Remaining W</th><th>Movement</th><th>WS</th><th>BS</th>
-                                            <th>Ref</th>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Trygon (1)</td>
-                                            <td>7-12+</td><td>9"</td><td>3+</td><td>4+</td>
-                                            <td>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Trygon (2)</td>
-                                            <td>4-6</td><td>7"</td><td>4+</td><td>5+</td>
-                                            <td>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Trygon (3)</td>
-                                            <td>1-3</td><td>5"</td><td>5+</td><td>6+</td>
-                                            <td>
-                                            </td>
-                                        </tr>
-                                    </table>
-                                    <table cellspacing="-1">
-                                        <tr>
-                                            <th>Unit</th>
-                                            <th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>A</th><th>Ld</th><th>Save</th>
-                                            <th>Ref</th>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Trygon</td>
-                                            <td>*</td><td>*</td><td>*</td><td>7</td><td>6</td><td>12</td><td>6</td><td>7</td><td>3+</td>
-                                            <td>
-                                                Codex: Tyranids p106
-                                            </td>
-                                        </tr>
-                                    </table>
-                                    <table cellspacing="-1">
-                                        <tr>
-                                            <th>Weapon</th>
-                                            <th>Range</th><th>Type</th><th>S</th><th>AP</th><th>D</th><th>Abilities</th>
-                                            <th>Ref</th>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Bio-electric Pulse</td>
-                                            <td>12"</td><td>Assault 6</td><td>5</td><td>0</td><td>1</td><td>-</td>
-                                            <td>
-                                                Codex: Tyranids p112
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Massive Sything Talons</td>
-                                            <td>Melee</td><td>Melee</td><td>User</td><td>-3</td><td>D6</td><td>You can re-roll hit rolls of 1 when attacking with this weapon. If the bearer has more than one pair of massive scything talons, it can make 1 additional attack with this weapon each time it fights.</td>
-                                            <td>
-                                                Codex: Tyranids p111
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Toxinspike</td>
-                                            <td>Melee</td><td>Melee</td><td>1</td><td>0</td><td>D3</td><td>Each time the bearer fights, it can make one (and only one) attack with this weapon. This is in addition to the bearer's attacks. This weapon always wounds targets (other than VEHICLES) on a 2+.</td>
-                                            <td>
-                                                Codex: Tyranids p111
-                                            </td>
-                                        </tr>
-                                    </table>
-
-                            </li>
-                        </ul>
-                    </li>
-
-                </ul>
-            </li>
-            <li class="force">
-                <h2>Patrol Detachment (Tyranids) [24 PL, 355pts]</h2>
-                <ul>
-                    <li class="category">
-                        <h3>HQ [8 PL, 115pts]</h3>
-                        <ul>
-                            <li class="rootselection">
-                                <h4>Broodlord [8 PL, 115pts]</h4>
-                                <p>
-                                    <span class="bold">Selections:</span> Chameleonic Mutation, Monstrous Rending Claws
-                                </p>
-                                <p class="category-names">
-                                    <span class="bold">Categories:</span> <span class="caps">Faction: &lt;Hive Fleet&gt;, Faction: Tyranids, HQ, Genestealer, Character, Infantry, Psyker, Synapse</span>
-                                </p>
-                                <p class="profile-names">
-                                    <span class="bold">Abilities:</span> <span class="italic">Brood Telepathy, Chameleonic Mutation, Lightning Reflexes, Shadow in the Warp, Swift and Deadly, Synapse</span>, <span class="bold">Psyker:</span> <span class="italic">Broodlord</span>, <span class="bold">Unit:</span> <span class="italic">Broodlord</span>, <span class="bold">Weapon:</span> <span class="italic">Monstrous Rending Claws</span>
-                                </p>
-                                    <br>
-                                    <table cellspacing="-1">
-                                        <tr>
-                                            <th>Abilities</th>
-                                            <th>Description</th>
-                                            <th>Ref</th>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Brood Telepathy</td>
-                                            <td>You can add 1 to hit rolls in the Fight phase for &lt;HIVE FLEET&gt; Genestealer units within 6" of and friendly &lt;HIVE FLEET&gt; Broodlords.</td>
-                                            <td>
-                                                Codex: Tyranids p84
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Chameleonic Mutation</td>
-                                            <td>KRAKEN model only. Your opponent must subtract 1 from all hit rolls for ranged weapons that target this model.</td>
-                                            <td>
-                                                Codex: Tyranids p122
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Lightning Reflexes</td>
-                                            <td>Models in this unit have a 5+ invulnerable save.</td>
-                                            <td>
-                                                Codex: Tyranids p89
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Shadow in the Warp</td>
-                                            <td>Enemy PSKYERS must subtract 1 from any Psychic tests they make if they are within 18" of any units with this ability. TYRANID PSYKERS are not affected.</td>
-                                            <td>
-                                                Codex: Tyranids p82
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Swift and Deadly</td>
-                                            <td>Models in this unit can charge even if they Advanced during its turn.</td>
-                                            <td>
-                                                Codex: Tyranids p89
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Synapse</td>
-                                            <td>&lt;HIVE FLEET&gt; units automatically pass Morale tests if they are within 12" of any friendly &lt;HIVE FLEET&gt; units with this ability.</td>
-                                            <td>
-                                                Codex: Tyranids p82
-                                            </td>
-                                        </tr>
-                                    </table>
-                                    <table cellspacing="-1">
-                                        <tr>
-                                            <th>Psyker</th>
-                                            <th>Cast</th><th>Deny</th><th>Powers Known</th><th>Other</th>
-                                            <th>Ref</th>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Broodlord</td>
-                                            <td>1</td><td>1</td><td>Smite + 1 Hive Mind</td><td>-</td>
-                                            <td>
-                                            </td>
-                                        </tr>
-                                    </table>
-                                    <table cellspacing="-1">
-                                        <tr>
-                                            <th>Unit</th>
-                                            <th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>A</th><th>Ld</th><th>Save</th>
-                                            <th>Ref</th>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Broodlord</td>
-                                            <td>8"</td><td>2+</td><td>-</td><td>5</td><td>5</td><td>6</td><td>6</td><td>10</td><td>4+/5++</td>
-                                            <td>
-                                                Codex: Tyranids p84
-                                            </td>
-                                        </tr>
-                                    </table>
-                                    <table cellspacing="-1">
-                                        <tr>
-                                            <th>Weapon</th>
-                                            <th>Range</th><th>Type</th><th>S</th><th>AP</th><th>D</th><th>Abilities</th>
-                                            <th>Ref</th>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Monstrous Rending Claws</td>
-                                            <td>Melee</td><td>Melee</td><td>User</td><td>-3</td><td>D3</td><td>You can re-roll failed wound rolls for this weapon. In addition, each time you make a wound roll of 6+, that hit is resolved with an AP of -6 and Damage of 3.</td>
-                                            <td>
-                                                Codex: Tyranids p111
-                                            </td>
-                                        </tr>
-                                    </table>
-
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="category">
-                        <h3>Troops [16 PL, 240pts]</h3>
-                        <ul>
-                            <li class="rootselection">
-                                <h4>Genestealers [16 PL, 240pts]</h4>
-                                <p>
-                                    <span class="bold">Selections:</span> 5x Acid Maw, 20x Scything Talons
-                                </p>
-                                <p class="category-names">
-                                    <span class="bold">Categories:</span> <span class="caps">Faction: &lt;Hive Fleet&gt;, Faction: Tyranids, Infantry, Genestealer, Troops</span>
-                                </p>
-                                <p class="profile-names">
-                                    <span class="bold">Abilities:</span> <span class="italic">Flurry of Claws, Infestation, Lightning Reflexes, Swift and Deadly</span>, <span class="bold">Weapon:</span> <span class="italic">Acid Maw, Scything Talons</span>
-                                </p>
-                                <ul>
-                                    <li>
-                                        <h4>20x Genestealer [240pts]</h4>
-                                        <p>
-                                            <span class="bold">Selections:</span> 20x Rending Claws [40pts]
-                                        </p>
-                                        <p class="profile-names">
-                                            <span class="bold">Unit:</span> <span class="italic">Genestealer</span>, <span class="bold">Weapon:</span> <span class="italic">Rending Claws</span>
-                                        </p>
-
-                                    </li>
-                                </ul>
-                                    <br>
-                                    <table cellspacing="-1">
-                                        <tr>
-                                            <th>Abilities</th>
-                                            <th>Description</th>
-                                            <th>Ref</th>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Flurry of Claws</td>
-                                            <td>Genestealers have 4 Attacks instead of 3 whilst their unit has 10 or more models.</td>
-                                            <td>
-                                                Codex: Tyranids p89
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Infestation</td>
-                                            <td>If your army includes any units of Genestealers, you can place up to four infestation nodes anywhere in your deployment zone when your army deploys. You can then set up any Genestealers lurking, instead of placing them on the battlefield. If an enemy model is ever within 9" of an infestation node, the node is destroyed and removed from the battlefield. Whilst there are any friendly infestation nodes on the battlefield, this unit can stop lurking: at the end of your Movement phase, set it up wholly within 6" of a friendly infestation node. That infestation node is then removed from the battlefield. If this unit is still lurking when the last friendly infestation node is removed, the unit is destroyed.</td>
-                                            <td>
-                                                Codex: Tyranids p89
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Lightning Reflexes</td>
-                                            <td>Models in this unit have a 5+ invulnerable save.</td>
-                                            <td>
-                                                Codex: Tyranids p89
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Swift and Deadly</td>
-                                            <td>Models in this unit can charge even if they Advanced during its turn.</td>
-                                            <td>
-                                                Codex: Tyranids p89
-                                            </td>
-                                        </tr>
-                                    </table>
-                                    <table cellspacing="-1">
-                                        <tr>
-                                            <th>Unit</th>
-                                            <th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>A</th><th>Ld</th><th>Save</th>
-                                            <th>Ref</th>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Genestealer</td>
-                                            <td>8"</td><td>3+</td><td>4+</td><td>4</td><td>4</td><td>1</td><td>3</td><td>9</td><td>5+/5++</td>
-                                            <td>
-                                                Codex: Tyranids p89
-                                            </td>
-                                        </tr>
-                                    </table>
-                                    <table cellspacing="-1">
-                                        <tr>
-                                            <th>Weapon</th>
-                                            <th>Range</th><th>Type</th><th>S</th><th>AP</th><th>D</th><th>Abilities</th>
-                                            <th>Ref</th>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Acid Maw</td>
-                                            <td>Melee</td><td>Melee</td><td>User</td><td>-3</td><td>1</td><td>-</td>
-                                            <td>
-                                                Codex: Tyranids p111
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Rending Claws</td>
-                                            <td>Melee</td><td>Melee</td><td>User</td><td>-1</td><td>1</td><td>Each time you make a wound roll of 6+ for this weapon, that hit is resolved with an AP of -4.</td>
-                                            <td>
-                                                Codex: Tyranids p111
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="profile-name">Scything Talons</td>
-                                            <td>Melee</td><td>Melee</td><td>User</td><td>0</td><td>1</td><td>You can re-roll hit rolls of 1 when attacking with this weapon. If the bearer has more than one pair of scything talons, it can make 1 additional attack with this weapon each time it fights.</td>
                                             <td>
                                                 Codex: Tyranids p111
                                             </td>
