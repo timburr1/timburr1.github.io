@@ -3,7 +3,7 @@ layout: default
 title: Story Parser
 author: Tim
 ---
-<html>
+<div>
 	<h2>Story Parser</h2>
 	<p>Copy/paste the text you want analyzed below, and hit "Submit." The script on this page will break it up, strip out punctuation, and return a map of each word to the number of times it appears in the text. This is a very simple program, with no concept of proper nouns, verb conjugations, or anything like that, so use the result as a starting point, not the final answer. <b>Also, the Story Parser probably won't work unless you are using the Latin, Greek, or Cyrillic alphabets with UTF-8 encoding.</b> If you'd like another language added (or if you find a bug!) please shoot me an email at the reverse of moc.liamg@rrub.r.mit.</p><br />
 
@@ -107,4 +107,3 @@ author: Tim
 		return false;
 	}
 	</script>
-</html>
