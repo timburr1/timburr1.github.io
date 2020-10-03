@@ -9,7 +9,7 @@ Work Experience
 ----
 May 2020 - Present  
 **Computer Science Teacher | Centennial High School | Boise, ID**  
-* Teaches computer science with a focus on web development, databases, and cybersecurity
+* I teach computer science with a focus on web development, databases, and cybersecurity
 
 Aug 2019 - May 2020  
 **Senior Software Engineer | Healthwise | Boise, ID**  

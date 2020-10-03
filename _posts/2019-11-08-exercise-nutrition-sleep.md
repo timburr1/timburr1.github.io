@@ -10,26 +10,27 @@ author: Tim
 [What Is Fitness and Who Is Fit?](../../../papers/CFJ-trial.pdf) - Mark Rippetoe, CrossFit Journal  
 
 ### Kettlebells  
-From the [/r/kettlebell FAQ](https://www.reddit.com/r/kettlebell/comments/3qxa4i/new_to_kettlebells_start_here_updated_for_2015/):  
-The general recommendation is to start with 35 lbs (16 kg) if you are a guy, and 18-20 lbs (8-9 kg) if you are a girl. Unscientifically, I'd guess that these weights are appropriate for 90% of the population.  
+From the [/r/kettlebell FAQ](https://www.reddit.com/r/kettlebell/comments/3qxa4i/new_to_kettlebells_start_here_updated_for_2015/):
 
-**Simple and Sinister** is the same workout every day, 5-6 days/week:  
-* Warmup  
-* 5 sets of 10 two-hand swings.  
-* 10 Turkish Get-ups (5 per side).  
-
-As you get stronger, move from 5 sets of ten 2-handed swings to 10 sets of ten 2-handed swings (a total of 100).  
-
-Then slowly replace sets with alternating sets of 1-handed swings until you are doing 100 reps of 1-handed swings with perfect form.  
-
-Gradually reduce rest until you can complete 100 reps of 1-handed swings with perfect form in 5 minutes. (Because 10 swings should take you about 15 seconds, this should work out to a 1:1 work:rest ratio, alternating 15 seconds of swings and 15 seconds of rest, for five minutes.)  
-
-Do TGUs slowly, focusing on form. Eventually, you'll become strong enough to take 10 minutes to do your 10 reps (5 per side), maintaining a roughly 1:1 work:rest ratio (alternating 30 seconds of work and 30 seconds of rest for 10 minutes).  
-
-So, ultimately you will progress to:  
-* Warmup  
-* 10 sets of 10 one-hand swings (5 sets per hand) in 5 minutes.  
-* 10 slow Turkish Get-ups (5 per side) in 10 minutes, keeping a work:rest ratio of 1:1.  
+> The general recommendation is to start with 35 lbs (16 kg) if you are a guy, and 18-20 lbs (8-9 kg) if you are a girl. Unscientifically, I'd guess that these weights are appropriate for 90% of the population. 
+>
+> **Simple and Sinister** is the same workout every day, 5-6 days/week: 
+> * Warmup  
+> * 5 sets of 10 two-hand swings.  
+> * 10 Turkish Get-ups (5 per side).  
+>
+> As you get stronger, move from 5 sets of ten 2-handed swings to 10 sets of ten 2-handed swings (a total of 100).  
+>
+> Then slowly replace sets with alternating sets of 1-handed swings until you are doing 100 reps of 1-handed swings with perfect form. 
+>
+> Gradually reduce rest until you can complete 100 reps of 1-handed swings with perfect form in 5 minutes. (Because 10 swings should take you about 15 seconds, this should work out to a 1:1 work:rest ratio, alternating 15 seconds of swings and 15 seconds of rest, for five minutes.) 
+>
+> Do TGUs slowly, focusing on form. Eventually, you'll become strong enough to take 10 minutes to do your 10 reps (5 per side), maintaining a roughly 1:1 work:rest ratio (alternating 30 seconds of work and 30 seconds of rest for 10 minutes). 
+>
+> So, ultimately you will progress to: 
+> * Warmup  
+> * 10 sets of 10 one-hand swings (5 sets per hand) in 5 minutes.  
+> * 10 slow Turkish Get-ups (5 per side) in 10 minutes, keeping a work:rest ratio of 1:1.  
 
 ### Powerlifting/Strongman  
 Pick a program that you like, and that works for your goals; I am currently using a modified version of [5/3/1 for Beginners](https://thefitness.wiki/routines/5-3-1-for-beginners/). More programming resources: 
