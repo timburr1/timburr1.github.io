@@ -29,4 +29,6 @@ tags: school, tech
 >Port Scanning is an adversarial technique frequently used by penetration testers and hackers to scan internet facing machines and determine what applications or services are listening on the network, usually so that specific attacks can be carried out. It's common for security software to detect active port scans and flag it as potential abuse.
 
 ### Videos  
-[Angular Adventures](https://www.youtube.com/watch?v=LZIXFqUx7Ps) (YouTube)  
+[Angular Adventures](https://www.youtube.com/watch?v=LZIXFqUx7Ps) - YouTube  
+
+[Wat](https://www.destroyallsoftware.com/talks/wat) - Destroy All Software  
