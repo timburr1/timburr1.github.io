@@ -69,13 +69,11 @@ I mostly use Windows 10 these days, or sometimes Ubuntu via [WSL 2](https://docs
 [VeraCrypt](https://www.veracrypt.fr/en/Home.html)  
 
 **Software Development**  
-[IntelliJ IDEA](https://www.jetbrains.com/idea/) or [NetBeans](https://netbeans.apache.org/) for Java  
 [Microsoft SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/) (the Developer edition is available for free w/ [Visual Studio Dev Essentials](https://visualstudio.microsoft.com/dev-essentials/))  
 [Notepad++](https://notepad-plus-plus.org/) for general text editing  
 [Postman](https://www.postman.com/) for creating REST-ful web calls  
-[PyCharm](https://www.jetbrains.com/pycharm/) + [Jupyter](https://jupyter.org/) notebooks for Python  
 [TortoiseGit](https://tortoisegit.org/) for version control  
-[Visual Studio 2019](https://visualstudio.microsoft.com/vs/) with [IntelliCode](https://visualstudio.microsoft.com/services/intellicode/) for C#  
+[VS Code](https://code.visualstudio.com/) as a good all-around IDE
 
 **Utilities**  
 [7-Zip](https://www.7-zip.org/)  

@@ -10,16 +10,9 @@ gaming, links, school, tech, travel
 add/expand travel posts:  
 * Chile  
 * China  
-* Bolivia y Peru  
+* Bolivia y Peru 
+CFB effortpost  
 
-cfb effortpost  
-
-book reports in 2020:  
-* ~The Phoenix Project~
-* ~Becoming a Technical Leader~  
-* The Pragmatic Programmer  
-* The Mythical Man-Month  
-
-Personality/morality:  
+Personality/morality: 
 * yourmorals.org
 * http://www.personal.psu.edu/%7Ej5j/IPIP/

@@ -19,7 +19,7 @@ I'm also getting into [Warhammer 40k](/2020/05/31/warhammer.html) a little bit. 
 
 [Tactical Objectives and Stratagems](/_ref/40k/tyranids_ref.html)  
 
-&#127925;Serve the Hive, I control the groove...  
+&#127925;[Serve the Hive](https://www.youtube.com/watch?v=o7XV9fRAhu0), I control the groove...  
 Serve the Hive, I control the way you move...&#127925;  
 
 **Kill Teams:**  
