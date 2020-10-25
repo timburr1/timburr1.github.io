@@ -9,7 +9,7 @@ Work Experience
 ----
 May 2020 - Present  
 **Computer Science Teacher | Centennial High School | Boise, ID**  
-* I teach computer science with a focus on web development, databases, and cybersecurity
+* I teach Computer Science with a focus on web development, databases, and cybersecurity
 
 Aug 2019 - May 2020  
 **Senior Software Engineer | Healthwise | Boise, ID**  
@@ -97,4 +97,3 @@ Awards and Acknowledgements
 * Eagle Scout  
 
 Find me on [GitHub](https://github.com/timburr1) or [LinkedIn](http://www.linkedin.com/pub/timothy-burr/66/a88/a39).
- 
