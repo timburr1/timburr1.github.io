@@ -17,7 +17,7 @@ tags: school, tech
 > ...most blog posts are the triumph of the hare over the tortoise. They are meant to be read by a few people on a weekday in 2004 and never again, and are quickly abandoned—and perhaps as Assange says, not a moment too soon. (But isn’t that sad? Isn’t it a terrible ROI for one’s time?) On the other hand, the best blogs always seem to be building something: they are rough drafts—works in progress.
 
 [La Aventura de Aerolínea PanAmerica: Notes on Building a Simple Web Site with React](/2020/01/10/panam-notes.html)  
-> I recently finished a fake travel web site for Spanish learners. You can look at it here 1, or check out the Github repo. It was built with React, based on Brian Holt’s Complete Intro to React v5 course for FrontEndMasters. This was overkill, but I needed to learn React for work.
+> I recently finished a fake travel web site for Spanish learners. You can look at it here, or check out the Github repo. It was built with React, based on Brian Holt’s Complete Intro to React v5 course for FrontEndMasters. This was overkill, but I needed to learn React for work.
 
 [Old CSS, new CSS ](https://eev.ee/blog/2020/02/01/old-css-new-css/)  
 > Space Jam, if you’re not aware, is the greatest movie of all time. It documents Bugs Bunny’s extremely short-lived basketball career, playing alongside a live action Michael Jordan to save the planet from aliens for some reason. It was followed by a series of very successful and critically acclaimed RPG spinoffs, which describe the fallout of the Space Jam and are extremely canon. And we are truly blessed, for 24 years after it came out, its website is STILL UP. We can explore the pinnacle of 1996 web design, right here, right now.

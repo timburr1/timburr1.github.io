@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Haenerator
-excerpt: "Handy tool for finding/printing duplicates between two lists of numbers"
+excerpt: "Handy tool for finding/printing duplicates between two lists of numbers."
 date: '2020-12-08'
 author: Tim
 tags: tech

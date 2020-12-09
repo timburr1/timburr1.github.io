@@ -68,10 +68,12 @@ Tools and Languages
 * Java  
 * Python  
 * JavaScript / TypeScript  
+* Node.js
 * React  
 * Angular 2  
 * Jekyll  
 * Microsoft SQL Server  
+* MySQL
 * Mongo DB  
 * Microsoft Visual Studio  
 * Netbeans  
