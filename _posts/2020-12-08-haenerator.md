@@ -7,12 +7,12 @@ author: Tim
 tags: tech
 ---
 <div>
-<p>Copy/paste the full list of student IDs and the sublist you want to compare, from Excel. The resulting table should be easy to copy/paste back into your spreadsheet:</p>
+Copy/paste the full list of student IDs and the sublist you want to compare, from Excel. The resulting table should be easy to copy/paste back into your spreadsheet:
 <br>
 <b>Master List:</b> <input id="masterList" type="text" accept-charset="UTF-8" />
-<br>
+<br><br>
 <b>Sub-List:</b> <input id="subList" type="text" accept-charset="UTF-8" />
-<br>
+<br><br>
 <button type="button" onclick="run()">Submit</button>
 	
 <p id="output"></p>
