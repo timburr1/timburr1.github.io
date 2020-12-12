@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Resources for Teaching Computer Science
-excerpt: A growing collection of resources for teaching cybersecurity, databases, and web development; online or in-person.
+excerpt: A growing collection of resources for teaching cybersecurity, databases, and web development; online and in-person.
 author: Tim
 tags: school, tech
 ---
@@ -10,8 +10,10 @@ tags: school, tech
 [Computer Science Teachers Association](https://csteachers.org)  
 [Computer Science Unplugged: off-line activities and games for all ages](../../../../../papers/cs-unplugged.pdf) (PDF)  
 [Cyber.Org](https://cyber.org/)  
-[Flipgrid](https://info.flipgrid.com/) video discussion tool  
+[Flipgrid](https://info.flipgrid.com/)  
+[Gimkit](https://www.gimkit.com/)  
 [Lucidchart](https://www.lucidchart.com/pages/) virtual whiteboard  
+[Pear Deck](https://www.peardeck.com/)  
 [PLTW Assessment Roadmap](https://s3.amazonaws.com/lms-content.pltw.org/curriculum/PD/Roadmap_Assessment/index.html)  
 [StormBoard](https://www.stormboard.com/) shared workspace  
 
