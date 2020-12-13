@@ -84,6 +84,7 @@ Tools and Languages
 
 Projects
 ----
+* [FlappyBub](https://github.com/timburr1/flappyBub)  
 * [Haenerator](/2020/12/08/haenerator.html)  
 * [Yelp for Anything](https://github.com/timburr1/yelpForAnything)  
 * [MySQL Example DAO](https://github.com/timburr1/MySqlTest)  
