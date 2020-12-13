@@ -1,62 +1,62 @@
 ---
 layout: post
 title: DO NOT KEEP LIVING LIKE THIS
-excerpt: Burning Man 2018.
+excerpt: 🔥🔥🔥 )'( 🔥🔥🔥
 author: Tim
 tags: travel
 ---
 
 ## Burning Man 2018
 
-<img align="center" src="/images/burningman2018/Bear, Gummy.jpg" width="300"/>  
+<img src="/images/burningman2018/Bear, Gummy.jpg" width="300" alt="bear, gummy"/>  
 
-<img align="center" src="/images/burningman2018/THE ORB.jpg" width="450"/>   
+<img src="/images/burningman2018/THE ORB.jpg" width="450" alt="the orb"/>   
 THE ORB
 
-<img align="center" src="/images/burningman2018/Rainbow Bridge.jpg" width="450"/>   
+<img src="/images/burningman2018/Rainbow Bridge.jpg" width="450" alt="rainbow bridge"/>   
 Rainbow Bridge
 
-<img align="center" src="/images/burningman2018/Ha Ha.jpg" width="450"/>   
+<img src="/images/burningman2018/Ha Ha.jpg" width="450" alt="ha ha ha"/>   
 
-<img align="center" src="/images/burningman2018/The Man.jpg" width="300"/>  
+<img src="/images/burningman2018/The Man.jpg" width="300" alt="the man"/>  
 )'(  
 
-<img align="center" src="/images/burningman2018/RoboFam 1.jpg" width="450"/>  
+<img src="/images/burningman2018/RoboFam 1.jpg" width="450" alt="robots"/>  
 
-<img align="center" src="/images/burningman2018/RoboFam 2.jpg" width="300"/>
+<img src="/images/burningman2018/RoboFam 2.jpg" width="300" alt="robots"/>
 
-<img align="center" src="/images/burningman2018/Robot.jpg" width="300"/>  
+<img src="/images/burningman2018/Robot.jpg" width="300" alt="robot"/>  
 
-<img align="center" src="/images/burningman2018/Tim.jpg" width="300"/>
+<img src="/images/burningman2018/Tim.jpg" width="300" alt="Tim"/>
 
-<img align="center" src="/images/burningman2018/Swing.jpg" width="300"/>  
+<img src="/images/burningman2018/Swing.jpg" width="300" alt="swing"/>  
 
-<img align="center" src="/images/burningman2018/Sea Tunnel.jpg" width="450"/>  
+<img src="/images/burningman2018/Sea Tunnel.jpg" width="450" alt="sea tunnel"/>  
 Sea Tunnel  
 
-<img align="center" src="/images/burningman2018/Temple.jpg" width="450"/>  
+<img src="/images/burningman2018/Temple.jpg" width="450" alt="the temple"/>  
 The Temple  
 
-<img align="center" src="/images/burningman2018/D20.jpg" width="450"/>   
+<img src="/images/burningman2018/D20.jpg" width="450" alt="d20"/>   
 
-<img align="center" src="/images/burningman2018/The Long View.jpg" width="300"/>  
+<img src="/images/burningman2018/The Long View.jpg" width="300" alt="long view"/>  
 The Long View  
 
-<img align="center" src="/images/burningman2018/RadiaLumia.jpg" width="450"/>   
+<img src="/images/burningman2018/RadiaLumia.jpg" width="450" alt="radialumia"/>   
 RadiaLumia  
 
-<img align="center" src="/images/burningman2018/Ichiro Sacred Beings.jpg" width="450"/>   
+<img src="/images/burningman2018/Ichiro Sacred Beings.jpg" width="450" alt="ichiro sacred beings"/>   
 Ichiro Sacred Beings  
 
-<img align="center" src="/images/burningman2018/Ichiro II.jpg" width="300"/>  
+<img src="/images/burningman2018/Ichiro II.jpg" width="300" alt="ichiro"/>  
 
-<img align="center" src="/images/burningman2018/Peace.jpg" width="300"/>  
+<img src="/images/burningman2018/Peace.jpg" width="300" alt="peace"/>  
 
-<img align="center" src="/images/burningman2018/Puppets.jpg" width="450"/>    
+<img src="/images/burningman2018/Puppets.jpg" width="450" alt="puppets"/>    
 
-<img align="center" src="/images/burningman2018/Baba Yaga.jpg" width="450"/>   
+<img src="/images/burningman2018/Baba Yaga.jpg" width="450" alt="baba yaga"/>   
 Baba Yaga's House  
 
-<img align="center" src="/images/burningman2018/DNKLLT.jpg" width="300"/>  
+<img src="/images/burningman2018/DNKLLT.jpg" width="300" alt="do not keep living like this"/>  
 
-<img align="center" src="/images/burningman2018/Sunrise.jpg" width="450"/>  
+<img src="/images/burningman2018/Sunrise.jpg" width="450" alt="sunrise"/>  

@@ -3,19 +3,19 @@ var ctx = cvs.getContext("2d");
 
 // load sprites
 var bub = new Image();
-bub.src = "/flappyBub/images/bub.png";
+bub.src = "images/bub.png";
 
 var bg = new Image();
-bg.src = "/flappyBub/images/bg.png";
+bg.src = "images/bg.png";
 
 var fg = new Image();
-fg.src = "/flappyBub/images/fg.png";
+fg.src = "images/fg.png";
 
 var pipeNorth = new Image();
-pipeNorth.src = "/flappyBub/images/pipeNorth.png";
+pipeNorth.src = "images/pipeNorth.png";
 
 var pipeSouth = new Image();
-pipeSouth.src = "/flappyBub/images/pipeSouth.png";
+pipeSouth.src = "images/pipeSouth.png";
 
 var gap = 95;
 var constant;
