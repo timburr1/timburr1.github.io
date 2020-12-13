@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Flappy Bub
-excerpt: "On the first day of Christmas, my web design teacher gave to me..."
+excerpt: "🎄 On the first day of Christmas, my web design teacher gave to me..."
 date: '2020-12-12'
 author: Tim
 tags: tech, gaming
