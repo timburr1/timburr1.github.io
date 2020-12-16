@@ -17,6 +17,12 @@ pipeNorth.src = "images/pipeNorth.png";
 var pipeSouth = new Image();
 pipeSouth.src = "images/pipeSouth.png";
 
+var flap = new Audio();
+flap.src = "sounds/flap.mp3";
+
+var ding = new Audio();
+ding.src = "sounds/ding.mp3";
+
 var gap = 95;
 var constant;
 
@@ -32,6 +38,7 @@ document.addEventListener("keydown", moveUp);
 
 function moveUp(){
     bY -= 28;
+    flap.play();
 }
 
 // pipe coordinates
@@ -70,6 +77,7 @@ function draw(){
         
         if(pipe[i].x == 5){
             score++;
+            ding.play();
         }    
     }
 
