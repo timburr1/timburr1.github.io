@@ -31,6 +31,7 @@ var bY = 150;
 
 var gravity = 1.4;
 
+var gameOver = false;
 var score = 0;
 
 // on key down
@@ -71,8 +72,11 @@ function draw(){
 
         // detect collision      
         if( bX + bub.width >= pipe[i].x && bX <= pipe[i].x + pipeNorth.width && (bY <= pipe[i].y + pipeNorth.height || bY+bub.height >= pipe[i].y+constant) || bY + bub.height >=  cvs.height - fg.height){
-            // reload the page:
-            location.reload(); 
+            ctx.font = "30px Arial";
+                ctx.fillText("Game Over", 10, 50);
+                ctx.fillText("Press F5 to Reload", 10, 90);
+
+                gameOver = true;
         }
         
         if(pipe[i].x == 5){
@@ -91,7 +95,9 @@ function draw(){
     ctx.font = "20px Maroon";
     ctx.fillText("Score : " + score, 10, cvs.height - 20);
     
-    requestAnimationFrame(draw);    
+    if(!gameOver) {
+        requestAnimationFrame(draw);    
+    }
 }
 
 draw();

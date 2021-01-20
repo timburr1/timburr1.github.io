@@ -8,6 +8,6 @@ tags: gaming
 
 I made a Civ modpack, based on the instructions [here](https://forums.civfanatics.com/threads/mpmpm-multiplayer-mod-dlc-hack-updated.533238/) and [here](https://civ-5-cbp.fandom.com/wiki/Creating_a_Modpack). It includes the following mods:
 
-<img src="/images/modpack.png" alt="Unique Cultural Influence v. 4, Civ Names by Policies v. 8, InfoAddict v. 22, Quick Turns v. 10, Cummunitas Map v. 1, Gibraltar, Reef, and Krakatoa Fixes v. 101" style="margin-left: 30px;">
+<img src="/images/modpack.png" alt="Unique Cultural Influence v. 4, Civ Names by Policies v. 8, InfoAddict v. 22, Quick Turns v. 10, Cummunitas Map v. 1, Gibraltar, Reef, and Krakatoa Fixes v. 101">
 
 To use it, download [this zip file](../../../../../papers/Tim's QoL Modpack.zip) and extract the contents into your "Steam\steamapps\common\Sid Meier's Civilization V\Assets\DLC" directory. You probably need to have both the **Gods and Kings** and **Brave New World** expansions installed, but otherwise it should not care about any particular DLC.

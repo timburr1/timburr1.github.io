@@ -31,12 +31,13 @@ var bY = 150;
 
 var gravity = 1.4;
 
+var gameOver = false;
 var score = 0;
 
 // on key down
 document.addEventListener("keydown", moveUp);
 
-function moveUp(){
+function moveUp() {
     bY -= 28;
     flap.play();
 }
@@ -45,53 +46,58 @@ function moveUp(){
 var pipe = [];
 
 pipe[0] = {
-    x : cvs.width,
-    y : 0
+    x: cvs.width,
+    y: 0
 };
 
 // draw images
-function draw(){
-    
+function draw() {
+
     ctx.drawImage(bg, 0, 0);
-    
-    for(var i = 0; i < pipe.length; i++){
-        
+
+    for (var i = 0; i < pipe.length; i++) {
+
         constant = pipeNorth.height + gap;
         ctx.drawImage(pipeNorth, pipe[i].x, pipe[i].y);
         ctx.drawImage(pipeSouth, pipe[i].x, pipe[i].y + constant);
-             
+
         pipe[i].x--;
-        
-        if( pipe[i].x == 125 ){
+
+        if (pipe[i].x == 125) {
             pipe.push({
-                x : cvs.width,
-                y : Math.floor(Math.random()*pipeNorth.height)-pipeNorth.height
-            }); 
+                x: cvs.width,
+                y: Math.floor(Math.random() * pipeNorth.height) - pipeNorth.height
+            });
         }
 
         // detect collision      
-        if( bX + bub.width >= pipe[i].x && bX <= pipe[i].x + pipeNorth.width && (bY <= pipe[i].y + pipeNorth.height || bY+bub.height >= pipe[i].y+constant) || bY + bub.height >=  cvs.height - fg.height){
-            // reload the page:
-            location.reload(); 
+        if (bX + bub.width >= pipe[i].x && bX <= pipe[i].x + pipeNorth.width && (bY <= pipe[i].y + pipeNorth.height || bY + bub.height >= pipe[i].y + constant) || bY + bub.height >= cvs.height - fg.height) {
+            ctx.font = "30px Arial";
+            ctx.fillText("Game Over", 10, 50);
+            ctx.fillText("Press F5 to Reload", 10, 90);
+
+            gameOver = true;
         }
-        
-        if(pipe[i].x == 5){
+
+        if (pipe[i].x == 5) {
             score++;
             ding.play();
-        }    
+        }
     }
 
     ctx.drawImage(fg, 0, cvs.height - fg.height);
-    
+
     ctx.drawImage(bub, bX, bY);
-    
+
     bY += gravity;
-    
+
     ctx.fillStyle = "#000";
     ctx.font = "20px Maroon";
     ctx.fillText("Score : " + score, 10, cvs.height - 20);
-    
-    requestAnimationFrame(draw);    
+
+    if (!gameOver) {
+        requestAnimationFrame(draw);
+    }
 }
 
 draw();
