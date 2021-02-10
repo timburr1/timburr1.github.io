@@ -6,11 +6,25 @@ author: Tim
 tags: school, tech
 ---
 
-[GitHub Pages](https://pages.github.com/) for static sites like this one  
+[GitHub Pages](https://pages.github.com/) 
+> Websites for you and your projects.
+> Hosted directly from your GitHub repository. Just edit, push, and your changes are live.
+
+[Let's Encrypt](https://letsencrypt.org/) 
+> A nonprofit Certificate Authority providing TLS certificates to 225 million websites.
 
 [The Twelve-Factor App](https://12factor.net/)  
+> In the modern era, software is commonly delivered as a service: called web apps, or software-as-a-service. The twelve-factor app is a methodology for building software-as-a-service apps that:
+> * Use declarative formats for setup automation, to minimize time and cost for new developers joining the project;
+> * Have a clean contract with the underlying operating system, offering maximum portability between execution environments;
+> * Are suitable for deployment on modern cloud platforms, obviating the need for servers and systems administration;
+> * Minimize divergence between development and production, enabling continuous deployment for maximum agility;
+> * And can scale up without significant changes to tooling, architecture, or development practices.  
+>
+> The twelve-factor methodology can be applied to apps written in any programming language, and which use any combination of backing services (database, queue, memory cache, etc).
 
 [W3Schools](https://www.w3schools.com/)  
+Handy references for HTML, CSS, JavaScript, and SQL 
 
 ### Articles  
 [Gwern: Long Content](https://www.gwern.net/About#long-content)  
@@ -18,6 +32,9 @@ tags: school, tech
 
 [La Aventura de Aerolínea PanAmerica: Notes on Building a Simple Web Site with React](/2020/01/10/panam-notes.html)  
 > I recently finished a fake travel web site for Spanish learners. You can look at it here, or check out the Github repo. It was built with React, based on Brian Holt’s Complete Intro to React v5 course for FrontEndMasters. This was overkill, but I needed to learn React for work.
+
+[The mysterious photo of a purple flower that receives 78 million hits each day](https://restofworld.org/2021/the-mysterious-photo-of-a-purple-flower-that-receives-78-million-hits-each-day/)
+> Among the millions of images available on Wikimedia Commons is a stunning photo of a purple daisy with a yellow pistil. Taken in The Hague in 2004, it appears to be a variety of aster, a genus of flowering plants that mostly grow in Eurasia. It’s a nice picture, but its beauty doesn’t explain why the photo has received around 78 million hits each day — mostly from India — since roughly June 29 of last year. 
 
 [Old CSS, new CSS ](https://eev.ee/blog/2020/02/01/old-css-new-css/)  
 > Space Jam, if you’re not aware, is the greatest movie of all time. It documents Bugs Bunny’s extremely short-lived basketball career, playing alongside a live action Michael Jordan to save the planet from aliens for some reason. It was followed by a series of very successful and critically acclaimed RPG spinoffs, which describe the fallout of the Space Jam and are extremely canon. And we are truly blessed, for 24 years after it came out, its website is STILL UP. We can explore the pinnacle of 1996 web design, right here, right now.
