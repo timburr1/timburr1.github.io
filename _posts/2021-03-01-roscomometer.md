@@ -12,10 +12,12 @@ tags: tech
 <p><b>NB: This program does not assume anything about the student names, except that they will have a common format. We are assuming that names will appear either once or twice; triplicate values may cause surprising behavior.</b></p>
 
 <div style="margin-left: 30px">
-<b>Full List:</b> <textarea id="input" rows="10" cols="30" accept-charset="UTF-8" ></textarea>
-<br />
+<b>Full List:</b> 
+<br>	
+<textarea id="input" rows="10" cols="30" accept-charset="UTF-8" ></textarea>
+<br>
 <button type="button" onclick="run()">Submit</button>
-	
+<br>	
 <p id="output"></p>
 	
 <script> 
