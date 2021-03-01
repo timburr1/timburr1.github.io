@@ -7,8 +7,6 @@ author: Tim
 tags: tech
 ---
 
-# Lorem ipsum doler sum cogito centennialis
-
 <p>Copy/paste your list of student names from Excel and hit submit. Duplicates will be removed, and the rest of the entries put into a table, for easy copy/pasting back into your spreadsheet.</p>
 
 <p><b>NB: This program does not assume anything about the student names, except that they will have a common format. We are assuming that names will appear either once or twice; triplicate values may cause surprising behavior.</b></p>
