@@ -50,7 +50,9 @@ Copy/paste your list of student names from Excel and hit submit. Duplicates will
 	{
 		var str = "<table>";
 		for(var n=0; n < items.length; n++) {
-			str += "<tr><td>" + items[n] + "</td></tr>";
+			if(items[n] && items[n].length > 0) {
+				str += "<tr><td>" + items[n] + "</td></tr>";
+			}
 		}
 				
 		return str + "</table>";
