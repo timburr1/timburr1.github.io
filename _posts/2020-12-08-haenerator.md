@@ -7,8 +7,6 @@ author: Tim
 tags: tech
 ---
 
-### Test commit; please remove.
-
 Copy/paste the full list of student IDs and the sublist you want to compare, from Excel. The resulting table should be easy to copy/paste back into your spreadsheet:
 
 <div style="margin-left: 30px">
