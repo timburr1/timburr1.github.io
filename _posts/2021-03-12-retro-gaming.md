@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Retro Gaming
-excerpt: Making old things new again.
+excerpt: "Making old things new again."
 date: '2021-03-17'
 author: Tim
-tags: school, tech
+tags: school, tech, gaming
 ---
 
 [Vilros](https://vilros.com/collections/retropie) kits, incl. **Raspberry Pi 3 Model B Rev 1.2**
