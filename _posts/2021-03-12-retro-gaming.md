@@ -1,0 +1,25 @@
+---
+layout: post
+title: Retro Gaming
+excerpt: Making old things new again.
+date: '2021-03-17'
+author: Tim
+tags: school, tech
+---
+
+[Vilros](https://vilros.com/collections/retropie) kits, incl. **Raspberry Pi 3 Model B Rev 1.2**
+
+To install RetroPie, follow the instructions in the [RetroPie Beginner's Guide](https://retropie.org.uk/docs/First-Installation/)  
+Download + install the Raspberry Pi Imager:  
+* [Windows installer](https://www.raspberrypi.org/software/)
+* Mint Linux: ```sudo snap install rpi-imager
+```  
+Run the imager from your start menu, and use it to write the OS **RetroPie 4.7.1 (RPI 2/3)** to your MicroSD card, example [here](https://user-images.githubusercontent.com/540857/107868009-493a6400-6e4e-11eb-9272-7f45d569dc44.gif)  
+Once it's written, eject the MicroSD card from your computer and install it into the Raspberry Pi  
+Transfer some ROMs, according to the instructions [here](https://retropie.org.uk/docs/Transferring-Roms/)  
+
+## Other fun stuff:
+[Analogue](https://www.analogue.co/) is a company that is apparently planning to produce and sell updated versions of old gaming consoles. Everything is still pre-order only, but some of it looks really cool.  
+[EZ-Flash Omega Setup and Usage Guide](https://www.codedonut.com/gba-hacking/ez-flash-omega-setup-guide-tutorial/)  
+[iFixit: The Free Repair Manual](https://www.ifixit.com/)  
+[r/Gameboy Wiki](https://www.reddit.com/r/Gameboy/wiki/index), because Gameboys are neat. You can make your own with [Freeplaytech](https://www.freeplaytech.com/) and [Raspberry Pi](https://www.raspberrypi.org/).

@@ -4,7 +4,7 @@ title: Haenerator
 excerpt: "Super-simple tool that compares two lists, and writes duplicates to a table. I'm told this is useful for our building attendance process."
 date: '2020-12-08'
 author: Tim
-tags: tech
+tags: school, tech
 ---
 
 Copy/paste the full list of student IDs and the sublist you want to compare, from Excel. The resulting table should be easy to copy/paste back into your spreadsheet:

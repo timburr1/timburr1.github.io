@@ -4,7 +4,7 @@ title: Roscomometer
 excerpt: "Another super-simple attendance helper. Copy/paste a table of values, and any duplicates will be removed."
 date: '2021-03-01'
 author: Tim
-tags: tech
+tags: school, tech
 ---
 
 <p>Copy/paste your list of student names from Excel and hit submit. Duplicates will be removed, and the rest of the entries put into a table, for easy copy/pasting back into your spreadsheet.</p>
