@@ -18,11 +18,13 @@ Run the imager from your start menu, and use it to write the OS **RetroPie 4.7.1
 Once it's written, eject the MicroSD card from your computer and install it into the Raspberry Pi  
 Transfer some ROMs, according to the instructions [here](https://retropie.org.uk/docs/Transferring-Roms/)  
 
-## Emulators
+### Emulators
+[Pizza Boy GBA Free](https://play.google.com/store/apps/details?id=it.dbtecno.pizzaboygba) for Android  
+[Pizza Boy GBC Free](https://play.google.com/store/apps/details?id=it.dbtecno.pizzaboy) for Android  
 [Snes9x](https://www.snes9x.com/)  
 [VisualBoyAdvance](https://sourceforge.net/projects/vba/)  
 
-## Other fun stuff:
+### Other fun stuff:
 [Analogue](https://www.analogue.co/) is a company that is apparently planning to produce and sell updated versions of old gaming consoles. Everything is still pre-order only, but some of it looks really cool.  
 [EZ-Flash Omega Setup and Usage Guide](https://www.codedonut.com/gba-hacking/ez-flash-omega-setup-guide-tutorial/)  
 [iFixit: The Free Repair Manual](https://www.ifixit.com/)  
