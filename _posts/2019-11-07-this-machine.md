@@ -24,6 +24,10 @@ Desktop computer specs, upgraded a bit from 2012 and still running strong:
       <td class="pcpp-part-list-type">Motherboard</td>
       <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/4JK7YJ/msi-motherboard-z77ag41">MSI Z77A-G41 ATX LGA1155 Motherboard</a></td>
     </tr>
+	<tr>
+      <td class="pcpp-part-list-type">Memory</td>
+      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/nJLypg/gskill-memory-f31600c10d16gao">G.Skill Ares Series 16 GB (2 x 8 GB) DDR3-1600 Memory</a></td>
+    </tr>
     <tr>
       <td class="pcpp-part-list-type">Memory</td>
       <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/zsTmP6/patriot-memory-pv316g186c0k">Patriot Viper 3 16 GB (2 x 8 GB) DDR3-1866 Memory</a></td>
