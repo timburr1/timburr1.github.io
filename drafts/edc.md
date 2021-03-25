@@ -8,7 +8,8 @@
 * Skullcandy earbuds
 * Tungsten carbide wedding ring
 
-### optional extras
+### frequent flyers
+* Bag w/ USB charger, basic meds, hankerchief
 * Generic notebook + pen
 * iFixit Moray Driver Kit
 * Jansport backpack

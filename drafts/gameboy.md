@@ -2,10 +2,10 @@
 ### DMG + GBC
 * Pokemon Red + Yellow
 * Legend of Zelda: Link's Awakening DX
+* Madden 2002
 
 ### GBA
-* Advance Wars
-* Advance Wars: Black Hole Rising
+* Advance Wars + Black Hole Rising
 * Fire Emblem: The Sacred Stones
 * F-Zero: Maximum Velocity
 * Golden Sun
