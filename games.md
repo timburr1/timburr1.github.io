@@ -3,17 +3,22 @@ layout: default
 title: Slingin' Cardboard
 ---
 
-## Games  
+### [MtG Deckbox](https://deckbox.org/users/timburr)  
 
-[Tabletop RPG Resources](/2020/02/19/gamemastering.html)  
+### Get Good At  
+* [Classic Video Games](/2021/03/17/retro-gaming.html)  
+* [Blood Bowl](/2020/06/17/blood-bowl.html)  
+* [Tabletop RPGs](/2020/02/19/gamemastering.html)  
+* [Warhammer 40k](/2020/05/31/warhammer.html)  
+* [StarCraft 2](/2020/03/17/sc2.html)  
+* [Magic: the Gathering](/2020/01/17/mtg.html)  
 
-[How to Play Magic over the Internet](/2020/04/11/cockatrice.html)  
+### How To
+* [Play Magic over the Internet](/2020/04/11/cockatrice.html)  
+* [Play Basically Any Other Game over the Internet](/papers/Online Board Games.pdf)  
 
-[How to Play Basically Any Other Game over the Internet](/papers/Online Board Games.pdf)  
-
-You can look at my [Magic: the Gathering](/2020/01/17/mtg.html) decks on [Deckbox](https://deckbox.org/users/timburr), if you are into that sort of thing.  
-
-I'm also getting into [Warhammer 40k](/2020/05/31/warhammer.html) a little bit. Army lists:  
+### Warhammer Stuff
+**Army lists:**  
 * [Tyranids, 1500pts](/_ref/40k/Tyranids_1500.html)  
 * [Tyranids, 2000pts](/_ref/40k/Tyranids_2k.html)  
 
