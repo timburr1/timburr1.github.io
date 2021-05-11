@@ -6,6 +6,7 @@ author: Tim
 tags: school, tech
 ---
 
+[App Inventor](http://www.appinventor.org/) - Learn to build Android apps in hours.  
 [CodeHS](https://codehs.com/)  
 [Computer Science Teachers Association](https://csteachers.org)  
 [Computer Science Unplugged: off-line activities and games for all ages](../../../../../papers/cs-unplugged.pdf) (PDF)  
