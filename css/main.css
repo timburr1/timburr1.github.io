@@ -24,7 +24,7 @@ nav li {
 }
 
 footer {
-    border-top: 2px solid #0fd80f;
+    border-top: 2px solid #3BA55C;
 	font-size: 1em;
 	font-weight: bold;
     margin-top: 10px;
@@ -42,7 +42,7 @@ a:hover {
 }
 
 blockquote {
-    border: 1px solid #0fd80f;
+    border: 1px solid #3BA55C;
 	background-color: #333;
     margin: 2px 20px;
 	padding: 5px;
@@ -98,10 +98,10 @@ ul {
 }
 
 #tortle-stat-tbl {
-	border: 3px solid #0fd80f;
+	border: 3px solid #3BA55C;
 }
 
 #tortle-stat-tbl th, td {
-	border: 1px solid #0fd80f;
+	border: 1px solid #3BA55C;
 	padding: 3px 15px;
 }
