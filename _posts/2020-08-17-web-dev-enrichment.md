@@ -45,7 +45,11 @@ Handy references for HTML, CSS, JavaScript, and SQL
 [Why Is This Website Port Scanning Me?](https://nullsweep.com/why-is-this-website-port-scanning-me/)  
 >Port Scanning is an adversarial technique frequently used by penetration testers and hackers to scan internet facing machines and determine what applications or services are listening on the network, usually so that specific attacks can be carried out. It's common for security software to detect active port scans and flag it as potential abuse.
 
-### Videos  
+### Multimedia  
 [Angular Adventures](https://www.youtube.com/watch?v=LZIXFqUx7Ps) - YouTube  
+
+[DarkNet Diaries Podcast](https://darknetdiaries.com/)  
+
+[Planet Money Buys A Super Hero](https://www.npr.org/series/967404527/planet-money-buys-a-superhero) - NPR  
 
 [Wat](https://www.destroyallsoftware.com/talks/wat) - Destroy All Software  

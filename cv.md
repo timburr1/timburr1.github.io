@@ -84,7 +84,8 @@ Tools and Languages
 
 Projects
 ----
-* [Roscomometer](/2021/03/01/roscomometer.html) 
+* [Troll 9000 Discord Bot](https://github.com/timburr1/troll9000)  
+* [Roscomometer](/2021/03/01/roscomometer.html)  
 * [Flappy Bub](/2020/12/12/flappy-bub.html)  
 * [Haenerator](/2020/12/08/haenerator.html)  
 * [Yelp for Anything](https://github.com/timburr1/yelpForAnything)  
