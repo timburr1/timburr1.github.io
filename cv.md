@@ -5,8 +5,7 @@ title: Curriculum Vitae
 
 # Curriculum Vitae  
 
-Work Experience
-----
+## Work Experience
 May 2020 - Present  
 **Computer Science Teacher | Centennial High School | Boise, ID**  
 * I teach Computer Science with a focus on web development, databases, and cybersecurity
@@ -49,8 +48,7 @@ May 2006 - Jul 2012
 * Managed groups of scouts and counselors from many diverse backgrounds
 
 
-Education
-----
+## Education
 **University of Oklahoma, Norman, OK**  
 * *B.S. in Computer Science with Math Minor, May 13, 2011*  
 * *M.S. in Computer Science, May 11, 2012*  
@@ -62,28 +60,27 @@ Education
 * *Dual Enrollment, 2006-07*  
 
 
-Tools and Languages
-----
-* C#  
-* Java  
-* Python  
+## Tools and Languages
 * JavaScript / TypeScript  
 * Node.js
 * React  
 * Angular 2  
 * Jekyll  
-* Microsoft SQL Server  
+* C#  
+* Java  
+* Python  
 * MySQL
 * Mongo DB  
-* Microsoft Visual Studio  
+* Microsoft SQL Server  
 * Netbeans  
 * PyCharm  
 * IntelliJ IDEA  
+* Microsoft VS Code
+* Amazon Web Services      
 * Microsoft Azure  
 
 
-Projects
-----
+## Projects
 * [Troll 9000 Discord Bot](https://github.com/timburr1/troll9000)  
 * [Roscomometer](/2021/03/01/roscomometer.html)  
 * [Flappy Bub](/2020/12/12/flappy-bub.html)  
@@ -97,8 +94,7 @@ Projects
 * [Machine Learning in StarCraft: Brood War](/papers/burr2011.pdf)  
 
 
-Awards and Acknowledgements
-----
+## Awards and Acknowledgements
 * Presented at OU Honors College: ['Majors and Careers in a Volatile Economy'](/2017/02/04/ou-talk.html), September 2015  
 * OU College of Engineering Dean's Honor Roll, Spring 2008 - Fall 2011  
 * National Merit Finalist  
