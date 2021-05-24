@@ -6,6 +6,14 @@ author: Tim
 tags: school, tech
 ---
 
+[Discord.js Guide](https://discordjs.guide/)  
+> If you're reading this, it probably means you want to learn how to make a bot with discord.js. Awesome! You've come to the right place. This guide will teach you things such as:
+> * How to get a bot up and running from scratch;
+> * How to properly create, organize, and expand on your commands;
+> * How to use the best practices for common situations;
+> * and much more.
+> This guide will also cover subjects like common errors and how to solve them, keeping your code clean, setting up a proper development environment, etc. Sounds good? Great! Let's get started, then. 
+
 [GitHub Pages](https://pages.github.com/) 
 > Websites for you and your projects.
 > Hosted directly from your GitHub repository. Just edit, push, and your changes are live.
