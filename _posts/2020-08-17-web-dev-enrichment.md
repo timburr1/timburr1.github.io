@@ -6,13 +6,8 @@ author: Tim
 tags: school, tech
 ---
 
-[Discord.js Guide](https://discordjs.guide/)  
-> If you're reading this, it probably means you want to learn how to make a bot with discord.js. Awesome! You've come to the right place. This guide will teach you things such as:
-> * How to get a bot up and running from scratch;
-> * How to properly create, organize, and expand on your commands;
-> * How to use the best practices for common situations;
-> * and much more.
-> This guide will also cover subjects like common errors and how to solve them, keeping your code clean, setting up a proper development environment, etc. Sounds good? Great! Let's get started, then. 
+[Flexbox Froggy](https://flexboxfroggy.com/)  
+> Welcome to Flexbox Froggy, a game where you help Froggy and friends by writing CSS code! Guide this frog to the lilypad on the right by using the justify-content property...
 
 [GitHub Pages](https://pages.github.com/) 
 > Websites for you and your projects.
@@ -35,11 +30,25 @@ tags: school, tech
 Handy references for HTML, CSS, JavaScript, and SQL 
 
 ### Articles  
+[CSS-Tricks.com: A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  
+> Our comprehensive guide to CSS flexbox layout. This complete guide explains everything about flexbox, focusing on all the different possible properties for the parent element (the flex container) and the child elements (the flex items). It also includes history, demos, patterns, and a browser support chart.
+
+[Discord.js Guide](https://discordjs.guide/)  
+> If you're reading this, it probably means you want to learn how to make a bot with discord.js. Awesome! You've come to the right place. This guide will teach you things such as:
+> * How to get a bot up and running from scratch;
+> * How to properly create, organize, and expand on your commands;
+> * How to use the best practices for common situations;
+> * and much more.
+> This guide will also cover subjects like common errors and how to solve them, keeping your code clean, setting up a proper development environment, etc. Sounds good? Great! Let's get started, then. 
+
 [Gwern: Long Content](https://www.gwern.net/About#long-content)  
 > ...most blog posts are the triumph of the hare over the tortoise. They are meant to be read by a few people on a weekday in 2004 and never again, and are quickly abandoned—and perhaps as Assange says, not a moment too soon. (But isn’t that sad? Isn’t it a terrible ROI for one’s time?) On the other hand, the best blogs always seem to be building something: they are rough drafts—works in progress.
 
 [La Aventura de Aerolínea PanAmerica: Notes on Building a Simple Web Site with React](/2020/01/10/panam-notes.html)  
 > I recently finished a fake travel web site for Spanish learners. You can look at it here, or check out the Github repo. It was built with React, based on Brian Holt’s Complete Intro to React v5 course for FrontEndMasters. This was overkill, but I needed to learn React for work.
+
+[Mozilla Developer Network: Basic concepts of flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox) 
+>The Flexible Box Module, usually referred to as flexbox, was designed as a one-dimensional layout model, and as a method that could offer space distribution between items in an interface and powerful alignment capabilities. This article gives an outline of the main features of flexbox, which we will be exploring in more detail in the rest of these guides. 
 
 [The mysterious photo of a purple flower that receives 78 million hits each day](https://restofworld.org/2021/the-mysterious-photo-of-a-purple-flower-that-receives-78-million-hits-each-day/)
 > Among the millions of images available on Wikimedia Commons is a stunning photo of a purple daisy with a yellow pistil. Taken in The Hague in 2004, it appears to be a variety of aster, a genus of flowering plants that mostly grow in Eurasia. It’s a nice picture, but its beauty doesn’t explain why the photo has received around 78 million hits each day — mostly from India — since roughly June 29 of last year. 
