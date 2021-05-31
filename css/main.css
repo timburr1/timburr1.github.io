@@ -9,6 +9,7 @@ body {
 
 nav {
 	text-align: center;
+	border-bottom: 2px solid #3BA55C;
 }
 
 nav ul {
