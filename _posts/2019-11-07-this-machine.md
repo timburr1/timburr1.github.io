@@ -42,7 +42,7 @@ Desktop computer specs, upgraded a bit from 2012 and still running strong:
     </tr>
     <tr>
       <td class="pcpp-part-list-type">Video Card</td>
-      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/G8V48d/xfx-video-card-fx787acnfc">XFX Radeon HD 7870 2 GB Video Card</a></td>
+      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/G8V48d/xfx-video-card-fx787acnfc">Radeon HD 7870 XT, 2 GB Video Card</a></td>
     </tr>
     <tr>
       <td class="pcpp-part-list-type">Case</td>

@@ -9,6 +9,8 @@ title: Blogs and Podcasts
 ## Blogs and Newspapers  
 * [The Alexandrian](https://thealexandrian.net/)  
 * [BoiseDev](https://boisedev.com/)  
+* [Coding Horror](https://blog.codinghorror.com/)  
+* [A Collection of Unmitigated Pedantry](https://acoup.blog/)  
 * [Examine.com](https://examine.com/)  
 * [Greg Mankiw](https://gregmankiw.blogspot.com/)  
 * [Gwern](https://www.gwern.net/)  
@@ -48,6 +50,7 @@ title: Blogs and Podcasts
 * [The History of Byzantium](https://thehistoryofbyzantium.com/)  
 * [The History of Rome](http://www.thehistoryofrome.typepad.com/)  
 * [Invisibilia](https://www.npr.org/podcasts/510307/invisibilia)  
+* [It Could Happen Here](https://www.iheart.com/podcast/1119-it-could-happen-here-30717896/)  
 * [The Joe Rogan Experience](https://www.joerogan.com/)  
 * [Limited Resources](http://lrcast.com/)  
 * [MartyrMade](https://www.martyrmade.com/)  

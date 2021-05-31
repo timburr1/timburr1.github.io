@@ -81,7 +81,7 @@ May 2006 - Jul 2012
 
 
 ## Projects
-* [Troll 9000 Discord Bot](https://github.com/timburr1/troll9000)  
+* [Troll 9000 Discord Bot](/2021/05/31/discord-bot.html)  
 * [Roscomometer](/2021/03/01/roscomometer.html)  
 * [Flappy Bub](/2020/12/12/flappy-bub.html)  
 * [Haenerator](/2020/12/08/haenerator.html)  
