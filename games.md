@@ -16,6 +16,7 @@ title: Slingin' Cardboard
 ### How To
 * [Play Magic over the Internet](/2020/04/11/cockatrice.html)  
 * [Play Basically Any Other Game over the Internet](/papers/Online Board Games.pdf)  
+* [Play Skull](/2021/06/01/skull.html)
 
 ### Warhammer Stuff
 **Army lists:**  
