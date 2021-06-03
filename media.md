@@ -11,6 +11,7 @@ title: Blogs and Podcasts
 * [BoiseDev](https://boisedev.com/)  
 * [Coding Horror](https://blog.codinghorror.com/)  
 * [A Collection of Unmitigated Pedantry](https://acoup.blog/)  
+* [The Economist](https://www.economist.com/)
 * [Examine.com](https://examine.com/)  
 * [Greg Mankiw](https://gregmankiw.blogspot.com/)  
 * [Gwern](https://www.gwern.net/)  
