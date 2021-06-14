@@ -6,11 +6,11 @@ author: Tim
 tags: school, tech
 ---
 
-[CyberPatriot](https://www.uscyberpatriot.org/) educational programs and competitions from the US Air Force  
+[CyberPatriot](https://www.uscyberpatriot.org/) - Educational programs and competitions from the US Air Force  
 
 [Cybersecurity Best Practices](/2020/02/15/cybersecurity.html)  
 
-[Cybersecurity Education Resources](https://www.cybersec-teaching.info/): A collection of cybersecurity education resources, licensed under (CC BY-NC-SA 4.0)
+[Cybersecurity Education Resources](https://www.cybersec-teaching.info/) - A collection of cybersecurity education resources, licensed under (CC BY-NC-SA 4.0)
 
 [Darknet Diaries](https://darknetdiaries.com/) podcast, especially:  
 * [Ep 03](https://darknetdiaries.com/episode/3/): DigiNotar and Certificate Authorities  
