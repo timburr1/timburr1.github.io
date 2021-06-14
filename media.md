@@ -18,6 +18,7 @@ title: Blogs and Podcasts
 * [Google Developers Blog](https://developers.googleblog.com)  
 * [Hacker News](https://news.ycombinator.com/)  
 * [The Idaho Statesman](https://www.idahostatesman.com/)  
+* [Krebs on Security](https://krebsonsecurity.com/)  
 * [Lawfare](https://www.lawfareblog.com/)  
 * [Library Genesis](http://libgen.lc/)  
 * [MalwareTech](https://www.malwaretech.com/)  
