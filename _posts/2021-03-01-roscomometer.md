@@ -18,7 +18,7 @@ tags: school, tech
 <br>
 <button type="button" onclick="run()">Submit</button>
 <br>	
-<p id="output"></p>
+<p id="output" style="background-color:white; color:black;"></p>
 	
 <script> 
 	function run() 

@@ -16,7 +16,7 @@ Copy/paste the full list of student IDs and the sublist you want to compare, fro
 <br><br>
 <button type="button" onclick="run()">Submit</button>
 	
-<p id="output"></p>
+<p id="output" style="background-color:white; color:black;"></p>
 	
 <script> 
 	function run() 
