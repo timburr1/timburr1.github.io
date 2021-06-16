@@ -31,5 +31,6 @@ Transfer some ROMs, according to the instructions [here](https://retropie.org.uk
 [Goomba Color](https://www.dwedit.org/gba/goombacolor.php) for converting DMG/GBC roms to GBA format  
 [iFixit: The Free Repair Manual](https://www.ifixit.com/)  
 [Little Sound DJ](https://www.littlesounddj.com/lsd/index.php) music sequencer for DMG  
+[RetroFlag GPi Case](http://retroflag.com/GPi-CASE.html) for Raspberry Pi Zero  
 [r/Gameboy Wiki](https://www.reddit.com/r/Gameboy/wiki/index), because Gameboys are neat. You can make your own with [Freeplaytech](https://www.freeplaytech.com/) and [Raspberry Pi](https://www.raspberrypi.org/).  
 [r/SBCGaming](https://www.reddit.com/r/SBCGaming/), "Single Board Computer Gaming: Retro gaming emulation on single board computers, handheld portables, android devices and more..."
