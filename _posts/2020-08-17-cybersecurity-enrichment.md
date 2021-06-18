@@ -6,6 +6,8 @@ author: Tim
 tags: school, tech
 ---
 
+[CYB 110 Notes](/2021/06/18/cyb-110.html) 
+
 [CyberPatriot](https://www.uscyberpatriot.org/) - Educational programs and competitions from the US Air Force  
 
 [Cybersecurity Best Practices](/2020/02/15/cybersecurity.html)  
@@ -21,6 +23,10 @@ tags: school, tech
 * [Ep 53](https://darknetdiaries.com/episode/53/): The Shadow Brokers leaks
 * [Ep 54](https://darknetdiaries.com/episode/54/): NotPetya  
 * [Ep 68](https://darknetdiaries.com/episode/68/): Triton  
+
+[Infrapedia Map of the Internet](https://www.infrapedia.com/app)
+
+[Seed Security Labs](https://seedsecuritylabs.org/)
 
 [Why Do Keynote Speakers Keep Suggesting That Improving Security Is Possible?](https://www.youtube.com/watch?v=ajGX7odA87k) - James Mickens, YouTube  
 
