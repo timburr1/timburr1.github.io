@@ -15,7 +15,6 @@ layout: default
                 
                 font-family: sans-serif;
                 font-size: 12px;
-                color: #444444;
                 text-align: left;
             }
 
@@ -113,7 +112,6 @@ layout: default
                 border-collapse: collapse;
                 
                 font-size: 12px;
-                color: #444444;
                 
                 page-break-inside: avoid;
             }
