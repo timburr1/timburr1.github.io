@@ -28,28 +28,45 @@ tags: school, tech
 
 [Seed Security Labs](https://seedsecuritylabs.org/)
 
-[Why Do Keynote Speakers Keep Suggesting That Improving Security Is Possible?](https://www.youtube.com/watch?v=ajGX7odA87k) - James Mickens, YouTube  
-
 ### Blogs
 [Krebs on Security](https://krebsonsecurity.com/)  
+
 [MalwareTech](https://www.malwaretech.com/)  
+
 [Schneier on Security](https://www.schneier.com/)  
 
 ### CTF
 Start with the Bandit wargame at [OverTheWire](https://overthewire.org/wargames).  
+
 [DefCon CTF Archive](https://archive.ooo/)  
+
 [RiceTeaCatPanda](https://riceteacatpanda.wtf/)  
 
 ### Cyber Attack Maps
 [Check Point Live Cyber Threat Map](https://threatmap.checkpoint.com/)  
+
 [Digital Attack Map](https://www.digitalattackmap.com/#anim=1&color=0&country=ALL&list=0&time=18463&view=map)  
+
 [FireEye Cyber Threat Map](https://www.fireeye.com/cyber-map/threat-map.html)  
+
 [Fortinet Threat Map](https://threatmap.fortiguard.com/)  
+
 [Kaspersky Cyberthreat Real-Time Map](https://cybermap.kaspersky.com/)  
 
 ### Tools
 [Autopsy](https://www.autopsy.com/) Digital Forensics  
+
 [Have I Been Pwned?](https://haveibeenpwned.com/) Check if you have an account that has been compromised in a data breach.  
+
 [Linux Command Reference](../../../../../papers/Linux-Reference-1.pdf) (PDF)  
+
 [PuTTY](https://putty.org/) SSH client  
+
 [WireShark](https://www.wireshark.org/) packet analyzer (with [handy PDF cheat sheet](../../../../../papers/Wireshark Hints.pdf))  
+
+### Videos
+[James Mickens: Why Do Keynote Speakers Keep Suggesting That Improving Security Is Possible?](https://www.youtube.com/watch?v=ajGX7odA87k)]
+
+[Nicole Perlroth: "This Is How They Tell Me The World Ends" | Amanpour and Company](https://www.youtube.com/watch?v=zVz2BFltJ80)
+
+[Real Future: What Happens When You Dare Expert Hackers To Hack You (Episode 8)](https://www.youtube.com/watch?v=bjYhmX_OUQQ)
