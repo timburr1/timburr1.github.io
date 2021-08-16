@@ -2,7 +2,6 @@
 layout: post
 title: Exogenous Neurotransmitters
 excerpt: Drugs are bad, m'kay?
-date: 
 author: Tim
 ---
 
