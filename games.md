@@ -5,7 +5,7 @@ title: Slingin' Cardboard
 
 ### [MtG Deckbox](https://deckbox.org/users/timburr)  
 
-### Get Good At  
+### Get Good At:  
 * [Classic Video Games](/2021/03/17/retro-gaming.html)  
 * [Blood Bowl](/2020/06/17/blood-bowl.html)  
 * [Tabletop RPGs](/2020/02/19/gamemastering.html)  
@@ -13,10 +13,10 @@ title: Slingin' Cardboard
 * [StarCraft 2](/2020/03/17/sc2.html)  
 * [Magic: the Gathering](/2020/01/17/mtg.html)  
 
-### How To
-* [Play Magic over the Internet](/2020/04/11/cockatrice.html)  
-* [Play Basically Any Other Game over the Internet](/papers/Online Board Games.pdf)  
-* [Play Skull](/2021/06/01/skull.html)
+### How To Play:
+* [Magic over the Internet](/2020/04/11/cockatrice.html)  
+* [Basically Any Other Game over the Internet](/papers/Online Board Games.pdf)  
+* [Skull](/2021/06/01/skull.html)
 
 ### Warhammer Stuff
 **Army lists:**  
