@@ -11,7 +11,6 @@ add/expand travel posts:
 * Chile  
 * China  
 * Bolivia y Peru 
-CFB effortpost  
 
 Personality/morality: 
 * yourmorals.org
