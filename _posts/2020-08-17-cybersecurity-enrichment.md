@@ -65,7 +65,7 @@ Start with the Bandit wargame at [OverTheWire](https://overthewire.org/wargames)
 [WireShark](https://www.wireshark.org/) packet analyzer (with [handy PDF cheat sheet](../../../../../papers/Wireshark Hints.pdf))  
 
 ### Videos
-[James Mickens: Why Do Keynote Speakers Keep Suggesting That Improving Security Is Possible?](https://www.youtube.com/watch?v=ajGX7odA87k)]
+[James Mickens: Why Do Keynote Speakers Keep Suggesting That Improving Security Is Possible?](https://www.youtube.com/watch?v=ajGX7odA87k)
 
 [Nicole Perlroth: "This Is How They Tell Me The World Ends" | Amanpour and Company](https://www.youtube.com/watch?v=zVz2BFltJ80)
 
