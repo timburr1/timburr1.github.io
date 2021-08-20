@@ -67,6 +67,6 @@ Start with the Bandit wargame at [OverTheWire](https://overthewire.org/wargames)
 ### Videos
 [James Mickens: Why Do Keynote Speakers Keep Suggesting That Improving Security Is Possible?](https://www.youtube.com/watch?v=ajGX7odA87k)
 
-[Nicole Perlroth: "This Is How They Tell Me The World Ends" | Amanpour and Company](https://www.youtube.com/watch?v=zVz2BFltJ80)
+[Nicole Perlroth: "This Is How They Tell Me The World Ends"](https://www.youtube.com/watch?v=zVz2BFltJ80)
 
 [Real Future: What Happens When You Dare Expert Hackers To Hack You (Episode 8)](https://www.youtube.com/watch?v=bjYhmX_OUQQ)
