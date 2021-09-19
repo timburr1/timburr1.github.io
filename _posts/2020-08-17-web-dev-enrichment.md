@@ -6,6 +6,9 @@ author: Tim
 tags: school, tech
 ---
 
+[A.N. Lucas's 88x31 Button Collection](https://anlucas.neocities.org/88x31Buttons.html)  
+> Here is a collection of more than 700 88x31 web buttons from the 1990's and 2000's, including the famous "Netscape NOW" and "Internet Explorer" buttons as well as various other buttons for websites of past and present. All were rescued from a now defunct http://harrypagerubbish.webs.com/buttons just before it disappeared without warning. These buttons are an historic example of advertising in the earlier days of the World Wide Web. Enjoy these buttons and use them to your liking. 
+
 [Flexbox Froggy](https://flexboxfroggy.com/)  
 > Welcome to Flexbox Froggy, a game where you help Froggy and friends by writing CSS code! Guide this frog to the lilypad on the right by using the justify-content property...
 
