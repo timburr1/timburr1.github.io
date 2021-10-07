@@ -39,5 +39,6 @@ author: Tim
 [Bunk Police - Leaders in Test Kits, Research and Innovation](https://bunkpolice.com/)  
 [DanceSafe](https://dancesafe.org/)  
 [Erowid](https://www.erowid.org/)  
+[The Golden Guide to Hallucinogenic Plants](https://erowid.org/library/books_online/golden_guide/g01-10.shtml#contents)  
 [Multidisciplinary Association for Psychedelic Studies](https://maps.org/)  
 [The Zendo Project](https://zendoproject.org/)  
