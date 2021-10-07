@@ -16,6 +16,8 @@ tags: school, tech
 > Websites for you and your projects.
 > Hosted directly from your GitHub repository. Just edit, push, and your changes are live.
 
+[Google Public DNS](https://dns.google.com/)  
+
 [Let's Encrypt](https://letsencrypt.org/) 
 > A nonprofit Certificate Authority providing TLS certificates to 225 million websites.
 
