@@ -24,6 +24,8 @@ tags: school, tech
 * [Ep 54](https://darknetdiaries.com/episode/54/): NotPetya  
 * [Ep 68](https://darknetdiaries.com/episode/68/): Triton  
 
+[Google Public DNS](https://dns.google.com/)  
+
 [Infrapedia Map of the Internet](https://www.infrapedia.com/app)
 
 [Seed Security Labs](https://seedsecuritylabs.org/)
