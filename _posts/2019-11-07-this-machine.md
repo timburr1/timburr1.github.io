@@ -64,7 +64,7 @@ Desktop computer specs, upgraded a bit from 2012 and still running strong:
 I mostly use Windows 10 these days, or sometimes Ubuntu via [WSL 2](https://docs.microsoft.com/en-us/windows/wsl/wsl2-install). 
 
 **Security**  
-[ExpressVPN](https://www.expressvpn.com/)   
+~~ExpressVPN~~  
 [LastPass](https://lastpass.com/)  
 [VeraCrypt](https://www.veracrypt.fr/en/Home.html)  
 

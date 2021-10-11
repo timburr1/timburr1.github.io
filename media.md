@@ -43,7 +43,7 @@ title: Blogs and Podcasts
 <div class="column">
 ## Podcasts  
 * [12 Byzantine Rulers](https://12byzantinerulers.com/)  
-* [All the President's Lawyers](https://www.kcrw.com/news/shows/lrc-presents-all-the-presidents-lawyers)  
+* [All the Presidents' Lawyers](https://www.kcrw.com/news/shows/lrc-presents-all-the-presidents-lawyers)  
 * [Dark Net Diaries](https://darknetdiaries.com/)  
 * [Fall of Civilizations Podcast](https://fallofcivilizationspodcast.com/)  
 * [Hardcore History](https://www.dancarlin.com/hardcore-history-series/)  
