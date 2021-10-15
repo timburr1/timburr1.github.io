@@ -96,7 +96,7 @@ May 2006 - Jul 2012
 
 
 ## Awards and Acknowledgements
-* Presented at OU Honors College: ['Majors and Careers in a Volatile Economy'](/2017/02/04/ou-talk.html), September 2015  
+* Presented at OU Honors College: ['Majors and Careers in a Volatile Economy,'](/2017/02/04/ou-talk.html) September 2015  
 * OU College of Engineering Dean's Honor Roll, Spring 2008 - Fall 2011  
 * National Merit Finalist  
 * Eagle Scout  

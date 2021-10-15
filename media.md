@@ -41,6 +41,8 @@ title: Blogs and Podcasts
 </div>	
 
 <div class="column">
+## [The Confusion Cannon](/2019/10/13/confusion-cannon.html)
+
 ## Podcasts  
 * [12 Byzantine Rulers](https://12byzantinerulers.com/)  
 * [All the Presidents' Lawyers](https://www.kcrw.com/news/shows/lrc-presents-all-the-presidents-lawyers)  
