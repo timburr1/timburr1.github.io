@@ -18,6 +18,9 @@ tags: school, tech
 
 [Google Public DNS](https://dns.google.com/)  
 
+[Kaboom](https://kaboomjs.com/)
+> Kaboom is a Javascript game programming library that helps you make games fast and fun.
+
 [Let's Encrypt](https://letsencrypt.org/) 
 > A nonprofit Certificate Authority providing TLS certificates to 225 million websites.
 

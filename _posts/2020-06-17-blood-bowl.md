@@ -8,9 +8,9 @@ tags: gaming
 
 [Blood Bowl Rulebook, 2016](../../../../../papers/bloodbowl/BloodBowl2016.pdf) (PDF)  
 
-[Boise Brawlers OBBLM](https://boise-brawlers.obblm.com/)  
+[~~Boise Brawlers OBBLM~~](https://boise-brawlers.obblm.com/)  
 
-[How to Play](https://www.bloodbowl.com/how-to-play/)  
+[How to Play](https://www.bloodbowl.com/getting-started/)  
 
 [Using NAF Online Blood Bowl League Manager](../../../../../papers/bloodbowl/Using-NAF-OBBLM.pdf) (PDF)  
 
