@@ -9,7 +9,8 @@ tags: school, tech
 [A.N. Lucas's 88x31 Button Collection](https://anlucas.neocities.org/88x31Buttons.html)  
 > Here is a collection of more than 700 88x31 web buttons from the 1990's and 2000's, including the famous "Netscape NOW" and "Internet Explorer" buttons as well as various other buttons for websites of past and present. All were rescued from a now defunct http://harrypagerubbish.webs.com/buttons just before it disappeared without warning. These buttons are an historic example of advertising in the earlier days of the World Wide Web. Enjoy these buttons and use them to your liking. 
 
-[Discord Bot Template](https://github.com/timburr1/discord-bot-template)
+[Discord Bot Resources](/2021/05/31/discord-bot.html)
+> You can set up a Node.js server in [replit](https://replit.com/), even from a school computer. (Replit can talk to the Discord API, so if your bot is running there you can test it in real time.) Start with this [**Example Project**](https://github.com/timburr1/discord-bot-template).
 
 [Flexbox Froggy](https://flexboxfroggy.com/)  
 > Welcome to Flexbox Froggy, a game where you help Froggy and friends by writing CSS code! Guide this frog to the lilypad on the right by using the justify-content property...
