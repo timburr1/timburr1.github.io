@@ -45,6 +45,7 @@ title: Blogs and Podcasts
 
 ## Podcasts  
 * [12 Byzantine Rulers](https://12byzantinerulers.com/)  
+* [ALAB](https://www.alabseries.com/)  
 * [All the Presidents' Lawyers](https://www.kcrw.com/news/shows/lrc-presents-all-the-presidents-lawyers)  
 * [Dark Net Diaries](https://darknetdiaries.com/)  
 * [Fall of Civilizations Podcast](https://fallofcivilizationspodcast.com/)  
@@ -67,6 +68,7 @@ title: Blogs and Podcasts
 * [Serial](https://serialpodcast.org/)  
 * [Slate Money](https://slate.com/podcasts/slate-money)  
 * [Slow Burn](https://slate.com/slow-burn)  
+* [The Solid Verbal](https://www.solidverbal.com/)
 * [Stuff You Missed in History Class](https://www.missedinhistory.com/)  
 * [This American Life](https://www.thisamericanlife.org/podcast)  
 * [Tides of History](https://wondery.com/shows/tides-of-history/)  

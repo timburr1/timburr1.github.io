@@ -49,6 +49,9 @@ May 2006 - Jul 2012
 
 
 ## Education
+**College of Southern Idaho**
+* *Non-Traditional Educator Preparation Program, 2020-22*
+
 **University of Oklahoma, Norman, OK**  
 * *B.S. in Computer Science with Math Minor, May 13, 2011*  
 * *M.S. in Computer Science, May 11, 2012*  
