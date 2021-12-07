@@ -1,6 +1,6 @@
 ## daily drivers
 * carabiner w/ keys
-* Casio F91W-1
+* Casio F91W-1 watch
 * knockoff Ridge wallet
 * Leatherman Skeletool
 * Moto G6 Power 2021 + case
@@ -11,9 +11,9 @@
 * Bic lighter
 * first aid kit: bandaids, painkillers, medical tape, gauze, nitrile gloves, torniquet
 * Giro Fixture MIPS bike helmet
-* ID badge
+* ID badge + lanyard
 * Jansport backpack
-* JLab ANC earbuds
+* JLab noise-cancelling earbuds
 * Nalgene bottle, 32oz
 * notebook + pens
 * Petzl Tikka headlamp

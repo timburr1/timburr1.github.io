@@ -19,7 +19,6 @@ title: Blogs and Podcasts
 * [Krebs on Security](https://krebsonsecurity.com/)  
 * [Lawfare](https://www.lawfareblog.com/)  
 * [Library Genesis](http://libgen.lc/)  
-* [MalwareTech](https://www.malwaretech.com/)  
 * [Marginal Revolution](https://marginalrevolution.com/)  
 * [Melting Asphalt](https://meltingasphalt.com)  
 * [Money Stuff](https://www.bloomberg.com/view/topics/money-stuff)  
@@ -44,7 +43,6 @@ title: Blogs and Podcasts
 ## [The Confusion Cannon](/2019/10/13/confusion-cannon.html)
 
 ## Podcasts  
-* [12 Byzantine Rulers](https://12byzantinerulers.com/)  
 * [ALAB](https://www.alabseries.com/)  
 * [All the Presidents' Lawyers](https://www.kcrw.com/news/shows/lrc-presents-all-the-presidents-lawyers)  
 * [Dark Net Diaries](https://darknetdiaries.com/)  
