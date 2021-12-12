@@ -7,7 +7,7 @@ author: Tim
 tags: tech, school
 ---
 
-I made a Discord bot recently, just to see how it works. Troll 9000 is pretty simple, it just reacts to any of my messages with a 👑, and my friends' with a 💩. (If you want to check out this masterpiece, the source code is available [here](https://github.com/timburr1/troll9000).) To make your own and add it to a server, follow the instructions in this [Discord.js Guide](https://discordjs.guide/).
+I made a Discord bot recently, just to see how it works. Troll 9000 is pretty simple, it just reacts to any of my messages with a 👑, and my friends' with a 💩. (If you want to check out this masterpiece, the source code is available [here](https://github.com/timburr1/troll9000).) To make your own and add it to a server, follow the instructions in this [Discord.js Guide](https://discordjs.guide/). (I've made a copy available [here](/discordjs.guide COPY/index.html), but please use the original if you can.)
 
 You can set up a Node.js server in [replit](https://replit.com/), even from a school computer. (Replit can talk to the Discord API, so if your bot is running there you can test it in real time.) Start with this [**Example Project**](https://github.com/timburr1/discord-bot-template).
 
