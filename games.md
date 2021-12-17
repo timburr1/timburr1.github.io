@@ -2,7 +2,9 @@
 layout: default
 title: Slingin' Cardboard
 ---
-
+{::options parse_block_html="true" /}
+<div class="row">
+<div class="column">
 ### [MtG Deckbox](https://deckbox.org/users/timburr)  
 
 ### Get Good At:  
@@ -17,7 +19,9 @@ title: Slingin' Cardboard
 * [Magic over the Internet](/2020/04/11/cockatrice.html)  
 * [Basically Any Other Game over the Internet](/papers/Online Board Games.pdf)  
 * [Skull](/2021/06/01/skull.html)
+</div>	
 
+<div class="column">
 ### Warhammer Stuff
 **Army lists:**  
 * [Tyranids, 1500pts](/_ref/40k/Tyranids_1500.html)  
@@ -34,3 +38,5 @@ title: Slingin' Cardboard
 **Tactics:**  
 * [Space Marines](/_ref/40k/adeptus_tactics.html)  
 * [Tyranids](/_ref/40k/tyranids_tactics.html)  
+</div>	
+</div>	
