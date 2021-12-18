@@ -89,4 +89,4 @@ significantly underestimated](../../../papers/elango2010.pdf) - Elango et al, 20
 > Get somewhere in the neighborhood of 1g/lb or 2g/kg of protein per day, space your intake out rather than concentrating it all in one period, and prioritize protein sources like whey, meat, and eggs.  
 
 ## Sleep
-It's really important to get enough sleep; most adults need 8-9 hours per night. Pick a regular bedtime based on when you need to get up, and stick to it. Exercise regularly and use a program like [f.lux](https://justgetflux.com/) to block blue light for an hour or so before bed, or even better: get off of your phone/computer altogether.
+It's really important to get enough sleep; most adults need 7-9 hours per night. Pick a regular bedtime based on when you need to get up, and stick to it. Exercise regularly and use a program like [f.lux](https://justgetflux.com/) to block blue light for an hour or so before bed, or even better: get off of your phone/computer altogether.
