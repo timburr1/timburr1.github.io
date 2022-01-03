@@ -66,38 +66,38 @@ May 2006 - Jul 2012
 
 
 ## Tools and Languages
-* JavaScript / TypeScript  
+* JavaScript / TypeScript
 * Node.js
-* React  
-* Angular 2  
-* Jekyll  
-* C#  
-* Java  
-* Python  
+* React
+* Angular 2
+* Jekyll
+* C#
+* Java
+* Python
 * MySQL
-* Mongo DB  
-* Microsoft SQL Server  
-* Netbeans  
-* PyCharm  
-* IntelliJ IDEA  
+* Mongo DB
+* Microsoft SQL Server
+* Netbeans
+* PyCharm
+* IntelliJ IDEA
 * Microsoft VS Code
-* Amazon Web Services      
-* Microsoft Azure  
+* Amazon Web Services 
+* Microsoft Azure
 
 
 ## Projects
-* [Cen10 Writers Blog](https://cen10writers.github.io/)  
-* [Troll 9000 Discord Bot](/2021/05/31/discord-bot.html)  
-* [Roscomometer](/2021/03/01/roscomometer.html)  
-* [Flappy Bub](/2020/12/12/flappy-bub.html)  
-* [Haenerator](/2020/12/08/haenerator.html)  
-* [Yelp for Anything](https://github.com/timburr1/yelpForAnything)  
-* [MySQL Example DAO](https://github.com/timburr1/MySqlTest)  
-* [Quality of Life Modpack for Sid Meier's Civ V](/2020/08/01/civ-v-modpack.html)  
-* [Aerolínea PanAmerica](/2020/01/10/panam-notes.html)  
-* [Illumicone](https://illumicone.com/) [Test Simulator](https://github.com/skipzone/Illumicone/tree/master/simulator)  
-* [Story Parser](/StoryParser.html)  
-* [Machine Learning in StarCraft: Brood War](/papers/burr2011.pdf)  
+* [Cen10 Writers Blog](https://cen10writers.github.io/)
+* [Troll 9000 Discord Bot](/2021/05/31/discord-bot.html)
+* [Roscomometer](/2021/03/01/roscomometer.html)
+* [Flappy Bub](/2020/12/12/flappy-bub.html)
+* [Haenerator](/2020/12/08/haenerator.html)
+* [Yelp for Anything](https://github.com/timburr1/yelpForAnything)
+* [MySQL Example DAO](https://github.com/timburr1/MySqlTest)
+* [Quality of Life Modpack for Sid Meier's Civ V](/2020/08/01/civ-v-modpack.html)
+* [Aerolínea PanAmerica](/2020/01/10/panam-notes.html)
+* [Illumicone](https://illumicone.com/) [Test Simulator](https://github.com/skipzone/Illumicone/tree/master/simulator)
+* [Story Parser](/StoryParser.html)
+* [Machine Learning in StarCraft: Brood War](/papers/burr2011.pdf)
 
 
 ## Awards and Acknowledgements
