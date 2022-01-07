@@ -58,16 +58,18 @@ May 2006 - Jul 2012
 <b class="highlight">College of Southern Idaho</b>
 * *Non-Traditional Educator Preparation Program, 2020-22*
 
-<b class="highlight">University of Oklahoma, Norman, OK</b>  
+<b class="highlight">University of Oklahoma, Norman, OK</b>
 * *B.S. in Computer Science with Math Minor, May 13, 2011*  
 * *M.S. in Computer Science, May 11, 2012*  
 
-<b class="highlight">University of Hertfordshire, Hatfield, UK</b>  
+<b class="highlight">University of Hertfordshire, Hatfield, UK</b>
 * *Semester Abroad, Fall 2009*  
 
-<b class="highlight">University of Michigan- Flint, Flint, MI</b>  
+<b class="highlight">University of Michigan-Flint, Flint, MI</b>
 * *Dual Enrollment, 2006-07*  
 
+<b class="highlight">Goodrich High School, Goodrich, MI</b>  
+* *Class of 2007*
 
 ## Tools and Languages
 * JavaScript / TypeScript
