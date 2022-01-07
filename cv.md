@@ -5,6 +5,7 @@ title: Curriculum Vitae
 
 # Curriculum Vitae  
 
+<div class="highlight">
 ## Work Experience
 May 2020 - Present  
 **Computer Science Teacher | West Ada School District | Meridian, ID**  
@@ -68,6 +69,7 @@ May 2006 - Jul 2012
 **University of Michigan- Flint, Flint, MI**  
 * *Dual Enrollment, 2006-07*  
 
+</div>
 
 ## Tools and Languages
 * JavaScript / TypeScript
