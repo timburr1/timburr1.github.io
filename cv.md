@@ -37,7 +37,7 @@ Nov 2015 - Nov 2017
 * Mentored and taught junior developers
 
 Sep 2011 - May 2012  
-<b class="highlight">Teaching Assistant | University of Oklahoma | Norman, OK</b>*  
+<b class="highlight">Teaching Assistant | University of Oklahoma | Norman, OK</b>  
 * Taught basic programming concepts at office hours
 * Provided student feedback through grading homework and projects
 
