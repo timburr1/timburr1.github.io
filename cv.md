@@ -7,47 +7,47 @@ title: Curriculum Vitae
 
 ## Work Experience
 May 2020 - Present  
-**Computer Science Teacher | West Ada School District | Meridian, ID**  
+<b class="highlight">Computer Science Teacher | West Ada School District | Meridian, ID</b>
 * Teach Computer Science with a focus on Web Development, Databases, and Cybersecurity
 * Manage online and in-person learning during the coronavirus pandemic
 * Relocated the Computer Science magnet program to Renaissance High School, in order to expand access for students
 
 July 2020 - Present  
-**Consultant | GLG Insights**
+<b class="highlight">Consultant | GLG Insights</b>
 * Provide insight and expertise to GLG clients, as part of their research into financial or educational software
 
 Aug 2019 - May 2020  
-**Senior Software Engineer | Healthwise | Boise, ID**  
+<b class="highlight">Senior Software Engineer | Healthwise | Boise, ID</b>  
 * Developed and maintained software to provide information to patients and health care workers
 * Improved internal processes and documentation
 * Mentored and collaborated with other developers
 * Provided developer feedback in code reviews
 
 Aug 2012 - Aug 2019  
-**Software Developer | Clearwater Analytics | Boise, ID**  
+<b class="highlight">Software Developer | Clearwater Analytics | Boise, ID</b>
 * Maintained and improved existing code  
 * Provided 24-hour, on-call support for critical projects
 * Created additional webservices, databases, and testing frameworks  
 * Collaborated with other developers and analysts
 
 Nov 2015 - Nov 2017  
-**Compliance Team Lead | Clearwater Analytics | Boise, ID**  
+<b class="highlight">Compliance Team Lead | Clearwater Analytics | Boise, ID</b>  
 * Led an Agile team of four developers and one quality assurance engineer  
 * Worked with users and stakeholders to prioritize and implement new features  
 * Mentored and taught junior developers
 
 Sep 2011 - May 2012  
-**Teaching Assistant | University of Oklahoma | Norman, OK**  
+<b class="highlight">Teaching Assistant | University of Oklahoma | Norman, OK</b>*  
 * Taught basic programming concepts at office hours
 * Provided student feedback through grading homework and projects
 
 Jun 2010 - Jun 2011  
-**Operations Intern | MSCI Inc. | Norman, OK**  
+<b class="highlight">Operations Intern | MSCI Inc. | Norman, OK</b>  
 * Monitored production environment for problems
 * Automated menial tasks such as resetting user passwords
 
 May 2006 - Jul 2012  
-**Lifeguard, Counselor, and Shooting Sports Co-Director | BSA Camp Tapico | Kalkaska, MI**  
+<b class="highlight">Lifeguard, Counselor, and Shooting Sports Co-Director | BSA Camp Tapico | Kalkaska, MI</b>  
 * Taught a variety of skills to campers, including: swimming, boating, scoutcraft, and shooting
 * Maintained a safe and fun environment
 * Developed personal leadership skills in a non-profit environment
@@ -55,17 +55,17 @@ May 2006 - Jul 2012
 
 
 ## Education
-**College of Southern Idaho**
+<b class="highlight">College of Southern Idaho</b>
 * *Non-Traditional Educator Preparation Program, 2020-22*
 
-**University of Oklahoma, Norman, OK**  
+<b class="highlight">University of Oklahoma, Norman, OK</b>  
 * *B.S. in Computer Science with Math Minor, May 13, 2011*  
 * *M.S. in Computer Science, May 11, 2012*  
 
-**University of Hertfordshire, Hatfield, UK**  
+<b class="highlight">University of Hertfordshire, Hatfield, UK</b>  
 * *Semester Abroad, Fall 2009*  
 
-**University of Michigan- Flint, Flint, MI**  
+<b class="highlight">University of Michigan- Flint, Flint, MI</b>  
 * *Dual Enrollment, 2006-07*  
 
 

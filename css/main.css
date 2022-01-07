@@ -63,7 +63,7 @@ li {
     line-height: 1.1em;
 }
 
-br + strong {
+.highlight {
 	color: #2689ff;
 }
 
