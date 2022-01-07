@@ -23,7 +23,7 @@ title: Slingin' Cardboard
 
 <div class="column">
 ### Warhammer Stuff
-**Army lists:**  
+**40k Army lists:**  
 * [Tyranids, 1500pts](/_ref/40k/Tyranids_1500.html)  
 * [Tyranids, 2000pts](/_ref/40k/Tyranids_2k.html)  
 

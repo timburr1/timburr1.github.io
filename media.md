@@ -33,7 +33,6 @@ title: Blogs and Podcasts
 * [Wait But Why](https://waitbutwhy.com)
 
 ## Web Comics  
-* [Laws and Sausages](https://lawsandsausagescomic.com/comic)
 * [The Perry Bible Fellowship](https://pbfcomics.com/)
 * [Saturday Morning Breakfast Cereal](https://smbc-comics.com/)
 * [xkcd](https://xkcd.com/)
