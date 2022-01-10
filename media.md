@@ -8,14 +8,12 @@ title: Blogs and Podcasts
 <div class="column">
 ## Blogs and Newspapers  
 * [The Alexandrian](https://thealexandrian.net/)
-* [BoiseDev](https://boisedev.com/)
 * [Coding Horror](https://blog.codinghorror.com/)
 * [A Collection of Unmitigated Pedantry](https://acoup.blog/)
 * [The Economist](https://www.economist.com/)
 * [Examine.com](https://examine.com/)
 * [Gwern](https://www.gwern.net/)
 * [Hacker News](https://news.ycombinator.com/)
-* [Idaho Statesman](https://www.idahostatesman.com/)
 * [Krebs on Security](https://krebsonsecurity.com/)
 * [Lawfare](https://www.lawfareblog.com/)
 * [Library Genesis](http://libgen.lc/)
@@ -43,7 +41,6 @@ title: Blogs and Podcasts
 
 ## Podcasts  
 * [ALAB](https://www.alabseries.com/)
-* [All the Presidents' Lawyers](https://www.kcrw.com/news/shows/lrc-presents-all-the-presidents-lawyers)
 * [Darknet Diaries](https://darknetdiaries.com/)
 * [Fall of Civilizations Podcast](https://fallofcivilizationspodcast.com/)
 * [Hardcore History](https://www.dancarlin.com/hardcore-history-series/)
