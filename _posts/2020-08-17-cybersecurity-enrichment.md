@@ -35,6 +35,8 @@ tags: school, tech
 
 [MalwareTech](https://www.malwaretech.com/)  
 
+[Moxie Marlinspike](https://moxie.org/blog/)  
+
 [Schneier on Security](https://www.schneier.com/)  
 
 ### CTF
