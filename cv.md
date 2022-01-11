@@ -8,7 +8,7 @@ title: Curriculum Vitae
 ## Work Experience
 May 2020 - Present  
 <b class="highlight">Computer Science Teacher | West Ada School District | Meridian, ID</b>
-* Teach Computer Science with a focus on Web Development, Databases, and Cybersecurity
+* Teach Computer Science with a focus on Web Development, Databases, Cybersecurity, and Memes
 * Manage online and in-person learning during the coronavirus pandemic
 * Relocated the Computer Science magnet program to Renaissance High School, in order to expand access for students
 
