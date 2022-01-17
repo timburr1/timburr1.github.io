@@ -20,9 +20,9 @@ function roll() {
     letters.push(D12[random(D12.length)])
     letters.push(D20[random(D20.length)])
     
-    letters.push(D8[random(D8.length)])
-    letters.push(D8[random(D8.length)])
-    letters.push(D20[random(D20.length)])
+    //letters.push(D8[random(D8.length)])
+    //letters.push(D8[random(D8.length)])
+    //letters.push(D20[random(D20.length)])
     document.getElementById("results").innerHTML += shuffle(letters) + '<br>';
 }
 

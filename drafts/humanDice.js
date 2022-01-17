@@ -29,13 +29,13 @@ function roll() {
     letters.push(D6B[random(D6B.length)])
     letters.push(D6C[random(D6C.length)])
     letters.push(D8A[random(D8A.length)])
-    letters.push(D8A[random(D8A.length)])
+    //letters.push(D8A[random(D8A.length)])
     letters.push(D8B[random(D8B.length)])
-    letters.push(D8B[random(D8B.length)])
+    //letters.push(D8B[random(D8B.length)])
     letters.push(D10[random(D10.length)])
     letters.push(D12[random(D12.length)])
     letters.push(D20[random(D20.length)])    
-    letters.push(D20[random(D20.length)])
+    //letters.push(D20[random(D20.length)])
 
     document.getElementById("results").innerHTML += shuffle(letters) + '<br>';
 }
