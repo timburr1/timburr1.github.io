@@ -69,8 +69,10 @@ Start with the Bandit wargame at [OverTheWire](https://overthewire.org/wargames)
 [WireShark](https://www.wireshark.org/) packet analyzer (with [handy PDF cheat sheet](../../../../../papers/Wireshark Hints.pdf))  
 
 ### Videos
-[James Mickens: Why Do Keynote Speakers Keep Suggesting That Improving Security Is Possible?](https://www.youtube.com/watch?v=ajGX7odA87k)
-
 [Nicole Perlroth: "This Is How They Tell Me The World Ends"](https://www.youtube.com/watch?v=zVz2BFltJ80)
 
 [Real Future: What Happens When You Dare Expert Hackers To Hack You (Episode 8)](https://www.youtube.com/watch?v=bjYhmX_OUQQ)
+
+[USENIX Security '18-Q: Why Do Keynote Speakers Keep Suggesting That Improving Security Is Possible?](https://www.youtube.com/watch?v=ajGX7odA87k) - James Mickens
+
+[Web Application Vulnerabilities - Matt Kunzman](https://www.youtube.com/watch?v=6DoP3XNMZU4)

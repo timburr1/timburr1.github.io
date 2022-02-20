@@ -107,7 +107,11 @@ ul {
 	border: 3px solid #3BA55C;
 }
 
-#tortle-stat-tbl th, td {
+#tortle-stat-tbl th, #tortle-stat-tbl td {
 	border: 1px solid #3BA55C;
 	padding: 3px 15px;
+}
+
+#cshof img {
+	width: 250px;
 }
