@@ -8,11 +8,17 @@ tags: gaming
 
 [Battle Primer (9th Ed. Core Rules)](../../../../../_ref/40k/9th ed battle primer.pdf) (PDF)  
 
-[BattleScribe](https://battlescribe.net/) army builder  
+[BattleScribe](https://battlescribe.net/) Army Builder  
 
 [Genestealer Cults Errata and FAQ](../../../../../_ref/40k/gs_cults_errata.pdf) (PDF)  
 
+[Tactical Objectives and Stratagems](/_ref/40k/tyranids_ref.html)
+
+[Tyranids Codex, 9th edition](/papers/Tyranid_Codex_9e_Leak_-_Updated.pdf)
+
 [Tyranids Errata and FAQ](../../../../../_ref/40k/warhammer_40000_tyranids_en.pdf) (PDF, other factions available [here](https://www.warhammer-community.com/faqs/#warhammer-40000))  
+
+[Tyranids Hive Discord](https://discord.com/invite/bHT4vbA)
 
 **1d4chan:**
 * [9th Edition Rules](https://1d4chan.org/wiki/Warhammer_40,000_9th_Edition)
@@ -20,6 +26,3 @@ tags: gaming
 * [Genestealer Cults](https://1d4chan.org/wiki/Warhammer_40,000/Tactics/Genestealer_Cults_(9E))  
 * [Movement 101](https://1d4chan.org/wiki/Warhammer_40,000/Tactics/Movement_101_(9E))  
 * [Tyranids Tactics](https://1d4chan.org/wiki/Warhammer_40,000/Tactics/Tyranids_(9E))  
-
-
-

@@ -17,3 +17,4 @@
 * Nalgene bottle, 32oz
 * notebook + pens
 * Petzl Tikka headlamp
+* Sea to Summit aluminum spork

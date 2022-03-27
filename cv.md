@@ -6,7 +6,7 @@ title: Curriculum Vitae
 # Curriculum Vitae  
 
 ## Work Experience
-May 2020 - Present  
+May 2020 - June 2022  
 <b class="highlight">Computer Science Teacher | West Ada School District | Meridian, ID</b>
 * Teach Computer Science with a focus on Web Development, Databases, Cybersecurity, and Memes
 * Manage online and in-person learning during the coronavirus pandemic
@@ -67,11 +67,11 @@ May 2006 - Jul 2012
 <b class="highlight">University of Hertfordshire, Hatfield, UK</b>
 * *Semester Abroad, Fall 2009*  
 
-<b class="highlight">University of Michigan-Flint, Flint, MI</b>
-* *Dual Enrollment, 2006-07*  
-
 <b class="highlight">Goodrich High School, Goodrich, MI</b>  
 * *Class of 2007*
+
+<b class="highlight">University of Michigan-Flint, Flint, MI</b>
+* *Dual Enrollment, 2006-07*  
 
 
 ## Tools and Languages

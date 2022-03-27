@@ -28,6 +28,7 @@ Transfer some ROMs, according to the instructions [here](https://retropie.org.uk
 ### Other fun stuff:
 [Analogue](https://www.analogue.co/) is a company that is apparently planning to produce and sell updated versions of old gaming consoles. Everything is still pre-order only, but some of it looks really cool.  
 [EZ-Flash Omega Manual](https://www.ezflash.cn/omega.html) and [Setup Guide](https://www.codedonut.com/gba-hacking/ez-flash-omega-setup-guide-tutorial/)  
+[Gameboy Studio](https://www.gbstudio.dev/) is "[a] quick and easy to use drag and drop retro game creator for your favourite handheld video game system."  
 [Goomba Color](https://www.dwedit.org/gba/goombacolor.php) for converting DMG/GBC roms to GBA format  
 [iFixit: The Free Repair Manual](https://www.ifixit.com/)  
 [Little Sound DJ](https://www.littlesounddj.com/lsd/index.php) music sequencer for DMG  
