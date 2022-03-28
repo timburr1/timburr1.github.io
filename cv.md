@@ -6,7 +6,7 @@ title: Curriculum Vitae
 # Curriculum Vitae  
 
 ## Work Experience
-May 2020 - June 2022  
+May 2020 - Present  
 <b class="highlight">Computer Science Teacher | West Ada School District | Meridian, ID</b>
 * Teach Computer Science with a focus on Web Development, Databases, Cybersecurity, and Memes
 * Manage online and in-person learning during the coronavirus pandemic
