@@ -16,9 +16,11 @@ title: Slingin' Cardboard
 * [Magic: the Gathering](/2020/01/17/mtg.html)  
 
 ### How To Play:
+* [Everyone Is John](/papers/EveryoneIsJohn_CompleteRules_v2.pdf)  
 * [Magic over the Internet](/2020/04/11/cockatrice.html)  
-* [Basically Any Other Game over the Internet](/papers/Online Board Games.pdf)  
+* [Other Games Online](/papers/Online Board Games.pdf)  
 * [Skull](/2021/06/01/skull.html)
+
 </div>	
 
 <div class="column">
