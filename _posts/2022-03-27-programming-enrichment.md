@@ -24,6 +24,8 @@ tags: school, tech
 
 [Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212#) - Peter Norvig, Udacity  
 
+[Godot Open Source Game Engine](https://godotengine.org/)
+
 [Kodu Game Lab](https://www.kodugamelab.com/)  
 
 [Minecraft: Education Edition](https://education.minecraft.net/get-started/)  

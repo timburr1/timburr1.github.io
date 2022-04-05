@@ -1,10 +1,10 @@
 ## daily drivers
-* carabiner w/ keys
+* carabiner w/ keys + light
 * Casio F91W-1 watch
 * knockoff Ridge wallet
 * Leatherman Skeletool
 * Moto G6 Power 2021 + case
-* tungsten carbide ring
+* tungsten carbide wedding ring
 
 ## frequent flyers
 * bag w/ tools, flash drives, zip ties, etc.
@@ -18,3 +18,5 @@
 * notebook + pens
 * Petzl Tikka headlamp
 * Sea to Summit aluminum spork
+
+## https://timburr1.github.io/2019/11/07/this-machine.html
