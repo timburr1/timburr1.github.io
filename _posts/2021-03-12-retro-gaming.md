@@ -20,7 +20,7 @@ Once it's written, eject the MicroSD card from your computer and install it into
 Transfer some ROMs, according to the instructions [here](https://retropie.org.uk/docs/Transferring-Roms/)  
 
 ### Emulators
-[ClashMan Online GBA Emulator](https://theclashman2.github.io/GBA-Emulator/)
+[ClashMan Online GBA Emulator](https://theclashman2.github.io/GBA-Emulator/)  
 [Pizza Boy GBA Free](https://play.google.com/store/apps/details?id=it.dbtecno.pizzaboygba) for Android  
 [Pizza Boy GBC Free](https://play.google.com/store/apps/details?id=it.dbtecno.pizzaboy) for Android  
 [Snes9x](https://www.snes9x.com/)  
