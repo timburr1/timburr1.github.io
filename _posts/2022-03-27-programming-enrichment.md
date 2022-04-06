@@ -35,3 +35,11 @@ tags: school, tech
 [Project Euler](https://projecteuler.net/)  
 
 [PyGame](https://www.pygame.org/)  
+
+To install PyGame on a school computer:
+
+1. Make sure that you have installed [Python](https://www.python.org/) and [Visual Studio Code](https://code.visualstudio.com/) **from the Company Portal**
+2. Open a new terminal in VS Code, and run the following commands
+3. Update pip: ```pip install --upgrade pip```
+4. Install pygame: ```pip install pygame```
+5. Take a look at the [Newbie Guide](https://www.pygame.org/docs/tut/newbieguide.html) to get started
