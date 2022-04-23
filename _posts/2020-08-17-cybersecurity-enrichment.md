@@ -28,6 +28,8 @@ tags: school, tech
 
 [Infrapedia Map of the Internet](https://www.infrapedia.com/app)
 
+[Safecracking for the computer scientist](../../../../../papers/blaze2004.pdf) (PDF)
+
 [Seed Security Labs](https://seedsecuritylabs.org/)
 
 ### Blogs
