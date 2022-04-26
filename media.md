@@ -10,6 +10,7 @@ title: Blogs and Podcasts
 * [The Alexandrian](https://thealexandrian.net/)
 * [Coding Horror](https://blog.codinghorror.com/)
 * [A Collection of Unmitigated Pedantry](https://acoup.blog/)
+* [Don't Worry About the Vase](https://thezvi.substack.com/)
 * [The Economist](https://www.economist.com/)
 * [Examine.com](https://examine.com/)
 * [Gwern](https://www.gwern.net/)
@@ -30,15 +31,12 @@ title: Blogs and Podcasts
 * [Slate Star Codex](https://astralcodexten.substack.com/)
 * [Stratechery](https://stratechery.com/)
 * [Wait But Why](https://waitbutwhy.com)
+* [War on the Rocks](https://warontherocks.com/)
 
-## Web Comics  
-* [The Perry Bible Fellowship](https://pbfcomics.com/)
-* [Saturday Morning Breakfast Cereal](https://smbc-comics.com/)
-* [xkcd](https://xkcd.com/)
-</div>	
-
-<div class="column">
 ## [The Confusion Cannon](/2019/10/13/confusion-cannon.html)
+
+</div>	
+<div class="column">
 
 ## Podcasts  
 * [ALAB](https://www.alabseries.com/)

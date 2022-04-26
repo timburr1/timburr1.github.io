@@ -11,6 +11,8 @@ tags: school, tech
 
 [La Aventura de Aerolínea PanAmerica: Notes on Building a Simple Web Site with React](/2020/01/10/panam-notes.html)
 
+[Learning Git in Reverse](https://kennyballou.com/blog/2016/01/git-in-reverse/) - Kenny Ballou
+
 [Practical Magic](https://sites.google.com/site/steveyegge2/practical-magic) - Steve Yegge
 
 [Programming Videos on YouTube](/2020/01/24/programming-videos.html)  
