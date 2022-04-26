@@ -9,6 +9,9 @@ tags: gaming
 [Battle Primer (9th Ed. Core Rules)](../../../../../_ref/40k/9th ed battle primer.pdf) (PDF)  
 
 [BattleScribe](https://battlescribe.net/) Army Builder  
+* You might need to download + install a legacy version if you are trying to play an older (pre-9th) edition
+* [8th Edition Data File](../../../../../papers/40k_8th_ed.bsi)
+* [8th Edition Data File, Mobile Version](../../../../../papers/40k_8th_ed_MOBILE.bsi)
 
 [Genestealer Cults Errata and FAQ](../../../../../_ref/40k/gs_cults_errata.pdf) (PDF)  
 
