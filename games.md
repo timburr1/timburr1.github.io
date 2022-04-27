@@ -15,7 +15,7 @@ title: Slingin' Cardboard
 * [StarCraft 2](/2020/03/17/sc2.html)  
 * [Magic: the Gathering](/2020/01/17/mtg.html)  
 
-### How To Play:
+### How to Play:
 * [Everyone Is John](/papers/EveryoneIsJohn_CompleteRules_v2.pdf)  
 * [Magic over the Internet](/2020/04/11/cockatrice.html)  
 * [Other Games Online](/papers/Online Board Games.pdf)  
@@ -25,7 +25,10 @@ title: Slingin' Cardboard
 
 <div class="column">
 ### Warhammer Stuff
-**40k Army lists:**  
+**40k Army Lists, 8th Edition:**  
+* [Tyranids, 1500pts](/_ref/40k/Tyranids 1500, 8th ed.md)  
+
+**40k Army Lists, 9th Edition:**  
 * [Tyranids, 1500pts](/_ref/40k/Tyranids_1500.html)  
 * [Tyranids, 2000pts](/_ref/40k/Tyranids_2k.html)  
 

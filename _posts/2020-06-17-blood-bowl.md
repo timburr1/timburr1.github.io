@@ -6,16 +6,16 @@ author: Tim
 tags: gaming
 ---
 
-[Blood Bowl Rulebook, 2016](../../../../../papers/bloodbowl/BloodBowl2016.pdf) (PDF)  
+[Blood Bowl Rulebook, 2016](/papers/bloodbowl/BloodBowl2016.pdf) (PDF)  
 
 [~~Boise Brawlers OBBLM~~](https://boise-brawlers.obblm.com/)  
 
 [How to Play](https://www.bloodbowl.com/getting-started/)  
 
-[Using NAF Online Blood Bowl League Manager](../../../../../papers/bloodbowl/Using-NAF-OBBLM.pdf) (PDF)  
+[Using NAF Online Blood Bowl League Manager](/papers/bloodbowl/Using-NAF-OBBLM.pdf) (PDF)  
 
 **Lizardman Stuff:**
-* [Playbook: Yin and Yang, Smash and Dash](../../../../../papers/bloodbowl/Lizardmen.pdf) (PDF)  
+* [Playbook: Yin and Yang, Smash and Dash](/papers/bloodbowl/Lizardmen.pdf) (PDF)  
 * [Strategy Guide](http://www.bbpb.de/lizardman-strategy-guide)  
 * [Tactics](https://bbtactics.com/lizardmen-teams/)  
 
