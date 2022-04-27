@@ -26,6 +26,6 @@ It's 2020. turn on [HTTPS Everywhere](https://www.eff.org/https-everywhere) and 
 > 4. Limit the apps on your phone to the essentials. There are thousands of apps out there that maintain their existence by sucking up your data and selling it to third parties. The buying and selling of location data, for example, is big business and can be quite invasive, especially when it’s combined with other data about you.
 > 5. Turn off mic access on your computer and phone. Deactivate “Hey Siri” or “Okay Google” and disable mic access for your phone apps. Head over to System Preferences on your Mac or PC to turn off mic access as well.
 
-[Chesney on Cybersecurity Law, Policy, and Institutions](../../../papers/chesney2020.pdf) (PDF)  
+[Chesney on Cybersecurity Law, Policy, and Institutions](/papers/chesney2020.pdf) (PDF)  
 
-[Privacy threats in intimate relationships - Levy and Schneier, 2020](../../../papers/schneier2020.pdf) (PDF)  
+[Privacy threats in intimate relationships - Levy and Schneier, 2020](/papers/schneier2020.pdf) (PDF)  

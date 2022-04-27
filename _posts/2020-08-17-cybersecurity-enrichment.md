@@ -28,7 +28,7 @@ tags: school, tech
 
 [Infrapedia Map of the Internet](https://www.infrapedia.com/app)
 
-[Safecracking for the computer scientist](../../../../../papers/blaze2004.pdf) (PDF)
+[Safecracking for the computer scientist](/papers/blaze2004.pdf) (PDF)
 
 [Seed Security Labs](https://seedsecuritylabs.org/)
 
@@ -64,11 +64,11 @@ Start with the Bandit wargame at [OverTheWire](https://overthewire.org/wargames)
 
 [Have I Been Pwned?](https://haveibeenpwned.com/) Check if you have an account that has been compromised in a data breach.  
 
-[Linux Command Reference](../../../../../papers/Linux-Reference-1.pdf) (PDF)  
+[Linux Command Reference](/papers/Linux-Reference-1.pdf) (PDF)  
 
 [PuTTY](https://putty.org/) SSH client  
 
-[WireShark](https://www.wireshark.org/) packet analyzer (with [handy PDF cheat sheet](../../../../../papers/Wireshark Hints.pdf))  
+[WireShark](https://www.wireshark.org/) packet analyzer (with [handy PDF cheat sheet](/papers/Wireshark Hints.pdf))  
 
 ### Videos
 [Nicole Perlroth: "This Is How They Tell Me The World Ends"](https://www.youtube.com/watch?v=zVz2BFltJ80)

@@ -5,17 +5,17 @@ excerpt: A list of books and things that have influenced my thinking.
 author: Tim
 ---
 
-[The Art of War](../../../_ref/Art of War.html) by Sun Tzu  
+[The Art of War](/_ref/Art of War.html) by Sun Tzu  
 
 Behavioral Economics, especially [Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) by Daniel Kahneman and [Predictably Irrational](https://en.wikipedia.org/wiki/Predictably_Irrational) by Dan Ariely
 
-[The Enchiridion](../../../papers/enchiridion.pdf) of Epictetus  
+[The Enchiridion](/papers/enchiridion.pdf) of Epictetus  
 
 [Gödel, Escher, Bach](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) by Douglas Hofstadter  
 
 [How to Change Your Mind](https://en.wikipedia.org/wiki/How_to_Change_Your_Mind) by Michael Pollan  
 
-[Infinite Jest](http://www.aaronsw.com/weblog/ijend) by David Foster Wallace (For a shorter introduction to DFW, check out [Good Old Neon](../../../papers/GoodOldNeon.pdf), or his kinda-famous graduaction speech at Kenyon College: [This is Water](https://www.youtube.com/watch?v=8CrOL-ydFMI).)
+[Infinite Jest](http://www.aaronsw.com/weblog/ijend) by David Foster Wallace (For a shorter introduction to DFW, check out [Good Old Neon](/papers/GoodOldNeon.pdf), or his kinda-famous graduaction speech at Kenyon College: [This is Water](https://www.youtube.com/watch?v=8CrOL-ydFMI).)
 
 LessWrong and the [Sequences](https://wiki.lesswrong.com/wiki/Sequences)  
 

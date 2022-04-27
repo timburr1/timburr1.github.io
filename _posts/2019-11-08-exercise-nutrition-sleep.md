@@ -6,14 +6,14 @@ author: Tim
 ---
 
 ## Exercise  
-[What Is Fitness and Who Is Fit?](../../../papers/CFJ-trial.pdf) - Mark Rippetoe, CrossFit Journal  
+[What Is Fitness and Who Is Fit?](/papers/CFJ-trial.pdf) - Mark Rippetoe, CrossFit Journal  
 
 ### Free Weights
 Pick a program that you like, and that works for your goals; I am currently using a modified version of [5/3/1 for Beginners](https://thefitness.wiki/routines/5-3-1-for-beginners/). More programming resources: 
 
 [5/3/1: How to Build Pure Strength](https://www.t-nation.com/workouts/531-how-to-build-pure-strength) - Jim Wendler, T-Nation  
 
-[The CrossFit Total](../../../papers/52-2006_CFTotal.pdf) - Mark Rippetoe, CrossFit Journal  
+[The CrossFit Total](/papers/52-2006_CFTotal.pdf) - Mark Rippetoe, CrossFit Journal  
 
 [Dave Tate's Guide to Supplemental Movements with FULL Video](https://www.elitefts.com/education/supplemental-strength/) - Dave Tate, EliteFTS  
 
@@ -54,7 +54,7 @@ From the [/r/kettlebell FAQ](https://www.reddit.com/r/kettlebell/comments/3qxa4i
 [The Turkish Get-up with Jeff Martone](https://www.youtube.com/watch?v=VQq8I_n_hRE) - YouTube  
 
 ### Running  
-[Couch to 5k, treadmill workouts](../../../_ref/c25k.html) (Make sure to set the treadmill incline to at least 1.0.)  
+[Couch to 5k, treadmill workouts](/_ref/c25k.html) (Make sure to set the treadmill incline to at least 1.0.)  
 
 [/r/running Base Training: A Guide to Your Foundation to Running](https://www.reddit.com/r/running/comments/3bckeh/base_training_a_guide_to_your_foundation_to/)  
 
@@ -66,14 +66,14 @@ From the [/r/kettlebell FAQ](https://www.reddit.com/r/kettlebell/comments/3qxa4i
 
 As long as your total calories and protein are reasonable, and your diet doesn't contain too much processed junk, you are probably fine. Athletes should shoot for about 0.8-1g of high-quality protein per pound of bodyweight, per day. Eat 2-3g of creatine monohydrate per day, ideally after workouts. Timing isn't too important, but be careful about mixing it with caffeine; this causes GI discomfort for many people.  
 
-[Dietary Protein Requirement of Female Adults >65 Years Determined by the Indicator Amino Acid Oxidation Technique Is Higher Than Current Recommendations](../../../papers/rafii2014.pdf) - Rafii et al, 2014 (PDF)  
+[Dietary Protein Requirement of Female Adults >65 Years Determined by the Indicator Amino Acid Oxidation Technique Is Higher Than Current Recommendations](/papers/rafii2014.pdf) - Rafii et al, 2014 (PDF)  
 > Dietary Protein Requirement of Female Adults >65 Years Determined by the Indicator Amino Acid Oxidation Technique Is Higher Than Current Recommendations  
 
-[Dietary Protein Requirement of Men >65 Years Old Determined by the Indicator Amino Acid Oxidation Technique Is Higher than the Current Estimated Average Requirement](../../../papers/rafii2014.pdf) - Rafii et al, 2016 (PDF)  
+[Dietary Protein Requirement of Men >65 Years Old Determined by the Indicator Amino Acid Oxidation Technique Is Higher than the Current Estimated Average Requirement](/papers/rafii2014.pdf) - Rafii et al, 2016 (PDF)  
 > Dietary Protein Requirement of Men >65 Years Old Determined by the Indicator Amino Acid Oxidation Technique Is Higher than the Current Estimated Average Requirement  
 
 [Evidence that protein requirements have been
-significantly underestimated](../../../papers/elango2010.pdf) - Elango et al, 2010 (PDF)  
+significantly underestimated](/papers/elango2010.pdf) - Elango et al, 2010 (PDF)  
 > The indicator amino acid oxidation-based requirement values of 0.93 and 1.2g protein/ kg/day and the reanalysis of existing nitrogen balance studies are signiﬁcantly higher than current recommendations. Therefore, there is an urgent need to reassess recommendations for protein intake in adult humans.  
 
 [Not Another Boring Creatine Guide: Answers to FAQs and Lesser-Known Benefits](https://www.strongerbyscience.com/creatine/) - Eric Trexler, StrongerByScience  

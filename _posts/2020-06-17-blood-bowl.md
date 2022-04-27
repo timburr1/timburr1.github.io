@@ -22,7 +22,7 @@ tags: gaming
 **Runna'Mucca Reptilian Overlords Starting Lineup:**
 * Clawler Murray, 1
 * Skinky Lamb, 2
-* Skinkon Riley, 3
+* Marquise Brownscales, 3
 * Gator Mayfield, 6
 * Clawmarco Murray, 7
 * Spencer Rattlesnake, 8

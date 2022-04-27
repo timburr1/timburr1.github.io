@@ -6,20 +6,18 @@ author: Tim
 tags: gaming
 ---
 
-[Battle Primer (9th Ed. Core Rules)](../../../../../_ref/40k/9th ed battle primer.pdf) (PDF)  
+[Battle Primer (9th Ed. Core Rules)](/_ref/40k/9th ed battle primer.pdf) (PDF)  
 
 [BattleScribe](https://battlescribe.net/) Army Builder  
-* You might need to download + install a legacy version if you are trying to play an older (pre-9th) edition
-* [8th Edition Data File](../../../../../papers/40k_8th_ed.bsi)
-* [8th Edition Data File, Mobile Version](../../../../../papers/40k_8th_ed_MOBILE.bsi)
+* [8th Edition Data File](/papers/40k_8th_ed.bsi)
 
-[Genestealer Cults Errata and FAQ](../../../../../_ref/40k/gs_cults_errata.pdf) (PDF)  
+[Genestealer Cults Errata and FAQ](/_ref/40k/gs_cults_errata.pdf) (PDF)  
 
 [Tactical Objectives and Stratagems](/_ref/40k/tyranids_ref.html)
 
 [Tyranids Codex, 9th edition](/papers/Tyranid_Codex_9e_Leak_-_Updated.pdf)
 
-[Tyranids Errata and FAQ](../../../../../_ref/40k/warhammer_40000_tyranids_en.pdf) (PDF, other factions available [here](https://www.warhammer-community.com/faqs/#warhammer-40000))  
+[Tyranids Errata and FAQ](/_ref/40k/warhammer_40000_tyranids_en.pdf) (PDF, other factions available [here](https://www.warhammer-community.com/faqs/#warhammer-40000))  
 
 [Tyranids Hive Discord](https://discord.com/invite/bHT4vbA)
 
