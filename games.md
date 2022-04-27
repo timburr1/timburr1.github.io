@@ -26,7 +26,8 @@ title: Slingin' Cardboard
 <div class="column">
 ### Warhammer Stuff
 **40k Army Lists, 8th Edition:**  
-* [Tyranids, 1500pts](/_ref/40k/Tyranids 1500, 8th ed.md)  
+* [Tyranids, 1500pts](/_ref/40k/Tyranids 1500, 8th ed.html)  
+* [Tyranids, 2000pts](/_ref/40k/Tyranids 2k, 8th ed.html)  
 
 **40k Army Lists, 9th Edition:**  
 * [Tyranids, 1500pts](/_ref/40k/Tyranids_1500.html)  
