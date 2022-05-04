@@ -27,7 +27,7 @@ tags: school, tech
 ### Enrichment Activities
 [Cybersecurity](/2020/08/17/cybersecurity-enrichment.html)  
 [Databases](/2020/08/17/database-enrichment.html)  
-[Programming](/2022/03/27/programming-enrichment.html)
+[Programming](/2022/03/27/programming-enrichment.html)  
 [Web Development](/2020/08/17/web-dev-enrichment.html)  
 
 ### Research + Misc.
