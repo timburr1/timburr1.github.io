@@ -68,7 +68,6 @@ May 2006 - Jul 2012
 * *Semester Abroad, Fall 2009*  
 
 <b class="highlight">Goodrich High School, Goodrich, MI</b>  
-* *Class of 2007*
 
 <b class="highlight">University of Michigan-Flint, Flint, MI</b>
 * *Dual Enrollment, 2006-07*  
