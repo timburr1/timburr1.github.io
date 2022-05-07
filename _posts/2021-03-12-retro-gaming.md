@@ -37,4 +37,5 @@ Transfer some ROMs, according to the instructions [here](https://retropie.org.uk
 [r/Gameboy Wiki](https://www.reddit.com/r/Gameboy/wiki/index), because Gameboys are neat. You can make your own with [Freeplaytech](https://www.freeplaytech.com/) and [Raspberry Pi](https://www.raspberrypi.org/).  
 [r/SBCGaming](https://www.reddit.com/r/SBCGaming/), "Single Board Computer Gaming: Retro gaming emulation on single board computers, handheld portables, android devices and more..."
 
+<br>
 <img src="/images/gba.jpg"  alt="" width="55%">

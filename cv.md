@@ -9,8 +9,8 @@ title: Curriculum Vitae
 May 2020 - June 2022  
 <b class="highlight">Computer Science Teacher | West Ada School District | Meridian, ID</b>
 * Teach Computer Science with a focus on Web Development, Databases, Cybersecurity, and Memes
-* Manage online and in-person learning during the coronavirus pandemic
-* Create new course materials and projects for students of all ability levels
+* Managed online and in-person learning during the coronavirus pandemic
+* Created new course materials and projects for students of all ability levels
 * Relocated the Computer Science magnet program to Renaissance High School, in order to expand access for students
 * Collaborated with other teachers to redesign the introductory Exploring Web Design & Programming course
 

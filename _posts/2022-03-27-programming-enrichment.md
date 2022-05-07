@@ -22,11 +22,15 @@ tags: school, tech
 [Wat](https://www.destroyallsoftware.com/talks/wat) - Destroy All Software
 
 ## Longer Stuff:  
+[Brython](https://brython.info/index.html) for client-side web programming in Python
+
 [The Codeless Code: Fables and Koans for the Software Engineer](http://thecodelesscode.com/contents)  
 
 [Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212#) - Peter Norvig, Udacity  
 
 [Godot Open Source Game Engine](https://godotengine.org/)
+
+[An Introductory Guide to Brython](https://stackabuse.com/an-introductory-guide-to-brython/) - Dimitrije Stamenic, StackAbuse
 
 [Kodu Game Lab](https://www.kodugamelab.com/)  
 
