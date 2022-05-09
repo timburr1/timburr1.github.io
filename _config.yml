@@ -24,6 +24,8 @@ github_username:  timburr1
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
+    input: GFM
 theme: minima
 gems:
   - jekyll-feed
