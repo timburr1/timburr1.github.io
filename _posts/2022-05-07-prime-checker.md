@@ -23,7 +23,7 @@ tags: school, tech
 	<div id="output">Prime Number: </div>
 	<br>
 	<center><img src='/images/optimus.jpg' alt='Optimus Prime' width='75%'></center>
-	<code>
+```python
 '''
 PRIME-CHECKER.PY
 '''
@@ -43,4 +43,4 @@ def on_submit(event):
     browser.document["output"].html = "Prime Number: " + str(check_prime(number))
 
 browser.document["submit-button"].bind("click", on_submit)
-	</code>
+```
