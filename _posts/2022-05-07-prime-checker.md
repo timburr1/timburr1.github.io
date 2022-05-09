@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Optimize Me, Robo-Daddy!
-excerpt: An example of using Brython to embed Python code in a script tag. Press F12 or right-click -> Inspect to view the source code.
+excerpt: An example of using Brython to embed Python in an HTML script tag, scroll down for the source code. (You can also press F12 or right-click -> Inspect to view the full page source, but the Python code will be minified.)
 author: Tim
 tags: school, tech
 ---
@@ -13,7 +13,7 @@ tags: school, tech
 <script type="text/python" src="/brython/prime_checker.py"></script>
 
 <body onload="brython()">
-	<p>An example of using <a href="https://brython.info/">Brython</a> to embed Python code in a script tag. Press F12 or right-click -> Inspect to view the source code.</p>
+	<p>An example of using <a href="https://brython.info/">Brython</a> to embed Python in an HTML script tag, scroll down for the source code. (You can also press F12 or right-click -> Inspect to view the full page source, but the Python code will be minified.)</p>
 	<br>
 	<b>Enter a positive number:</b>
 	<input type="number" id="user_input" min="1">
@@ -23,6 +23,8 @@ tags: school, tech
 	<div id="output">Prime Number: </div>
 	<br>
 	<center><img src='/images/optimus.jpg' alt='Optimus Prime' width='75%'></center>
+	
+	<p>TODO: format the source code with Pygments:</p>
 ```python
 '''
 PRIME-CHECKER.PY
