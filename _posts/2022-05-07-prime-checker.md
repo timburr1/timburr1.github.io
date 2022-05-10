@@ -24,19 +24,14 @@ tags: school, tech
 	<br>
 	<center><img src='/images/optimus.jpg' alt='Optimus Prime' width='75%'></center>
 	
-	<p>TODO: format the source code with Pygments:</p>
-```python
-'''
-PRIME-CHECKER.PY
-'''
-
-import browser
+``` python
+import browser, math
 
 def check_prime(num):
     num = int(num)
-    for i in range(2, num):
-		if num % i == 0:
-			return False
+    for i in range(2, math.ceil(math.sqrt(num))):
+        if num % i == 0:
+            return False
     return True
 
 def on_submit(event):
