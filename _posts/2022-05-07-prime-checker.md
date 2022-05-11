@@ -12,6 +12,7 @@ tags: school, tech
 </script>
 <script type="text/python" src="/brython/prime_checker.py"></script>
 
+{::options parse_block_html="true" /}
 <body onload="brython()">
 	<p>An example of using <a href="https://brython.info/">Brython</a> to embed Python in an HTML script tag, scroll down for the source code. (You can also press F12 or right-click -> Inspect to view the full page source, but the Python code will be minified.)</p>
 	<br>

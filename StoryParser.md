@@ -9,9 +9,9 @@ author: Tim
 
 	<input id="input" type="text" accept-charset="UTF-8">
 	<button type="button" onclick="run()">Submit</button>
-
+	<br>
 	<p id="output" style="background-color:white; color:black;"></p>
-
+	<br>
 	<script> 
 	function run() 
 	{
