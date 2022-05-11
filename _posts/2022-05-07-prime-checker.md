@@ -24,22 +24,22 @@ tags: school, tech
 	<br>
 	<center><img src='/images/optimus.jpg' alt='Optimus Prime' width='75%'></center>
 	
-``` python
-# prime-checker.py 
+	<p>Code highlighed with <a href="https://pygments.org/">Pygments:</a>
+	
+<div class="highlight"><pre><span></span><span class="kn">import</span> <span class="nn">browser</span><span class="o">,</span> <span class="nn">math</span>
 
-import browser, math
+<span class="k">def</span> <span class="nf">check_prime</span><span class="p">(</span><span class="n">num</span><span class="p">):</span>
+    <span class="n">num</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="n">num</span><span class="p">)</span>
+    <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span> <span class="n">math</span><span class="o">.</span><span class="n">ceil</span><span class="p">(</span><span class="n">math</span><span class="o">.</span><span class="n">sqrt</span><span class="p">(</span><span class="n">num</span><span class="p">))):</span>
+        <span class="k">if</span> <span class="n">num</span> <span class="o">%</span> <span class="n">i</span> <span class="o">==</span> <span class="mi">0</span><span class="p">:</span>
+            <span class="k">return</span> <span class="kc">False</span>
+    <span class="k">return</span> <span class="kc">True</span>
 
-def check_prime(num):
-    num = int(num)
-    for i in range(2, math.ceil(math.sqrt(num))):
-        if num % i == 0:
-            return False
-    return True
+<span class="k">def</span> <span class="nf">on_submit</span><span class="p">(</span><span class="n">event</span><span class="p">):</span>
+    <span class="n">number</span> <span class="o">=</span> <span class="n">browser</span><span class="o">.</span><span class="n">document</span><span class="p">[</span><span class="s2">&quot;user_input&quot;</span><span class="p">]</span><span class="o">.</span><span class="n">value</span>
+    <span class="n">browser</span><span class="o">.</span><span class="n">console</span><span class="o">.</span><span class="n">log</span><span class="p">(</span><span class="n">number</span><span class="p">)</span>
+    <span class="n">browser</span><span class="o">.</span><span class="n">document</span><span class="p">[</span><span class="s2">&quot;output&quot;</span><span class="p">]</span><span class="o">.</span><span class="n">html</span> <span class="o">=</span> <span class="s2">&quot;Prime Number: &quot;</span> <span class="o">+</span> <span 
+class="nb">str</span><span class="p">(</span><span class="n">check_prime</span><span class="p">(</span><span class="n">number</span><span class="p">))</span>
 
-def on_submit(event):
-    number = browser.document["user_input"].value
-    browser.console.log(number)
-    browser.document["output"].html = "Prime Number: " + str(check_prime(number))
-
-browser.document["submit-button"].bind("click", on_submit)
-```
+<span class="n">browser</span><span class="o">.</span><span class="n">document</span><span class="p">[</span><span class="s2">&quot;submit-button&quot;</span><span class="p">]</span><span class="o">.</span><span class="n">bind</span><span class="p">(</span><span class="s2">&quot;click&quot;</span><span class="p">,</span> <span class="n">on_submit</span><span class="p">)</span>
+</pre></div>
