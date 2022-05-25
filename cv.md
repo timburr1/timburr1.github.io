@@ -67,10 +67,10 @@ May 2006 - Jul 2012
 <b class="highlight">University of Hertfordshire, Hatfield, UK</b>
 * *Semester Abroad, Fall 2009*  
 
-<b class="highlight">Goodrich High School, Goodrich, MI</b>  
-
 <b class="highlight">University of Michigan-Flint, Flint, MI</b>
 * *Dual Enrollment, 2006-07*  
+
+<b class="highlight">Goodrich High School, Goodrich, MI</b>  
 
 
 ## Tools and Languages
@@ -85,8 +85,6 @@ May 2006 - Jul 2012
 * MySQL
 * Mongo DB
 * Microsoft SQL Server
-* Netbeans
-* PyCharm
 * IntelliJ IDEA
 * Microsoft VS Code
 * Amazon Web Services 
@@ -112,5 +110,6 @@ May 2006 - Jul 2012
 * OU College of Engineering Dean's Honor Roll, Spring 2008 - Fall 2011  
 * National Merit Finalist  
 * Eagle Scout  
+
 
 Find me on [GitHub](https://github.com/timburr1) or [LinkedIn](http://www.linkedin.com/pub/timothy-burr/66/a88/a39).
