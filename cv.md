@@ -8,15 +8,11 @@ title: Curriculum Vitae
 ## Work Experience
 May 2020 - June 2022  
 <b class="highlight">Computer Science Teacher | West Ada School District | Meridian, ID</b>
-* Teach Computer Science with a focus on Web Development, Databases, Cybersecurity, and Memes
+* Taught Computer Science with a focus on Web Development, Databases, Cybersecurity, and Memes
 * Managed online and in-person learning during the coronavirus pandemic
 * Created new course materials and projects for students of all ability levels
 * Relocated the Computer Science magnet program to Renaissance High School, in order to expand access for students
 * Collaborated with other teachers to redesign the introductory Exploring Web Design & Programming course
-
-July 2020 - Present  
-<b class="highlight">Consultant | GLG Insights</b>
-* Provide insight and expertise to GLG clients, as part of their research into financial or educational software
 
 Aug 2019 - May 2020  
 <b class="highlight">Senior Software Engineer | Healthwise | Boise, ID</b>  
