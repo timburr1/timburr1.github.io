@@ -6,6 +6,12 @@ title: Curriculum Vitae
 # Curriculum Vitae  
 
 ## Work Experience
+June 2022 - present
+<b class="highlight">Sabbatical | My House</b>
+* Resting
+* Relaxing
+* Developing a video game for Spanish learners
+
 May 2020 - June 2022  
 <b class="highlight">Computer Science Teacher | West Ada School District | Meridian, ID</b>
 * Taught Computer Science with a focus on Web Development, Databases, Cybersecurity, and Memes
@@ -70,21 +76,22 @@ May 2006 - Jul 2012
 
 
 ## Tools and Languages
+* C#
+* Python
 * JavaScript / TypeScript
+* Java
+* MonoGame
 * Node.js
 * React
-* Angular 2
 * Jekyll
-* C#
-* Java
-* Python
+* Angular 2
+* Microsoft SQL Server
 * MySQL
 * Mongo DB
-* Microsoft SQL Server
+* Microsoft Visual Studio + VS Code
 * IntelliJ IDEA
-* Microsoft VS Code
-* Amazon Web Services 
 * Microsoft Azure
+* Amazon Web Services 
 
 
 ## Projects
