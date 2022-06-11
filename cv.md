@@ -6,7 +6,7 @@ title: Curriculum Vitae
 # Curriculum Vitae  
 
 ## Work Experience
-June 2022 - present
+June 2022 - present  
 <b class="highlight">Sabbatical | My House</b>
 * Resting
 * Relaxing
