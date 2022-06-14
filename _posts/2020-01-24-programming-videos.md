@@ -24,6 +24,8 @@ tags: tech
 ## Channels  
 [Clearwater Analytics](https://www.youtube.com/channel/UCGi5s0Pni3qeVmX8NY-uSAw)  
 
+[Coding Made Easy](https://www.youtube.com/user/CodingMadeEasy/featured)
+
 [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)  
 
 [Linus Tech Tips](https://www.youtube.com/c/LinusTechTips) 
