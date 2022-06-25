@@ -28,6 +28,8 @@ tags: tech
 
 [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)  
 
+[Gamefromscratch](https://www.youtube.com/c/gamefromscratch)
+
 [Linus Tech Tips](https://www.youtube.com/c/LinusTechTips) 
 
 [Scott Hanselman](https://www.youtube.com/channel/UCL-fHOdarou-CR2XUmK48Og)  
