@@ -57,6 +57,7 @@ title: Blogs and Podcasts
 * [Reply All](https://gimletmedia.com/reply-all/)
 * [Revolutions](https://www.revolutionspodcast.com/)
 * [Serial](https://serialpodcast.org/)
+* [Serious Trouble](https://www.serioustrouble.show/)
 * [Slate Money](https://slate.com/podcasts/slate-money)
 * [The Solid Verbal](https://www.solidverbal.com/)
 * [Stuff You Missed in History Class](https://www.missedinhistory.com/)
