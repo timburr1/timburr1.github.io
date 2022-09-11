@@ -6,7 +6,7 @@ author: Tim
 tags: travel
 ---
 
-## Burning Man 2022
+## Bumpy Man 2022
 
 <img src="/images/burningman2022/01.jpg" alt=""/>  
 
