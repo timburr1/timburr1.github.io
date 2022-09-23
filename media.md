@@ -41,6 +41,7 @@ title: Blogs and Podcasts
 ## Podcasts  
 * [ALAB](https://www.alabseries.com/)
 * [Darknet Diaries](https://darknetdiaries.com/)
+* [Dose Nation](https://www.dosenation.com/)
 * [Fall of Civilizations Podcast](https://fallofcivilizationspodcast.com/)
 * [Hardcore History](https://www.dancarlin.com/hardcore-history-series/)
 * [The History of Byzantium](https://thehistoryofbyzantium.com/)
@@ -52,6 +53,7 @@ title: Blogs and Podcasts
 * [More Perfect](https://www.wnyc.org/shows/radiolabmoreperfect/)
 * [Odd Lots](https://www.bloomberg.com/podcasts/odd_lots)
 * [Planet Money](https://www.npr.org/podcasts/510289/planet-money/)
+* [Psychedelic Salon](https://psychedelicsalon.com/podcasts/)
 * [Rabbit Hole](https://www.nytimes.com/column/rabbit-hole)
 * [Radiolab](http://www.radiolab.org/)
 * [Reply All](https://gimletmedia.com/reply-all/)
