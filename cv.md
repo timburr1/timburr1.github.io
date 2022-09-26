@@ -8,8 +8,9 @@ title: Curriculum Vitae
 ## Work Experience
 June 2022 - present  
 <b class="highlight">Sabbatical | My House</b>
-* Resting
-* Relaxing
+* ~~Resting~~
+* ~~Relaxing~~
+* Raising a puppy
 * Developing a video game for Spanish learners
 
 May 2020 - June 2022  
