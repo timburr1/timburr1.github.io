@@ -8,6 +8,7 @@ title: Blogs and Podcasts
 <div class="column">
 ## Blogs and Newspapers  
 * [The Alexandrian](https://thealexandrian.net/)
+* [Boise Weekly](https://www.idahopress.com/boiseweekly/)
 * [Coding Horror](https://blog.codinghorror.com/)
 * [A Collection of Unmitigated Pedantry](https://acoup.blog/)
 * [Don't Worry About the Vase](https://thezvi.substack.com/)
