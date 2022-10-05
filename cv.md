@@ -77,15 +77,14 @@ May 2006 - Jul 2012
 
 
 ## Tools and Languages
+* Godot 
 * C#
 * Python
 * JavaScript / TypeScript
 * Java
-* MonoGame
 * Node.js
 * React
 * Jekyll
-* Angular 2
 * Microsoft SQL Server
 * MySQL
 * Mongo DB
