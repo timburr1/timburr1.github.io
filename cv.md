@@ -77,7 +77,7 @@ May 2006 - Jul 2012
 
 
 ## Tools and Languages
-* Godot 
+* Godot / GDScript
 * C#
 * Python
 * JavaScript / TypeScript
@@ -95,6 +95,7 @@ May 2006 - Jul 2012
 
 
 ## Projects
+* [Barkelona](https://hoodmentality.itch.io/barkelona)
 * [Troll 9000 Discord Bot](/2021/05/31/discord-bot.html)
 * [Roscomometer](/2021/03/01/roscomometer.html)
 * [Flappy Bub](/2020/12/12/flappy-bub.html)
