@@ -7,7 +7,7 @@ tags: tech
 ---
 
 ## Hardware
-Desktop computer specs, upgraded a bit from 2012 and still running strong:  
+Desktop computer specs, updated a little in 2022:  
 <table class="pcpp-part-list">
   <thead>
     <tr>
@@ -38,7 +38,7 @@ Desktop computer specs, upgraded a bit from 2012 and still running strong:
     </tr>
 	<tr>
       <td class="pcpp-part-list-type">Storage</td>
-      <td>Another 1 TB HDD w/ similar specs</td>
+      <td>Another 1 TB HDD with similar specs</td>
     </tr>
     <tr>
       <td class="pcpp-part-list-type">Video Card</td>
@@ -52,31 +52,39 @@ Desktop computer specs, upgraded a bit from 2012 and still running strong:
       <td class="pcpp-part-list-type">Power Supply</td>
       <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/R4Lypg/corsair-power-supply-cmpsu600cxv2">Corsair Builder 600 W 80+ Certified ATX Power Supply</a></td>
     </tr>
+	<tr>
+      <td class="pcpp-part-list-type">Optical Drive</td>
+	  <td class="pcpp-part-list-item">Generic CD/DVD-RW</td>
+	<tr>
     <tr>
       <td class="pcpp-part-list-type">Keyboard</td>
-      <td class="pcpp-part-list-item"><a href="https://deckkeyboards.com/product/francium-pro-87-key">Deck Francium Pro with Cherry MX Brown switches</a></td>
+      <td class="pcpp-part-list-item">iKBC CD108 V2 with Cherry MX Brown switches</td>
     </tr>
   </tbody>
 </table>
-[PC Part Picker full list](https://pcpartpicker.com/list/HXvMwh)
+
+[PC Part Picker full list](https://pcpartpicker.com/list/ZgBKbK)
 
 ## Software
-I mostly use Windows 10 these days, or sometimes Ubuntu via [WSL 2](https://docs.microsoft.com/en-us/windows/wsl/wsl2-install). 
+**OS**  
+[Windows 10](https://en.wikipedia.org/wiki/Windows_10)  
+[Ubuntu Linux](https://en.wikipedia.org/wiki/Ubuntu) via [WSL 2](https://docs.microsoft.com/en-us/windows/wsl/wsl2-install)  
 
 **Security**  
-~~ExpressVPN~~  
 [LastPass](https://lastpass.com/)  
+[SurfShark VPN](https://surfshark.com/)
 [VeraCrypt](https://www.veracrypt.fr/en/Home.html)  
 
-**Software Development**  
-[Microsoft SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/) (the Developer edition is available for free w/ [Visual Studio Dev Essentials](https://visualstudio.microsoft.com/dev-essentials/))  
-[Notepad++](https://notepad-plus-plus.org/) for general text editing  
-[Postman](https://www.postman.com/) for creating REST-ful web calls  
-[TortoiseGit](https://tortoisegit.org/) for version control  
-[VS Code](https://code.visualstudio.com/) as a good all-around IDE
+**Game Development**  
+[Godot Game Engine](https://godotengine.org/)  
+[Notepad++](https://notepad-plus-plus.org/)  
+[Paint 3D](https://en.wikipedia.org/wiki/Paint_3D)  
+[TortoiseGit](https://tortoisegit.org/)  
+[VS Code](https://code.visualstudio.com/)  
 
 **Utilities**  
 [7-Zip](https://www.7-zip.org/)  
+[Discord](https://discordapp.com/)  
 [f.lux](https://justgetflux.com/)  
 [Greenshot](https://getgreenshot.org/downloads/)  
 [qBittorrent](https://www.qbittorrent.org/)  
