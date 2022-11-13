@@ -79,6 +79,7 @@ Desktop computer specs, updated a little in 2022:
 [Godot Game Engine](https://godotengine.org/)  
 [Notepad++](https://notepad-plus-plus.org/)  
 [Paint 3D](https://en.wikipedia.org/wiki/Paint_3D)  
+[Tiled Map Editor](https://www.mapeditor.org/)  
 [TortoiseGit](https://tortoisegit.org/)  
 [VS Code](https://code.visualstudio.com/)  
 
