@@ -55,7 +55,7 @@ Desktop computer specs, updated a little in 2022:
 	<tr>
       <td class="pcpp-part-list-type">Optical Drive</td>
 	  <td class="pcpp-part-list-item">Generic CD/DVD-RW</td>
-	<tr>
+	</tr>
     <tr>
       <td class="pcpp-part-list-type">Keyboard</td>
       <td class="pcpp-part-list-item">iKBC CD108 V2 with Cherry MX Brown switches</td>
