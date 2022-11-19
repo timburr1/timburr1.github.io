@@ -12,6 +12,8 @@ author: Tim
 	<br>
 	<p id="output" style="background-color:white; color:black;"></p>
 	<br>
+	<p>If the StoryParser is valuable to you, please consider supporting my next project on <a href="https://www.patreon.com/user?u=4686411">Patreon</a> or Itch.io:</p>
+	<br>
 	<iframe src="https://itch.io/embed/1753822?bg_color=151619&amp;fg_color=c1cdda&amp;link_color=2689ff&amp;border_color=3BA55C" width="552" height="167" frameborder="0"><a href="https://hoodmentality.itch.io/barkelona">Barkelona by Hood Mentality Software Studio</a></iframe>
 	<br>
 	<script> 

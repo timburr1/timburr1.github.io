@@ -7,7 +7,7 @@ tags: tech
 ---
 
 ## Hardware
-Desktop computer specs, updated a little in 2022:  
+Desktop computer specs, upgraded a bit since it was originally built in 2012:  
 <table class="pcpp-part-list">
   <thead>
     <tr>
