@@ -79,7 +79,6 @@ Desktop computer specs, upgraded a bit since it was originally built in 2012:
 [Godot Game Engine](https://godotengine.org/)  
 [Notepad++](https://notepad-plus-plus.org/)  
 [Paint 3D](https://en.wikipedia.org/wiki/Paint_3D)  
-[Tiled Map Editor](https://www.mapeditor.org/)  
 [TortoiseGit](https://tortoisegit.org/)  
 [VS Code](https://code.visualstudio.com/)  
 
