@@ -17,3 +17,5 @@ tags: gaming
 [Printable Power Cards](/papers/stargrave/StarGrave_Power_Cards_A4.pdf) (PDF)
 
 [Dead or Alive: Solo Scenario Generator](/papers/stargrave/star_doa_digital.pdf) (PDF)
+
+### [Rexon's Raiders](/_ref/stargrave/rexons-raiders.html)
