@@ -20,6 +20,7 @@ title: Slingin' Cardboard
 * [Magic over the Internet](/2020/04/11/cockatrice.html)
 * [Other Games Online](/papers/Online Board Games.pdf)
 * [Skull](/2021/06/01/skull.html)
+* [Stargrave](/2022/12/03/stargrave.html)
 
 </div>	
 

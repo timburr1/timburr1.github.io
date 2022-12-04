@@ -72,7 +72,7 @@ Desktop computer specs, upgraded a bit since it was originally built in 2012:
 
 **Security**  
 [LastPass](https://lastpass.com/)  
-[SurfShark VPN](https://surfshark.com/)
+[SurfShark VPN](https://surfshark.com/)  
 [VeraCrypt](https://www.veracrypt.fr/en/Home.html)  
 
 **Game Development**  
@@ -80,7 +80,6 @@ Desktop computer specs, upgraded a bit since it was originally built in 2012:
 [Notepad++](https://notepad-plus-plus.org/)  
 [Paint 3D](https://en.wikipedia.org/wiki/Paint_3D)  
 [TortoiseGit](https://tortoisegit.org/)  
-[VS Code](https://code.visualstudio.com/)  
 
 **Utilities**  
 [7-Zip](https://www.7-zip.org/)  
