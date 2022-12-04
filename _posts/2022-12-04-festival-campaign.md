@@ -77,4 +77,4 @@ PC Races:
 
 PC Classes: Any [Core](https://www.d20pfsrd.com/classes/core-classes/), [Base](https://www.d20pfsrd.com/classes/base-classes/), or [Hybrid](https://www.d20pfsrd.com/classes/hybrid-classes/) class; [Merchant](/papers/pathfinder/Merchant.pdf).
 
-Questions to consider: Do you know any of the other PCs? What are you doing here at the fair? 
+Questions to consider: Do you know any of the other PCs? What are you doing here at the fair? Who are you camping with?
