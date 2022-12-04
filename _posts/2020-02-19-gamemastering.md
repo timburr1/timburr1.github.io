@@ -37,7 +37,7 @@ author: Tim
 ## PDF Character Sheets  
 [Dungeon World](/papers/Dungeon_World_Play_Sheets.pdf)  
 [Numenera](/papers/Numenera Character Sheet.pdf)  
-[Pathfinder](/papers/PathfinderRPGCharacterSheet.pdf)  
+[Pathfinder](/papers/pathfinder/PathfinderRPGCharacterSheet.pdf)  
 [Shadowrun 5e](/papers/Shadowrun 5_CharacterSheet.pdf) + [Chummer Character Builder](https://github.com/chummer5a/chummer5a)  
 
 ## System Resource Documents  
