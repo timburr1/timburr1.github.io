@@ -8,8 +8,6 @@ tags: gaming
 
 ### Welcome to Ye Olde Renegade Faire!
 
-Come for the wenches, stay to get blasted out of your mind and watch fireworks.
-
 [Character Sheet](/papers/pathfinder/PathfinderRPGCharacterSheet.pdf)
 
 ### Character Creation
@@ -51,7 +49,7 @@ PC Races:
 		<td>Machine Elf</td>
 		<td>5' 4"</td>
 		<td>+2d8"</td>
-		<td>750 lb.</td>
+		<td>250 lb.</td>
 		<td>x10</td>
 	</tr>
 	<tr style="text-align:center;">
@@ -78,3 +76,5 @@ PC Races:
 PC Classes: Any [Core](https://www.d20pfsrd.com/classes/core-classes/), [Base](https://www.d20pfsrd.com/classes/base-classes/), or [Hybrid](https://www.d20pfsrd.com/classes/hybrid-classes/) class; [Merchant](/papers/pathfinder/Merchant.pdf).
 
 Questions to consider: Do you know any of the other PCs? What are you doing here at the fair? Who are you camping with?
+
+[Grappling Flowchart](/papers/pathfinder/Grappling flowchart.pdf)
