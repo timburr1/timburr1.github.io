@@ -21,9 +21,11 @@ tags: gaming
 
 [Tyranids Hive Discord](https://discord.com/invite/bHT4vbA)
 
+[Wahapedia](https://wahapedia.ru/wh40k9ed/factions/tyranids/
+
 **1d4chan:**
 * [9th Edition Rules](https://1d4chan.org/wiki/Warhammer_40,000_9th_Edition)
 * [Army Building and Playing the Game](https://1d4chan.org/wiki/Warhammer_40,000/Tactics_(9E))  
 * [Genestealer Cults](https://1d4chan.org/wiki/Warhammer_40,000/Tactics/Genestealer_Cults_(9E))  
 * [Movement 101](https://1d4chan.org/wiki/Warhammer_40,000/Tactics/Movement_101_(9E))  
-* [Tyranids Tactics](https://1d4chan.org/wiki/Warhammer_40,000/Tactics/Tyranids_(9E))  
+* [Tyranids Tactics](https://1d4chan.org/wiki/Warhammer_40,000/9th_Edition_Tactics/Tyranids)  

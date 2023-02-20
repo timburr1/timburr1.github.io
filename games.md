@@ -33,7 +33,6 @@ title: Slingin' Cardboard
 
 **40k Army Lists, 9th Edition:**
 * [Tyranids, 1500pts](/_ref/40k/Tyranids_1500.html)
-* [Tyranids, 2000pts](/_ref/40k/Tyranids_2k.html)
 
 [Tactical Objectives and Stratagems](/_ref/40k/tyranids_ref.html)
 
