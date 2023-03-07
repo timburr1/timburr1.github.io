@@ -28,7 +28,7 @@ title: Blogs and Podcasts
 * [Sam\[\]zdat](https://samzdat.com/)
 * [Sarah Constantin](https://sarahconstantin.substack.com/)
 * [Schneier on Security](https://www.schneier.com/)
-* [Sci-Hub](https://sci-hub.tw/)
+* [Sci-Hub](https://sci-hub.st/)
 * [Slate Star Codex](https://astralcodexten.substack.com/)
 * [Stratechery](https://stratechery.com/)
 * [Wait But Why](https://waitbutwhy.com)
