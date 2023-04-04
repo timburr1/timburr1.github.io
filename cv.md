@@ -8,10 +8,10 @@ title: Curriculum Vitae
 ## Work Experience
 June 2022 - present  
 <b class="highlight">Video Game Developer | Self-Employed</b>
-* Evaluated several [different technology stacks](2022/06/14/game-dev.html), before deciding to use Godot 3 with GDScript and the DialogueManager addon 
-* Learned Godot and DialogueManager from tutorials, practiced by creating [simpler games](/2022/09/23/godot.html) 
+* Evaluated several different technology stacks, before deciding to use Godot 3 with GDScript and the DialogueManager addon 
+* Learned Godot and DialogueManager from tutorials, practiced by creating simpler games 
 * Leveraged prior knowledge of Python and object-oriented design principles to create an immersion-style game for Spanish learners
-* [Barkelona](https://hoodmentality.itch.io/barkelona) currently includes a main story with over three hours of content, plus four exciting minigames, and new updates all the time
+* Created a game whose main storyline includes over three hours of content, plus four exciting minigames and new updates all the time
 
 May 2020 - June 2022  
 <b class="highlight">Computer Science Teacher | West Ada School District | Meridian, ID</b>
