@@ -88,7 +88,7 @@ May 2006 - Jul 2012
 * Microsoft SQL Server
 * MySQL
 * Mongo DB
-* Microsoft Visual Studio + VS Code
+* Microsoft Visual Studio / VS Code
 * IntelliJ IDEA
 * Microsoft Azure
 * Amazon Web Services 
