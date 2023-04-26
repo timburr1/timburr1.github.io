@@ -8,6 +8,8 @@ tags: gaming
 
 ### Welcome to Ye Olde Renegade Faire!
 
+Come for the wenches, stay for the ale.
+
 [Character Sheet](/papers/pathfinder/PathfinderRPGCharacterSheet.pdf)
 
 ### Character Creation
