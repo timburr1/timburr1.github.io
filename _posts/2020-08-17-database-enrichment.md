@@ -30,3 +30,6 @@ tags: school, tech
 [The Old Man and the SeaQL](https://www.youtube.com/watch?v=9L5NDG2aOLE)  
 [The SQL Gods Must Be Crazy](https://www.youtube.com/watch?v=6TMNCMvz7Ho&t=8s)  
 [SQL Joins: Clowns (to the LEFT) Jokers (to the RIGHT)](https://www.youtube.com/watch?v=QA0-6IRS9hc)  
+
+<br><br>
+<img class="center" max-width="100%" src="/images/sql cheatsheet.jpg"  alt="SQL cheat sheet"/>
