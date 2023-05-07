@@ -22,6 +22,7 @@ title: Blogs and Podcasts
 * [Money Stuff](https://www.bloomberg.com/view/topics/money-stuff)
 * [Naval Gazing](https://www.navalgazing.net/)
 * [Paul Graham's Essays](http://paulgraham.com/articles.html)
+* [Patrick McKenzie](https://www.kalzumeus.com/)
 * [PopeHat](https://popehat.substack.com/)
 * [Sam\[\]zdat](https://samzdat.com/)
 * [Schneier on Security](https://www.schneier.com/)
@@ -30,8 +31,6 @@ title: Blogs and Podcasts
 * [Stratechery](https://stratechery.com/)
 * [Wait But Why](https://waitbutwhy.com)
 * [War on the Rocks](https://warontherocks.com/)
-
-## [The Confusion Cannon](/2019/10/13/confusion-cannon.html)
 
 </div>	
 <div class="column">
