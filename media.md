@@ -8,6 +8,7 @@ title: Blogs and Podcasts
 <div class="column">
 ## Blogs and Newspapers  
 * [The Alexandrian](https://thealexandrian.net/)
+* [BoiseDev](https://boisedev.com/)
 * [Boise Weekly](https://www.idahopress.com/boiseweekly/)
 * [Coding Horror](https://blog.codinghorror.com/)
 * [The Economist](https://www.economist.com/)
@@ -43,6 +44,7 @@ title: Blogs and Podcasts
 * [Hardcore History](https://www.dancarlin.com/hardcore-history-series/)
 * [The History of Byzantium](https://thehistoryofbyzantium.com/)
 * [The History of Rome](http://www.thehistoryofrome.typepad.com/)
+* [If Books Could Kill](https://www.patreon.com/IfBooksPod)
 * [Invisibilia](https://www.npr.org/podcasts/510307/invisibilia)
 * [It Could Happen Here](https://www.iheart.com/podcast/1119-it-could-happen-here-30717896/)
 * [Limited Resources](http://lrcast.com/)
@@ -56,10 +58,8 @@ title: Blogs and Podcasts
 * [Serial](https://serialpodcast.org/)
 * [Serious Trouble](https://www.serioustrouble.show/)
 * [Slate Money](https://slate.com/podcasts/slate-money)
-* [The Solid Verbal](https://www.solidverbal.com/)
 * [Stuff You Missed in History Class](https://www.missedinhistory.com/)
 * [This American Life](https://www.thisamericanlife.org/podcast)
-* [Very Bad Wizards](https://www.verybadwizards.com/)
-* [You're Wrong About](https://www.stitcher.com/podcast/michael-hobbes/youre-wrong-about)
+* [You're Wrong About](https://yourewrongabout.com/)
 </div>
 </div>
