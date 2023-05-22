@@ -16,7 +16,6 @@ title: Blogs and Podcasts
 * [Gwern](https://www.gwern.net/)
 * [Hacker News](https://news.ycombinator.com/)
 * [Krebs on Security](https://krebsonsecurity.com/)
-* [Lawfare](https://www.lawfareblog.com/)
 * [Library Genesis](http://libgen.lc/)
 * [Marginal Revolution](https://marginalrevolution.com/)
 * [Melting Asphalt](https://meltingasphalt.com)
