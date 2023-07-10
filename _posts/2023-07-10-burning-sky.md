@@ -1,11 +1,14 @@
 ---
 layout: post
 title: More Pathfinder Campaign Stuff
-excerpt: Burning the Sky- Gate Pass and Beyond
+excerpt: "Burning the Sky: Gate Pass and Beyond"
 author: Tim
 tags: gaming
 ---
 
+{::options parse_block_html="true" /}
+<div class="row">
+<div class="column">
 ### Character Info
 
 [Faramond, level 1](/papers/pathfinder/Faro-1.pdf)
@@ -14,6 +17,8 @@ tags: gaming
 
 [Numpty](/papers/pathfinder/Numpty.pdf)
 
+</div>	
+<div class="column">
 
 ### Faro's Spellbook
 
@@ -29,3 +34,6 @@ tags: gaming
 * Mage Armor
 * Magic Missile
 * Sleep
+
+</div>
+</div>
