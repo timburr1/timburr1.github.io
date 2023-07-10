@@ -31,4 +31,4 @@ Other useful resources:
 
 <br /><img src="/images/panam screenshot-min.png" alt="" width="100%" />  
 
-[^1]: Maybe. The Panam site is up as of 4/26/2020, but I might take it down again later to save the hosting fees.  
+[^1]: NB that this site is hosted using Microsoft Azure's free tier, so it will load very slowly the first time you open it.  

@@ -31,7 +31,7 @@ tags: gaming
 ### Faro's Spellbook
 
 #### 0
-* all cantrips, except Ray of Frost
+* All cantrips, except Ray of Frost
 
 #### 1 
 * Burning Hands
