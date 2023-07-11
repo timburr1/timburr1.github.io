@@ -35,7 +35,6 @@ tags: gaming
 
 #### 1 
 * Burning Hands
-* Dancing Lantern
 * Glue Seal
 * Grease
 * Identify
