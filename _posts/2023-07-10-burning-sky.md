@@ -11,13 +11,15 @@ tags: gaming
 <div class="column">
 ### Character Info
 
-[Faramond, level 1](/papers/pathfinder/Faro-1.pdf) (PDF)
+~~[Faramond, level 1](/papers/pathfinder/Faro-1.pdf) (PDF)~~
 
 [Faramond, level 2](/papers/pathfinder/Faro-2.pdf) (PDF)
 
 [Numpty](/papers/pathfinder/Numpty.pdf) (PDF)
 
 ### Reference
+
+[Core Class: Wizard](https://www.d20pfsrd.com/classes/core-classes/wizard/)
 
 [Elemental Arcane School: Fire](https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/elemental-arcane-schools/fire/)
 
@@ -35,6 +37,8 @@ tags: gaming
 
 #### 1 
 * Burning Hands
+* Enlarge Person
+* Gabal's Magic Missile
 * Glue Seal
 * Grease
 * Identify
