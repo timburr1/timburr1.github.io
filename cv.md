@@ -32,9 +32,9 @@ Aug 2019 - May 2020
 
 Aug 2012 - Aug 2019  
 <b class="highlight">Software Developer | Clearwater Analytics | Boise, ID</b>
-* Maintained and improved existing code  
+* Maintained and improved existing Java code  
 * Provided 24-hour, on-call support for critical projects
-* Created additional webservices, databases, and testing frameworks  
+* Created additional webservices, SQL databases, and testing frameworks  
 * Collaborated with other developers and analysts
 
 Nov 2015 - Nov 2017  
@@ -86,6 +86,7 @@ May 2006 - Jul 2012
 * Java
 * Node.js
 * React
+* Vite
 * Jekyll
 * Microsoft SQL Server
 * MySQL
@@ -94,6 +95,8 @@ May 2006 - Jul 2012
 * IntelliJ IDEA
 * Microsoft Azure
 * Amazon Web Services 
+* Postman
+* Git
 
 
 ## Projects
