@@ -7,7 +7,7 @@ title: Curriculum Vitae
 
 ## Work Experience
 June 2022 - present  
-<b class="highlight">Video Game Developer | Self-Employed</b>
+<b class="highlight">Video Game Developer | Barkelona LLC (Self-Employed)</b>
 * Evaluated several different technology stacks, before deciding to use Godot 3 with GDScript and the DialogueManager addon 
 * Learned Godot and DialogueManager from tutorials, practiced by creating simpler games 
 * Leveraged prior knowledge of Python and object-oriented design principles to create an immersion-style game for Spanish learners
