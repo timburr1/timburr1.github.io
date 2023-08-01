@@ -11,7 +11,9 @@ June 2022 - present
 * Evaluated several different technology stacks, before deciding to use Godot 3 with GDScript and the DialogueManager addon 
 * Learned Godot and DialogueManager from tutorials, practiced by creating simpler games 
 * Leveraged prior knowledge of Python and object-oriented design principles to create an immersion-style game for Spanish learners
-* Created a game whose main storyline includes over three hours of content, plus four exciting minigames and new updates all the time
+* Created and launched Barkelona on Steam and Itch.io
+* Used JavaScript, React, Vite, AWS Amplify, Google Domains, and AWS Certificate Manger to create a web site to market and distribute the game to schools
+
 
 May 2020 - June 2022  
 <b class="highlight">Computer Science Teacher | West Ada School District | Meridian, ID</b>

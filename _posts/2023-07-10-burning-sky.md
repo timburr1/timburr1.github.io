@@ -15,7 +15,9 @@ tags: gaming
 
 [Faramond, level 2](/papers/pathfinder/Faro-2.pdf) (PDF)
 
-[Numpty](/papers/pathfinder/Numpty.pdf) (PDF)
+[Numpty, Commoner](/papers/pathfinder/Numpty.pdf) (PDF)
+
+[Numpty, Wizard](/papers/pathfinder/Numpty-wiz.pdf) (PDF)
 
 ### Reference
 
@@ -45,6 +47,23 @@ tags: gaming
 * Mage Armor
 * Magic Missile
 * Sleep
+
+### Scrolls
+* 2x Comprehend Languages
+* Erase
+* Gabal's Magic Missile
+* Knock
+* Magic Aura
+* True Strike
+
+### Potions + Oils
+* 2x Cure Moderate Wounds
+* Fly
+* Invisibility
+* Magic Weapon Oil
+* 3x Jump 
+* 2x Silversheen
+* Spider Climb
 
 </div>
 </div>
