@@ -40,18 +40,18 @@ tags: gaming
 #### 1 
 * Burning Hands
 * Enlarge Person
-* Gabal's Magic Missile
 * Glue Seal
 * Grease
 * Identify
 * Mage Armor
 * Magic Missile
 * Sleep
+* Wayfairer's Step
 
 ### Scrolls
 * 2x Comprehend Languages
 * Erase
-* Gabal's Magic Missile
+* Gabal's Superior Missile
 * Knock
 * Magic Aura
 * True Strike
