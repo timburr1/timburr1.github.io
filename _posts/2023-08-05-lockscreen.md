@@ -20,15 +20,15 @@ author: Tim
 		<img id="background" src="/images/lockscreenMaker/Image01.jpg" alt="" style="width:100%;">
 		<span id="info" color="white">
 			<h1>Owner</h1>
-			<h2 id="name_out"></h2>
+			<h3 id="name_out"></h3>
 			<h1>Email</h1>
-			<h2 id="email_out"></h2>
+			<h3 id="email_out"></h3>
 			<h1>Playa Address</h1>
-			<h2 id="camp_out"></h2>
-			<h2 id="address_out"></h2>
+			<h3 id="camp_out"></h3>
+			<h3 id="address_out"></h3>
 			<h1>Emergency?</h1>
-			<h2 id="emergency_contact_out"></h2>
-			<h2 id="emergency_phone_out"></h2>
+			<h3 id="emergency_contact_out"></h3>
+			<h3 id="emergency_phone_out"></h3>
 		</span>
 	</div>
 	<p>All of the images used in this project are licensed under Creative Commons. Thanks to: <a href="https://www.flickr.com/photos/blmnevada/">BLM Nevada</a>, <a href="https://www.flickr.com/photos/hawaiisavvy/">Flickr user HawaiiSavvy</a>, <a href="https://www.flickr.com/photos/buteze/">Flickr user Ryan/Debbie/Owen BuTeze</a>, and <a href="https://www.imustbedead.com/home">Pixabay user imustbedead</a>.</p>
