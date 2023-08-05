@@ -41,6 +41,10 @@ author: Tim
 			if(name)
 				document.getElementById("name_out").innerHTML = "<h3>If found, please return to</h3><h1>" 
 				+ name + "</h1>";
+				
+			var email = document.getElementById("email").value;
+			if (email)
+				document.getElementById("email_out").innerHTML = "<h3>" + email + "</h3>";
 			
 			var address = document.getElementById("address").value;
 			var camp = document.getElementById("camp").value;			
@@ -54,11 +58,6 @@ author: Tim
 				document.getElementById("address_out").innerHTML = "<h1>Playa Address</h1><h3>" 
 				+ camp + "</h3>";
 			}
-			
-			var email = document.getElementById("email").value;
-			if (email)
-				document.getElementById("email_out").innerHTML = "<h1>Email</h1><h3>" 
-				+ email + "</h3>";
 			
 			var emergency_contact = document.getElementById("emergency_contact").value;
 			var emergency_phone = document.getElementById("emergency_phone").value;
