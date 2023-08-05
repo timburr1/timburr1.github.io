@@ -16,7 +16,7 @@ author: Tim
 	<button type="button" onclick="run()">Run</button>
 	<br />
 	<div class="container">
-		<img id="background" src="/images/lockscreenMaker/Image01.jpg" alt="">
+		<img id="background" src="/images/lockscreenMaker/Image01.jpg" alt="" style="width:100%;">
 		<span id="info" color="white">
 			<h1>Owner</h1>
 			<h2 id="name_out"></h2>
