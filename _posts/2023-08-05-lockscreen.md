@@ -65,6 +65,9 @@ author: Tim
 			if (emergency_contact && emergency_phone) {
 				document.getElementById("emergency_out").innerHTML = "<h1>Emergency?</h1><h3>" 
 				+ emergency_contact + ", " + emergency_phone + "</h3>";
+			} else if (emergency_contact) {
+				document.getElementById("emergency_out").innerHTML = "<h1>Emergency?</h1><h3>" 
+				+ emergency_contact + "</h3>";
 			} else if (emergency_phone) {
 				document.getElementById("emergency_out").innerHTML = "<h1>Emergency?</h1><h3>" 
 				+ emergency_phone + "</h3>";
