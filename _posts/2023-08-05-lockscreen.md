@@ -19,20 +19,14 @@ author: Tim
 	<div class="container">
 		<img id="background" src="/images/lockscreenMaker/Image01.jpg" alt="" style="width:100%;">
 		<span id="info" color="white">
-			<h1>Owner</h1>
-			<h3 id="name_out"></h3>
-			<h1>Email</h1>
-			<h3 id="email_out"></h3>
-			<h1>Playa Address</h1>
-			<h3 id="camp_out"></h3>
-			<h3 id="address_out"></h3>
-			<h1>Emergency?</h1>
-			<h3 id="emergency_contact_out"></h3>
-			<h3 id="emergency_phone_out"></h3>
+			<span id="name_out"></span>
+			<span id="email_out"></span>
+			<span id="address_out"></span>
+			<span id="emergency_out"></span>
 		</span>
 	</div>
 	<p>All of the images used in this project are licensed under Creative Commons. Thanks to: <a href="https://www.flickr.com/photos/blmnevada/">BLM Nevada</a>, <a href="https://www.flickr.com/photos/hawaiisavvy/">Flickr user HawaiiSavvy</a>, <a href="https://www.flickr.com/photos/buteze/">Flickr user Ryan/Debbie/Owen BuTeze</a>, and <a href="https://www.imustbedead.com/home">Pixabay user imustbedead</a>.</p>
-	<p>If this program is valuable to you, please consider supporting my latest project on Itch.io or Steam:</p>
+	<p>If this program is valuable to you, please consider supporting my latest project on Itch.io or Steam (or don't, I am not your mom):</p>
 	<br>
 	<iframe src="https://itch.io/embed/1753822?bg_color=151619&amp;fg_color=c1cdda&amp;link_color=2689ff&amp;border_color=3BA55C" width="552" height="167" frameborder="0"><a href="https://hoodmentality.itch.io/barkelona">Barkelona by Hood Mentality Software Studio</a></iframe>
 	<br>
@@ -44,20 +38,37 @@ author: Tim
 			randomImg() 
 			
 			var name = document.getElementById("name").value;
-			document.getElementById("name_out").innerHTML = name;
+			if(name)
+				document.getElementById("name_out").innerHTML = "<h3>If found, please return to</h3><h1>" 
+				+ name + "</h1>";
 			
 			var address = document.getElementById("address").value;
-			document.getElementById("address_out").innerHTML = address;
-			var camp = document.getElementById("camp").value;
-			document.getElementById("camp_out").innerHTML = camp;
+			var camp = document.getElementById("camp").value;			
+			if (address && camp) {
+				document.getElementById("address_out").innerHTML = "<h1>Playa Address</h1><h3>" 
+				+ camp + "</h3><h3>" + address + "</h3>";
+			} else if (address) {
+				document.getElementById("address_out").innerHTML = "<h1>Playa Address</h1><h3>" 
+				+ address + "</h3>";
+			} else if (camp) {
+				document.getElementById("address_out").innerHTML = "<h1>Playa Address</h1><h3>" 
+				+ camp + "</h3>";
+			}
 			
 			var email = document.getElementById("email").value;
-			document.getElementById("email_out").innerHTML = email;
+			if (email)
+				document.getElementById("email_out").innerHTML = "<h1>Email</h1><h3>" 
+				+ email + "</h3>";
 			
 			var emergency_contact = document.getElementById("emergency_contact").value;
-			document.getElementById("emergency_contact_out").innerHTML = emergency_contact;
 			var emergency_phone = document.getElementById("emergency_phone").value;
-			document.getElementById("emergency_phone_out").innerHTML = emergency_phone;
+			if (emergency_contact && emergency_phone) {
+				document.getElementById("emergency_out").innerHTML = "<h1>Emergency?</h1><h3>" 
+				+ emergency_contact + ", " + emergency_phone + "</h3>";
+			} else if (emergency_phone) {
+				document.getElementById("emergency_out").innerHTML = "<h1>Emergency?</h1><h3>" 
+				+ emergency_phone + "</h3>";
+			}
 		}
 		
 		const PREFIX = "/images/lockscreenMaker/";
