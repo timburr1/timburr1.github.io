@@ -6,6 +6,7 @@ author: Tim
 ---
 <div>
 	<p>Enter your info into the form below, then screenshot and save the generated lockscreen. None of your data will be stored in any way.</p>
+	<br />
 	Name: <input id="name" type="text" accept-charset="UTF-8"><br />
 	Playa Address: <input id="address" type="text" accept-charset="UTF-8"><br />
 	Camp Name: <input id="camp" type="text" accept-charset="UTF-8"><br />
