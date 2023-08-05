@@ -14,7 +14,7 @@ author: Tim
 	Emergency Contact: <input id="emergency_contact" type="text" accept-charset="UTF-8"><br />
 	Contact Phone Number: <input id="emergency_phone" type="text" accept-charset="UTF-8"><br />
 	<br />
-	<button type="button" onclick="run()">Run</button>
+	<center><button type="button" onclick="run()" style="padding: 0px 20px;"><h1>Run</h1></button></center>
 	<br />
 	<div class="container">
 		<img id="background" src="/images/lockscreenMaker/Image01.jpg" alt="" style="width:100%;">
