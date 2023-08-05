@@ -49,14 +49,12 @@ author: Tim
 			var address = document.getElementById("address").value;
 			var camp = document.getElementById("camp").value;			
 			if (address && camp) {
-				document.getElementById("address_out").innerHTML = "<h1>Playa Address:</h1><h3>" 
-				+ camp + "</h3><h3>" + address + "</h3>";
-			} else if (address) {
-				document.getElementById("address_out").innerHTML = "<h1>Playa Address:</h1><h3>" 
+				document.getElementById("address_out").innerHTML = "<h1>" + camp + "</h1><h3>" 
 				+ address + "</h3>";
+			} else if (address) {
+				document.getElementById("address_out").innerHTML = "<h3>" + address + "</h3>";
 			} else if (camp) {
-				document.getElementById("address_out").innerHTML = "<h1>Playa Address:</h1><h3>" 
-				+ camp + "</h3>";
+				document.getElementById("address_out").innerHTML = "<h3>" + camp + "</h3>";
 			}
 			
 			var emergency_contact = document.getElementById("emergency_contact").value;
