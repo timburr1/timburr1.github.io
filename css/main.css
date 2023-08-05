@@ -115,3 +115,16 @@ ul {
 #cshof img {
 	width: 250px;
 }
+
+.container {
+	color: white;
+	margin-top: 10px;
+	position: relative;
+	width: 720px;
+}
+
+#info {
+	position: absolute;
+	bottom: 69px;
+	left: 69px;
+}
