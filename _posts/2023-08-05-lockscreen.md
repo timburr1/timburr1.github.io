@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Burning Man Lockscreen Maker
-excerpt: Don't lose your phone in the desert!
+excerpt: Get your phone back if you lose it in the desert!
 author: Tim
 ---
 <div>
@@ -78,5 +78,11 @@ author: Tim
 		function randomImg() {
 			var idx = Math.floor(Math.random() * IMG_FILENAMES.length);
 			document.getElementById("background").src = PREFIX + IMG_FILENAMES[idx];
+			
+			if (idx == 9) {
+				document.getElementById("info").style.color = "black";
+			} else {
+				document.getElementById("info").style.color = "white";
+			}
 		}
 	</script>
