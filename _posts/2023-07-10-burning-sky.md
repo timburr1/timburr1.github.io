@@ -11,9 +11,7 @@ tags: gaming
 <div class="column">
 ### Character Info
 
-~~[Faramond, level 1](/papers/pathfinder/Faro-1.pdf) (PDF)~~
-
-[Faramond, level 2](/papers/pathfinder/Faro-2.pdf) (PDF)
+[Faramond](/papers/pathfinder/Faro-2.pdf) (PDF)
 
 [Numpty, Commoner](/papers/pathfinder/Numpty.pdf) (PDF)
 
@@ -49,7 +47,7 @@ tags: gaming
 * Wayfairer's Step
 
 ### Scrolls
-* 2x Comprehend Languages
+* Comprehend Languages
 * Erase
 * Gabal's Superior Missile
 * Knock
@@ -57,12 +55,8 @@ tags: gaming
 * True Strike
 
 ### Potions + Oils
-* 2x Cure Moderate Wounds
 * Fly
-* Invisibility
-* Magic Weapon Oil
 * 3x Jump 
-* 2x Silversheen
 * Spider Climb
 
 </div>
