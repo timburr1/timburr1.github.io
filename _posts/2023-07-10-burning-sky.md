@@ -1,7 +1,7 @@
 ---
 layout: post
 title: More Pathfinder Campaign Stuff
-excerpt: "Burning the Sky: Gate Pass and Beyond"
+excerpt: "Burning the Sky: Gate Pass, the Fiery Forest, and Beyond."
 author: Tim
 tags: gaming
 ---
