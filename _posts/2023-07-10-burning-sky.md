@@ -11,11 +11,9 @@ tags: gaming
 <div class="column">
 ### Character Info
 
-[Faramond](/papers/pathfinder/Faro-2.pdf) (PDF)
+[Faramond](/papers/pathfinder/Faro-3.pdf) (PDF)
 
-[Numpty, Commoner](/papers/pathfinder/Numpty.pdf) (PDF)
-
-[Numpty, Wizard](/papers/pathfinder/Numpty-wiz.pdf) (PDF)
+[Numpty](/papers/pathfinder/Numpty-wiz.pdf) (PDF)
 
 ### Reference
 
@@ -46,18 +44,9 @@ tags: gaming
 * Sleep
 * Wayfairer's Step
 
-### Scrolls
-* Comprehend Languages
-* Erase
+#### 2 
+* Flaming Sphere
 * Gabal's Superior Missile
-* Knock
-* Magic Aura
-* True Strike
-
-### Potions + Oils
-* Fly
-* 3x Jump 
-* Spider Climb
 
 </div>
 </div>
