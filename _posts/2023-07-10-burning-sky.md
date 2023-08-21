@@ -35,18 +35,32 @@ tags: gaming
 
 #### 1 
 * Burning Hands
+* Comprehend Languages
 * Enlarge Person
 * Glue Seal
 * Grease
 * Identify
+* Jump
 * Mage Armor
 * Magic Missile
+* Protection From Evil
+* Shield
+* Shocking Grasp
 * Sleep
 * Wayfairer's Step
 
 #### 2 
+* Detect Thoughts
 * Flaming Sphere
 * Gabal's Superior Missile
+* Scorching Ray 
+
+#### 3
+* Clairvoyance
+* Daylight
+* Fireball
+* Fly
+* Spider Climb
 
 </div>
 </div>
