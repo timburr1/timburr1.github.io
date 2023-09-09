@@ -11,7 +11,7 @@ tags: gaming
 <div class="column">
 ### Character Info
 
-[Faramond](/papers/pathfinder/Faro-3.pdf) (PDF)
+[Faramond](/papers/pathfinder/Faro-4.pdf) (PDF)
 
 [Numpty](/papers/pathfinder/Numpty-wiz.pdf) (PDF)
 
@@ -50,10 +50,12 @@ tags: gaming
 * Wayfairer's Step
 
 #### 2 
+* Create Pit
 * Detect Thoughts
 * Flaming Sphere
 * Gabal's Superior Missile
 * Scorching Ray 
+* Steal Breath
 
 #### 3
 * Clairvoyance
