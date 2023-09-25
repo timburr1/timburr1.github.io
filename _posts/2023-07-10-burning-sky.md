@@ -11,7 +11,7 @@ tags: gaming
 <div class="column">
 ### Character Info
 
-[Faramond](/papers/pathfinder/Faro-4.pdf) (PDF)
+[Faramond](/papers/pathfinder/Faro-5.pdf) (PDF)
 
 [Numpty](/papers/pathfinder/Numpty-wiz.pdf) (PDF)
 
