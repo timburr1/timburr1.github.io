@@ -60,8 +60,10 @@ tags: gaming
 #### 3
 * Clairvoyance
 * Daylight
+* Dispell Magic
 * Fireball
 * Fly
+* Lightning Bolt
 * Spider Climb
 
 </div>
