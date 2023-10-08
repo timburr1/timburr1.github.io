@@ -2,7 +2,6 @@
 layout: post
 title: Retro Gaming
 excerpt: "Making old things new again."
-date: '2021-03-17'
 author: Tim
 tags: school, tech, gaming
 ---
@@ -36,7 +35,7 @@ Transfer some ROMs, according to the instructions [here](https://retropie.org.uk
 [Little Sound DJ](https://www.littlesounddj.com/lsd/index.php) music sequencer for DMG  
 [RetroFlag GPi Case](http://retroflag.com/GPi-CASE.html) for Raspberry Pi Zero  
 [r/Gameboy Wiki](https://www.reddit.com/r/Gameboy/wiki/index), because Gameboys are neat. You can make your own with [Freeplaytech](https://www.freeplaytech.com/) and [Raspberry Pi](https://www.raspberrypi.org/).  
-[r/SBCGaming](https://www.reddit.com/r/SBCGaming/), "Single Board Computer Gaming: Retro gaming emulation on single board computers, handheld portables, android devices and more..."
+[r/SBCGaming](https://www.reddit.com/r/SBCGaming/), "Single Board Computer Gaming: Retro gaming emulation on single board computers, handheld portables, android devices and more..."  
 [Stepper](https://badd10de.itch.io/stepper-gba) is a new 16-step sequencer for the Game Boy Advance (GBA).
 
 <br>
