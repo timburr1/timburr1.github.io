@@ -54,17 +54,24 @@ tags: gaming
 * Detect Thoughts
 * Flaming Sphere
 * Gabal's Superior Missile
+* Hideous Laughter
+* Locate Object
+* Scare
 * Scorching Ray 
 * Steal Breath
+* Web
 
 #### 3
+* Arcane Sight
 * Clairvoyance
 * Daylight
 * Dispell Magic
 * Fireball
 * Fly
 * Lightning Bolt
+* Slow
 * Spider Climb
+* Stinking Cloud
 
 </div>
 </div>
