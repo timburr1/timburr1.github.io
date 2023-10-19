@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Muddy Man 2023
+title: Swimming Man 2023
 excerpt: We do this not because it is easy, but because we thought it would be easy.
 author: Tim
 ---
-## Muddy Man 2023
+## Swimming Man 2023
 
 <img src="/images/burningman2023/01.jpg" alt=""/>  
 Sonic Soul Tribe
