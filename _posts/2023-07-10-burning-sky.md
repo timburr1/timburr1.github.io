@@ -25,6 +25,8 @@ tags: gaming
 
 [War of the Burning Sky Player's Guide, d20](/papers/pathfinder/ENWENPWOTBSPGE.pdf) (PDF)
 
+<br />
+<img src="/images/burning sky map.png" alt="burning sky map" width="100%">
 </div>	
 <div class="column">
 
