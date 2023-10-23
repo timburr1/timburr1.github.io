@@ -6,6 +6,8 @@ author: Tim
 tags: tech
 ---
 
+[AWS Innovate 2023: Every Application Edition](https://innovate-every-app-namer.virtual.awsevents.com/)
+
 ### Top 10 cybersecurity tips for 2023
 * Define your security and compliance goals
 * Adopt Zero Trust model
