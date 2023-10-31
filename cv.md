@@ -12,7 +12,7 @@ June 2022 - present
 * Learned Godot and DialogueManager from tutorials, practiced by creating simpler games 
 * Leveraged prior knowledge of Python and object-oriented design principles to create an immersion-style game for Spanish learners
 * Created and launched Barkelona on Steam and Itch.io
-* Used JavaScript, React, Vite, AWS Amplify, Google Domains, and AWS Certificate Manger to create a web site to market and distribute the game to schools
+* Used JavaScript, React, TailwindCSS, Vite, AWS Amplify, Google Domains, and AWS Certificate Manger to create a web site to market and distribute the game to schools
 
 
 May 2020 - June 2022  
@@ -86,6 +86,7 @@ May 2006 - Jul 2012
 * Java
 * Node.js
 * React
+* TailwindCSS
 * Vite
 * Jekyll
 * Microsoft SQL Server
@@ -93,8 +94,8 @@ May 2006 - Jul 2012
 * Mongo DB
 * Microsoft Visual Studio / VS Code
 * IntelliJ IDEA
-* Microsoft Azure
 * Amazon Web Services 
+* Microsoft Azure
 * Postman
 * Git
 
