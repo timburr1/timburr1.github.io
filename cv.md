@@ -5,15 +5,30 @@ title: Curriculum Vitae
 
 # Curriculum Vitae  
 
+## Education
+<b class="highlight">College of Southern Idaho</b>
+* *Non-Traditional Educator Preparation Program, 2020-22*
+
+<b class="highlight">University of Oklahoma, Norman, OK</b>
+* *B.S. in Computer Science with Math Minor, May 13, 2011*  
+* *M.S. in Computer Science, May 11, 2012*  
+
+<b class="highlight">University of Hertfordshire, Hatfield, UK</b>
+* *Semester Abroad, Fall 2009*  
+
+<b class="highlight">University of Michigan-Flint, Flint, MI</b>
+* *Dual Enrollment, 2006-07*  
+
+<b class="highlight">Goodrich High School, Goodrich, MI</b>  
+
+
 ## Work Experience
 June 2022 - present  
 <b class="highlight">Video Game Developer | Barkelona LLC (Self-Employed)</b>
-* Evaluated several different technology stacks, before deciding to use Godot 3 with GDScript and the DialogueManager addon 
-* Learned Godot and DialogueManager from tutorials, practiced by creating simpler games 
 * Leveraged prior knowledge of Python and object-oriented design principles to create an immersion-style game for Spanish learners
-* Created and launched Barkelona on Steam and Itch.io
-* Used JavaScript, React, TailwindCSS, Vite, AWS Amplify, Google Domains, and AWS Certificate Manger to create a web site to market and distribute the game to schools
-
+* Evaluated several different technology stacks, before deciding to use Godot 3 with GDScript and the DialogueManager addon 
+* Used JavaScript, React, TailwindCSS, Vite, Google Domains, AWS Amplify, S3, Lambda, and Certificate Manger to create a [website](https://www.barkelona.com/) to market and distribute the game to schools
+* Launched Barkelona on [Steam](https://store.steampowered.com/app/2434300/Barkelona) and [Itch.io](https://hoodmentality.itch.io/barkelona)
 
 May 2020 - June 2022  
 <b class="highlight">Computer Science Teacher | West Ada School District | Meridian, ID</b>
@@ -25,8 +40,8 @@ May 2020 - June 2022
 
 Aug 2019 - May 2020  
 <b class="highlight">Senior Software Engineer | Healthwise | Boise, ID</b>  
-* Developed and maintained software to provide information to patients and health care workers
-* Improved internal processes and documentation
+* Developed and maintained software to provide health information to patients and providers, using .NET, C#, Typescript, and React
+* Improved internal processes, tests, and documentation
 * Mentored and collaborated with other developers
 * Provided developer feedback in code reviews
 
@@ -34,7 +49,7 @@ Aug 2012 - Aug 2019
 <b class="highlight">Software Developer | Clearwater Analytics | Boise, ID</b>
 * Maintained and improved existing Java code  
 * Provided 24-hour, on-call support for critical projects
-* Created additional webservices, SQL databases, and testing frameworks  
+* Created additional webservices, SQL databases, and unit tests  
 * Collaborated with other developers and analysts
 
 Nov 2015 - Nov 2017  
@@ -59,23 +74,6 @@ May 2006 - Jul 2012
 * Maintained a safe and fun environment
 * Developed personal leadership skills in a non-profit environment
 * Managed groups of scouts and counselors from many diverse backgrounds
-
-
-## Education
-<b class="highlight">College of Southern Idaho</b>
-* *Non-Traditional Educator Preparation Program, 2020-22*
-
-<b class="highlight">University of Oklahoma, Norman, OK</b>
-* *B.S. in Computer Science with Math Minor, May 13, 2011*  
-* *M.S. in Computer Science, May 11, 2012*  
-
-<b class="highlight">University of Hertfordshire, Hatfield, UK</b>
-* *Semester Abroad, Fall 2009*  
-
-<b class="highlight">University of Michigan-Flint, Flint, MI</b>
-* *Dual Enrollment, 2006-07*  
-
-<b class="highlight">Goodrich High School, Goodrich, MI</b>  
 
 
 ## Tools and Languages
