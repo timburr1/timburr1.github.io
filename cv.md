@@ -126,4 +126,4 @@ May 2006 - Jul 2012
 * Eagle Scout  
 
 
-Find me on [GitHub](https://github.com/timburr1) or [LinkedIn](http://www.linkedin.com/pub/timothy-burr/66/a88/a39).
+Find me on [GitHub](https://github.com/timburr1), [LeetCode](https://leetcode.com/timburr1/), or [LinkedIn](http://www.linkedin.com/pub/timothy-burr/66/a88/a39).
