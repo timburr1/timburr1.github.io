@@ -67,7 +67,7 @@ title: Curriculum Vitae
 
 ## Work Experience
 June 2022 - present  
-<b class="highlight">Software Developer | Barkelona LLC (Self-Employed)</b>
+<b class="highlight">Software Developer | Barkelona LLC</b>
 * Leveraged prior knowledge of Python and object-oriented design principles to create an immersion-style game for Spanish learners
 * Evaluated several different technology stacks, before deciding to use Godot 3 with GDScript and the DialogueManager addon 
 * Used JavaScript, React, TailwindCSS, Vite, Google Domains, AWS Amplify, S3, Lambda, and Certificate Manger to create a [website](https://www.barkelona.com/) to market and distribute the game to schools
