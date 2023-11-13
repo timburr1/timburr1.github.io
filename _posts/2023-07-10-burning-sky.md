@@ -70,7 +70,9 @@ tags: gaming
 * Dispell Magic
 * Fireball
 * Fly
+* Haste
 * Lightning Bolt
+* Mad Monkeys
 * Slow
 * Spider Climb
 * Stinking Cloud
