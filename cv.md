@@ -20,6 +20,7 @@ title: Curriculum Vitae
 * *Dual Enrollment, 2006-07*  
 
 <b class="highlight">Goodrich High School, Goodrich, MI</b>  
+* *Class of 2007*
 
 {::options parse_block_html="true" /}
 <div class="row">
@@ -32,7 +33,7 @@ title: Curriculum Vitae
 * Java
 * Node.js
 * React
-* TailwindCSS
+* Tailwind CSS
 * Vite
 * Jekyll
 * Microsoft SQL Server
