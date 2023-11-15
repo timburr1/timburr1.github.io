@@ -5,23 +5,6 @@ title: Curriculum Vitae
 
 # Curriculum Vitae  
 
-## Education
-<b class="highlight">College of Southern Idaho, Online</b>
-* *Non-Traditional Educator Preparation Program, 2020-22*
-
-<b class="highlight">University of Oklahoma, Norman, OK</b>
-* *B.S. in Computer Science with Math Minor, May 13, 2011*  
-* *M.S. in Computer Science, May 11, 2012*  
-
-<b class="highlight">University of Hertfordshire, Hatfield, UK</b>
-* *Semester Abroad, Fall 2009*  
-
-<b class="highlight">University of Michigan-Flint, Flint, MI</b>
-* *Dual Enrollment, 2006-07*  
-
-<b class="highlight">Goodrich High School, Goodrich, MI</b>  
-* *Class of 2007*
-
 {::options parse_block_html="true" /}
 <div class="row">
 <div class="column">
@@ -68,10 +51,10 @@ title: Curriculum Vitae
 
 ## Work Experience
 June 2022 - present  
-<b class="highlight">Software Developer | Barkelona LLC</b>
+<b class="highlight">Software Developer | Barkelona LLC | Boise, ID</b>
 * Leveraged prior knowledge of Python and object-oriented design principles to create an immersion-style game for Spanish learners
 * Evaluated several different technology stacks, before deciding to use Godot 3 with GDScript and the DialogueManager addon 
-* Used JavaScript, React, TailwindCSS, Vite, Google Domains, AWS Amplify, S3, Lambda, and Certificate Manger to create a [website](https://www.barkelona.com/) to market and distribute the game to schools
+* Used JavaScript, React, Tailwind CSS, Vite, Google Domains, AWS Amplify, S3, Lambda, and Certificate Manger to create a [website](https://www.barkelona.com/) to market and distribute the game to schools
 * Launched Barkelona on [Steam](https://store.steampowered.com/app/2434300/Barkelona) and [Itch.io](https://hoodmentality.itch.io/barkelona)
 
 May 2020 - June 2022  
@@ -120,6 +103,24 @@ May 2006 - Jul 2012
 * Managed groups of scouts and counselors from many diverse backgrounds
 
 
+## Education
+<b class="highlight">College of Southern Idaho, Online</b>
+* *Non-Traditional Educator Preparation Program, 2020-22*
+
+<b class="highlight">University of Oklahoma, Norman, OK</b>
+* *M.S. in Computer Science, May 11, 2012*  
+* *B.S. in Computer Science with Math Minor, May 13, 2011*  
+
+<b class="highlight">University of Hertfordshire, Hatfield, UK</b>
+* *Semester Abroad, Fall 2009*  
+
+<b class="highlight">Goodrich High School, Goodrich, MI</b>  
+* *Class of 2007*
+
+<b class="highlight">University of Michigan-Flint, Flint, MI</b>
+* *Dual Enrollment, 2006-07*  
+
+
 ## Awards and Acknowledgements
 * Presented at OU Honors College: ['Majors and Careers in a Volatile Economy,'](/2017/02/04/ou-talk.html) September 2015  
 * OU College of Engineering Dean's Honor Roll, Spring 2008 - Fall 2011  
@@ -127,4 +128,4 @@ May 2006 - Jul 2012
 * Eagle Scout  
 
 
-Find me on [GitHub](https://github.com/timburr1), [LeetCode](https://leetcode.com/timburr1/), or [LinkedIn](http://www.linkedin.com/pub/timothy-burr/66/a88/a39).
+Find me on [GitHub](https://github.com/timburr1) or [LinkedIn](http://www.linkedin.com/pub/timothy-burr/66/a88/a39).
