@@ -5,50 +5,6 @@ title: Curriculum Vitae
 
 # Curriculum Vitae  
 
-{::options parse_block_html="true" /}
-<div class="row">
-<div class="column">
-## Tools and Languages
-* Godot / GDScript
-* C#
-* Python
-* JavaScript / TypeScript
-* Java
-* Node.js
-* React
-* Tailwind CSS
-* Vite
-* Jekyll
-* Microsoft SQL Server
-* MySQL
-* Mongo DB
-* Microsoft Visual Studio / VS Code
-* IntelliJ IDEA
-* Amazon Web Services 
-* Microsoft Azure
-* Postman
-* Git
-
-</div>	
-<div class="column">
-
-## Projects
-* [Barkelona](https://www.barkelona.com)
-* [Burning Man Lockscreen Maker](/2023/08/05/lockscreen.html)
-* [Troll 9000 Discord Bot](/2021/05/31/discord-bot.html)
-* [Roscomometer](/2021/03/01/roscomometer.html)
-* [Flappy Bub](/2020/12/12/flappy-bub.html)
-* [Haenerator](/2020/12/08/haenerator.html)
-* [Yelp for Anything](https://github.com/timburr1/yelpForAnything)
-* [MySQL Example DAO](https://github.com/timburr1/MySqlTest)
-* [Quality of Life Modpack for Sid Meier's Civ V](/2020/08/01/civ-v-modpack.html)
-* [Aerolínea PanAmerica](/2020/01/10/panam-notes.html)
-* [Illumicone](https://illumicone.com/) [Test Simulator](https://github.com/skipzone/Illumicone/tree/master/simulator)
-* [Story Parser](/StoryParser.html)
-* [Machine Learning in StarCraft: Brood War](/papers/burr2011.pdf)
-</div>
-</div>
-
 ## Work Experience
 June 2022 - present  
 <b class="highlight">Software Developer | Barkelona LLC | Boise, ID</b>
@@ -119,6 +75,51 @@ May 2006 - Jul 2012
 
 <b class="highlight">University of Michigan-Flint, Flint, MI</b>
 * *Dual Enrollment, 2006-07*  
+
+
+{::options parse_block_html="true" /}
+<div class="row">
+<div class="column">
+## Tools and Languages
+* Godot / GDScript
+* C#
+* Python
+* JavaScript / TypeScript
+* Java
+* Node.js
+* React
+* Tailwind CSS
+* Vite
+* Jekyll
+* Microsoft SQL Server
+* MySQL
+* Mongo DB
+* Microsoft Visual Studio / VS Code
+* IntelliJ IDEA
+* Amazon Web Services 
+* Microsoft Azure
+* Postman
+* Git
+
+</div>	
+<div class="column">
+
+## Projects
+* [Barkelona](https://www.barkelona.com)
+* [Burning Man Lockscreen Maker](/2023/08/05/lockscreen.html)
+* [Troll 9000 Discord Bot](/2021/05/31/discord-bot.html)
+* [Roscomometer](/2021/03/01/roscomometer.html)
+* [Flappy Bub](/2020/12/12/flappy-bub.html)
+* [Haenerator](/2020/12/08/haenerator.html)
+* [Yelp for Anything](https://github.com/timburr1/yelpForAnything)
+* [MySQL Example DAO](https://github.com/timburr1/MySqlTest)
+* [Quality of Life Modpack for Sid Meier's Civ V](/2020/08/01/civ-v-modpack.html)
+* [Aerolínea PanAmerica](/2020/01/10/panam-notes.html)
+* [Illumicone](https://illumicone.com/) [Test Simulator](https://github.com/skipzone/Illumicone/tree/master/simulator)
+* [Story Parser](/StoryParser.html)
+* [Machine Learning in StarCraft: Brood War](/papers/burr2011.pdf)
+</div>
+</div>
 
 
 ## Awards and Acknowledgements
