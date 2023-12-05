@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Web Development Enrichment Activies
+title: Web Development Enrichment Activities
 excerpt: Articles, videos, and other resources for web development students.
 author: Tim
 tags: school, tech

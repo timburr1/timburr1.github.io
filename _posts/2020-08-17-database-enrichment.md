@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Database Enrichment Activies
+title: Database Enrichment Activities
 excerpt: Articles and videos for database students.
 author: Tim
 tags: school, tech

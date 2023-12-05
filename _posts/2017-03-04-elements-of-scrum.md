@@ -21,12 +21,12 @@ by Chris Sims and Hillary Louise Johnson
 **Scrum Master**  
 * Knows/advises about scrum
 * Coaches teammates
-* Facilitates and removes impedements to the team
+* Facilitates and removes impediments to the team
 
 **Team Member**  
 * Delivers user stories
 * Does all the development work
-* Self-oragnizes
+* Self-organizes
 * Owns the estimation process
 * Makes technical decisions ("how to do the work")
 * Avoids saying "not my job"
@@ -73,7 +73,7 @@ Cards are placed left to right, smallest to largest. It pays to space them widel
 **Part II: What's Your Number?**  
 Each player takes a turn, in which they may do any one of the following actions:
 * Place the next Fibonacci card above a story card, indicating where the next increase in story size occurs.
-* Move a Fibonacci card to a different story. (The move must preserve the order of the number cards, i.e. one must come beofer two, 13 before 21...)
+* Move a Fibonacci card to a different story. (The move must preserve the order of the number cards, i.e. one must come before two, 13 before 21...)
 * Move a story card, just as in part one.
 * Pass the turn to the next player.
 

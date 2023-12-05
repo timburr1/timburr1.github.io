@@ -31,7 +31,7 @@ Foster and enable team experimentation
 
 **Lean Management and Monitoring Capabilities**  
 Have a lightweight change approval process: peer review GOOD, external change approval boards BAD  
-Monitor accross application and infrastructure to inform business decisions  
+Monitor across application and infrastructure to inform business decisions  
 Check system health proactively  
 Improve processes and mange work with work-in-progress limits  
 Visualize work to monitor quality and communicate throughout the team  

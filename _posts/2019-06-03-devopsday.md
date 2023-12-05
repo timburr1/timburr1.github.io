@@ -17,7 +17,7 @@ Keynote: **The Data Behind DevOps: Becoming a High Performer**
 
 10:50 - JUMP Room - **Building a Security Program From Nothing**
 * Books and Blogs:  
-  * [Threat Modelling: Designing for Security](https://threatmodelingbook.com/)  
+  * [Threat Modeling: Designing for Security](https://threatmodelingbook.com/)  
   * [Red Team: How to Succeed By Thinking Like the Enemy](https://www.amazon.com/Red-Team-Succeed-Thinking-Enemy/dp/1501274899)
   * [Turn the Ship Around](https://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404)
   * [The Tangled Web: A Guide to Securing Modern Web Applications](https://www.amazon.com/Tangled-Web-Securing-Modern-Applications/dp/1593273886)  
@@ -39,7 +39,7 @@ Lunch
 
 1:00 - Pioneer Room - Ignite Talks:
 * "Pixel Perfect Cookies"
-* "Challenges and Value of Multi-Cloud and Hybrid Coud"
+* "Challenges and Value of Multi-Cloud and Hybrid Cloud"
 * "Negotiating for More Than Your Salary"
 * "Hot Takes, Myths, and Fake News: Why Everyone is Wrong About Dev Ops Except for Me"
 

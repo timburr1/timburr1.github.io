@@ -10,7 +10,7 @@ Admati, Anat & Martin Hellwig - The Bankers' New Clothes: What's Wrong with Bank
 
 Blinder, Alan - After the Music Stopped: The Financial Crisis, the Response, and the Work Ahead  
 
-Dayen, David - Chain of Title: How Three Ordinary Americans Uncovered Wall Street's Great Forclosure Fraud  
+Dayen, David - Chain of Title: How Three Ordinary Americans Uncovered Wall Street's Great Foreclosure Fraud  
 
 Dunbar, Nicholas - The Devil's Derivatives: The Untold Story of the Slick Traders and Hapless Regulators Who Almost Blew Up Wall Street  
 

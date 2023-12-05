@@ -74,7 +74,7 @@ As long as your total calories and protein are reasonable, and your diet doesn't
 
 [Evidence that protein requirements have been
 significantly underestimated](/papers/elango2010.pdf) - Elango et al, 2010 (PDF)  
-> The indicator amino acid oxidation-based requirement values of 0.93 and 1.2g protein/ kg/day and the reanalysis of existing nitrogen balance studies are signiﬁcantly higher than current recommendations. Therefore, there is an urgent need to reassess recommendations for protein intake in adult humans.  
+> The indicator amino acid oxidation-based requirement values of 0.93 and 1.2g protein/ kg/day and the reanalysis of existing nitrogen balance studies are significantly higher than current recommendations. Therefore, there is an urgent need to reassess recommendations for protein intake in adult humans.  
 
 [Not Another Boring Creatine Guide: Answers to FAQs and Lesser-Known Benefits](https://www.strongerbyscience.com/creatine/) - Eric Trexler, StrongerByScience  
 > Phosphocreatine provides rapid ATP replenishment, but a muscle can only store so much creatine and phosphocreatine at a given time. In this sense, creatine can be thought of as a quantitatively limited, but fairly instantaneous, reservoir for the replenishment of ATP. The purpose of creatine supplementation is to increase the amount of stored creatine, thereby bolstering the capacity of this rapid ATP-generating energy system. In addition, creatine has been shown to increase lean body mass, presumably due to increased intramuscular fluid retention and improved resistance training capacity.

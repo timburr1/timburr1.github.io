@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cybersecurity Enrichment Activies
+title: Cybersecurity Enrichment Activities
 excerpt: Blogs, tools, and games for cybersecurity students.
 author: Tim
 tags: school, tech
