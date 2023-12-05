@@ -30,7 +30,7 @@ Transfer some ROMs, according to the instructions [here](https://retropie.org.uk
 [EZ-Flash Omega Manual](https://www.ezflash.cn/omega.html) and [Setup Guide](https://www.codedonut.com/gba-hacking/ez-flash-omega-setup-guide-tutorial/)  
 [Game Boy Advance games manuals](https://www.nintendo.co.za/Support/Game-Boy-Advance/Game-Boy-Advance-manual-and-additional-documents/Game-Boy-Advance-games-manuals/Game-Boy-Advance-games-manuals-928652.html)  
 [Gameboy Studio](https://www.gbstudio.dev/) is "[a] quick and easy to use drag and drop retro game creator for your favourite handheld video game system."  
-[Goomba Color](https://www.dwedit.org/gba/goombacolor.php) for converting DMG/GBC roms to GBA format  
+[Goomba Color](https://www.dwedit.org/gba/goombacolor.php) for converting DMG/GBC ROMs to GBA format  
 [iFixit: The Free Repair Manual](https://www.ifixit.com/)  
 [Little Sound DJ](https://www.littlesounddj.com/lsd/index.php) music sequencer for DMG  
 [RetroFlag GPi Case](http://retroflag.com/GPi-CASE.html) for Raspberry Pi Zero  

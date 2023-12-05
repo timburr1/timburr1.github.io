@@ -49,7 +49,7 @@ tags: gaming
 * Shield
 * Shocking Grasp
 * Sleep
-* Wayfairer's Step
+* Wayfarer's Step
 
 #### 2 
 * Create Pit

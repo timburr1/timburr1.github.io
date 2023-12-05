@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AWS Innovate
-excerpt: "Notes from AWS Innovate 2023: Every Application Edition"
+excerpt: "Notes from AWS Innovate 2023: Every Application Edition."
 author: Tim
 tags: tech
 ---
