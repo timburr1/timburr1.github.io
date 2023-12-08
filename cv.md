@@ -6,14 +6,14 @@ title: Curriculum Vitae
 # Curriculum Vitae  
 
 ## Work Experience
-June 2022 - present  
+Jun 2022 - present  
 <b class="highlight">Principal Software Developer | Barkelona LLC | Boise, ID</b>
 * Leveraged prior knowledge of Python and object-oriented design principles to create an immersion-style game for Spanish learners
 * Evaluated several different technology stacks, before deciding to use Godot 3 with GDScript and the DialogueManager addon 
 * Used JavaScript, React, Tailwind CSS, Vite, Google Domains, AWS Amplify, S3, Lambda, and Certificate Manger to create a [website](https://www.barkelona.com/) to market and distribute the game to schools
 * Launched Barkelona on [Steam](https://store.steampowered.com/app/2434300/Barkelona) and [Itch.io](https://hoodmentality.itch.io/barkelona)
 
-May 2020 - June 2022  
+May 2020 - Jun 2022  
 <b class="highlight">Computer Science Teacher | West Ada School District | Meridian, ID</b>
 * Taught Computer Science with a focus on Web Development, Databases, Cybersecurity, and Memes
 * Managed online and in-person learning during the coronavirus pandemic
