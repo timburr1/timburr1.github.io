@@ -6,6 +6,10 @@ title: Curriculum Vitae
 # Curriculum Vitae  
 
 ## Work Experience
+Feb 2024 - present
+<b class="highlight">ETL Engineer | Netacent | Boise, ID</b>
+* Building the data intake pipeline for the state of Hawai'i's unemployment insurance system, using C#, .NET Core, Microsoft Azure, and Kubernetes
+
 Jun 2022 - present  
 <b class="highlight">Principal Software Developer | Barkelona LLC | Boise, ID</b>
 * Leveraged prior knowledge of Python and object-oriented design principles to create an immersion-style game for Spanish learners
@@ -22,21 +26,18 @@ May 2020 - Jun 2022
 * Collaborated with other teachers to redesign the introductory Exploring Web Design & Programming course
 
 Aug 2019 - May 2020  
-<b class="highlight">Senior Software Engineer | Healthwise | Boise, ID</b>  
+<b class="highlight">Senior Software Engineer | Healthwise, Inc. | Boise, ID</b>  
 * Developed and maintained software to provide health information to patients and providers, using .NET, C#, Typescript, and React
 * Improved internal processes, tests, and documentation
 * Mentored and collaborated with other developers
 * Provided developer feedback in code reviews
 
 Aug 2012 - Aug 2019  
-<b class="highlight">Software Developer | Clearwater Analytics | Boise, ID</b>
+<b class="highlight">Software Developer, Compliance Team Lead | Clearwater Analytics | Boise, ID</b>
 * Maintained and improved existing Java code  
 * Provided 24-hour, on-call support for critical projects
 * Created additional webservices, SQL databases, and unit tests  
 * Collaborated with other developers and analysts
-
-Nov 2015 - Nov 2017  
-<b class="highlight">Compliance Team Lead | Clearwater Analytics | Boise, ID</b>  
 * Led an Agile team of four developers and one quality assurance engineer  
 * Worked with users and stakeholders to prioritize and implement new features  
 * Mentored and taught junior developers
@@ -60,9 +61,6 @@ May 2006 - Jul 2012
 
 
 ## Education
-<b class="highlight">College of Southern Idaho, Online</b>
-* *Non-Traditional Educator Preparation Program, 2020-22*
-
 <b class="highlight">University of Oklahoma, Norman, OK</b>
 * *M.S. in Computer Science, May 11, 2012*  
 * *B.S. in Computer Science with Math Minor, May 13, 2011*  
@@ -85,11 +83,13 @@ May 2006 - Jul 2012
 * C#
 * Python
 * JavaScript / TypeScript
-* Java
 * Node.js
 * React
 * Tailwind CSS
 * Vite
+* Java
+* JUnit
+* Mockito
 * Jekyll
 * Microsoft SQL Server
 * MySQL
@@ -100,6 +100,13 @@ May 2006 - Jul 2012
 * Microsoft Azure
 * Postman
 * Git
+* Agile
+* Microservices
+* Object-Oriented Design
+* RESTful APIs
+* HTML 5
+* XML
+* JSON
 
 </div>	
 <div class="column">
