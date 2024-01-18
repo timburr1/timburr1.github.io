@@ -6,10 +6,6 @@ title: Curriculum Vitae
 # Curriculum Vitae  
 
 ## Work Experience
-Feb 2024 - present  
-<b class="highlight">ETL Engineer | Netacent | Boise, ID</b>
-* Building the data intake pipeline for the state of Hawai'i's unemployment insurance system, using C#, .NET Core, Microsoft Azure, and Kubernetes
-
 Jun 2022 - present  
 <b class="highlight">Principal Software Developer | Barkelona LLC | Boise, ID</b>
 * Leveraged prior knowledge of Python and object-oriented design principles to create an immersion-style game for Spanish learners
@@ -81,6 +77,9 @@ May 2006 - Jul 2012
 ## Tools and Languages
 * Godot / GDScript
 * C#
+* .NET
+* Docker
+* Kubernetes
 * Python
 * JavaScript / TypeScript
 * Node.js
@@ -100,6 +99,7 @@ May 2006 - Jul 2012
 * Microsoft Azure
 * Postman
 * Git
+* Subversion
 * Agile
 * Microservices
 * Object-Oriented Design
