@@ -8,7 +8,7 @@ title: Curriculum Vitae
 ## Work Experience
 Feb 2024 - present  
 <b class="highlight">ETL Engineer | Netacent | Boise, ID</b>
-* Building the data intake pipeline for the state of Hawai'i's unemployment insurance system, using C#, .NET, Microsoft Azure, Docker, and Kubernetes
+* Building the data intake pipeline for the state of Hawai'i's unemployment insurance system, using C#, .NET, Microsoft Azure, and Kubernetes
 
 Jun 2022 - present  
 <b class="highlight">Principal Software Developer | Barkelona LLC | Boise, ID</b>
@@ -79,11 +79,11 @@ May 2006 - Jul 2012
 <div class="row">
 <div class="column">
 ## Tools and Languages
-* Godot / GDScript
 * C#
 * .NET
 * Docker
 * Kubernetes
+* Godot / GDScript
 * Python
 * JavaScript / TypeScript
 * Node.js
@@ -125,7 +125,7 @@ May 2006 - Jul 2012
 * [Yelp for Anything](https://github.com/timburr1/yelpForAnything)
 * [MySQL Example DAO](https://github.com/timburr1/MySqlTest)
 * [Quality of Life Modpack for Sid Meier's Civ V](/2020/08/01/civ-v-modpack.html)
-* [Aerolínea PanAmerica](/2020/01/10/panam-notes.html)
+* [Aerolínea PanAmérica](/2020/01/10/panam-notes.html)
 * [Illumicone](https://illumicone.com/) [Test Simulator](https://github.com/skipzone/Illumicone/tree/master/simulator)
 * [Story Parser](/StoryParser.html)
 * [Machine Learning in StarCraft: Brood War](/papers/burr2011.pdf)
