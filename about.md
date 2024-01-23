@@ -10,3 +10,8 @@ Hello, my name is Tim! I am an educator, entrepreneur, and full-stack software d
 
 ## About This Site  
 This blog is meant to be a sort of scratchpad or [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book), to record things that I want to remember or share later. It was mostly written in [Markdown](https://daringfireball.net/projects/markdown/) and compiled with [Jekyll](https://jekyllrb.com/). The source code is available [here](https://github.com/timburr1/timburr1.github.io), and it's obviously hosted on [GitHub Pages](https://pages.github.com/).  
+
+## About Bonnie
+She is very cute.
+
+<img class="center" src="/images/bonnie.jpg" width="450" alt=""/>

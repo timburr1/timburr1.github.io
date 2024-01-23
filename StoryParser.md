@@ -7,17 +7,19 @@ author: Tim
 	<h2>Story Parser</h2>
 	<p>Copy/paste the text you want analyzed below, and hit "Submit." The script on this page will break it up, strip out punctuation, and return a map of each word to the number of times it appears in the text. This is a very simple program, with no concept of proper nouns, verb conjugations, or anything like that, so use the result as a starting point, not the final answer. <b>Also, the Story Parser probably won't work unless you are using the Latin, Greek, or Cyrillic alphabets with UTF-8 encoding.</b> If you'd like another language added (or if you find a bug!) please shoot me an email at the reverse of moc.liamg@rrub.r.mit.</p><br />
 
-	<input id="input" type="text" accept-charset="UTF-8">
-	<button type="button" onclick="run()">Submit</button>
+	
+	<textarea id="input" accept-charset="UTF-8" rows="6" cols="120"></textarea>
 	<br>
-	<p id="output" style="background-color:white; color:black;"></p>
+	<button type="button" onclick="run()" style="margin:20px"><h1 style="margin:20px">Submit</h1></button>
+	<br>
+	<p id="output" style="background-color:white; color:black; padding:5px; width:640px"></p>
 	<br>
 	<p>If the StoryParser is valuable to you, please consider supporting my latest project on Itch.io or Steam:</p>
 	<br>
-	<iframe src="https://itch.io/embed/1753822?bg_color=151619&amp;fg_color=c1cdda&amp;link_color=2689ff&amp;border_color=3BA55C" width="552" height="167" frameborder="0"><a href="https://hoodmentality.itch.io/barkelona">Barkelona by Hood Mentality Software Studio</a></iframe>
+	<iframe  class="center" src="https://itch.io/embed/1753822?bg_color=151619&amp;fg_color=c1cdda&amp;link_color=2689ff&amp;border_color=3BA55C" width="552" height="167" frameborder="0"><a href="https://hoodmentality.itch.io/barkelona">Barkelona by Hood Mentality Software Studio</a></iframe>
 	<br>
 	<br>
-	<iframe src="https://store.steampowered.com/widget/2434300/" frameborder="0" width="646" height="190"></iframe>
+	<iframe class="center" src="https://store.steampowered.com/widget/2434300/" frameborder="0" width="646" height="190"></iframe>
 	<br>
 	<script> 
 	function run() 
