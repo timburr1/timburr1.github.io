@@ -66,17 +66,17 @@ May 2006 - Jul 2012
 
 ## Education
 <b class="highlight">University of Oklahoma, Norman, OK</b>
-* *M.S. in Computer Science, May 11, 2012*  
-* *B.S. in Computer Science with Math Minor, May 13, 2011*  
+* M.S. in Computer Science, May 11, 2012  
+* B.S. in Computer Science with Math Minor, May 13, 2011  
 
 <b class="highlight">University of Hertfordshire, Hatfield, UK</b>
-* *Semester Abroad, Fall 2009*  
+* Semester Abroad, Fall 2009  
 
 <b class="highlight">Goodrich High School, Goodrich, MI</b>  
-* *Class of 2007*
+* Class of 2007
 
 <b class="highlight">University of Michigan-Flint, Flint, MI</b>
-* *Dual Enrollment, 2006-07*  
+* Dual Enrollment, 2006-07  
 
 ## Projects
 * [Barkelona](https://www.barkelona.com)
