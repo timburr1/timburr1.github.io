@@ -127,8 +127,6 @@ May 2006 - Jul 2012
 * Object-Oriented Design
 * RESTful APIs
 * HTML 5
-* XML
-* JSON
 
 </div>
 </div>
