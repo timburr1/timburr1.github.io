@@ -21,7 +21,7 @@ tags: gaming
 
 [Tyranids Hive Discord](https://discord.com/invite/bHT4vbA)
 
-[Wahapedia](https://wahapedia.ru/wh40k9ed/factions/tyranids/
+[Wahapedia](https://wahapedia.ru/wh40k9ed/factions/tyranids/)
 
 **1d4chan:**
 * [9th Edition Rules](https://1d4chan.org/wiki/Warhammer_40,000_9th_Edition)
