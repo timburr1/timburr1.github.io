@@ -53,7 +53,7 @@ Jun 2010 - Jun 2011
 * Automated menial tasks such as resetting user passwords
 
 May 2006 - Jul 2012  
-<b class="highlight">Lifeguard, Counselor, and Shooting Sports Director | BSA Camp Tapico | Kalkaska, MI</b>  
+<b class="highlight">Lifeguard, Counselor, and Shooting Sports Co-Director | BSA Camp Tapico | Kalkaska, MI</b>  
 * Taught a variety of skills to campers, including: swimming, boating, scoutcraft, and shooting
 * Maintained a safe and fun environment
 * Developed personal leadership skills in a non-profit environment
