@@ -66,6 +66,7 @@ tags: gaming
 #### 3
 * Arcane Sight
 * Clairvoyance
+* Clay Skin
 * Daylight
 * Dispell Magic
 * Fireball

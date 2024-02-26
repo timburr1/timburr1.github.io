@@ -42,7 +42,6 @@ title: Blogs and Podcasts
 * [The History of Rome](http://www.thehistoryofrome.typepad.com/)
 * [If Books Could Kill](https://www.patreon.com/IfBooksPod)
 * [It Could Happen Here](https://www.iheart.com/podcast/1119-it-could-happen-here-30717896/)
-* [Limited Resources](http://lrcast.com/)
 * [More Perfect](https://www.wnyc.org/shows/radiolabmoreperfect/)
 * [Odd Lots](https://www.bloomberg.com/podcasts/odd_lots)
 * [Planet Money](https://www.npr.org/podcasts/510289/planet-money/)
