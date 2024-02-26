@@ -60,6 +60,10 @@ Desktop computer specs, upgraded a bit since it was originally built in 2012:
       <td class="pcpp-part-list-type">Keyboard</td>
       <td class="pcpp-part-list-item">iKBC CD108 V2 with Cherry MX Brown switches</td>
     </tr>
+	<tr>
+      <td class="pcpp-part-list-type">Mouse</td>
+      <td class="pcpp-part-list-item">Razer DeathAdder v2 Pro</td>
+    </tr>
   </tbody>
 </table>
 
@@ -81,6 +85,7 @@ Desktop computer specs, upgraded a bit since it was originally built in 2012:
 [Notepad++](https://notepad-plus-plus.org/)  
 [Paint 3D](https://en.wikipedia.org/wiki/Paint_3D)  
 [TortoiseGit](https://tortoisegit.org/)  
+[VS Code](https://code.visualstudio.com/)  
 
 **Utilities**  
 [7-Zip](https://www.7-zip.org/)  
