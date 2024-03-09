@@ -8,7 +8,9 @@ title: Curriculum Vitae
 ## Work Experience
 Feb 2024 - present  
 <b class="highlight">ETL Engineer | Netacent | Boise, ID</b>
-* Building the data intake pipeline for the state of Hawai'i's unemployment insurance system, using C#, .NET, Microsoft Azure, and Kubernetes
+* Modernizing the state of Hawai'i's Unemployment Insurance system
+* Coordinating with the Department of Labor and Industrial Relations
+* Importing and mapping data at scale with SQL, Azure Data Studio, C#, and .NET Core
 
 Jun 2022 - present  
 <b class="highlight">Principal Software Developer | Barkelona LLC | Boise, ID</b>
