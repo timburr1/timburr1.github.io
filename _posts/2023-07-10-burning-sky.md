@@ -13,7 +13,7 @@ tags: gaming
 
 [Faramond](/papers/pathfinder/Faro.pdf) (PDF)
 
-[Numpty](/papers/pathfinder/Numpty-wiz.pdf) (PDF)
+[Numpty](/papers/pathfinder/Numpty.pdf) (PDF)
 
 ### Reference
 
@@ -77,6 +77,10 @@ tags: gaming
 * Slow
 * Spider Climb
 * Stinking Cloud
+
+#### 4
+* Enervation
+* Invisibility, Greater
 
 </div>
 </div>
