@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Git Gud at Warhammer 40,000'
-excerpt: How to play 40k, especially Tyranids and Genestealer Cults. Updated for 9th edition!
+title: 'In the Grimdark Future, There Is Only Biomass'
+excerpt: How to play Warhammer 40k, especially Tyranids and Genestealer Cults. Updated for 9th edition!
 author: Tim
 tags: gaming
 ---

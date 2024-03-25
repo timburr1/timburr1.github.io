@@ -3,6 +3,7 @@ layout: post
 title: Pathfinder Campaign Stuff
 excerpt: Scrolls and codices for the wise and venerable rulers of Unicornia.
 author: Tim
+tags: gaming
 ---
 
 Go Team Unicorn Fist! &#128405;&#128405;&#128405;  

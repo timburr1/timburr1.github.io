@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Some strange and rambling thoughts on Thoreau and the UFC
+title: Some Strange and Rambling Thoughts on Thoreau and the UFC
 excerpt: In what is surely a sign of a deeply diseased mind, one of my first thoughts upon reading the opening chapter of 'Walden' was to compare Henry David Thoreau (unfavorably) with Ultimate Fighting Championship heavyweight Roy Nelson.
-date: '2011-09-04T18:57:00.004+01:00'
 author: Tim
 ---
 

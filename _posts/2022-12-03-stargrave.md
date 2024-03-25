@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to play Stargrave
+title: How to Play Stargrave
 excerpt: Resources for science fiction wargames in the ravaged galaxy.
 author: Tim
 tags: gaming

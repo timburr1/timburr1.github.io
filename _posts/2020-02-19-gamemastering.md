@@ -3,6 +3,7 @@ layout: post
 title: Tabletop RPG Resources
 excerpt: Tools and tips for running tabletop role-playing games.
 author: Tim
+tags: gaming
 ---
 
 [The Alexandrian - Gamemastery 101](https://thealexandrian.net/gamemastery-101)  
