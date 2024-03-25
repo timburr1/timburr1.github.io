@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notes from 'Becoming a Technical Leader'
+title: Notes From 'Becoming a Technical Leader'
 excerpt: Leadership is "the process of creating an environment in which people become empowered."
 author: Tim
 tags: tech

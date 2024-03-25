@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notes from 'The Phoenix Project'
+title: Notes From 'The Phoenix Project'
 excerpt: The Four Kinds of IT Work and Eric's Three Ways.
 author: Tim
 tags: tech

@@ -6,6 +6,9 @@ Cd into the blog root directory, run "bundle exec jekyll serve", and navigate to
 ## Post Tags:
 gaming, links, school, tech, travel  
 
+## Style Guide
+* APA title case: https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case
+
 ## TODO:
 add/expand travel posts:  
 * Chile  
