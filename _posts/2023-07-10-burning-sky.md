@@ -1,7 +1,7 @@
 ---
 layout: post
 title: More Pathfinder Campaign Stuff
-excerpt: "Burning the Sky: Gate Pass, the Fiery Forest, and Beyond."
+excerpt: "Burning Sky: Gate Pass, the Fiery Forest, Seaquen, and beyond."
 author: Tim
 tags: gaming
 ---
@@ -68,7 +68,7 @@ tags: gaming
 * Clairvoyance
 * Clay Skin
 * Daylight
-* Dispell Magic
+* Dispel Magic
 * Fireball
 * Fly
 * Haste
