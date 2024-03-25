@@ -3,7 +3,7 @@ layout: post
 title: Civ V Modpack
 excerpt: Quality of life mods for Sid Meier's Civ V, packaged as a DLC (so that you can still get Steam achievements). No hacks or cheats, these are just bug fixes, cosmetic tweaks, and Quick Turns for computer players.
 author: Tim
-tags: gaming
+tags: gaming, tech
 ---
 
 I made a Civ modpack, based on the instructions [here](https://forums.civfanatics.com/threads/mpmpm-multiplayer-mod-dlc-hack-updated.533238/) and [here](https://civ-5-cbp.fandom.com/wiki/Creating_a_Modpack). It includes the following mods:
