@@ -16,7 +16,7 @@ If you still want to pick individual stocks, [The Intelligent Investor](https://
 ### Ray Dalio on the Business Cycle
 [How The Economic Machine Works](https://www.youtube.com/watch?v=PHe0bXAIuk0) (In 30 Minutes), YouTube  
 
-['Principles For Navigating Big Debt Crises' by Ray Dalio](/papers/Principles For Navigating Big Debt Crises By Ray Dalio.pdf), PDF  
+['Principles For Navigating Big Debt Crises'](/papers/Principles For Navigating Big Debt Crises By Ray Dalio.pdf), PDF  
 
 ### Other Resources  
 [ClearInsights Newsletter](https://clearwater-analytics.com/clearinsights/)  
