@@ -120,6 +120,7 @@ May 2006 - Jul 2012
 ## Projects
 * [Barkelona](https://www.barkelona.com)
 * [Burning Man Lockscreen Maker](/2023/08/05/lockscreen.html)
+* [Cen10 Writers Blog](https://cen10writers.github.io/)
 * [Troll 9000 Discord Bot](/2021/05/31/discord-bot.html)
 * [Roscomometer](/2021/03/01/roscomometer.html)
 * [Flappy Bub](/2020/12/12/flappy-bub.html)
