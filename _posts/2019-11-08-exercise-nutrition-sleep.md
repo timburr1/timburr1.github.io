@@ -54,7 +54,7 @@ From the [/r/kettlebell FAQ](https://www.reddit.com/r/kettlebell/comments/3qxa4i
 [The Turkish Get-up with Jeff Martone](https://www.youtube.com/watch?v=VQq8I_n_hRE) - YouTube  
 
 ### Running  
-[Couch to 5k, treadmill workouts](/_ref/c25k.html) (Make sure to set the treadmill incline to at least 1.0.)  
+[Couch to 5k](https://c25k.com/c25k_plan/) (If you are using a treeadmill, make sure to set the incline to at least 1.0.)  
 
 [/r/running Base Training: A Guide to Your Foundation to Running](https://www.reddit.com/r/running/comments/3bckeh/base_training_a_guide_to_your_foundation_to/)  
 
