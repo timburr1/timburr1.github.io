@@ -27,6 +27,8 @@ tags: gaming
 
 <br />
 <img src="/images/burning sky map.png" alt="burning sky map" width="100%">
+<br />
+<img src="/images/Dassen.jpg" alt="Dassen map" width="100%">
 </div>	
 <div class="column">
 
@@ -80,7 +82,7 @@ tags: gaming
 
 #### 4
 * Enervation
-* Invisibility, Greater
+* Greater Invisibility
 * Remove Curse
 * Stoneskin
 
