@@ -81,6 +81,8 @@ tags: gaming
 #### 4
 * Enervation
 * Invisibility, Greater
+* Remove Curse
+* Stoneskin
 
 </div>
 </div>
