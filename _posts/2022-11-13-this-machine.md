@@ -62,15 +62,15 @@ Desktop computer specs, upgraded a bit since it was originally built in 2012:
     </tr>
     <tr>
       <td class="pcpp-part-list-type">Keyboard</td>
-      <td class="pcpp-part-list-item">iKBC CD108 V2 with Cherry MX Brown switches</td>
+      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/69rYcf/ikbc-cd108-wired-gaming-keyboard-cd108-bk-bn">iKBC CD108 V2 with Cherry MX Brown switches</a></td>
     </tr>
     <tr>
       <td class="pcpp-part-list-type">Mouse</td>
-      <td class="pcpp-part-list-item">Razer DeathAdder v2 Pro</td>
+      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/KYPgXL/razer-deathadder-v2-pro-wireless-optical-mouse-rz01-03350100-r3u1">Razer DeathAdder V2 Pro Wireless Optical Mouse</a></td>
     </tr>
     <tr>
       <td class="pcpp-part-list-type">Headphones</td>
-      <td class="pcpp-part-list-item">Razer Kraken V3 X 7.1 Channel  Headset</td>
+      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/96YmP6/razer-kraken-v3-x-71-channel-headset-rz04-03750300-r3u1">Razer Kraken V3 X 7.1 Channel  Headset</a></td>
     </tr>
   </tbody>
 </table>
