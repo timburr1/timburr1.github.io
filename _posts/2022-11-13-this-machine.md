@@ -36,9 +36,13 @@ Desktop computer specs, upgraded a bit since it was originally built in 2012:
       <td class="pcpp-part-list-type">Storage</td>
       <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/kLmLrH/seagate-internal-hard-drive-st31000524as">Seagate Barracuda 1 TB 3.5" 7200RPM Internal Hard Drive</a></td>
     </tr>
-	<tr>
+    <tr>
       <td class="pcpp-part-list-type">Storage</td>
       <td>Another 1 TB HDD with similar specs</td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Storage</td>
+      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/LdgzK8/silicon-power-a55-512-gb-25-solid-state-drive-sp512gbss3a55s25">Silicon Power A55 512 GB 2.5" Solid State Drive</a></td>
     </tr>
     <tr>
       <td class="pcpp-part-list-type">Video Card</td>
@@ -52,22 +56,26 @@ Desktop computer specs, upgraded a bit since it was originally built in 2012:
       <td class="pcpp-part-list-type">Power Supply</td>
       <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/R4Lypg/corsair-power-supply-cmpsu600cxv2">Corsair Builder 600 W 80+ Certified ATX Power Supply</a></td>
     </tr>
-	<tr>
+    <tr>
       <td class="pcpp-part-list-type">Optical Drive</td>
-	  <td class="pcpp-part-list-item">Generic CD/DVD-RW</td>
-	</tr>
+      <td class="pcpp-part-list-item">Generic CD/DVD-RW</td>
+    </tr>
     <tr>
       <td class="pcpp-part-list-type">Keyboard</td>
       <td class="pcpp-part-list-item">iKBC CD108 V2 with Cherry MX Brown switches</td>
     </tr>
-	<tr>
+    <tr>
       <td class="pcpp-part-list-type">Mouse</td>
       <td class="pcpp-part-list-item">Razer DeathAdder v2 Pro</td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Headphones</td>
+      <td class="pcpp-part-list-item">Razer Kraken V3 X 7.1 Channel  Headset</td>
     </tr>
   </tbody>
 </table>
 
-[PC Part Picker full list](https://pcpartpicker.com/list/ZgBKbK)
+[PC Part Picker full list](https://pcpartpicker.com/list/3PXX7R)
 
 ## Software
 **OS**  
