@@ -86,5 +86,9 @@ tags: gaming
 * Remove Curse
 * Stoneskin
 
+#### 5
+* Half-blood Extraction
+* Lightning Arc
+
 </div>
 </div>
