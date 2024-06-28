@@ -15,20 +15,17 @@ title: Blogs and Podcasts
 * [Gwern](https://www.gwern.net/)
 * [Hacker News](https://news.ycombinator.com/)
 * [Krebs on Security](https://krebsonsecurity.com/)
-* [Marginal Revolution](https://marginalrevolution.com/)
 * [Melting Asphalt](https://meltingasphalt.com)
 * [Money Stuff](https://www.bloomberg.com/view/topics/money-stuff)
 * [Naval Gazing](https://www.navalgazing.net/)
 * [Paul Graham's Essays](http://paulgraham.com/articles.html)
 * [Patrick McKenzie](https://www.kalzumeus.com/)
-* [PopeHat](https://popehat.substack.com/)
 * [Sam\[\]zdat](https://samzdat.com/)
 * [Schneier on Security](https://www.schneier.com/)
 * [Slate Star Codex](https://astralcodexten.substack.com/)
 * [Stratechery](https://stratechery.com/)
 * [Wait But Why](https://waitbutwhy.com)
 * [War on the Rocks](https://warontherocks.com/)
-
 </div>	
 <div class="column">
 
@@ -53,6 +50,5 @@ title: Blogs and Podcasts
 * [Slate Money](https://slate.com/podcasts/slate-money)
 * [Stuff You Missed in History Class](https://www.missedinhistory.com/)
 * [This American Life](https://www.thisamericanlife.org/podcast)
-* [You're Wrong About](https://yourewrongabout.com/)
 </div>
 </div>
