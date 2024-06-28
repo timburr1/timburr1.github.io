@@ -8,15 +8,14 @@ title: Curriculum Vitae
 ## Work Experience
 Feb 2024 - present  
 <b class="highlight">ETL Engineer | Netacent | Boise, ID</b>
-* Modernizing the state of Hawai'i's Unemployment Insurance system
-* Coordinating with the Department of Labor and Industrial Relations
+* Coordinating with Hawai'i's Department of Labor and Industrial Relations to modernize the state's Unemployment Insurance system
 * Importing and mapping data at scale with SQL, Azure Data Studio, C#, and .NET Core
 
 Jun 2022 - present  
 <b class="highlight">Principal Software Developer | Barkelona LLC | Boise, ID</b>
 * Leveraged prior knowledge of Python and object-oriented design principles to create an immersion-style game for Spanish learners
 * Evaluated several different technology stacks, before deciding to use Godot 3 with GDScript and the DialogueManager addon 
-* Used JavaScript, React, Tailwind CSS, Vite, Google Domains, AWS Amplify, S3, Lambda, and Certificate Manger to create a [website](https://www.barkelona.com/) to market and distribute the game to schools
+* Used JavaScript, React, Tailwind CSS, Vite, Google Domains, AWS Amplify, Lambda, and Certificate Manger to create a [website](https://www.barkelona.com/) to market and distribute the game to schools
 * Launched Barkelona on [Steam](https://store.steampowered.com/app/2434300/Barkelona) and [Itch.io](https://hoodmentality.itch.io/barkelona)
 
 May 2020 - Jun 2022  
