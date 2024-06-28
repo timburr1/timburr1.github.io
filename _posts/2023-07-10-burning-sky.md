@@ -87,8 +87,8 @@ tags: gaming
 * Stoneskin
 
 #### 5
-* Half-blood Extraction
 * Lightning Arc
+* Wreath of Blades
 
 </div>
 </div>
