@@ -6,8 +6,10 @@ title: Blogs and Podcasts
 {::options parse_block_html="true" /}
 <div class="row">
 <div class="column">
+
 ## Blogs and Newspapers  
 * [The Alexandrian](https://thealexandrian.net/)
+* [Bits About Money](https://www.bitsaboutmoney.com/)
 * [BoiseDev](https://boisedev.com/)
 * [Boise Weekly](https://www.idahopress.com/boiseweekly/)
 * [The Economist](https://www.economist.com/)
@@ -19,13 +21,14 @@ title: Blogs and Podcasts
 * [Money Stuff](https://www.bloomberg.com/view/topics/money-stuff)
 * [Naval Gazing](https://www.navalgazing.net/)
 * [Paul Graham's Essays](http://paulgraham.com/articles.html)
-* [Patrick McKenzie](https://www.kalzumeus.com/)
 * [Sam\[\]zdat](https://samzdat.com/)
 * [Schneier on Security](https://www.schneier.com/)
+* [Slashdot](https://slashdot.org/)
 * [Slate Star Codex](https://astralcodexten.substack.com/)
 * [Stratechery](https://stratechery.com/)
 * [Wait But Why](https://waitbutwhy.com)
 * [War on the Rocks](https://warontherocks.com/)
+
 </div>	
 <div class="column">
 
@@ -50,5 +53,6 @@ title: Blogs and Podcasts
 * [Slate Money](https://slate.com/podcasts/slate-money)
 * [Stuff You Missed in History Class](https://www.missedinhistory.com/)
 * [This American Life](https://www.thisamericanlife.org/podcast)
+
 </div>
 </div>
