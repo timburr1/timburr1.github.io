@@ -34,10 +34,10 @@ tags: gaming
 
 ### Faro's Spellbook
 
-#### 0
+#### Level 0
 * All cantrips, except Ray of Frost
 
-#### 1 
+#### Level 1 
 * Burning Hands
 * Comprehend Languages
 * Enlarge Person
@@ -53,7 +53,7 @@ tags: gaming
 * Sleep
 * Wayfarer's Step
 
-#### 2 
+#### Level 2 
 * Create Pit
 * Detect Thoughts
 * Flaming Sphere
@@ -65,7 +65,7 @@ tags: gaming
 * Steal Breath
 * Web
 
-#### 3
+#### Level 3
 * Arcane Sight
 * Clairvoyance
 * Clay Skin
@@ -80,13 +80,13 @@ tags: gaming
 * Spider Climb
 * Stinking Cloud
 
-#### 4
+#### Level 4
 * Enervation
 * Greater Invisibility
 * Remove Curse
 * Stoneskin
 
-#### 5
+#### Level 5
 * Lightning Arc
 * Wreath of Blades
 
