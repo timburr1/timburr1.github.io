@@ -59,6 +59,7 @@ tags: gaming
 * Flaming Sphere
 * Gabal's Superior Missile
 * Hideous Laughter
+* Invisibility
 * Locate Object
 * Scare
 * Scorching Ray 
@@ -87,6 +88,7 @@ tags: gaming
 * Stoneskin
 
 #### Level 5
+* Dismissal
 * Lightning Arc
 * Wreath of Blades
 
