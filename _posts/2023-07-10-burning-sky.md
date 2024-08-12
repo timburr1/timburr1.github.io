@@ -92,5 +92,9 @@ tags: gaming
 * Lightning Arc
 * Wreath of Blades
 
+#### Level 6
+* Chain Lightning
+* True Seeing
+
 </div>
 </div>
