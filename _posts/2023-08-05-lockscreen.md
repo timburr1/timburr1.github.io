@@ -26,12 +26,7 @@ author: Tim
 		</span>
 	</div>
 	<p>All of the images used in this project are licensed under Creative Commons. Thanks to: <a href="https://www.flickr.com/photos/blmnevada/">BLM Nevada</a>, <a href="https://www.flickr.com/photos/hawaiisavvy/">Flickr user HawaiiSavvy</a>, <a href="https://www.flickr.com/photos/buteze/">Flickr user Ryan/Debbie/Owen BuTeze</a>, and <a href="https://www.imustbedead.com/home">Pixabay user imustbedead</a>.</p>
-	<p>If this program is valuable to you, please consider supporting my latest project on Itch.io or Steam (or don't, I am not your mom):</p>
-	<br>
-	<iframe src="https://itch.io/embed/1753822?bg_color=151619&amp;fg_color=c1cdda&amp;link_color=2689ff&amp;border_color=3BA55C" width="552" height="167" frameborder="0"><a href="https://hoodmentality.itch.io/barkelona">Barkelona by Hood Mentality Software Studio</a></iframe>
-	<br>
-	<br>
-	<iframe src="https://store.steampowered.com/widget/2434300/" frameborder="0" width="646" height="190"></iframe>
+	<p>If this program is valuable to you, please check out my latest project at <a href="https://barkelona.com/">Barkelona.com</a>.</p>
 	<br>
 	<script>
 		function run() {
