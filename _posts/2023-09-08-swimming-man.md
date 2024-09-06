@@ -3,7 +3,9 @@ layout: post
 title: Swimming Man 2023
 excerpt: We do this not because it is easy, but because we thought it would be easy.
 author: Tim
+tags: travel
 ---
+
 ## Swimming Man 2023
 
 <img src="/images/burningman2023/01.jpg" alt=""/>  
