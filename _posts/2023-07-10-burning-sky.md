@@ -96,5 +96,8 @@ tags: gaming
 * Chain Lightning
 * True Seeing
 
+#### Level 7
+* Summon Greater Air Elemental
+
 </div>
 </div>
