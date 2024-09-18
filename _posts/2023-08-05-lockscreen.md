@@ -26,7 +26,6 @@ author: Tim
 		</span>
 	</div>
 	<p>All of the images used in this project are licensed under Creative Commons. Thanks to: <a href="https://www.flickr.com/photos/blmnevada/">BLM Nevada</a>, <a href="https://www.flickr.com/photos/hawaiisavvy/">Flickr user HawaiiSavvy</a>, <a href="https://www.flickr.com/photos/buteze/">Flickr user Ryan/Debbie/Owen BuTeze</a>, and <a href="https://www.imustbedead.com/home">Pixabay user imustbedead</a>.</p>
-	<p>If this program is valuable to you, please check out my latest project at <a href="https://barkelona.com/">Barkelona.com</a>.</p>
 	<br>
 	<script>
 		function run() {
