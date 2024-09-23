@@ -90,10 +90,12 @@ tags: gaming
 #### Level 5
 * Dismissal
 * Lightning Arc
+* Wall of Stone
 * Wreath of Blades
 
 #### Level 6
 * Chain Lightning
+* Dispel Magic, Greater
 * True Seeing
 
 #### Level 7
