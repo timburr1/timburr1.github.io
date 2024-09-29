@@ -14,8 +14,6 @@ author: Tim
 	<br>
 	<p id="output" style="background-color:white; color:black; padding:5px; width:640px"></p>
 	<br>
-	<p>If the StoryParser is valuable to you, please consider supporting my latest project at <a href="https://www.barkelona.com">Barkelona.com</a>.</p>
-	<br>
 	<script> 
 	function run() 
 	{
