@@ -40,7 +40,6 @@ title: Blogs and Podcasts
 * [If Books Could Kill](https://www.patreon.com/IfBooksPod)
 * [It Could Happen Here](https://www.iheart.com/podcast/1119-it-could-happen-here-30717896/)
 * [More Perfect](https://www.wnyc.org/shows/radiolabmoreperfect/)
-* [Odd Lots](https://www.bloomberg.com/podcasts/odd_lots)
 * [Psychedelic Salon](https://psychedelicsalon.com/podcasts/)
 * [Radiolab](http://www.radiolab.org/)
 * [Revolutions](https://www.revolutionspodcast.com/)
