@@ -29,6 +29,7 @@ Some day I will write an [effortpost about investing](/2020/04/17/investing.html
 
 **Effective Altruism**  
 [80,000 Hours](https://80000hours.org/)  
+[The EA Handbook](https://forum.effectivealtruism.org/handbook)  
 [GiveWell](https://www.givewell.org/)  
 [Giving away money: a guide](https://www.benkuhn.net/giving-101) - Ben Kuhn  
 
