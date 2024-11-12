@@ -8,7 +8,6 @@ title: Blogs and Podcasts
 <div class="column">
 
 ## Blogs and Newspapers  
-* [The Alexandrian](https://thealexandrian.net/)
 * [Bits About Money](https://www.bitsaboutmoney.com/)
 * [BoiseDev](https://boisedev.com/)
 * [Boise Weekly](https://www.idahopress.com/boiseweekly/)
@@ -35,14 +34,13 @@ title: Blogs and Podcasts
 * [Fall of Civilizations Podcast](https://fallofcivilizationspodcast.com/)
 * [Hardcore History](https://www.dancarlin.com/hardcore-history-series/)
 * [The History of Byzantium](https://thehistoryofbyzantium.com/)
-* [The History of Rome](http://www.thehistoryofrome.typepad.com/)
+* [The History of Rome](https://www.patreon.com/thehistoryofrome)
 * [If Books Could Kill](https://www.patreon.com/IfBooksPod)
 * [More Perfect](https://www.wnyc.org/shows/radiolabmoreperfect/)
 * [Psychedelic Salon](https://psychedelicsalon.com/podcasts/)
 * [Radiolab](http://www.radiolab.org/)
 * [Revolutions](https://www.revolutionspodcast.com/)
 * [Serious Trouble](https://www.serioustrouble.show/)
-* [Slate Money](https://slate.com/podcasts/slate-money)
 * [Stuff You Missed in History Class](https://www.missedinhistory.com/)
 * [This American Life](https://www.thisamericanlife.org/podcast)
 
