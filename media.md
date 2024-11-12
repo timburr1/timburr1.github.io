@@ -38,7 +38,7 @@ title: Blogs and Podcasts
 * [If Books Could Kill](https://www.patreon.com/IfBooksPod)
 * [More Perfect](https://www.wnyc.org/shows/radiolabmoreperfect/)
 * [Psychedelic Salon](https://psychedelicsalon.com/podcasts/)
-* [Radiolab](http://www.radiolab.org/)
+* [Radiolab](https://www.radiolab.org/)
 * [Revolutions](https://www.revolutionspodcast.com/)
 * [Serious Trouble](https://www.serioustrouble.show/)
 * [Stuff You Missed in History Class](https://www.missedinhistory.com/)
