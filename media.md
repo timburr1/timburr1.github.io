@@ -27,8 +27,10 @@ title: Blogs and Podcasts
 </div>	
 <div class="column">
 
-## Podcasts  
+## Podcasts and Radio 
 * [ALAB](https://www.alabseries.com/)
+* [Boise State Public Radio](https://www.boisestatepublicradio.org/)
+* [Burning Man Information Radio](https://bmir.org/)
 * [Darknet Diaries](https://darknetdiaries.com/)
 * [Dose Nation](https://www.dosenation.com/)
 * [Fall of Civilizations Podcast](https://fallofcivilizationspodcast.com/)
@@ -41,7 +43,6 @@ title: Blogs and Podcasts
 * [Radiolab](https://www.radiolab.org/)
 * [Revolutions](https://www.revolutionspodcast.com/)
 * [Serious Trouble](https://www.serioustrouble.show/)
-* [Stuff You Missed in History Class](https://www.missedinhistory.com/)
 * [This American Life](https://www.thisamericanlife.org/podcast)
 
 </div>
