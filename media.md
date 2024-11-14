@@ -35,8 +35,6 @@ title: Blogs and Podcasts
 * [Dose Nation](https://www.dosenation.com/)
 * [Fall of Civilizations Podcast](https://fallofcivilizationspodcast.com/)
 * [Hardcore History](https://www.dancarlin.com/hardcore-history-series/)
-* [The History of Byzantium](https://thehistoryofbyzantium.com/)
-* [The History of Rome](https://www.patreon.com/thehistoryofrome)
 * [If Books Could Kill](https://www.patreon.com/IfBooksPod)
 * [More Perfect](https://www.wnyc.org/shows/radiolabmoreperfect/)
 * [Psychedelic Salon](https://psychedelicsalon.com/podcasts/)
