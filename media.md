@@ -36,7 +36,6 @@ title: Blogs and Podcasts
 * [Fall of Civilizations Podcast](https://fallofcivilizationspodcast.com/)
 * [Hardcore History](https://www.dancarlin.com/hardcore-history-series/)
 * [If Books Could Kill](https://www.patreon.com/IfBooksPod)
-* [More Perfect](https://www.wnyc.org/shows/radiolabmoreperfect/)
 * [Psychedelic Salon](https://psychedelicsalon.com/podcasts/)
 * [Radiolab](https://www.radiolab.org/)
 * [Revolutions](https://www.revolutionspodcast.com/)
