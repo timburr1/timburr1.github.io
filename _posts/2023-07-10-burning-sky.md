@@ -99,6 +99,8 @@ tags: gaming
 * True Seeing
 
 #### Level 7
+* Caustic Eruption
+* Limited Wish
 * Summon Greater Air Elemental
 
 </div>
