@@ -1,4 +1,8 @@
 # timburr1.github.io
+![](https://img.shields.io/github/repo-size/timburr1/timburr1.github.io)
+![](https://img.shields.io/github/contributors/timburr1/timburr1.github.io)
+![](https://img.shields.io/github/last-commit/timburr1/timburr1.github.io)
+
 This is a toy web site and blog. To serve locally (from Ubuntu), install Jekyll according to the installation instructions [here](https://jekyllrb.com/docs/).  
 
 Cd into the blog root directory, run "bundle exec jekyll serve", and navigate to http://localhost:4000  
