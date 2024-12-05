@@ -34,11 +34,14 @@ Aug 2019 - May 2020
 * Provided developer feedback in code reviews
 
 Aug 2012 - Aug 2019  
-<b class="highlight">Software Developer, Compliance Team Lead | Clearwater Analytics | Boise, ID</b>
+<b class="highlight">Software Developer | Clearwater Analytics | Boise, ID</b>
 * Maintained and improved existing Java code  
 * Provided 24-hour, on-call support for critical projects
 * Created additional webservices, SQL databases, and unit tests  
 * Collaborated with other developers and analysts
+
+Nov 2015 - Nov 2017  
+<b class="highlight">Compliance Team Lead | Clearwater Analytics | Boise, ID</b>
 * Led an Agile team of four developers and one quality assurance engineer  
 * Worked with users and stakeholders to prioritize and implement new features  
 * Mentored and taught junior developers
