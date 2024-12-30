@@ -38,6 +38,7 @@ tags: gaming
 * All cantrips, except Ray of Frost
 
 #### Level 1 
+* Alarm
 * Burning Hands
 * Comprehend Languages
 * Enlarge Person
@@ -51,6 +52,7 @@ tags: gaming
 * Shield
 * Shocking Grasp
 * Sleep
+* True Strike
 * Wayfarer's Step
 
 #### Level 2 
@@ -61,8 +63,10 @@ tags: gaming
 * Hideous Laughter
 * Invisibility
 * Locate Object
+* Minor Image
 * Scare
-* Scorching Ray 
+* Scorching Ray
+* Sonic Ray
 * Steal Breath
 * Web
 
@@ -77,11 +81,13 @@ tags: gaming
 * Haste
 * Lightning Bolt
 * Mad Monkeys
+* Protection From Energy
 * Slow
 * Spider Climb
 * Stinking Cloud
 
 #### Level 4
+* Dimensional Anchor
 * Enervation
 * Greater Invisibility
 * Remove Curse
@@ -100,7 +106,9 @@ tags: gaming
 
 #### Level 7
 * Caustic Eruption
+* Grasping Hand
 * Limited Wish
+* Reverse Gravity
 * Summon Greater Air Elemental
 
 </div>
