@@ -17,6 +17,7 @@ title: Blogs and Podcasts
 * [Krebs on Security](https://krebsonsecurity.com/)
 * [Library Genesis](https://libgen.is/)
 * [Money Stuff](https://www.bloomberg.com/view/topics/money-stuff)
+* [Notes on the Crises](https://www.crisesnotes.com/)
 * [Paul Graham's Essays](http://paulgraham.com/articles.html)
 * [Schneier on Security](https://www.schneier.com/)
 * [Sci-Hub](https://www.sci-hub.st/)
