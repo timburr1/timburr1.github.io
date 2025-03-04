@@ -29,6 +29,8 @@ tags: gaming
 <img src="/images/burning sky map.png" alt="burning sky map" width="100%">
 <br />
 <img src="/images/Dassen.jpg" alt="Dassen map" width="100%">
+<br />
+<img src="/images/Shahalesti.jpg" alt="Shahalesti map" width="100%">
 </div>	
 <div class="column">
 
@@ -110,6 +112,10 @@ tags: gaming
 * Limited Wish
 * Reverse Gravity
 * Summon Greater Air Elemental
+
+#### Level 8
+* Discern Location
+* Maze
 
 </div>
 </div>
