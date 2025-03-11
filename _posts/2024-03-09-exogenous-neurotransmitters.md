@@ -41,6 +41,10 @@ author: Tim
 [Secret of "Divine Mushrooms"](http://www.psychedelic-library.org/life.htm) - R. Gordon Wasson in Life Magazine, May 13, 1957
 > Vision-giving mushrooms are discovered in a remote Mexican village by a U.S. banker who describes the strange ritual and effects of eating them.
 
+[What Alcohol Does to Your Body, Brain & Health](https://www.hubermanlab.com/episode/what-alcohol-does-to-your-body-brain-health) - Huberman Lab
+
+[The Effects of Cannabis (Marijuana) on the Brain & Body](https://www.hubermanlab.com/episode/the-effects-of-cannabis-marijuana-on-the-brain-and-body) - Huberman Lab
+
 **Other Resources:**  
 [Bunk Police - Leaders in Test Kits, Research and Innovation](https://bunkpolice.com/)  
 [DanceSafe](https://dancesafe.org/)  
