@@ -36,4 +36,5 @@ Some day I will write an [effortpost about investing](/2020/04/17/investing.html
 **Financial Independence / Early Retirement**  
 [Mr. Money Mustache](https://www.mrmoneymustache.com/)  
 [Financial Independence, Retire Early (FIRE) ](https://www.investopedia.com/terms/f/financial-independence-retire-early-fire.asp) - Investopedia  
+[Get Rich Slowly](https://putanumonit.com/2017/02/10/get-rich-slowly/) - Putanumonit  
 [/r/investing FAQ](https://www.reddit.com/r/investing/wiki/faq)  
