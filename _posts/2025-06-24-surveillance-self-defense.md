@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Surveillance Self-Defense Resources
-excerpt: Things are pretty weird out there right now, and there are all kinds of reasons why you might be concerned about your online security. A useful concept here is threat modeling: if the NSA/GRU/Mossad wants to access your devices, they can probably do that. But you can mostly thwart the regular police, or your employer, or a stalker-y ex, (or at least make things much more challenging for them.) Make sure that your devices are free from spyware, and be careful about what you send over text and email. Signal can secure a message in transit, but that won't help you if you are messaging a cop, or someone with a compromised device.
+excerpt: 'Things are pretty weird out there right now, and there are all kinds of reasons why you might be concerned about your online security. A useful concept here is threat modeling: if the NSA/GRU/Mossad wants to access your devices, they can probably do that. But you can mostly thwart the regular police, or your employer, or a stalker-y ex, (or at least make things much more challenging for them.) Make sure that your devices are free from spyware, and be careful about what you send over text and email. Signal can secure a message in transit, but that won't help you if you are messaging a cop, or someone with a compromised device.'
 author: Tim 
 ---
 
