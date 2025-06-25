@@ -13,8 +13,10 @@ Hopefully you are already using a password manager to keep a separate (long, com
 
 You don't need to upgrade to a paid CreditLock or whatever, just search for "credit freeze." Also, remember that you may need to temporarily unfreeze one or more of the above if you apply for a house or car loan, or get a new job. 
 
-## Related:  
-[Cybersecurity Best Practices](/2020/02/15/cybersecurity.html)  
-[Data Brokers](/2019/11/07/data-brokers.html)  
+## Related:
+
+[Cybersecurity Best Practices](/2020/02/15/cybersecurity.html)
+
+[Data Brokers](/2019/11/07/data-brokers.html)
 
 [^1]: In the USA. Apologies to any non-American readers; things are probably different where you live.  
