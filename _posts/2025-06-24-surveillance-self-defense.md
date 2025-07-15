@@ -1,11 +1,25 @@
 ---
 layout: post
 title: Surveillance Self-Defense Resources
-excerpt: "Things are pretty weird out there right now, and there are all kinds of reasons why you might be concerned about your online security. A useful concept here is threat modeling: if the NSA/GRU/Mossad wants to access your devices, they can probably do that. But you can mostly thwart the regular police, or your employer, or a stalker-y ex, (or at least make things much more challenging for them.) Make sure that your devices are free from spyware, and be careful about what you send over text and email. Signal can secure a message in transit, but that won't help you if you are messaging a cop, or someone with a compromised device."
+excerpt: "Things are pretty weird out there right now, and there are all kinds of reasons why someone might be concerned about their online security. Whether you are organizing, reporting, protecting sensitive work, or just want to avoid corporate tracking, it's smart to take steps to secure your digital life."
 author: Tim 
 ---
 
-Things are pretty weird out there right now, and there are all kinds of reasons why someone might be concerned about their online security. A useful concept here is *threat modeling:* if the NSA/GRU/Mossad wants to access your devices, they can probably do that. But you can mostly thwart the regular police, or your employer, or a stalker-y ex, (or at least make things much more challenging for them.) Make sure that your devices are free from spyware, and be careful about what you send over text and email. Signal can secure a message in transit, but that won't help you if you are messaging a cop, or someone with a compromised device.
+Things are pretty weird out there right now, and there are all kinds of reasons why someone might be concerned about their online security. Whether you are organizing, reporting, protecting sensitive work, or just want to avoid corporate tracking, it's smart to take steps to secure your digital life.
+
+A useful concept here is *threat modeling:* if the NSA/GRU/Mossad wants to access your devices, they can probably do that. But you can mostly thwart your employer, local law enforcement, a stalker-y ex, a nosy landlord, or a shady app developer. Start by asking: Who might want access to your information? What would they gain? What tools or access do they realistically have, and what would happen if they succeeded? This this is your threat model, and it determines what level of defense makes sense for you.
+
+Make sure that your devices are free from spyware, and be careful about what you send over text and email. Signal can secure a message in transit, but that won't help you if you are messaging an adversary, or someone with a compromised device. Even with end-to-end encryption, metadata (like who you contact, when, and how often) can still be revealing. Avoid over-relying on any one tool.
+
+You don’t need to be a cybersecurity expert to be safer than most people. Start here:
+
+* Install and start using [Signal](https://signal.org/download/)
+* Set strong passcodes on your devices
+* Use a password manager like [LastPass](https://www.lastpass.com/)
+* Audit your apps and permissions
+* Think before you click or share
+
+Security isn't a checklist item, but a series of habits. With just a little bit of work, you can make yourself a difficult target.
 
 [EFF Surveillance Self-Defense](https://ssd.eff.org/)
 
@@ -16,6 +30,8 @@ Things are pretty weird out there right now, and there are all kinds of reasons 
 [Really Basic Digital Security Zine](/papers/Digital_Security_Zine.pdf) (PDF)
 
 [Security Starter Pack](https://ssd.eff.org/playlist/want-security-starter-pack)
+
+[Tails OS](https://tails.net/) 
 
 ## Related:
 
