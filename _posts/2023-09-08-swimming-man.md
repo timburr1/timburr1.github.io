@@ -8,6 +8,8 @@ tags: travel
 
 ## Swimming Man 2023
 
+*"I nicknamed my paint scraper Jenny Craig, 'cuz she always helps me lose five or ten pounds."*
+
 <img src="/images/burningman2023/01.jpg" alt=""/>  
 Sonic Soul Tribe
 
