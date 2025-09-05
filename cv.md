@@ -117,6 +117,7 @@ May 2006 - Jul 2012
 * Dual Enrollment, 2006-07  
 
 ## Projects
+* [Club-Sorter-WS](https://salmon-meadow-0e811bc1e.1.azurestaticapps.net)
 * CS50x Puzzle Day: [2024](/images/CS50x/2024-cert.png), [2025](/images/CS50x/2025-cert.png)
 * [Barkelona](https://www.barkelona.com)
 * [Burning Man Lockscreen Maker](/2023/08/05/lockscreen.html)
