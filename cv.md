@@ -98,6 +98,8 @@ May 2006 - Jul 2012
 * Microservices
 * Object-Oriented Design
 * RESTful APIs
+* ChatGPT
+* Google Gemini
 
 </div>
 <div class="column">
