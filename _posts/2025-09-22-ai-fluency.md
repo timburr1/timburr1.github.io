@@ -38,9 +38,9 @@ The Description-Discernment Loop
 * Transparency Diligence: Being open about AI's role in your work
 * Deployment Diligence: Taking ownership for AI-assisted outputs you share with others
 
-[Certificate of Completion](/papers/anthropic/ai fluency cert.pdf)
+['AI Fluency: Framework & Foundations' Certificate of Completion](/papers/anthropic/ai fluency cert.pdf)
 
-[Certificate of Completion](/papers/anthropic/ai for educators cert.pdf)
+['AI Fluency for Educators' Certificate of Completion](/papers/anthropic/ai for educators cert.pdf)
 
 ## Related:
 
