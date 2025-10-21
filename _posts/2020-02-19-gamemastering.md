@@ -30,7 +30,7 @@ tags: gaming
 >Let the players role-play.  
 >Encourage role-play by being lively when impersonating NPCs.  
 >Fudge the monsters’ HP if a fight isn’t long enough or hard enough. N.B.: If you are a player, know that your DM will never do that. That was a joke. EDIT: I wrote more on this topic: 18 ways to increase combat duration.  
->Give the PCs a mysterious magic item. It is mysterious because even the DM has no clue what it does. The players coud spend hours toying with it trying to figure it out. Eventually they’ll come up with a guess about what the item is for and you can just go with the flow and confirm the players’ guess.  
+>Give the PCs a mysterious magic item. It is mysterious because even the DM has no clue what it does. The players could spend hours toying with it trying to figure it out. Eventually they’ll come up with a guess about what the item is for and you can just go with the flow and confirm the players’ guess.  
 >Award enough XPs for the characters to level up. That’ll eat up 30 minutes or an hour.  
 
 [TheGM.org - NPC Database](http://thegm.org/npcs.php)  
