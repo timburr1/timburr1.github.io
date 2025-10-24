@@ -27,3 +27,6 @@ tags: gaming
 * [Genestealer Cults](http://2d4chan.org/wiki/Warhammer_40,000/Tactics/Genestealer_Cults_(9E))  
 * [Movement 101](http://2d4chan.org/wiki/Warhammer_40,000/Tactics/Movement_101_(9E))  
 * [Tyranids Tactics](http://2d4chan.org/wiki/Warhammer_40,000/9th_Edition_Tactics/Tyranids)  
+
+### Related
+[KillTeam 2021 Resources](/2024/03/25/killteam.html)

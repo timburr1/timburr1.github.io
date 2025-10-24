@@ -6,7 +6,7 @@
 * Gargoyle x7
 * Genestealer x40
 * Hive Guard x4
-* Hormagaunt 
+* Hormagaunt x15
 * Swarmlord
 * Termagant x32
 * Trygon 
