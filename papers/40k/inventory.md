@@ -1,7 +1,4 @@
 
-### Genestealer Cults
-* Aberrant? x2
-
 ### T'au Empire
 * Fire Warrior
 
