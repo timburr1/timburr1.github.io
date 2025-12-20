@@ -9,8 +9,10 @@
 * Genestealer x50
 * Hive Guard x4
 * Hormagaunt x16
+* Hyperadapted Raveners x5 (Kill Team)
 * Swarmlord
 * Termagant x32
 * Trygon 
 * Warrior x3
 * Winged Hive Tyrant 
+
