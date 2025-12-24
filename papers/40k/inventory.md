@@ -15,4 +15,3 @@
 * Trygon 
 * Warrior x3
 * Winged Hive Tyrant 
-
