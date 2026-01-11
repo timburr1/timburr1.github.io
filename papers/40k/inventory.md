@@ -8,6 +8,7 @@
 * Gargoyle x7
 * Genestealer x50
 * Hive Guard x4
+* Hive Tyrant 
 * Hormagaunt x16
 * Hyperadapted Raveners x5 (Kill Team)
 * Swarmlord

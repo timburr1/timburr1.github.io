@@ -1,0 +1,46 @@
+-- Update log --
+v1.4 2025.11.19
+- XV26 Stealth Battlesuits & Wolf Scouts added.
+- Other teams updated to Nov '25 Errata where needed.
+
+
+v1.3.2 2025.11.02
+- Kommando Boss Krumpin Time added to Letter version. A4 size was correct.
+
+v1.3.1 2025.10.30
+- Ratlings Big Shot Stationary profile fixed to include Severe.
+
+v1.3 2025.10.29
+-Teams updated to Oct '25 update.
+-All teams converted to Letter size paper option.
+-Farstalker Kinband Stalker's Stealth Attack fixed to 2AP.
+
+v1.2.2 2025.10.15
+-Fixed Deathwatch Marksman Stalker bolt rifle profile
+
+v1.2.1 2025.10.03
+-Fixed Goremongers Rejuvenation rule on the repeated faction rules on page 2 to be D3+1.
+
+v1.2 - 2025.09.11
+-Added Deathwatch & Canoptek Circle factions.
+
+v1.1 - 2025.08.29
+-Teams updated to Aug '25 update (the rest of the teams are just commentaries):
+Hierotek Circle
+Battleclade
+Raveners
+
+v1.0.3 - 2025.08.07
+-Scout Squad Camo Cloak equipment fixed (it cannot retain a crit like the SNIPER operative can).
+
+v1.0.2 - 2025.07.24
+-Hunter Clade added to Zip file.
+
+v1.0.1 - 2025.07.24
+-I missed the Chronomancer’s Timesplinter rules update. This has been fixed and file updated.
+
+v1.0 - 2025.07.23 
+-All relevant teams updated to the July '25 update.
+
+2025.06.25
+-All teams updated to the June '25 update. Mostly re-wordings for rules to be clearer about how they trigger.
