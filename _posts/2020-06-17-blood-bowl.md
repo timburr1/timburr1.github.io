@@ -6,18 +6,11 @@ author: Tim
 tags: gaming
 ---
 
-[Blood Bowl Rulebook, 2016](/papers/bloodbowl/BloodBowl2016.pdf) (PDF)  
+[Blood Bowl 2016 Rulebook](/papers/bloodbowl/BloodBowl2016.pdf) (PDF)  
 
-[~~Boise Brawlers OBBLM~~](https://boise-brawlers.obblm.com/)  
+[Living Rulebook 6.0](/papers/bloodbowl/BB Living Rulebook 6.pdf) (PDF)  
 
-[How to Play](https://www.bloodbowl.com/getting-started/)  
-
-[Using NAF Online Blood Bowl League Manager](/papers/bloodbowl/Using-NAF-OBBLM.pdf) (PDF)  
-
-**Lizardman Stuff:**
-* [Playbook: Yin and Yang, Smash and Dash](/papers/bloodbowl/Lizardmen.pdf) (PDF)  
-* [Strategy Guide](http://www.bbpb.de/lizardman-strategy-guide)  
-* [Tactics](https://bbtactics.com/lizardmen-teams/)  
+[Lizardmen: Yin and Yang - Smash and Dash](/papers/bloodbowl/Lizardmen.pdf) (PDF)  
 
 **Runna'Mucca Reptilian Overlords Starting Lineup:**
 * Clawler Murray, 1
@@ -30,6 +23,7 @@ tags: gaming
 * Drake Stoops, 25
 * Adrian Lizardson, 28
 * Ogbo Okoronkwodile, 31
+* Snake Shelldozer, 69
 * Mark Lizardmandrews, 81
 * Ryan Brownscales, 85  
 
