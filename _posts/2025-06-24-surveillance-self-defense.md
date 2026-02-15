@@ -19,7 +19,7 @@ You don’t need to be a cybersecurity expert to be safer than most people. Star
 * Audit your apps and permissions
 * Think before you click or share
 
-Security is a set of habits, not something that you do one time and it's done. But with just a little bit of work, you can make yourself a sufficiently difficult target that most bad actors will leave you alone.
+You can't work through a checklist and be done with it; security is a set of habits that have to be maintained. But with just a little bit of work, you can make yourself a sufficiently difficult target that most bad actors will leave you alone.
 
 ## More Resources:
 
