@@ -18,3 +18,5 @@
 * Tyrannofex
 * Warrior x3
 * Winged Hive Tyrant 
+
+OTW: Lictor, Biovore, Raveners
