@@ -99,6 +99,7 @@ May 2006 - Jul 2012
 * Object-Oriented Design
 * RESTful APIs
 * ChatGPT
+* Claude Code
 * Google Gemini
 
 </div>

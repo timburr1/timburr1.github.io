@@ -6,6 +6,8 @@ author: Tim
 tags: gaming
 ---
 
+[Blood Bowl Base](https://bloodbowlbase.ru/bb2025/)
+
 [Blood Bowl 2016 Rulebook](/papers/bloodbowl/BloodBowl2016.pdf) (PDF)  
 
 [Living Rulebook 6.0](/papers/bloodbowl/BB Living Rulebook 6.pdf) (PDF)  
