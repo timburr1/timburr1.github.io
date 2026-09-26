@@ -6,13 +6,24 @@ title: Curriculum Vitae
 # Curriculum Vitae  
 
 ## Work Experience
+Sep 2026 - present  
+<b class="highlight">Senior Software Engineer | HelpGhost | Boise, ID</b>
+* Build out the HelpGhost platform, in order to expand our addressable market
+* Eliminate technical debt and automate workflows across the company
+
+Jul 2025 - present  
+<b class="highlight">Data Annotation Contractor | DataAnnotation | Remote</b>
+* Train and evaluate AI models on the DataAnnotation platform
+* Create novel tasks and programming problems
+* Rank and review different model responses
+
 Feb 2024 - Mar 2025  
 <b class="highlight">ETL Engineer | Netacent | Boise, ID</b>
 * Coordinated with Hawai'i's Department of Labor and Industrial Relations to modernize the state's Unemployment Insurance system
 * Imported and mapped mainframe data with Microsoft Excel and SQL Server Management Studio
 
 Jun 2022 - present  
-<b class="highlight">Principal Software Developer | Barkelona LLC | Boise, ID</b>
+<b class="highlight">Software Developer | Barkelona LLC | Boise, ID</b>
 * Leveraged prior knowledge of Python and object-oriented design principles to create an immersion-style game for Spanish learners
 * Evaluated several different technology stacks, before deciding to use Godot 3 with GDScript and the DialogueManager addon 
 * Used JavaScript, React, Tailwind CSS, Vite, Google Domains, AWS Amplify, Lambda, and Certificate Manger to create a [website](https://www.barkelona.com/) to market and distribute the game to schools
@@ -69,38 +80,36 @@ May 2006 - Jul 2012
 <div class="column">
 
 ## Tools and Languages
+* JavaScript / TypeScript
+* Node.js
+* React
+* Vite
+* Tailwind CSS
+* MongoDB
+* Postman
+* PostHog
+* Claude Code
+* Git
 * C#
 * .NET
 * Docker
 * Kubernetes
-* Godot / GDScript
+* Godot Game Engine / GDScript
 * Python
-* JavaScript / TypeScript
-* Node.js
-* React
-* Tailwind CSS
-* Vite
 * Java
 * JUnit
 * Mockito
 * Jekyll
 * Microsoft SQL Server
 * MySQL
-* Mongo DB
 * Microsoft Visual Studio / VS Code
 * IntelliJ IDEA
 * Amazon Web Services 
 * Microsoft Azure
-* Postman
-* Git
 * Subversion
-* Agile
-* Microservices
+* Microservice Architecture
 * Object-Oriented Design
 * RESTful APIs
-* ChatGPT
-* Claude Code
-* Google Gemini
 
 </div>
 <div class="column">
@@ -120,7 +129,8 @@ May 2006 - Jul 2012
 * Dual Enrollment, 2006-07  
 
 ## Projects
-* [Club-Sorter-WS](https://salmon-meadow-0e811bc1e.1.azurestaticapps.net)
+* [QR Coder](https://white-sand-0537dc110.5.azurestaticapps.net)
+* [Club Sorter WS](https://salmon-meadow-0e811bc1e.1.azurestaticapps.net)
 * [Barkelona](https://www.barkelona.com)
 * [Burning Man Lockscreen Maker](/2023/08/05/lockscreen.html)
 * [Cen10 Writers Blog](https://cen10writers.github.io/)
@@ -140,7 +150,7 @@ May 2006 - Jul 2012
 </div>
 
 
-## Awards and Acknowledgements
+## Awards and Acknowledgments 
 * Presented at OU Honors College: ['Majors and Careers in a Volatile Economy,'](/2017/02/04/ou-talk.html) September 2015  
 * OU College of Engineering Dean's Honor Roll, Spring 2008 - Fall 2011  
 * National Merit Finalist  
