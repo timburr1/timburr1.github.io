@@ -22,5 +22,3 @@ add/expand travel posts:
 Personality/morality: 
 * yourmorals.org
 * http://www.personal.psu.edu/%7Ej5j/IPIP/
-
-![LeetCode Badge](https://leetcode-badge-sage.vercel.app/badge/timburr1?theme=neutral)
