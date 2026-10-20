@@ -44,6 +44,8 @@ The Description-Discernment Loop
 
 [How not to lose your job to AI](https://80000hours.org/agi/guide/skills-ai-makes-valuable/) - Benjamin Todd, 80,000 Hours
 
+[How to be more ambitious: A tutorial for humans with models](https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/) - Felix Rieseberg
+
 [To understand AI, you should use it. Here’s how to get started.](https://80000hours.org/2025/04/to-understand-ai-you-should-use-it-heres-how-to-get-started/) - Peter Hartree, 80,000 Hours
 
 [Using AI Right Now: A Quick Guide](https://www.oneusefulthing.org/p/using-ai-right-now-a-quick-guide) - Ethan Mollick, Substack

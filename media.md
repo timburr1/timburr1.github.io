@@ -23,7 +23,6 @@ title: Blogs and Podcasts
 * [Sci-Hub](https://www.sci-hub.st/)
 * [Slate Star Codex](https://astralcodexten.substack.com/)
 * [Stratechery](https://stratechery.com/)
-* [War on the Rocks](https://warontherocks.com/)
 
 </div>	
 <div class="column">
@@ -37,6 +36,7 @@ title: Blogs and Podcasts
 * [Fall of Civilizations Podcast](https://fallofcivilizationspodcast.com/)
 * [Hardcore History](https://www.dancarlin.com/hardcore-history-series/)
 * [If Books Could Kill](https://www.patreon.com/IfBooksPod)
+* [Maintenance Phase](https://www.maintenancephase.com/) 
 * [Psychedelic Salon](https://psychedelicsalon.com/podcasts/)
 * [Radiolab](https://www.radiolab.org/)
 * [Revolutions](https://www.revolutionspodcast.com/)
