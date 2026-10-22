@@ -8,7 +8,7 @@ title: Curriculum Vitae
 ## Work Experience
 Sep 2026 - present  
 <b class="highlight">Senior Software Engineer | HelpGhost | Boise, ID</b>
-* Build out the HelpGhost platform, in order to expand our addressable market
+* Build out the HelpGhost platform using TypeScript, React.js, Vite, MongoDB, PostHog, Microsoft Azure, DigitalOcean, and Claude Code, in order to expand our addressable market
 * Eliminate technical debt and automate workflows across the company
 
 Jul 2025 - present  

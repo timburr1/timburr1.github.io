@@ -10,7 +10,7 @@ Saving money is one of those things that is simple, but not easy. You just have 
 * Pay off high-interest debt  
 * Contribute to emergency fund, up to ~six months worth of expenses saved  
 * If available, contribute to workplace 401k up to the amount matched by your employer (free money, baby!)  
-* Max out Roth IRA ($5,500 in 2020, or $6,500 for people over 55 years old)  
+* Max out Roth IRA ($6,000 in 2020, or $7,000 for people over 55 years old)  
 * If it has good funds, max out 401k ($19,500 in 2020)  
 * Save cash for short- or mid-term expenses; invest in a brokerage account  
 

@@ -2,7 +2,11 @@ import browser, math
 
 def check_prime(num):
     num = int(num)
-    for i in range(2, math.ceil(math.sqrt(num))):
+    
+    if num < 2:
+        return False
+    
+    for i in range(2, math.isqrt(num) + 1):
         if num % i == 0:
             return False
     return True
