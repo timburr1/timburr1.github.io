@@ -26,7 +26,7 @@ The local Gemfile pins Jekyll `~> 4.2`, but GitHub Pages builds with its own `gi
   title: "Title in APA Title Case"
   excerpt: One-line summary (shown on the home page index)
   author: Tim
-  tags: gaming          # one or more of: gaming, links, school, tech, travel
+  tags: gaming          # one or more of: fiction, gaming, links, school, tech, travel
   ```
 - `drafts/`: unpublished posts and experiments. This is a plain directory, **not** Jekyll's `_drafts`, so it gets published as static files and `--drafts` ignores it. To publish a draft, move it into `_posts/` and replace its placeholder `excerpt: EXCERPT`. `drafts/OLD/` holds old imported blog posts.
 - Top-level pages (`about.md`, `cv.md`, `media.md`, `StoryParser.md`, `index.html`, `404.html`) use `layout: default`.

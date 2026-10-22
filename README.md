@@ -8,7 +8,7 @@ This is a toy web site and blog. To serve locally (from Ubuntu), install Jekyll 
 Cd into the blog root directory, run "bundle exec jekyll serve", and navigate to http://localhost:4000  
 
 ## Post Tags:
-gaming, links, school, tech, travel  
+fiction, gaming, links, school, tech, travel  
 
 ## Style Guide
 * APA title case: https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case
