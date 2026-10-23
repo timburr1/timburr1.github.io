@@ -48,7 +48,7 @@ Communicating with other people is hard, and you will fail unless you try to see
 3. feeling - How do I feel about [interpretation of what interlocutor just said]  
 4. feeling about feeling - How do I feel about *that*, based on my existing sense of self-worth?  
 5. defense - Does [feeling about feeling] require me to defend myself?  
-6. rules for commenting - By now a response is starting to form, which will need to be filtered through the social mores in play. (E.g. I may respond differently to the same comment, based on whether if came from a co-worker, my wife, or a friend.)  
+6. rules for commenting - By now a response is starting to form, which will need to be filtered through the social mores in play. (E.g. I may respond differently to the same comment, based on whether it came from a co-worker, my wife, or a friend.)  
 7. outcome - What is the observable result of the process above?  
 
 This is all fleshed out much more in the book, but the point is that this process a) happens very quickly, b) includes several different steps, c) each of which is error-prone and/or based on asymmetrical information. Any error propagates forward into subsequent steps, and that's before you even hear the result of my internal process, which is then fed back through your model as sensory input, causing you to react in some way which will then...  
@@ -66,7 +66,7 @@ This is all fleshed out much more in the book, but the point is that this proces
 * Attempts to help are often interpreted as attempts to interfere.
 * No matter how strange it may look, most people are actually trying to be helpful most of the time.
 
-Power is not a thing that you can own or control; it's a relationship. It's also useful to think about power is also a tool that you can use to change reality: "E.T. just really wanted to go home. What do *you* want?"  
+Power is not a thing that you can own or control; it's a relationship. It's also useful to think about power as a tool that you can use to change reality: "E.T. just really wanted to go home. What do *you* want?"  
 
 Just like every other interpersonal skill, Weinberg says that power is fundamentally about self-esteem. If you don't value yourself and your goals, how will you convince anyone else to help you reach them? NB that this is the same as asking: how can you lead?  
 
@@ -77,7 +77,7 @@ The chapter on 'Power, Imperfection, and Congruence' gets into a lot of [Self-Co
 ## Organization  
 Power can be converted from one form to another. E.g. you can exchange technical power for organizational/political power at work, if people trust your judgment and decide to follow your lead based on perceived competence in previous interactions.
 
-The structure of an organization will dramatically effect how it makes decisions, and the quality of those decisions. Consider individual initiative vs. strong leaders, voting vs. consensus-building.
+The structure of an organization will dramatically affect how it makes decisions, and the quality of those decisions. Consider individual initiative vs. strong leaders, voting vs. consensus-building.
 
 **Obstacles to Effective Organizing**  
 * Playing the [Big Game](https://en.wikipedia.org/wiki/Who,_whom%3F)  

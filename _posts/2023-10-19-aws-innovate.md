@@ -24,7 +24,7 @@ tags: tech
 * Translate from one programming language/framework to another
 * Reduce time spent on boilerplate code
 * Generate code suggestions in real time 
-* Scan code for vulnerabilitys 
+* Scan code for vulnerabilities 
 * IDE plugin communicates w/ CodeWhisperer cloud, lots of supported languages and IDEs
 * LLM can suggest test data
 * Generate functions based on comments
@@ -65,7 +65,7 @@ tags: tech
 ### Build your application easily and efficiently with serverless containers 
 * Dev tools: ease vs. efficiency
 * Containers
-* History of oncurrency in computing
+* History of concurrency in computing
 * Scaling with serverless containers:
   * AWS Lambda
   * AWS App Runner

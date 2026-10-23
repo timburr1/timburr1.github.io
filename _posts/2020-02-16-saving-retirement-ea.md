@@ -6,19 +6,19 @@ author: Tim
 ---
 
 Saving money is one of those things that is simple, but not easy. You just have to spend less than you make, how hard could that be? (/s) With this framing, it is pretty obvious that someone who is unhappy with their current savings rate has two choices: make more, or spend less. Once that is sorted (simple, not easy!), saving priorities should be something like:
-* Pay the rent and bills; buy groceries  
-* Pay off high-interest debt  
-* Contribute to emergency fund, up to ~six months worth of expenses saved  
-* If available, contribute to workplace 401k up to the amount matched by your employer (free money, baby!)  
-* Max out Roth IRA ($6,000 in 2020, or $7,000 for people over 55 years old)  
-* If it has good funds, max out 401k ($19,500 in 2020)  
-* Save cash for short- or mid-term expenses; invest in a brokerage account  
+1. Pay the rent and bills; buy groceries  
+2. Pay off high-interest debt  
+3. Contribute to emergency fund, up to ~six months worth of expenses saved  
+4. If available, contribute to workplace 401k up to the amount matched by your employer (free money, baby!)  
+5. Max out Roth IRA ($6,000 in 2020, or $7,000 for people over 55 years old)  
+6. If it has good funds, max out 401k ($19,500 in 2020)  
+7. Save cash for short- or mid-term expenses; invest in a brokerage account  
 
 If you can get to step six or seven, you are doing pretty well, good job! You've also probably been pretty fortunate in your life (I certainly have...) This would be a good time to read [Nobody Is Perfect, Everything Is Commensurable](https://web.archive.org/web/20200609110031/https://slatestarcodex.com/2014/12/19/nobody-is-perfect-everything-is-commensurable/) and think about donating some of that extra money.
 
 Once you have saved up 25-33x your annual expenses in cash and securities, you can pretty safely retire. There are plenty of reasons why you might decide to wait, though.  
 
-If you live in the US, you should really reduce your tax witholdings so that you owe the IRS a small amount every year. Getting a big refund is bad; if Uncle Sam wants to borrow your money, he can pay you interest.  
+If you live in the US, you should really reduce your tax withholdings so that you owe the IRS a small amount every year. Getting a big refund is bad; if Uncle Sam wants to borrow your money, he can pay you interest.  
 
 Speaking of which, Investopedia has a good guide to [Tax-Efficient Investing](https://www.investopedia.com/articles/stocks/11/intro-tax-efficient-investing.asp):  
 > Tax-advantaged accounts like IRAs and 401(k)s have annual contribution limits. For 2020, you can contribute a total of $6,000 to your IRAs, or $7,000 if you're age 50 or older (because of a $1,000 "catch-up" contribution). With 401(k)s, you can contribute up to $19,500, or $26,000 if you're age 50 or older. The combined employee/employer contribution can't exceed $57,000 ($63,500 with the catch-up contribution).  

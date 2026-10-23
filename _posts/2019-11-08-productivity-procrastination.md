@@ -13,7 +13,7 @@ Center for Applied Rationality [2019 Participant Handbook](/papers/CFAR Handbook
 
 [The Complete Guide to Self-Control](https://www.scotthyoung.com/blog/2019/09/30/self-control/) - Scott Young  
 
-[Don't waste your life away stuck in "research-mode"](https://www.reddit.com/r/nosurf/comments/bek1es/dont_waste_your_life_away_stuck_in_researchmode/?utm_source=amp&utm_medium=&utm_content=post_body)  
+[Don't waste your life away stuck in "research-mode"](https://www.reddit.com/r/nosurf/comments/bek1es/dont_waste_your_life_away_stuck_in_researchmode/)  
 
 [Every productivity thought I've ever had, as concisely as possible](https://guzey.com/productivity/) - Alexey Guzey  
 

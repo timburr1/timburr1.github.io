@@ -10,7 +10,7 @@ tags: school, tech
 
 [CyberPatriot](https://www.uscyberpatriot.org/) - Educational programs and competitions from the US Air Force  
 
-[Cybersecurity Best Practices](/2020/02/15/cybersecurity.html)  
+[Cybersecurity Best Practices](/2026/10/22/cybersecurity.html)  
 
 [Cybersecurity Education Resources](https://www.cybersec-teaching.info/) - A collection of cybersecurity education resources, licensed under (CC BY-NC-SA 4.0)
 
@@ -66,7 +66,7 @@ Start with the Bandit wargame at [OverTheWire](https://overthewire.org/wargames)
 
 [Linux Command Reference](/papers/Linux-Reference-1.pdf) (PDF)  
 
-[PuTTY](https://putty.org/) SSH client  
+[PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) SSH client  
 
 [WireShark](https://www.wireshark.org/) packet analyzer (with [handy PDF cheat sheet](/papers/Wireshark Hints.pdf))  
 

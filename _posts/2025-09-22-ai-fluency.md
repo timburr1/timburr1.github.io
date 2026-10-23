@@ -40,6 +40,8 @@ The Description-Discernment Loop
 
 ## Related:
 
+[A ton of AI images I’ve made that I’ve liked](https://andymasley.com/writing/a-ton-of-ai-images-ive-made-that/) - Andy Masley
+
 [How I use AI](https://andymasley.substack.com/p/how-i-use-ai) - Andy Masley, Substack 
 
 [How not to lose your job to AI](https://80000hours.org/agi/guide/skills-ai-makes-valuable/) - Benjamin Todd, 80,000 Hours

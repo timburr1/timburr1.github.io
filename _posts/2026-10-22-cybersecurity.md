@@ -3,19 +3,18 @@ layout: post
 title: Cybersecurity Best Practices
 excerpt: Use a long, random, unique password for every web site where you have an account. Really, use a different one for each site. The best way to do this is with a password manager like LastPass (but a stack of index cards is probably fine too). You still need to memorize your passwords for LastPass and primary email account. It's easy to generate good, strong passwords from any line from a book or song. For example, "He's in it for the quiche, you might as well not ask him for no free stuff, capiche?" ==> !Hii4tq,Umawnah4nfsc?  
 author: Tim 
+tags: tech
 ---
 
 Keep all of your software updated and patched. Do this automatically whenever possible, and you (mostly) won't even have to think about it.  
 
-Use a long, random, unique password for every web site where you have an account. **Really, use a different one for each site.** The best way to do this is with a password manager like [LastPass](https://www.lastpass.com/) (but a stack of index cards is probably fine too). You still need to memorize your passwords for LastPass and primary email account. It's easy to generate good, strong passwords from any line from a book or song. For example, "He's in it for the quiche, you might as well not ask him for no free stuff, capiche?" ==> !Hii4tq,Umawnah4nfsc?  
+Use a long, random, unique password for every web site where you have an account. **Really, use a different one for each site.** The best way to do this is with a password manager like [Bitwarden](https://bitwarden.com/) (but a stack of index cards is probably fine too). You still need to memorize your passwords for LastPass and primary email account. It's easy to generate good, strong passwords from any line from a book or song. For example, "He's in it for the quiche, you might as well not ask him for no free stuff, capiche?" ==> !Hii4tq,Umawnah4nfsc?  
 
-Think about using a Virtual Private Network if you ever connect to public wifi, or if you would like to connect to the wifi at work, but also your friends like to post nsfw memes to Discord. ~~I use ExpressVPN but there are plenty of good options.~~ Edit: The new [CIO of ExpressVPN](https://www.techradar.com/news/expressvpn-and-project-raven-everything-we-know-so-far) was involved with [Project Raven](https://en.wikipedia.org/wiki/DarkMatter_(Emirati_company)#Project_Raven), maybe send your business somewhere else.
+They may not apply to you, but there are many good reasons to use a VPN. I am currently using [Surfshark](https://surfshark.com/) and it's fine.
 
 Don't give real answers to security questions, that's how Sarah Palin's email got hacked in 2008. Treat these like extra passwords, and store them in your password manager/index cards.  
 
-Don't click on links in sketchy emails.  
-
-It's 2020. turn on [HTTPS Everywhere](https://www.eff.org/https-everywhere) and look askance at any web site that doesn't have a valid certificate.  
+Turn on your browser's built-in HTTPS-only mode, and don't click on links in sketchy emails.  
 
 [Mozilla Blog - Online advertising strategies](https://blog.mozilla.org/firefox/online-advertising-strategies/):  
 > **You can reduce what advertisers know about you**  

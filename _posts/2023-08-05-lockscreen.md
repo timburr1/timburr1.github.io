@@ -2,6 +2,7 @@
 layout: post
 title: Burning Man Lockscreen Maker
 excerpt: Get your phone back if you lose it in the desert!
+tags: tech, travel
 author: Tim
 ---
 <div>

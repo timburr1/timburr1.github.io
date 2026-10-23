@@ -2,6 +2,7 @@
 layout: post
 title: Surveillance Self-Defense Resources
 excerpt: "Things are pretty weird out there right now, and there are all kinds of reasons why someone might be concerned about their online security. Whether you are organizing, reporting, protecting sensitive work, or just want to avoid corporate tracking, it's smart to take steps to secure your digital life."
+tags: tech
 author: Tim 
 ---
 
@@ -15,7 +16,7 @@ You don’t need to be a cybersecurity expert to be safer than most people. Star
 
 * Install and start using [Signal](https://signal.org/download/)
 * Set strong passcodes on your devices
-* Use a password manager like [LastPass](https://www.lastpass.com/)
+* Use a password manager like [Bitwarden](https://bitwarden.com/)
 * Audit your apps and permissions
 * Think before you click or share
 
@@ -37,7 +38,7 @@ You can't work through a checklist and be done with it; security is a set of hab
 
 ## Related:
 
-[Cybersecurity Best Practices](/2020/02/15/cybersecurity.html)
+[Cybersecurity Best Practices](/2026/10/22/cybersecurity.html)
 
 [Data Brokers](/2019/11/07/data-brokers.html)
 

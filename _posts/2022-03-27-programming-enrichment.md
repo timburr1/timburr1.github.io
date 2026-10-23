@@ -12,7 +12,7 @@ tags: school, tech
 [Learning Git in Reverse](https://kennyballou.com/blog/2016/01/git-in-reverse/) - Kenny Ballou  
 [Practical Magic](https://sites.google.com/site/steveyegge2/practical-magic) - Steve Yegge  
 [Programming Videos on YouTube](/2020/01/24/programming-videos.html)  
-[Some Thoughts on Software as a Career](/2017/02/04/ou-talk.html)   
+[Some Thoughts on Software as a Career](/2015/09/13/ou-talk.html)   
 [Wat](https://www.destroyallsoftware.com/talks/wat) - Destroy All Software
 
 ## Longer Stuff:  

@@ -28,11 +28,11 @@ Also, remember that you may need to temporarily unfreeze one or more of the abov
 * Switching phone providers
 * Getting a background check for a job
 
-Unfreezing can be done online, often within minutes, and you can lift the freeze for a only a set period of time.
+Unfreezing can be done online, often within minutes, and you can lift the freeze for only a set period of time.
 
 ## Related:
 
-[Cybersecurity Best Practices](/2020/02/15/cybersecurity.html)
+[Cybersecurity Best Practices](/2026/10/22/cybersecurity.html)
 
 [Data Brokers](/2019/11/07/data-brokers.html)
 
