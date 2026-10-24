@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Cybersecurity Best Practices
-excerpt: Use a long, random, unique password for every web site where you have an account. Really, use a different one for each site. The best way to do this is with a password manager like LastPass (but a stack of index cards is probably fine too). You still need to memorize your passwords for LastPass and primary email account. It's easy to generate good, strong passwords from any line from a book or song. For example, "He's in it for the quiche, you might as well not ask him for no free stuff, capiche?" ==> !Hii4tq,Umawnah4nfsc?  
+excerpt: Use a long, random, unique password for every web site where you have an account. Really, use a different one for each site. The best way to do this is with a password manager like Bitwarden (but a stack of index cards is probably fine too). You still need to memorize your passwords for Bitwarden and primary email account. It's easy to generate good, strong passwords from any line from a book or song. For example, "He's in it for the quiche, you might as well not ask him for no free stuff, capiche?" ==> !Hii4tq,Umawnah4nfsc?  
 author: Tim 
 tags: tech
 ---
 
 Keep all of your software updated and patched. Do this automatically whenever possible, and you (mostly) won't even have to think about it.  
 
-Use a long, random, unique password for every web site where you have an account. **Really, use a different one for each site.** The best way to do this is with a password manager like [Bitwarden](https://bitwarden.com/) (but a stack of index cards is probably fine too). You still need to memorize your passwords for LastPass and primary email account. It's easy to generate good, strong passwords from any line from a book or song. For example, "He's in it for the quiche, you might as well not ask him for no free stuff, capiche?" ==> !Hii4tq,Umawnah4nfsc?  
+Use a long, random, unique password for every web site where you have an account. **Really, use a different one for each site.** The best way to do this is with a password manager like [Bitwarden](https://bitwarden.com/) (but a stack of index cards is probably fine too). You still need to memorize your passwords for Bitwarden and primary email account. It's easy to generate good, strong passwords from any line from a book or song. For example, "He's in it for the quiche, you might as well not ask him for no free stuff, capiche?" ==> !Hii4tq,Umawnah4nfsc?  
 
 They may not apply to you, but there are many good reasons to use a VPN. I am currently using [Surfshark](https://surfshark.com/) and it's fine.
 
