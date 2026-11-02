@@ -10,8 +10,8 @@ Saving money is one of those things that is simple, but not easy. You just have 
 2. Pay off high-interest debt  
 3. Contribute to emergency fund, up to ~six months worth of expenses saved  
 4. If available, contribute to workplace 401k up to the amount matched by your employer (free money, baby!)  
-5. Max out Roth IRA ($6,000 in 2020, or $7,000 for people over 55 years old)  
-6. If it has good funds, max out 401k ($19,500 in 2020)  
+5. Max out Roth IRA ($7,500 in 2026, or $8,600 for people over 50 years old)  
+6. If it has good funds, max out 401k ($24,500 in 2026)  
 7. Save cash for short- or mid-term expenses; invest in a brokerage account  
 
 If you can get to step six or seven, you are doing pretty well, good job! You've also probably been pretty fortunate in your life (I certainly have...) This would be a good time to read [Nobody Is Perfect, Everything Is Commensurable](https://web.archive.org/web/20200609110031/https://slatestarcodex.com/2014/12/19/nobody-is-perfect-everything-is-commensurable/) and think about donating some of that extra money.

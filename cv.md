@@ -87,7 +87,6 @@ May 2006 - Jul 2012
 * Tailwind CSS
 * MongoDB
 * Postman
-* PostHog
 * Claude Code
 * Git
 * C#
@@ -103,10 +102,8 @@ May 2006 - Jul 2012
 * Microsoft SQL Server
 * MySQL
 * Microsoft Visual Studio / VS Code
-* IntelliJ IDEA
 * Amazon Web Services 
 * Microsoft Azure
-* Subversion
 * Microservice Architecture
 * Object-Oriented Design
 * RESTful APIs
@@ -115,6 +112,9 @@ May 2006 - Jul 2012
 <div class="column">
 
 ## Education
+<b class="highlight">College of Southern Idaho, Online</b>
+* Non-Traditional Educator Preparation Program, March 2022
+
 <b class="highlight">University of Oklahoma, Norman, OK</b>
 * M.S. in Computer Science, May 11, 2012  
 * B.S. in Computer Science with Math Minor, May 13, 2011  
@@ -129,6 +129,7 @@ May 2006 - Jul 2012
 * Dual Enrollment, 2006-07  
 
 ## Projects
+* [TTRPG Generator](https://wonderful-meadow-038c5bc10.5.azurestaticapps.net/)
 * [Mello Task Manager](https://github.com/timburr1/mello)
 * [QR Coder](https://white-sand-0537dc110.5.azurestaticapps.net)
 * [Club Sorter WS](https://salmon-meadow-0e811bc1e.1.azurestaticapps.net)
@@ -152,7 +153,7 @@ May 2006 - Jul 2012
 
 
 ## Awards and Acknowledgments 
-* Presented at OU Honors College: ['Majors and Careers in a Volatile Economy,'](/2017/02/04/ou-talk.html) September 2015  
+* Presented at OU Honors College: ['Majors and Careers in a Volatile Economy,'](/2015/09/13/ou-talk.html) September 2015  
 * OU College of Engineering Dean's Honor Roll, Spring 2008 - Fall 2011  
 * National Merit Finalist  
 * Eagle Scout  
