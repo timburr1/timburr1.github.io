@@ -6,6 +6,7 @@ tags: tech, travel
 author: Tim
 ---
 <div>
+	<p>Update: a new and improved version of this tool is available <a href="https://purple-desert-013eefc10.5.azurestaticapps.net">here</a>. It now supports user-uploaded background images and arbitrary text fields, still all in the browser so nothing is stored or saved.</p>
 	<p>This page is probably best used on the device whose lockscreen you are trying to create. Enter your info into the form below, then screenshot, trim, and save the generated image. None of your data will be stored in any way.</p>
 	<br />
 	Name: <input id="name" type="text" accept-charset="UTF-8"><br />

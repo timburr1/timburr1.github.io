@@ -5,6 +5,23 @@ title: Curriculum Vitae
 
 # Curriculum Vitae  
 
+## Education
+<b class="highlight">College of Southern Idaho, Online</b>
+* Non-Traditional Educator Preparation Program, Fall 2020 - March 2022
+
+<b class="highlight">University of Oklahoma, Norman, OK</b>
+* M.S. in Computer Science, Fall 2011 - May 11, 2012  
+* B.S. in Computer Science with Math Minor, Fall 2007 - May 13, 2011  
+
+<b class="highlight">University of Hertfordshire, Hatfield, UK</b>
+* Semester Abroad, Fall 2009  
+
+<b class="highlight">Goodrich High School, Goodrich, MI</b>  
+* Class of 2007
+
+<b class="highlight">University of Michigan-Flint, Flint, MI</b>
+* Dual Enrollment, 2006-07  
+
 ## Work Experience
 Sep 2026 - present  
 <b class="highlight">Senior Software Engineer | HelpGhost | Boise, ID</b>
@@ -26,7 +43,7 @@ Jun 2022 - present
 <b class="highlight">Software Developer | Barkelona LLC | Boise, ID</b>
 * Leveraged prior knowledge of Python and object-oriented design principles to create an immersion-style game for Spanish learners
 * Evaluated several different technology stacks, before deciding to use Godot 3 with GDScript and the DialogueManager addon 
-* Used JavaScript, React, Tailwind CSS, Vite, Google Domains, AWS Amplify, Lambda, and Certificate Manger to create a [website](https://www.barkelona.com/) to market and distribute the game to schools
+* Used JavaScript, React, Tailwind CSS, Vite, Google Domains, AWS Amplify, Lambda, and Certificate Manager to create a [website](https://www.barkelona.com/) to market and distribute the game to schools
 * Launched Barkelona on [Steam](https://store.steampowered.com/app/2434300/Barkelona) and [Itch.io](https://hoodmentality.itch.io/barkelona)
 
 May 2020 - Jun 2022  
@@ -111,30 +128,13 @@ May 2006 - Jul 2012
 </div>
 <div class="column">
 
-## Education
-<b class="highlight">College of Southern Idaho, Online</b>
-* Non-Traditional Educator Preparation Program, March 2022
-
-<b class="highlight">University of Oklahoma, Norman, OK</b>
-* M.S. in Computer Science, May 11, 2012  
-* B.S. in Computer Science with Math Minor, May 13, 2011  
-
-<b class="highlight">University of Hertfordshire, Hatfield, UK</b>
-* Semester Abroad, Fall 2009  
-
-<b class="highlight">Goodrich High School, Goodrich, MI</b>  
-* Class of 2007
-
-<b class="highlight">University of Michigan-Flint, Flint, MI</b>
-* Dual Enrollment, 2006-07  
-
 ## Projects
+* [Burning Man Lockscreen Maker](https://purple-desert-013eefc10.5.azurestaticapps.net)
 * [TTRPG Generator](https://wonderful-meadow-038c5bc10.5.azurestaticapps.net/)
 * [Mello Task Manager](https://github.com/timburr1/mello)
 * [QR Coder](https://white-sand-0537dc110.5.azurestaticapps.net)
 * [Club Sorter WS](https://salmon-meadow-0e811bc1e.1.azurestaticapps.net)
 * [Barkelona](https://www.barkelona.com)
-* [Burning Man Lockscreen Maker](/2023/08/05/lockscreen.html)
 * [Cen10 Writers Blog](https://cen10writers.github.io/)
 * [Troll 9000 Discord Bot](/2021/05/31/discord-bot.html)
 * [Roscomometer](/2021/03/01/roscomometer.html)
